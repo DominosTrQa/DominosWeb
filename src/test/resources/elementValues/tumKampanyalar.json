@@ -1,0 +1,24 @@
+[
+  {
+    "key": "3al1OdeKampanyasi",
+    "value":"//div[@class='react-swipeable-view-container']//div[1]//div[1]//div[1]//div[1]//div[1]//div[1]//div[2]//div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "3al1OdeKampanyasiIlkSiparis",
+    "value":"//div[contains(text(),'Seçiniz')][1]",
+    "type": "xpath"
+  },
+  {
+    "key": "3al1OdeKampanyasiSuperos",
+    "value":"//div[@class='couponDetail__ContentContainer-sc-1vcdi7n-5 lgJnIJ contentContainer__Wrapper-sc-1nl90mt-0 gTkNlE']//div[contains(text(),'Süperos')]",
+    "type": "xpath"
+  }
+
+
+
+
+
+
+
+]
