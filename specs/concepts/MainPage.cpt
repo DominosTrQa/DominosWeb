@@ -1,7 +1,12 @@
-Created by sahabt on 18.12.2019
 
-This is a concept file with following syntax for each concept.
-# Online işlemler butonuna tıkla
-*"4" saniye bekle
-*"btn_Online_işlemler" elementine focus ile tıkla
-* Son sekmeye odaklan
+
+
+# Adresime teslim edilsin
+* Elementi bekle ve sonra tıkla "adresimeTeslimEdilsinButon"
+
+# Şubeye Gelip Alacağım
+* Elementi bekle ve sonra tıkla "subeyeGelipAlacagimButon"
+
+# Tüm Kampanyalara Git
+* Elementi bekle ve sonra tıkla "tümKampanyalarButon"
+
