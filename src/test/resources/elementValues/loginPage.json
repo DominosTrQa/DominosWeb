@@ -1,0 +1,27 @@
+[
+
+  {
+    "key": "emailTextbox",
+    "value":"email",
+    "type": "id"
+  },
+  {
+    "key": "passwordTextbox",
+    "value":"password",
+    "type": "id"
+  },
+  {
+    "key": "girisYapButon",
+    "value":"//div[@class='spinner__SpinnerContainer-mjba5r-0 gvJRXZ']",
+    "type": "xpath"
+  }
+
+
+
+
+
+
+
+
+
+]
