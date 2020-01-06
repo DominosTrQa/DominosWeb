@@ -1,0 +1,47 @@
+[
+  {
+    "key": "loginButon",
+    "value":"//span[@class='styled__LoginButtonText-sc-126ws66-43 jrBoap']",
+    "type": "xpath"
+  },
+  {
+    "key":  "subeyeGelipAlacagimButon",
+    "value":"//div[contains(text(),'Şubeye Gelip Alacağım')]",
+    "type": "xpath"
+  },
+  {
+    "key": "adresimeTeslimEdilsinButon",
+    "value":"//div[contains(text(),'Adresime Teslim Edilsin')]",
+    "type": "xpath"
+  },
+  {
+    "key": "tümKampanyalarButon",
+    "value":"//a[contains(text(),'Tüm Kampanyalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "tümPizzalarButon",
+    "value":"//a[contains(text(),'Tüm Pizzalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "EkstralarveIceceklerButon",
+    "value":"//a[contains(text(),'Ekstralar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "dominosLogo",
+    "value":"//*[@class='logo__Svg-sc-99o634-0 dAufCP']",
+    "type": "xpath"
+  }
+
+
+
+
+
+
+
+
+
+
+]
