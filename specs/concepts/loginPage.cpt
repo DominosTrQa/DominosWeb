@@ -1,0 +1,9 @@
+
+
+
+# <email> kullanıcısı ve <password> şifresi ile uye girisi yap
+* Elementi bekle ve sonra tıkla "loginButon"
+* "5" saniye bekle
+* <email> textini "emailTextbox" elemente yaz
+* <password> textini "passwordTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "girisYapButon"
