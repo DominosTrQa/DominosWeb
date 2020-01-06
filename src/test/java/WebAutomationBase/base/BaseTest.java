@@ -34,7 +34,7 @@ public class BaseTest {
   public void setUp(ExecutionContext executionContext) throws Exception{
 
     logger.info("" + executionContext.getCurrentScenario().getName());
-    String baseUrl = "https://www.enerjisa.com.tr/";
+    String baseUrl = "https://dpe-staging.dominos.com.tr/";
 
 
     if (StringUtils.isNotEmpty(getenv("key"))) {
