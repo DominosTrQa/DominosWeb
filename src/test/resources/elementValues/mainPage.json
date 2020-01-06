@@ -16,7 +16,7 @@
   },
   {
     "key": "tümKampanyalarButon",
-    "value":"//a[contains(text(),'Tüm Kampanyalar')]",
+    "value":"//span[contains(text(),'Tüm Kampanyalar')]",
     "type": "xpath"
   },
   {
