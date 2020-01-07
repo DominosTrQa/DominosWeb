@@ -1,5 +1,10 @@
 [
   {
+    "key": "cookiesKapatButon",
+    "value":"//i[@class='icon-times-bold']",
+    "type": "xpath"
+  },
+  {
     "key": "loginButon",
     "value":"//span[@class='styled__LoginButtonText-sc-126ws66-43 jrBoap']",
     "type": "xpath"
@@ -44,6 +49,7 @@
     "value":"//a[contains(text(),'Sepete Git')]",
     "type": "xpath"
   }
+
 
 
 
