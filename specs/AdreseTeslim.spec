@@ -41,3 +41,5 @@ Tags: adreseTeslimUyeliksiz
 * Üye olmayan müşteri için ödeme şeklini seç
 * Üye olmayan müşteri için siparişi tamamla
 * Siparişin oluştuğunu kontrol et
+
+
