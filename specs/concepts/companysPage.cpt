@@ -1,0 +1,21 @@
+
+
+
+# 3 al 1 öde kampanyasını seç
+* Elementi bekle ve sonra tıkla "3al1OdeKampanyasi"
+
+# 3 al 1 öde kampanyası için siparişi oluştur
+* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiIlkSiparis"
+* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiSuperos"
+* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiIkinciSiparis"
+* "3" saniye bekle
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiSucuksever"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiUcuncuSiparis"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiVegi"
+
+# Sepete Ekle
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "SepeteEkleButon"
