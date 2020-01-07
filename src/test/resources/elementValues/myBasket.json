@@ -1,0 +1,12 @@
+[
+  {
+    "key": "siparişVerButon",
+    "value":"//a[contains(text(),'Sipariş Ver')]",
+    "type": "xpath"
+  }
+
+
+
+
+
+]

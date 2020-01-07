@@ -33,13 +33,17 @@
     "key": "dominosLogo",
     "value":"//*[@class='logo__Svg-sc-99o634-0 dAufCP']",
     "type": "xpath"
+  },
+  {
+    "key": "sepetimButon",
+    "value":"//i[@class='icon-angle-up']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepeteGitButon",
+    "value":"//a[contains(text(),'Sepete Git')]",
+    "type": "xpath"
   }
-
-
-
-
-
-
 
 
 
