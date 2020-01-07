@@ -10,3 +10,6 @@
 * <password> textini "passwordTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "girisYapButon"
 * "5" saniye bekle
+
+# Üye olmadan devam et
+* Elementi bekle ve sonra tıkla "uyeOlmadanDevamEtButon"
