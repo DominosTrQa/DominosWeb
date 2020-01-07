@@ -1,9 +1,130 @@
 [
   {
     "key": "siparişVerButon",
-    "value":"//a[contains(text(),'Sipariş Ver')]",
+    "value":"//a[@class='styled__Button-sc-1lvff6m-0 fakEki']",
+    "type": "xpath"
+  },
+  {
+    "key": "ilDropdown",
+    "value":"(//div[contains(text(),'İl')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilİstanbul",
+    "value":"//div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 fmtPZI']//div[2]//div[1]//div[1]//div[1]//div[1]//div[1]//div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceDropdown",
+    "value":"(//div[contains(text(),'İlçe')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceSariyer",
+    "value":"//div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']//div[3]//div[1]//div[1]//div[1]//div[1]//div[1]//div[30]",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleDropdown",
+    "value":"(//div[contains(text(),'Mahalle')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleMaslakMahallesi",
+    "value":"//div[text()='Maslak Mh.']",
+    "type": "xpath"
+  },
+  {
+    "key": "caddeDropdown",
+    "value":"(//div[contains(text(),'Cadde')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "caddeBuyukdereCaddesi",
+    "value":"//div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 fmtPZI']//div[5]//div[1]//div[1]//div[1]//div[1]//div[1]//div[65]",
+    "type": "xpath"
+  },
+  {
+    "key": "kapiNoTextbox",
+    "value":"apartmentDoor",
+    "type": "id"
+  },
+  {
+    "key": "daireTextbox",
+    "value":"flat",
+    "type": "id"
+  },
+  {
+    "key": "adresAdiTextbox",
+    "value":"addressName",
+    "type": "id"
+  },
+  {
+    "key": "telefonTextbox",
+    "value":"phone",
+    "type": "id"
+  },
+  {
+    "key": "adresEkleButon",
+    "value":"//button[@class='sc-1mahmit-0-button-buttons__ButtonBase-bPYnhn hZsWWW']",
+    "type": "xpath"
+  },
+  {
+    "key": "adresEkleDevamButon",
+    "value":"//a[@class='guestCheckout__ContinueButton-sc-1pckd4b-8 dFIDRc sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliKrediKarti",
+    "value":"//div[contains(text(),'Kredi Kart')]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeDevamButon",
+    "value":"//div[@class='styled__ContinueButton-sc-19fuf41-16 cTEIKf']",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeMesafeliSatisSozelesmesiCheckbox",
+    "value":"//div[@class='checkbox__Uncheck-sc-1lav4ov-6 cDyCIb']",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSiparisVerButon",
+    "value":"//a[@class='orderConfirm__SubmitButton-sc-9bijzy-20 khCTO sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO hGBauG']",
+    "type": "xpath"
+  },
+  {
+    "key": "onaySayfasiAd",
+    "value":"//input[@name='name']",
+    "type": "xpath"
+  },
+  {
+    "key": "onaySayfasiSoyad",
+    "value":"//input[@name='surname']",
+    "type": "xpath"
+  },
+  {
+    "key": "onaySayfasiEposta",
+    "value":"//input[@name='email']",
+    "type": "xpath"
+  },
+  {
+    "key": "onaySayfasiTelefon",
+    "value":"//input[@name='mobilePhone']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisDetaylariText",
+    "value":"//h2[@class='styled__ResultTitle-td9pux-5 IKDhZ']",
+    "type": "xpath"
+  },
+  {
+    "key": "alanlariBosBirakamazsinizText",
+    "value":"//body/div[@id='root']/div[@class='masterContainer__Container-sc-1yzbkqj-0 hOJouj']/div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 fmtPZI']/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 bbzmHr']/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/form/div[@class='row__NewRow-sc-1hpjl6w-0 dZERuy']/div[8]/div[1]/div[1]/div[2]",
     "type": "xpath"
   }
+
 
 
 
