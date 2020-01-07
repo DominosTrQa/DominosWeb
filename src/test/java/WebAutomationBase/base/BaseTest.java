@@ -2,17 +2,19 @@ package WebAutomationBase.base;
 
 import static java.lang.System.getenv;
 
-import com.thoughtworks.gauge.AfterScenario;
-import com.thoughtworks.gauge.AfterStep;
-import com.thoughtworks.gauge.BeforeScenario;
-import com.thoughtworks.gauge.BeforeStep;
-import com.thoughtworks.gauge.ExecutionContext;
+import WebAutomationBase.helper.ElementHelper;
+import WebAutomationBase.helper.StoreHelper;
+import WebAutomationBase.model.ElementInfo;
+import com.thoughtworks.gauge.*;
+
 import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -95,5 +97,29 @@ public class BaseTest {
    // driver.quit();
   }
 
+  //----------------------SONRADAN YAZILANLAR-----------------------------------
+
+  private JavascriptExecutor getJSExecutor() {
+    return (JavascriptExecutor) driver;
+  }
+  private Object executeJS(String script, boolean wait) {
+    return wait ? getJSExecutor().executeScript(script, "") : getJSExecutor().executeAsyncScript(script, "");
+  }
+  private void scrollTo(int x, int y) {
+    String script = String.format("window.scrollTo(%d, %d);", x, y);
+    executeJS(script, true);
+  }
+  public WebElement scrollToElementToBeVisible(String key) {
+    ElementInfo elementInfo = StoreHelper.INSTANCE.findElementInfoByKey(key);
+    WebElement webElement =driver.findElement(ElementHelper.getElementInfoToBy(elementInfo));
+    if (webElement != null) {
+      scrollTo(webElement.getLocation().getX(), webElement.getLocation().getY() - 100);
+    }
+    return webElement;
+  }
+  @Step({"<key> alanına kaydır"})
+  public void scrollToElement(String key) {
+    scrollToElementToBeVisible(key);
+  }
 
 }
