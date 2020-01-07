@@ -97,29 +97,6 @@ public class BaseTest {
    // driver.quit();
   }
 
-  //----------------------SONRADAN YAZILANLAR-----------------------------------
 
-  private JavascriptExecutor getJSExecutor() {
-    return (JavascriptExecutor) driver;
-  }
-  private Object executeJS(String script, boolean wait) {
-    return wait ? getJSExecutor().executeScript(script, "") : getJSExecutor().executeAsyncScript(script, "");
-  }
-  private void scrollTo(int x, int y) {
-    String script = String.format("window.scrollTo(%d, %d);", x, y);
-    executeJS(script, true);
-  }
-  public WebElement scrollToElementToBeVisible(String key) {
-    ElementInfo elementInfo = StoreHelper.INSTANCE.findElementInfoByKey(key);
-    WebElement webElement =driver.findElement(ElementHelper.getElementInfoToBy(elementInfo));
-    if (webElement != null) {
-      scrollTo(webElement.getLocation().getX(), webElement.getLocation().getY() - 100);
-    }
-    return webElement;
-  }
-  @Step({"<key> alanına kaydır"})
-  public void scrollToElement(String key) {
-    scrollToElementToBeVisible(key);
-  }
 
 }
