@@ -1,0 +1,42 @@
+
+# Sipariş Ver
+* "5" saniye bekle
+* "siparişVerButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "siparişVerButon"
+
+
+# Adres Ekle
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceSariyer"
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleMaslakMahallesi"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
+* Elementi bekle ve sonra tıkla "caddeBuyukdereCaddesi"
+* "245" textini "kapiNoTextbox" elemente yaz
+* "1" textini "daireTextbox" elemente yaz
+* "ofis" textini "adresAdiTextbox" elemente yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "telefonTextbox"
+* "123456789" textini "telefonTextbox" elemente yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresEkleButon"
+ Elementi bekle ve sonra tıkla "adresEkleDevamButon"
+
+# Ödeme şeklini seç
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliKrediKarti"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
+
+#Siparişi Tamamla
+* "Test" textini "onaySayfasiAd" elemente yaz
+* "Test" textini "onaySayfasiSoyad" elemente yaz
+* "sevgialkan011@gmail.com" textini "onaySayfasiEposta" elemente yaz
+* "123456789" textini "onaySayfasiTelefon" elemente yaz
+* Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
+* Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+
+#Siparişin oluştuğunu kontrol et
+* Element var mı kontrol et "siparisDetaylariText"
