@@ -12,4 +12,6 @@ Tags: adreseTeslimUyelikli
 * Tüm Kampanyalara Git
 * 3 al 1 öde kampanyasını seç
 * 3 al 1 öde kampanyası için siparişi oluştur
-
+* Sepete Ekle
+* Sepetime git
+* Sipariş ver
