@@ -38,6 +38,11 @@
     "key": "SepeteEkleButon",
     "value":"(//a[contains(text(),'Sepete Ekle')])[2]",
     "type": "xpath"
+  },
+  {
+    "key": "haftanınKampanyalariTab",
+    "value":"(//*[contains(text(),'Haftanın Kampanyaları')])[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][2]",
+    "type": "xpath"
   }
 
 
