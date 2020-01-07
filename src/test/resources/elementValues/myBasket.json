@@ -81,17 +81,32 @@
   },
   {
     "key": "odemeDevamButon",
-    "value":"//div[@class='styled__ContinueButton-sc-19fuf41-16 cTEIKf']",
+    "value":"//div[@class='styled__ContinueButton-nisyg4-16 gjbDPG']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmayanMusteriOdemeDevamButon",
+    "value":"//*[@class='styled__ContinueButton-sc-19fuf41-16 cTEIKf']",
     "type": "xpath"
   },
   {
     "key": "odemeMesafeliSatisSozelesmesiCheckbox",
-    "value":"//div[@class='checkbox__Uncheck-sc-1lav4ov-6 cDyCIb']",
+    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-6 cDyCIb'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmayanOdemeMesafeliSatisSozelesmesiCheckbox",
+    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-6 cDyCIb'])",
     "type": "xpath"
   },
   {
     "key": "odemeSiparisVerButon",
-    "value":"//a[@class='orderConfirm__SubmitButton-sc-9bijzy-20 khCTO sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO hGBauG']",
+    "value":"//a[@class='orderConfirm__SubmitButton-x0pcid-20 icTdGj sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmayanodemeSiparisVerButon",
+    "value":"//a[@class='orderConfirm__SubmitButton-sc-9bijzy-20 dflNpM sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
     "type": "xpath"
   },
   {
