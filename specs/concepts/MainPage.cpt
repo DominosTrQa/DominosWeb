@@ -1,10 +1,13 @@
 
 
 
+
 # Adresime teslim edilsin
+* Elementi bekle ve sonra tıkla "cookiesKapatButon"
 * Elementi bekle ve sonra tıkla "adresimeTeslimEdilsinButon"
 
 # Şubeye Gelip Alacağım
+* Elementi bekle ve sonra tıkla "cookiesKapatButon"
 * Elementi bekle ve sonra tıkla "subeyeGelipAlacagimButon"
 
 # Tüm Kampanyalara Git
