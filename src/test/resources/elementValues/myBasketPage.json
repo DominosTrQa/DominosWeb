@@ -138,6 +138,16 @@
     "key": "alanlariBosBirakamazsinizText",
     "value":"//body/div[@id='root']/div[@class='masterContainer__Container-sc-1yzbkqj-0 hOJouj']/div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 fmtPZI']/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 bbzmHr']/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/form/div[@class='row__NewRow-sc-1hpjl6w-0 dZERuy']/div[8]/div[1]/div[1]/div[2]",
     "type": "xpath"
+  },
+  {
+    "key": "uyeOlanMusteriharitadanSubeSecDevamButon",
+    "value":"//*[@class='checkout__ContinueButton-sc-8lps9r-8 deLKfq sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmayanMusteriHaritadanSubeSecDevamButon",
+    "value":"//*[@class='guestCheckout__ContinueButton-sc-1pckd4b-8 dFIDRc sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
+    "type": "xpath"
   }
 
 
