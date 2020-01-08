@@ -16,8 +16,8 @@ Tags: adreseTeslimUyelikli
 * Sepetime git
 * Sipariş Ver
 * Adres Ekle
-* Üye olan müşteri için ödeme şeklini seç
-* Üye olan müşteri için siparişi tamamla
+* Üye olan kullanıcı için ödeme şeklini seç
+* Üye olan kullanıcı için siparişi tamamla
 * Siparişin oluştuğunu kontrol et
 
 
@@ -38,8 +38,8 @@ Tags: adreseTeslimUyeliksiz
 * Üye olmadan devam et
 * Adres Ekle
 * Adresin seçili geldiği sayfada devam et butonuna tıkla
-* Üye olmayan müşteri için ödeme şeklini seç
-* Üye olmayan müşteri için siparişi tamamla
+* Üye olmayan kullanıcı için ödeme şeklini seç
+* Üye olmayan kullanıcı için siparişi tamamla
 * Siparişin oluştuğunu kontrol et
 
 
