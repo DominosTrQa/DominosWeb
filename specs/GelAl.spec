@@ -1,10 +1,8 @@
 Specification Heading
 =====================
-Created by testinium on 2020-01-07
 
-This is an executable specification file which follows markdown syntax.
-Every heading in this file denotes a scenario. Every bulleted point denotes a step.
-     
+
+
 Gel Al Üyelikli
 ----------------
 Tags: gelAlUyelikli
@@ -19,7 +17,29 @@ Tags: gelAlUyelikli
 * Sepete Ekle
 * Sepetime git
 * Sipariş Ver
-* Adres Ekle
+* Üye olan kullanıcı için Gel Al şubesi seç
 * Üye olan müşteri için ödeme şeklini seç
 * Üye olan müşteri için siparişi tamamla
+* Siparişin oluştuğunu kontrol et
+
+
+
+
+Gel Al Üyelikliksiz
+---------------------------
+Tags: gelAlUyeliksiz
+
+* "5" saniye bekle
+* Şubeye Gelip Alacağım
+* Tüm Kampanyalara Git
+* Haftanın kampanyalarına git
+* 3 al 1 öde kampanyasını seç
+* 3 al 1 öde kampanyası için siparişi oluştur
+* Sepete Ekle
+* Sepetime git
+* Sipariş Ver
+* Üye olmadan devam et
+* Üye olmayan kullanıcı için Gel Al şubesi seç
+* Üye olmayan müşteri için ödeme şeklini seç
+* Üye olmayan müşteri için siparişi tamamla
 * Siparişin oluştuğunu kontrol et
