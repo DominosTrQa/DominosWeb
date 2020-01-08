@@ -19,6 +19,13 @@
 * Elementi bekle ve sonra tıkla "caddeBuyukdereCaddesi"
 * "245" textini "kapiNoTextbox" elemente yaz
 * "1" textini "daireTextbox" elemente yaz
+
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* Elementi bekle ve sonra tıkla "telefonTextbox"
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* "2" saniye bekle
+* Element var mı kontrol et "alanlariBosBirakamazsinizText"
+
 * "ofis" textini "adresAdiTextbox" elemente yaz
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "telefonTextbox"
@@ -64,4 +71,15 @@
 * "123456789" textini "onaySayfasiTelefon" elemente yaz
 * "uyeOlmayanodemeSiparisVerButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "uyeOlmayanodemeSiparisVerButon"
+
+#Üye olan kullanıcı için Gel Al şubesi seç
+* "5" saniye bekle
+* "uyeOlanMusteriharitadanSubeSecDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "uyeOlanMusteriharitadanSubeSecDevamButon"
+
+
+#Üye olmayan kullanıcı için Gel Al şubesi seç
+* "5" saniye bekle
+* "uyeOlmayanMusteriHaritadanSubeSecDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "uyeOlmayanMusteriHaritadanSubeSecDevamButon"
 
