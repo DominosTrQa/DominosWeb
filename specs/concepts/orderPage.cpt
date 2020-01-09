@@ -31,17 +31,11 @@
 * Elementi bekle ve sonra tıkla "adresEkleDevamButon"
 
 
-# Üye olan kullanıcı için ödeme şeklini seç
+# Ödeme şeklini seç
 * "7" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliKrediKarti"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
-
-# Üye olmayan kullanıcı için ödeme şeklini seç
-* "7" saniye bekle
-* Elementi bekle ve sonra tıkla "odemeSekliKrediKarti"
-* "uyeOlmayanMusteriOdemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "uyeOlmayanMusteriOdemeDevamButon"
 
 
 #Üye olan kullanıcı için siparişi tamamla
