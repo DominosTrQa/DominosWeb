@@ -18,7 +18,7 @@ Tags: gelAlUyelikli
 * Sepetime git
 * Sipariş Ver
 * Üye olan kullanıcı için Gel Al şubesi seç
-* Üye olan kullanıcı için ödeme şeklini seç
+* Ödeme şeklini seç
 * Üye olan kullanıcı için siparişi tamamla
 * Siparişin oluştuğunu kontrol et
 
@@ -40,6 +40,6 @@ Tags: gelAlUyeliksiz
 * Sipariş Ver
 * Üye olmadan devam et
 * Üye olmayan kullanıcı için Gel Al şubesi seç
-* Üye olmayan kullanıcı için ödeme şeklini seç
+* Ödeme şeklini seç
 * Üye olmayan kullanıcı için siparişi tamamla
 * Siparişin oluştuğunu kontrol et
