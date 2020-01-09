@@ -78,12 +78,7 @@
 },
 {
 "key": "odemeDevamButon",
-"value":"//div[@class='styled__ContinueButton-nisyg4-16 gjbDPG']",
-"type": "xpath"
-},
-{
-"key": "uyeOlmayanMusteriOdemeDevamButon",
-"value":"//*[@class='styled__ContinueButton-sc-19fuf41-16 cTEIKf']",
+"value":"//button[@class='sc-1mahmit-0-button-buttons__ButtonBase-bPYnhn hZsWWW']",
 "type": "xpath"
 },
 {
