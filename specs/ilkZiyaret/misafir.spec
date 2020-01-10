@@ -2,12 +2,9 @@ Specification Heading
 =====================
 
 
-
-
 İlk Ziyaret - Misafir - Adrese Teslim - Harita
 -----------------------------------
 Tags: ilkZiyaret_misafir_adreseTeslim_harita
-
 * Adrese Teslim Konum ile
 * Elementi bekle ve sonra tıkla "cookiesKapatButon"
 * Tüm Kampanyalara Git
@@ -23,11 +20,9 @@ Tags: ilkZiyaret_misafir_adreseTeslim_harita
 * Üye olmayan kullanıcı için siparişi tamamla
 * Siparişin oluştuğunu kontrol et
 
-
 İlk Ziyaret - Misafir - Adrese Teslim - Liste
 ---------------------------
 Tags: ilkZiyaret_misafir_adreseTeslim_liste
-
 * "5" saniye bekle
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
@@ -45,11 +40,25 @@ Tags: ilkZiyaret_misafir_adreseTeslim_liste
 * Üye olmayan kullanıcı için siparişi tamamla
 * Siparişin oluştuğunu kontrol et
 
+İlk Ziyaret - Misafir - Gel Al - Harita
+---------------------------
+Tags: ilkZiyaret_misafir_gelAl_harita
+* "5" saniye bekle
+* Gel Al Konum ile
+* Elementi bekle ve sonra tıkla "cookiesKapatButon"
+* Tüm Kampanyalara Git
+* Büyük Boy Pizzalar Gel Al kampanyasını seç
+* Büyük Boy Pizzalar Gel Al  kampanyası için siparişi oluştur
+* Sepete Ekle
+* Sepetime git
+* Sipariş Ver
+* Ödeme şeklini seç
+* Üye olmayan kullanıcı için siparişi tamamla
+* Siparişin oluştuğunu kontrol et
 
 İlk Ziyaret - Misafir - Gel Al- Liste
 ---------------------------
-Tags: ilkZiyaret_misafir_adreseTeslim_liste
-
+Tags: ilkZiyaret_misafir_gelAl_liste
 * "5" saniye bekle
 * Gel Al servis tipi seçilir
 * İl ilçe mahalle seçilir
@@ -65,6 +74,3 @@ Tags: ilkZiyaret_misafir_adreseTeslim_liste
 * Ödeme şeklini seç
 * Üye olmayan kullanıcı için siparişi tamamla
 * Siparişin oluştuğunu kontrol et
-
-
-

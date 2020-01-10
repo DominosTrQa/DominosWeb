@@ -66,7 +66,7 @@ public class BaseTest {
               + "");
 
 //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
-      options.addArguments("incognito");
+      //options.addArguments("incognito");
       options.addArguments("--disable-infobars");
       options.addArguments("start-maximized");
       options.addArguments("--disable-extensions");
@@ -99,7 +99,7 @@ public class BaseTest {
 
   @AfterScenario
   public void tearDown(){
-    //driver.quit();
+    driver.quit();
   }
 
 

@@ -65,7 +65,7 @@
 
 
 # Ödeme şeklini seç
-* "7" saniye bekle
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliKrediKarti"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"

@@ -115,13 +115,15 @@
     "type": "xpath"
   },
   {
+    "key": "gelAlKonumileIlkKonum",
+    "value":"//div[@class='styled__Store-sc-1wxnzog-0 hPPvjW'][1]",
+    "type": "xpath"
+  },
+  {
     "key": "uyeOlButon",
     "value":"(//a[contains(text(),'Üye Ol')])",
     "type": "xpath"
   }
-
-
-
 
 
 ]
