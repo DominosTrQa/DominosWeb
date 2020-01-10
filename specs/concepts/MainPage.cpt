@@ -2,13 +2,49 @@
 
 
 
-# Adresime teslim edilsin
-* Elementi bekle ve sonra tıkla "cookiesKapatButon"
-* Elementi bekle ve sonra tıkla "adresimeTeslimEdilsinButon"
+# Adrese Teslim servis tipi seçilir
+* Elementi bekle ve sonra tıkla "adreseTeslimButon"
 
-# Şubeye Gelip Alacağım
+# Gel Al servis tipi seçilir
+* Elementi bekle ve sonra tıkla "gelAlButon"
+
+# İl ilçe mahalle seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceSariyer"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
+* "2" saniye bekle
+
+#Adrese Teslim Konum ile
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresime_Teslim_Edilsin_Buton"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "konum_Paylas"
+* "10" saniye bekle
+* Elementi bekle ve sonra tıkla "konum_Devam_Et"
+* "5" saniye bekle
+
+#Gel Al da Şubeleri Göster butonuna tıklanır
+* "1" saniye bekle
+* Elementi bekle ve sonra tıkla "subeleriGosterButon"
+
+#Gel Al da listelenen ilk şube seçilir
+* "1" saniye bekle
+* Elementi bekle ve sonra tıkla "gelAlListelemeIlkSube"
+
+# Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "cookiesKapatButon"
-* Elementi bekle ve sonra tıkla "subeyeGelipAlacagimButon"
+
+# Seçili Şube ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "seciliSubeIleDevamEtButon"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "cookiesKapatButon"
 
 # Tüm Kampanyalara Git
 * Elementi bekle ve sonra tıkla "tümKampanyalarButon"
@@ -17,3 +53,4 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "sepetimButon"
 * Elementi bekle ve sonra tıkla "sepeteGitButon"
+

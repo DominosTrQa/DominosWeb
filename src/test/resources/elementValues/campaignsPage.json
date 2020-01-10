@@ -5,32 +5,23 @@
     "type": "xpath"
   },
   {
-    "key": "3al1OdeKampanyasiIlkSiparis",
+    "key": "siparisSecinizDropdown",
     "value":"(//div[contains(text(),'Seçiniz')])[1]",
     "type": "xpath"
   },
   {
-    "key": "3al1OdeKampanyasiSuperos",
+    "key": "dropdownSuperos",
     "value":"(//div[contains(text(),'Süperos')])[1]",
     "type": "xpath"
   },
+
   {
-    "key": "3al1OdeKampanyasiIkinciSiparis",
-    "value":"(//div[contains(text(),'Seçiniz')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "3al1OdeKampanyasiSucuksever",
+    "key": "dropdownSucuksever",
     "value":"(//div[contains(text(),'Sucuksever Pizza')])[2]",
     "type": "xpath"
   },
   {
-    "key": "3al1OdeKampanyasiUcuncuSiparis",
-    "value":"//div[contains(text(),'Seçiniz...')]",
-    "type": "xpath"
-  },
-  {
-    "key": "3al1OdeKampanyasiVegi",
+    "key": "dropdownVegi",
     "value":"(//div[contains(text(),'Vegi')])[3]",
     "type": "xpath"
   },
@@ -43,7 +34,15 @@
     "key": "haftanınKampanyalariTab",
     "value":"(//*[contains(text(),'Haftanın Kampanyaları')])[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][2]",
     "type": "xpath"
+  },
+  {
+    "key": "büyükBoyPizzalarGelAlKampanyasi",
+    "value":"(//div[contains(text(),'Büyük Boy Pizzalar')])",
+    "type": "xpath"
   }
+
+
+
 
 
 

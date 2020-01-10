@@ -5,16 +5,16 @@
 * Elementi bekle ve sonra tıkla "3al1OdeKampanyasi"
 
 # 3 al 1 öde kampanyası için siparişi oluştur
-* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiIlkSiparis"
-* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiSuperos"
-* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiIkinciSiparis"
+* Elementi bekle ve sonra tıkla "siparisSecinizDropdown"
+* Elementi bekle ve sonra tıkla "dropdownSuperos"
 * "3" saniye bekle
+* Elementi bekle ve sonra tıkla "siparisSecinizDropdown"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiSucuksever"
+* Elementi bekle ve sonra tıkla "dropdownSucuksever"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiUcuncuSiparis"
+* Elementi bekle ve sonra tıkla "siparisSecinizDropdown"
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiVegi"
+* Elementi bekle ve sonra tıkla "dropdownVegi"
 
 # Sepete Ekle
 * "3" saniye bekle
@@ -22,3 +22,13 @@
 
 # Haftanın kampanyalarına git
 * Elementi bekle ve sonra tıkla "haftanınKampanyalariTab"
+
+
+# Büyük Boy Pizzalar Gel Al kampanyasını seç
+* Elementi bekle ve sonra tıkla "büyükBoyPizzalarGelAlKampanyasi"
+
+
+# Büyük Boy Pizzalar Gel Al  kampanyası için siparişi oluştur
+* Elementi bekle ve sonra tıkla "siparisSecinizDropdown"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "dropdownSuperos"

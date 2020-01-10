@@ -5,18 +5,63 @@
     "type": "xpath"
   },
   {
+    "key": "ilDropdown",
+    "value":"(//div[contains(text(),'Seçiniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilİstanbul",
+    "value":"//div[text()='İstanbul'][1]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceDropdown",
+    "value":"(//div[contains(text(),'Seçiniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceSariyer",
+    "value":"//div[text()='Sarıyer']",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleDropdown",
+    "value":"(//div[contains(text(),'Seçiniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "mahallePinarMahallesi",
+    "value":"//div[text()='Pınar Mh.']",
+    "type": "xpath"
+  },
+  {
+    "key": "seciliAdresIleDevamEtButon",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo']",
+    "type": "xpath"
+  },
+  {
+    "key": "subeleriGosterButon",
+    "value":"(//a[contains(text(),'ŞUBELERİ GÖSTER')])",
+    "type": "xpath"
+  },
+  {
+    "key": "seciliSubeIleDevamEtButon",
+    "value":"//a[contains(text(),'le Devam Et')]",
+    "type": "xpath"
+  },
+  {
     "key": "loginButon",
     "value":"//span[@class='styled__LoginButtonText-sc-126ws66-43 jrBoap']",
     "type": "xpath"
   },
   {
-    "key":  "subeyeGelipAlacagimButon",
-    "value":"//div[contains(text(),'Şubeye Gelip Alacağım')]",
+    "key":  "gelAlButon",
+    "value":"//div[contains(text(),'Gel Al')]",
     "type": "xpath"
   },
   {
-    "key": "adresimeTeslimEdilsinButon",
-    "value":"//div[contains(text(),'Adresime Teslim Edilsin')]",
+    "key": "adreseTeslimButon",
+    "value":"//div[contains(text(),'Adrese Teslim')]",
     "type": "xpath"
   },
   {
@@ -47,6 +92,26 @@
   {
     "key": "sepeteGitButon",
     "value":"//a[contains(text(),'Sepete Git')]",
+    "type": "xpath"
+  },
+  {
+    "key": "konum_Paylas",
+    "value":"//i[@class='icon-navigation']",
+    "type": "xpath"
+  },
+  {
+    "key": "konum_Devam_Et",
+    "value":"//i[@class='icon-arrow-big']",
+    "type": "xpath"
+  },
+  {
+    "key": "adresime_Teslim_Edilsin_Buton",
+    "value":"//body/div[@class='styled__Container-sc-1akju1v-10 bqtKZD']/div[@class='styled__Wrapper-sc-1akju1v-0 wyRJu']/div[@class='styled__Content-sc-1akju1v-1 eoYxUe']/div[@class='styled__ServiceTypeButtonContainer-sc-1akju1v-4 jltSuo']/div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "gelAlListelemeIlkSube",
+    "value":".//div[@class='styled__StoreDetail-uqfvsm-2 jKUkPy']",
     "type": "xpath"
   }
 

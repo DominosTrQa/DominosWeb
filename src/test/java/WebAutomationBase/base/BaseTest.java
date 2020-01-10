@@ -36,7 +36,7 @@ public class BaseTest {
   public void setUp(ExecutionContext executionContext) throws Exception{
 
     logger.info("" + executionContext.getCurrentScenario().getName());
-    String baseUrl = "https://dpe-staging.dominos.com.tr/";
+    String baseUrl = "http://dpe-dev1.dominos.com.tr/";
 
 
     if (StringUtils.isNotEmpty(getenv("key"))) {
@@ -67,7 +67,7 @@ public class BaseTest {
           + "");
 
 //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
-      options.addArguments("incognito");
+      //      options.addArguments("incognito");
       driver = new ChromeDriver(options);
       driver.manage().window().maximize();
     }
