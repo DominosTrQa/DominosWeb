@@ -16,7 +16,8 @@ Tags: ilkZiyaret_misafir_adreseTeslim_harita
 * Sepete Ekle
 * Sepetime git
 * Sipariş Ver
-* Adres bilgileri tamamlanır
+* Adres bilgileri tamamlanır(Harita)
+* İlk kayıtlı adres seçilir
 * Sipariş Ver
 * Ödeme şeklini seç
 * Üye olmayan kullanıcı için siparişi tamamla
@@ -37,7 +38,7 @@ Tags: ilkZiyaret_misafir_adreseTeslim_liste
 * Sepete Ekle
 * Sepetime git
 * Sipariş Ver
-* Adres bilgileri tamamlanır
+* Adres bilgileri tamamlanır(Liste)
 * İlk kayıtlı adres seçilir
 * Sipariş Ver
 * Ödeme şeklini seç

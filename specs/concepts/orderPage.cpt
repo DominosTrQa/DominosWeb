@@ -1,6 +1,6 @@
 
 
-# Adres bilgileri tamamlanır
+# Adres bilgileri tamamlanır(Liste)
 * Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "sokakKelebekSokak"
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
@@ -11,11 +11,20 @@
 * "6A" textini "kapiNoTextbox" elemente yaz
 * "1" textini "daireTextbox" elemente yaz
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "telefonTextbox"
-* "123456789" textini "telefonTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
+# Adres bilgileri tamamlanır(Harita)
+* "2" saniye bekle
+* "6A" textini "kapiNoTextbox" elemente yaz
+* "1" textini "daireTextbox" elemente yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # İlk kayıtlı adres seçilir
 * Elementi bekle ve sonra tıkla "ilkKayitliAdres"
@@ -39,19 +48,16 @@
 * "245" textini "kapiNoTextbox" elemente yaz
 * "1" textini "daireTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
-* Elementi bekle ve sonra tıkla "telefonTextbox"
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
 * "2" saniye bekle
 * Element var mı kontrol et "alanlariBosBirakamazsinizText"
 * "ofis" textini "adresAdiTextbox" elemente yaz
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "telefonTextbox"
-* "123456789" textini "telefonTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "adresEkleButon"
-
-
-
 
 
  # Adresin seçili geldiği sayfada devam et butonuna tıkla

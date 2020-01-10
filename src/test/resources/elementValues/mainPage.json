@@ -113,6 +113,11 @@
     "key": "gelAlListelemeIlkSube",
     "value":".//div[@class='styled__StoreDetail-uqfvsm-2 jKUkPy']",
     "type": "xpath"
+  },
+  {
+    "key": "uyeOlButon",
+    "value":"(//a[contains(text(),'Üye Ol')])",
+    "type": "xpath"
   }
 
 

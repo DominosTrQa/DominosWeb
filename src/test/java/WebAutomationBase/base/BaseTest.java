@@ -36,7 +36,7 @@ public class BaseTest {
   public void setUp(ExecutionContext executionContext) throws Exception{
 
     logger.info("" + executionContext.getCurrentScenario().getName());
-    String baseUrl = "http://dpe-dev1.dominos.com.tr/";
+    String baseUrl = "https://dpe-dev1.dominos.com.tr/";
 
 
     if (StringUtils.isNotEmpty(getenv("key"))) {
@@ -47,7 +47,7 @@ public class BaseTest {
       options.addArguments("disable-translate");
       options.addArguments("--start-maximized");
       options.addArguments("--no-sandbox");
-     // options.addArguments("incognito");
+      // options.addArguments("incognito");
 
       capabilities.setCapability(ChromeOptions.CAPABILITY, options);
       capabilities.setCapability("key", System.getenv("key"));
@@ -57,17 +57,24 @@ public class BaseTest {
     } else {
 
       capabilities = DesiredCapabilities.chrome();
-      Map<String, Object> prefs = new HashMap<String, Object>();
-      prefs.put("profile.default_content_setting_values.notifications", 2);
+
 
 //			capabilities = DesiredCapabilities.firefox();
 //			FirefoxOptions options = new FirefoxOptions();
       ChromeOptions options = new ChromeOptions();
       System.setProperty("webdriver.chrome.driver", "web_driver/chromedriver"
-          + "");
+              + "");
 
 //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
-      //      options.addArguments("incognito");
+      //options.addArguments("incognito");
+      //options.addArguments("--disable-infobars");
+      //options.addArguments("start-maximized");
+      //options.addArguments("--disable-extensions");
+
+
+      //options.addArguments("--disable-notifications");
+
+
       driver = new ChromeDriver(options);
       driver.manage().window().maximize();
     }
@@ -88,13 +95,13 @@ public class BaseTest {
       logger.error(executionContext.getCurrentScenario().getName());
       logger.error(executionContext.getCurrentStep().getDynamicText());
       logger.error(executionContext.getCurrentStep().getErrorMessage() + "\r\n"
-          + executionContext.getCurrentStep().getStackTrace());
+              + executionContext.getCurrentStep().getStackTrace());
     }
   }
 
   @AfterScenario
   public void tearDown(){
-   // driver.quit();
+    //driver.quit();
   }
 
 

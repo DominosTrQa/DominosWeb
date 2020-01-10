@@ -581,7 +581,53 @@ public class BaseSteps extends BaseTest {
     ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", element);
   }
 
+  public String randomNumber(int stringLength){
 
+    Random random = new Random();
+    char[] chars = "0123456789".toCharArray();
+    String stringRandom = "";
+    for (int i = 0; i < stringLength; i++) {
+
+      stringRandom = stringRandom + String.valueOf(chars[random.nextInt(chars.length)]);
+    }
+
+    return stringRandom;
+  }
+  @Step({"<length> uzunlugunda random bir kelime üret ve <saveKey> olarak sakla"})
+  public void createRandomString(int length, String saveKey) {
+    StoreHelper.INSTANCE.saveValue(saveKey,  randomString(length ));
+  }
+
+  @Step({"<length> uzunlugunda random bir sayi üret ve <saveKey> olarak sakla"})
+  public void createRandomNumber(int length, String saveKey) {
+    StoreHelper.INSTANCE.saveValue(saveKey,  randomNumber(length ));
+  }
+
+
+  @Step({"<key> li elementi bul ve değerini <saveKey> saklanan degeri yazdir",
+          "Find element by <key> and compare saved key <saveKey>"})
+  public void equalsSendTextByKey(String key, String saveKey) throws InterruptedException {
+    WebElement element = null;
+    int waitVar = 0;
+    element = findElementWithKey(key);
+    while (true) {
+      if (element.isDisplayed()) {
+        logger.info("WebElement is found at: " + waitVar + " second.");
+        element.clear();
+        StoreHelper.INSTANCE.getValue(saveKey);
+        element.sendKeys(StoreHelper.INSTANCE.getValue(saveKey));
+
+        break;
+      } else {
+        waitVar = waitVar + 1;
+        Thread.sleep(1000);
+        if (waitVar == 20) {
+          throw new NullPointerException(String.format("by = %s Web element list not found"));
+        } else {
+        }
+      }
+    }
+  }
 
 
 

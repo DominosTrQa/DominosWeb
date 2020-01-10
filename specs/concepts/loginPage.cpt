@@ -5,11 +5,19 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "loginButon"
 * "5" saniye bekle
-* <email> textini "emailTextbox" elemente yaz
+* <email> textini "loginEmailTextbox" elemente yaz
 * "3" saniye bekle
-* <password> textini "passwordTextbox" elemente yaz
+* <password> textini "loginPasswordTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "girisYapButon"
 * "5" saniye bekle
 
 # Üye olmadan devam et
 * Elementi bekle ve sonra tıkla "uyeOlmadanDevamEtButon"
+
+# Random mail ve telefon ile üye olunur
+* "Test" textini "uyeOlAdTextbox" elemente yaz
+* "Test" textini "uyeOlSoyadTextbox" elemente yaz
+* "5" uzunlugunda random bir sayi üret ve "randomTelefonNumarasi" olarak sakla
+* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
+ "1111" textini "uyeOlTelefonTextbox" elemente yaz
+* "uyeOlTelefonTextbox" li elementi bul ve değerini "randomTelefonNumarasi" saklanan degeri yazdir

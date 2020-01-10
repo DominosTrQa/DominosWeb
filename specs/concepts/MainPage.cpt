@@ -8,6 +8,9 @@
 # Gel Al servis tipi seçilir
 * Elementi bekle ve sonra tıkla "gelAlButon"
 
+# Üye ol butonuna tıklanır
+* Elementi bekle ve sonra tıkla "uyeOlButon"
+
 # İl ilçe mahalle seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"

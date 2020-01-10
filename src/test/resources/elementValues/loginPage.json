@@ -1,12 +1,12 @@
 [
 
   {
-    "key": "emailTextbox",
+    "key": "loginEmailTextbox",
     "value":"email",
     "type": "id"
   },
   {
-    "key": "passwordTextbox",
+    "key": "loginPasswordTextbox",
     "value":"password",
     "type": "id"
   },
@@ -19,9 +19,47 @@
     "key": "uyeOlmadanDevamEtButon",
     "value":"//*[@class='redirecttoGuest__Button-ut46kq-0 cKmqfS']",
     "type": "xpath"
+  },
+  {
+    "key": "uyeOlAdTextbox",
+    "value":"name",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlSoyadTextbox",
+    "value":"surname",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlTelefonTextbox",
+    "value":"mobilePhone",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlEmailTextbox",
+    "value":"email",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlSifreTexbox",
+    "value":"password",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlSifreyTekrarTextbox",
+    "value":"passwordagain",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlMesafeliSatisSozlesmesi",
+    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiÜyeOlButon",
+    "value":"(//div[@class='spinner__SpinnerContainer-mjba5r-0 gvJRXZ'])",
+    "type": "xpath"
   }
-
-
 
 
 
