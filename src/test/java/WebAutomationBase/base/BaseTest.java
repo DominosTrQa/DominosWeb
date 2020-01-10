@@ -66,13 +66,11 @@ public class BaseTest {
               + "");
 
 //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
-      //options.addArguments("incognito");
-      //options.addArguments("--disable-infobars");
-      //options.addArguments("start-maximized");
-      //options.addArguments("--disable-extensions");
-
-
-      //options.addArguments("--disable-notifications");
+      options.addArguments("incognito");
+      options.addArguments("--disable-infobars");
+      options.addArguments("start-maximized");
+      options.addArguments("--disable-extensions");
+      options.addArguments("--disable-notifications");
 
 
       driver = new ChromeDriver(options);
