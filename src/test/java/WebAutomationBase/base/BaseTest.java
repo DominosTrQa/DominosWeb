@@ -99,7 +99,7 @@ public class BaseTest {
 
   @AfterScenario
   public void tearDown(){
-    //driver.quit();
+    driver.quit();
   }
 
 
