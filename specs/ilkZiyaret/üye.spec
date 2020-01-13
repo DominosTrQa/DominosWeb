@@ -3,7 +3,7 @@ Specification Heading
 
 İlk Ziyaret - Üye - Adrese Teslim - Harita
 ----------------
-Tags: ilkZiyaret_üye_adreseTeslim_harita
+Tags:ilkZiyaret_üye_adreseTeslim_harita
 
 * "5" saniye bekle
 * Üye ol butonuna tıklanır
@@ -27,7 +27,7 @@ Tags: ilkZiyaret_üye_adreseTeslim_harita
 
 İlk Ziyaret - Üye - Adrese Teslim - Liste
 ----------------
-Tags: ilkZiyaret_üye_adreseTeslim_liste
+Tags:ilkZiyaret_üye_adreseTeslim_liste
 
 * "5" saniye bekle
 * Üye ol butonuna tıklanır
@@ -51,7 +51,7 @@ Tags: ilkZiyaret_üye_adreseTeslim_liste
 
 İlk Ziyaret - Üye - Gel Al - Harita
 ----------------
-Tags: ilkZiyaret_üye_gelAl_harita
+Tags:ilkZiyaret_üye_gelAl_harita
 
 * "5" saniye bekle
 * Üye ol butonuna tıklanır
@@ -71,7 +71,7 @@ Tags: ilkZiyaret_üye_gelAl_harita
 
 İlk Ziyaret - Üye - Gel Al- Liste
 ---------------------------
-Tags: ilkZiyaret_üye_gelAl_liste
+Tags:ilkZiyaret_üye_gelAl_liste
 * "5" saniye bekle
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur

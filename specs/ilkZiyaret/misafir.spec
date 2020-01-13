@@ -4,7 +4,7 @@ Specification Heading
 
 İlk Ziyaret - Misafir - Adrese Teslim - Harita
 -----------------------------------
-Tags: ilkZiyaret_misafir_adreseTeslim_harita
+Tags:ilkZiyaret_misafir_adreseTeslim_harita
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim için konum ile il ilçe mahalle seçilir
 * Tüm Kampanyalara Git
@@ -22,7 +22,7 @@ Tags: ilkZiyaret_misafir_adreseTeslim_harita
 
 İlk Ziyaret - Misafir - Adrese Teslim - Liste
 ---------------------------
-Tags: ilkZiyaret_misafir_adreseTeslim_liste
+Tags:ilkZiyaret_misafir_adreseTeslim_liste
 * "5" saniye bekle
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
@@ -42,7 +42,7 @@ Tags: ilkZiyaret_misafir_adreseTeslim_liste
 
 İlk Ziyaret - Misafir - Gel Al - Harita
 ---------------------------
-Tags: ilkZiyaret_misafir_gelAl_harita
+Tags:ilkZiyaret_misafir_gelAl_harita
 * "5" saniye bekle
 * Gel Al servis tipi seçilir
 * Gel Al için  konum ile il ilçe mahelle seçilir
@@ -58,7 +58,7 @@ Tags: ilkZiyaret_misafir_gelAl_harita
 
 İlk Ziyaret - Misafir - Gel Al- Liste
 ---------------------------
-Tags: ilkZiyaret_misafir_gelAl_liste
+Tags:ilkZiyaret_misafir_gelAl_liste
 * "5" saniye bekle
 * Gel Al servis tipi seçilir
 * İl ilçe mahalle seçilir
