@@ -70,7 +70,7 @@ public class BaseTest {
       options.addArguments("--disable-infobars");
       options.addArguments("start-maximized");
       options.addArguments("--disable-extensions");
-      options.addArguments("--disable-notifications");
+      options.addArguments("notifications");
 
 
       driver = new ChromeDriver(options);
