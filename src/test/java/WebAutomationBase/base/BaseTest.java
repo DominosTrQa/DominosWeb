@@ -2,19 +2,17 @@ package WebAutomationBase.base;
 
 import static java.lang.System.getenv;
 
-import WebAutomationBase.helper.ElementHelper;
-import WebAutomationBase.helper.StoreHelper;
-import WebAutomationBase.model.ElementInfo;
-import com.thoughtworks.gauge.*;
-
+import com.thoughtworks.gauge.AfterScenario;
+import com.thoughtworks.gauge.AfterStep;
+import com.thoughtworks.gauge.BeforeScenario;
+import com.thoughtworks.gauge.BeforeStep;
+import com.thoughtworks.gauge.ExecutionContext;
 import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -36,7 +34,7 @@ public class BaseTest {
   public void setUp(ExecutionContext executionContext) throws Exception{
 
     logger.info("" + executionContext.getCurrentScenario().getName());
-    String baseUrl = "https://dpe-dev1.dominos.com.tr/";
+    String baseUrl = "https://www.enerjisa.com.tr/";
 
 
     if (StringUtils.isNotEmpty(getenv("key"))) {
@@ -47,7 +45,6 @@ public class BaseTest {
       options.addArguments("disable-translate");
       options.addArguments("--start-maximized");
       options.addArguments("--no-sandbox");
-      // options.addArguments("incognito");
 
       capabilities.setCapability(ChromeOptions.CAPABILITY, options);
       capabilities.setCapability("key", System.getenv("key"));
@@ -57,7 +54,8 @@ public class BaseTest {
     } else {
 
       capabilities = DesiredCapabilities.chrome();
-
+      Map<String, Object> prefs = new HashMap<String, Object>();
+      prefs.put("profile.default_content_setting_values.notifications", 2);
 
 //			capabilities = DesiredCapabilities.firefox();
 //			FirefoxOptions options = new FirefoxOptions();
@@ -66,12 +64,6 @@ public class BaseTest {
               + "");
 
 //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
-      //options.addArguments("incognito");
-      options.addArguments("--disable-infobars");
-      options.addArguments("start-maximized");
-      options.addArguments("--disable-extensions");
-      options.addArguments("--disable-notifications");
-
 
       driver = new ChromeDriver(options);
       driver.manage().window().maximize();
@@ -101,7 +93,6 @@ public class BaseTest {
   public void tearDown(){
     driver.quit();
   }
-
 
 
 }
