@@ -5,15 +5,15 @@ Specification Heading
 İlk Ziyaret - Misafir - Adrese Teslim - Harita
 -----------------------------------
 Tags: ilkZiyaret_misafir_adreseTeslim_harita
-* Adrese Teslim Konum ile
-* Elementi bekle ve sonra tıkla "cookiesKapatButon"
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim için konum ile il ilçe mahalle seçilir
 * Tüm Kampanyalara Git
 * 3 al 1 öde kampanyasını seç
 * 3 al 1 öde kampanyası için siparişi oluştur
 * Sepete Ekle
 * Sepetime git
 * Sipariş Ver
-* Adres bilgileri tamamlanır(Harita)
+* Adres bilgileri tamamlanır(Harita - misafir)
 * İlk kayıtlı adres seçilir
 * Sipariş Ver
 * Ödeme şeklini seç
@@ -33,7 +33,7 @@ Tags: ilkZiyaret_misafir_adreseTeslim_liste
 * Sepete Ekle
 * Sepetime git
 * Sipariş Ver
-* Adres bilgileri tamamlanır(Liste)
+* Adres bilgileri tamamlanır(Liste - misafir)
 * İlk kayıtlı adres seçilir
 * Sipariş Ver
 * Ödeme şeklini seç
@@ -44,8 +44,8 @@ Tags: ilkZiyaret_misafir_adreseTeslim_liste
 ---------------------------
 Tags: ilkZiyaret_misafir_gelAl_harita
 * "5" saniye bekle
-* Gel Al Konum ile
-* Elementi bekle ve sonra tıkla "cookiesKapatButon"
+* Gel Al servis tipi seçilir
+* Gel Al için  konum ile il ilçe mahelle seçilir
 * Tüm Kampanyalara Git
 * Büyük Boy Pizzalar Gel Al kampanyasını seç
 * Büyük Boy Pizzalar Gel Al  kampanyası için siparişi oluştur

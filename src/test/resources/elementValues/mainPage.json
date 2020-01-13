@@ -105,11 +105,6 @@
     "type": "xpath"
   },
   {
-    "key": "adresime_Teslim_Edilsin_Buton",
-    "value":"//body/div[@class='styled__Container-sc-1akju1v-10 bqtKZD']/div[@class='styled__Wrapper-sc-1akju1v-0 wyRJu']/div[@class='styled__Content-sc-1akju1v-1 eoYxUe']/div[@class='styled__ServiceTypeButtonContainer-sc-1akju1v-4 jltSuo']/div[1]",
-    "type": "xpath"
-  },
-  {
     "key": "gelAlListelemeIlkSube",
     "value":".//div[@class='styled__StoreDetail-uqfvsm-2 jKUkPy']",
     "type": "xpath"

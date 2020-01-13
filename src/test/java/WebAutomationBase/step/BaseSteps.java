@@ -17,6 +17,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.List;
+import java.util.Vector;
+
 import org.slf4j.LoggerFactory;
 import org.slf4j.impl.Log4jLoggerAdapter;
 
@@ -551,6 +553,7 @@ public class BaseSteps extends BaseTest {
 
 
   //----------------------SONRADAN YAZILANLAR-----------------------------------
+
   private JavascriptExecutor getJSExecutor() {
     return (JavascriptExecutor) driver;
   }
@@ -582,27 +585,12 @@ public class BaseSteps extends BaseTest {
     ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", element);
   }
 
-  public String randomNumber(int stringLength){
 
-    Random random = new Random();
-    char[] chars = "0123456789".toCharArray();
-    String stringRandom = "";
-    for (int i = 0; i < stringLength; i++) {
-
-      stringRandom = stringRandom + String.valueOf(chars[random.nextInt(chars.length)]);
-    }
-
-    return stringRandom;
-  }
   @Step({"<length> uzunlugunda random bir kelime üret ve <saveKey> olarak sakla"})
   public void createRandomString(int length, String saveKey) {
     StoreHelper.INSTANCE.saveValue(saveKey,  randomString(length ));
   }
 
-  @Step({"<length> uzunlugunda random bir sayi üret ve <saveKey> olarak sakla"})
-  public void createRandomNumber(int length, String saveKey) {
-    StoreHelper.INSTANCE.saveValue(saveKey,  randomNumber(length ));
-  }
 
 
   @Step({"<key> li elementi bul ve değerini <saveKey> saklanan degeri yazdir",
@@ -642,6 +630,32 @@ public class BaseSteps extends BaseTest {
     webElement.clear();
     webElement.sendKeys("testotomasyon" + timestamp + "@sahabt.com");
 
+  }
+
+  @Step("Rastgele telefon no üret")
+  public String rastgelTelNoGelsin( ) {
+    Vector<Integer> array = new Vector<Integer>();
+    Random randomGenerator = new Random();
+    array.add(new Integer(1 + randomGenerator.nextInt(9)));
+    for (int i=1;i<9;i++) array.add(randomGenerator.nextInt(10));
+    int t1 = 0;
+    for (int i=0;i<9;i+=2) t1 += array.elementAt(i);
+    int t2 = 0;
+    for (int i=1;i<8;i+=2) t2 += array.elementAt(i);
+    int x = ((t1 * 7 )- t2) % 10;
+    array.add(new Integer(x));
+    x=0;
+    for(int i=0;i<10;i++) x+= array.elementAt(i);
+    x= x % 10;
+    array.add(new Integer(x));
+    String res = "";
+    for(int i=0;i<10;i++) res = res + Integer.toString(array.elementAt(i));
+    return res;
+  }
+  @Step("Telefon noyu <key> elementine yaz")
+  public void setRandomTelno(String key){
+    String rastgeleTcno= rastgelTelNoGelsin();
+    sendKeys(rastgeleTcno,key);
   }
 
 

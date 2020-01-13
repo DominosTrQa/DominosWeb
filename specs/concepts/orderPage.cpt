@@ -1,6 +1,6 @@
 
 
-# Adres bilgileri tamamlanır(Liste)
+# Adres bilgileri tamamlanır(Liste - misafir)
 * Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "sokakKelebekSokak"
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
@@ -16,11 +16,39 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
-# Adres bilgileri tamamlanır(Harita)
+# Adres bilgileri tamamlanır(Liste - üye)
+* Elementi bekle ve sonra tıkla "caddeDropdown"
+* Elementi bekle ve sonra tıkla "sokakKelebekSokak"
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* Element var mı kontrol et "alanlariBosBirakamazsinizText"
+* "2" saniye bekle
+* "6A" textini "kapiNoTextbox" elemente yaz
+* "1" textini "daireTextbox" elemente yaz
+* "2" saniye bekle
+* "ofis" textini "adresAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+
+# Adres bilgileri tamamlanır(Harita - misafir)
 * "2" saniye bekle
 * "6/10" textini "kapiNoTextbox" elemente yaz
 * "5" textini "daireTextbox" elemente yaz
 * "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+
+# Adres bilgileri tamamlanır(Harita - üye)
+* "2" saniye bekle
+* "245" textini "kapiNoTextbox" elemente yaz
+* "5" textini "daireTextbox" elemente yaz
+* "2" saniye bekle
+* "ofis" textini "adresAdiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "3" saniye bekle
@@ -72,6 +100,7 @@
 
 
 #Üye olan kullanıcı için siparişi tamamla
+* "3" saniye bekle
 * "odemeMesafeliSatisSozelesmesiCheckbox" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "odemeSiparisVerButon"

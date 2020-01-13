@@ -22,7 +22,7 @@
   },
   {
   "key": "adresAdiTextbox",
-  "value":"addressName",
+  "value":"Adres Adı",
   "type": "id"
   },
   {
@@ -67,7 +67,7 @@
   },
   {
   "key": "odemeMesafeliSatisSozelesmesiCheckbox",
-  "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-6 cDyCIb'])[2]",
+  "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
   "type": "xpath"
   },
   {

@@ -1,9 +1,12 @@
 # Adrese Teslim servis tipi seçilir
 * Elementi bekle ve sonra tıkla "adreseTeslimButon"
+
 # Gel Al servis tipi seçilir
 * Elementi bekle ve sonra tıkla "gelAlButon"
+
 # Üye ol butonuna tıklanır
 * Elementi bekle ve sonra tıkla "uyeOlButon"
+
 # İl ilçe mahalle seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"
@@ -14,22 +17,23 @@
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
 * Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
 * "2" saniye bekle
-#Adrese Teslim Konum ile
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "adresime_Teslim_Edilsin_Buton"
+
+# Adrese Teslim için konum ile il ilçe mahalle seçilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "konum_Paylas"
 * "10" saniye bekle
 * Elementi bekle ve sonra tıkla "konum_Devam_Et"
 * "5" saniye bekle
-#Gel Al Konum ile
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "gelAlButon"
+* Elementi bekle ve sonra tıkla "cookiesKapatButon"
+
+#Gel Al için  konum ile il ilçe mahelle seçilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "konum_Paylas"
 * "10" saniye bekle
 * Elementi bekle ve sonra tıkla "gelAlKonumileIlkKonum"
 * "5" saniye bekle
+* Elementi bekle ve sonra tıkla "cookiesKapatButon"
+
 #Gel Al da Şubeleri Göster butonuna tıklanır
 * "1" saniye bekle
 * Elementi bekle ve sonra tıkla "subeleriGosterButon"
@@ -45,6 +49,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "cookiesKapatButon"
 # Tüm Kampanyalara Git
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "tümKampanyalarButon"
 # Sepetime git
 * "5" saniye bekle
