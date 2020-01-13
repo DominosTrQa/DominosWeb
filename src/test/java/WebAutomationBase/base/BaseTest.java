@@ -12,7 +12,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -34,7 +36,7 @@ public class BaseTest {
   public void setUp(ExecutionContext executionContext) throws Exception{
 
     logger.info("" + executionContext.getCurrentScenario().getName());
-    String baseUrl = "https://www.enerjisa.com.tr/";
+    String baseUrl = "https://dpe-dev1.dominos.com.tr/";
 
 
     if (StringUtils.isNotEmpty(getenv("key"))) {
@@ -45,6 +47,7 @@ public class BaseTest {
       options.addArguments("disable-translate");
       options.addArguments("--start-maximized");
       options.addArguments("--no-sandbox");
+      // options.addArguments("incognito");
 
       capabilities.setCapability(ChromeOptions.CAPABILITY, options);
       capabilities.setCapability("key", System.getenv("key"));
@@ -64,6 +67,7 @@ public class BaseTest {
               + "");
 
 //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
+      //options.addArguments("incognito");
 
       driver = new ChromeDriver(options);
       driver.manage().window().maximize();
@@ -93,6 +97,7 @@ public class BaseTest {
   public void tearDown(){
     driver.quit();
   }
+
 
 
 }
