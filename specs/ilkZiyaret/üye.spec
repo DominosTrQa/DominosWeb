@@ -10,9 +10,6 @@ Tags: ilkZiyaret_misafir_adreseTeslim_liste
 * "5" saniye bekle
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-
-
-
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır

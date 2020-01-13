@@ -6,6 +6,7 @@ import WebAutomationBase.helper.StoreHelper;
 import WebAutomationBase.model.ElementInfo;
 import com.thoughtworks.gauge.Step;
 
+import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.Random;
 import org.apache.log4j.PropertyConfigurator;
@@ -629,6 +630,19 @@ public class BaseSteps extends BaseTest {
     }
   }
 
+  private Long getTimestamp() {
+    Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+    return (timestamp.getTime());
+  }
+  @Step({"<key> li elementi bul, temizle ve rasgele  email değerini yaz",
+          "Find element by <key> clear and send keys  random email"})
+  public void RandomeMail(String key){
+    Long timestamp = getTimestamp();
+    WebElement webElement = findElementWithKey(key);
+    webElement.clear();
+    webElement.sendKeys("testotomasyon" + timestamp + "@sahabt.com");
+
+  }
 
 
 }

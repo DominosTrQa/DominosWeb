@@ -18,8 +18,8 @@
 
 # Adres bilgileri tamamlanır(Harita)
 * "2" saniye bekle
-* "6A" textini "kapiNoTextbox" elemente yaz
-* "1" textini "daireTextbox" elemente yaz
+* "6/10" textini "kapiNoTextbox" elemente yaz
+* "5" textini "daireTextbox" elemente yaz
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
@@ -60,7 +60,7 @@
 * Elementi bekle ve sonra tıkla "adresEkleButon"
 
 
- # Adresin seçili geldiği sayfada devam et butonuna tıkla
+# Adresin seçili geldiği sayfada devam et butonuna tıkla
 * Elementi bekle ve sonra tıkla "adresEkleDevamButon"
 
 
@@ -99,4 +99,5 @@
 * Elementi bekle ve sonra tıkla "uyeOlmayanMusteriHaritadanSubeSecDevamButon"
 
 #Siparişin oluştuğunu kontrol et
+* "5" saniye bekle
 * Element var mı kontrol et "siparisDetaylariText"
