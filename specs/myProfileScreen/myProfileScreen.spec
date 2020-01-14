@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 Üyelik Bilgilerim sayfa kontrolü
 -------------------------------------
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile uye girisi yap
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
