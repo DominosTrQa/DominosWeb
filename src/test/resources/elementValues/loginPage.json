@@ -59,12 +59,10 @@
     "key": "uyeOlSayfasiÜyeOlButon",
     "value":"(//div[@class='spinner__SpinnerContainer-mjba5r-0 gvJRXZ'])",
     "type": "xpath"
+  },
+  {
+    "key": "loginButton",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo']",
+    "type": "xpath"
   }
-
-
-
-
-
-
-
 ]
