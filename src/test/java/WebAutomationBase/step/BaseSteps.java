@@ -628,7 +628,7 @@ public class BaseSteps extends BaseTest {
     Long timestamp = getTimestamp();
     WebElement webElement = findElementWithKey(key);
     webElement.clear();
-    webElement.sendKeys("testotomasyon" + timestamp + "@sahabt.com");
+    webElement.sendKeys("testotomasyon" + timestamp + "@testinium.com");
 
   }
 
