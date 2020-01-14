@@ -3,7 +3,7 @@
 
 # <email> kullanıcısı ve <password> şifresi ile uye girisi yap
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "loginButon"
+* Elementi bekle ve sonra tıkla "loginButton"
 * "5" saniye bekle
 * <email> textini "loginEmailTextbox" elemente yaz
 * "3" saniye bekle
