@@ -30,7 +30,6 @@ public class BaseTest {
   protected static WebDriver driver;
   protected static WebDriverWait webDriverWait;
   private static Logger logger = LoggerFactory.getLogger(BaseTest.class);
-  DesiredCapabilities capabilities;
 
   @BeforeScenario
   public void setUp(ExecutionContext executionContext) throws Exception{
@@ -38,7 +37,7 @@ public class BaseTest {
     logger.info("" + executionContext.getCurrentScenario().getName());
     String baseUrl = "https://dpe-dev1.dominos.com.tr/";
 
-
+    DesiredCapabilities capabilities = DesiredCapabilities.chrome();
     if (StringUtils.isNotEmpty(getenv("key"))) {
       ChromeOptions options = new ChromeOptions();
       options.addArguments("test-type");
@@ -56,17 +55,13 @@ public class BaseTest {
       ((RemoteWebDriver) driver).setFileDetector(new LocalFileDetector());
     } else {
 
-      capabilities = DesiredCapabilities.chrome();
       Map<String, Object> prefs = new HashMap<String, Object>();
       prefs.put("profile.default_content_setting_values.notifications", 2);
 
-//			capabilities = DesiredCapabilities.firefox();
-//			FirefoxOptions options = new FirefoxOptions();
       ChromeOptions options = new ChromeOptions();
-      System.setProperty("webdriver.chrome.driver", "web_driver/chromedriver"
-              + "");
+      System.setProperty("webdriver.chrome.driver", "web_driver/chromedriver");
 
-//      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
+      //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
       //options.addArguments("incognito");
 
       driver = new ChromeDriver(options);
@@ -88,8 +83,8 @@ public class BaseTest {
     if (executionContext.getCurrentStep().getIsFailing()) {
       logger.error(executionContext.getCurrentScenario().getName());
       logger.error(executionContext.getCurrentStep().getDynamicText());
-      logger.error(executionContext.getCurrentStep().getErrorMessage() + "\r\n"
-              + executionContext.getCurrentStep().getStackTrace());
+      logger.error(executionContext.getCurrentStep().getErrorMessage() + "\r\n" + executionContext
+          .getCurrentStep().getStackTrace());
     }
   }
 
@@ -97,7 +92,6 @@ public class BaseTest {
   public void tearDown(){
     driver.quit();
   }
-
 
 
 }
