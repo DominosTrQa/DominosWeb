@@ -1,7 +1,7 @@
 
 
 
-# <email> kullanıcısı ve <password> şifresi ile uye girisi yap
+# <email> kullanıcısı ve <password> şifresi ile üye girişi yapılır
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "loginButton"
 * "5" saniye bekle
@@ -10,6 +10,7 @@
 * <password> textini "loginPasswordTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "girisYapButon"
 * "5" saniye bekle
+
 
 # Üye olmadan devam et
 * Elementi bekle ve sonra tıkla "uyeOlmadanDevamEtButon"

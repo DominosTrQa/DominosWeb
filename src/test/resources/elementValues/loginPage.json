@@ -1,5 +1,9 @@
 [
-
+  {
+    "key": "loginButton",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo']",
+    "type": "xpath"
+  },
   {
     "key": "loginEmailTextbox",
     "value":"email",
@@ -16,8 +20,33 @@
     "type": "xpath"
   },
   {
+    "key": "epostaVeyaSifreYanlisText",
+    "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk']",
+    "type": "xpath"
+  },
+  {
     "key": "uyeOlmadanDevamEtButon",
-    "value":"//*[@class='redirecttoGuest__Button-ut46kq-0 cKmqfS']",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO leUiDi']",
+    "type": "xpath"
+  },
+  {
+    "key": "parolamıUnuttumButton",
+    "value":"(//span[contains(text(),'Parolamı Unuttum')])",
+    "type": "xpath"
+  },
+  {
+    "key": "beniHatirlaCheckbox",
+    "value":"//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI']",
+    "type": "xpath"
+  },
+  {
+    "key": "googleIleGirisButon",
+    "value":"(//i[@class='icon-googleplus'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "facebookIleGirisButon",
+    "value":"(//i[@class='icon-facebook'])[2]",
     "type": "xpath"
   },
   {
