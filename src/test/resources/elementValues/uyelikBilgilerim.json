@@ -1,0 +1,90 @@
+[
+  {
+    "key": "üyelik_Bilgilerim_Ad_Textbox",
+    "value":"//input[@label='Ad']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Soyad_Textbox",
+    "value":"//input[@label='Soyad']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Dogum_Tarihi_Textbox",
+    "value":"//div[@class='react-datepicker__input-container']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Takım_Dropdown",
+    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 gTkNlE']/div[4]/div[1]/div/div[1]/div[@class='dropdown__Button-wa0gtc-6 kEweqg']/div[2]/div[.='Seçiniz...']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Meslek_Dropdown",
+    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 gTkNlE']/div[4]/div[2]/div/div[1]/div[@class='dropdown__Button-wa0gtc-6 kEweqg']/div[2]/div[.='Seçiniz...']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox",
+    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/div[2]/div/div[@class='checkbox__Container-sc-1lav4ov-2 hoiMaP']/div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ']/div",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Ye_Kazan_Checkbox",
+    "value":"//body/div[@id='root']/div[@class='masterContainer__Container-sc-1yzbkqj-0 bGJLxJ']/div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 klgTRg']/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 jMZFHK']/form/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/div[4]/div[1]/div[1]/div[1]/div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton",
+    "value":"//div[@id='root']/div/div[4]//form//button[@type='submit']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext",
+    "value":"//a[@class='userInfo__LinkButton-sc-1qnfndl-1 IrNqp']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Üyelik_Bilgilerim_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 esUSWH']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Siparislerim_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Pizza_Takip_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Pizza Takip')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Notlarım_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Notlar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Adreslerim_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Adreslerim')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Kredi Kartlar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Linktext",
+    "value":"//a[contains(text(),'ifre De')]",
+    "type": "xpath"
+  }
+
+
+
+
+
+
+
+
+]
