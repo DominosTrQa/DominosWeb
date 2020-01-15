@@ -6,7 +6,7 @@ Specification Heading
 Login - Success Scenario
 ----------------
 Tags:login_successScenario
-* "dominostest1@hotmail.com " kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Element var mı kontrol et "gelAlButon"
 * Element var mı kontrol et "adreseTeslimButon"
 
@@ -15,7 +15,7 @@ Tags:login_successScenario
 Login - Failed Scenario
 ----------------
 Tags:login_failedScenario
-* "dominostest1@hotmail.com " kullanıcısı ve "test" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "test" şifresi ile üye girişi yapılır
 * Element var mı kontrol et "epostaVeyaSifreYanlisText"
 
 
