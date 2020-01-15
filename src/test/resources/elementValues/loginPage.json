@@ -125,9 +125,77 @@
     "type": "xpath"
   },
   {
+    "key": "uyeOlSayfasiyeKazanEpostaCheckbox",
+    "value":"(//p[contains(text(),'E-posta')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiYeKazanSmsCheckbox",
+    "value":"(//p[contains(text(),'SMS')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiYeKazanTelefonCheckbox",
+    "value":"(//p[contains(text(),'Telefon')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "uyeOlSayfasiYeKazanCheckbox",
-    "value":"(//div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ'])[3]",
+    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasisuccessYeKazanCheckbox",
+    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlAdBosBirakilamazUyariText",
+    "value":"(//div[contains(text(),'Ad boş bırakılamaz')])",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSoyaddBosBirakilamazUyariText",
+    "value":"(//div[contains(text(),'Soyad boş bırakılamaz')])",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlTelefonBosBirakilamazUyariText",
+    "value":"(//div[contains(text(),'Telefon boş bırakılamaz')])",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlEpostaBosBirakilamazUyariText",
+    "value":"(//div[contains(text(),'E-Posta Adresi boş bırakılamaz')])",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSifreBosBirakilamazUyariText",
+    "value":"(//div[contains(text(),'Şifre boş bırakılamaz')])",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSifreTekrarBosBirakilamazUyariText",
+    "value":"(//div[contains(text(),'Şifre Tekrar boş bırakılamaz')])",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlUyelikSozlesmesiBosBirakilamazUyariText",
+    "value":"(//div[contains(text(),'İnternet Sitesi Üyelik Sözleşmesi boş bırakılamaz')])",
     "type": "xpath"
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]
