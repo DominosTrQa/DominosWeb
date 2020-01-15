@@ -35,6 +35,21 @@
     "type": "xpath"
   },
   {
+    "key": "parolamıUnuttumEmailTextbox",
+    "value":"forgotPassword",
+    "type": "id"
+  },
+  {
+    "key": "sifremiHatirlatButon",
+    "value":"//button[@class='sc-1mahmit-0-button-buttons__ButtonBase-bPYnhn gwzqiN']",
+    "type": "xpath"
+  },
+  {
+    "key": "sifremDegistirmeMailiGonderildiText",
+    "value":"(//div[contains(text(),'Şifre değiştirme')])",
+    "type": "xpath"
+  },
+  {
     "key": "beniHatirlaCheckbox",
     "value":"//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI']",
     "type": "xpath"
@@ -90,8 +105,29 @@
     "type": "xpath"
   },
   {
-    "key": "loginButton",
-    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo']",
+    "key": "uyeOlSayfasiKVKCheckbox",
+    "value":"(//div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiEpostaCheckbox",
+    "value":"(//p[contains(text(),'E-posta')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiSmsCheckbox",
+    "value":"(//p[contains(text(),'SMS')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiTelefonCheckbox",
+    "value":"(//p[contains(text(),'Telefon')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiYeKazanCheckbox",
+    "value":"(//div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ'])[3]",
     "type": "xpath"
   }
+
 ]
