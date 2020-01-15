@@ -1,0 +1,248 @@
+[
+  {
+    "key": "üyelik_Bilgilerim_Ad_Textbox",
+    "value":"//input[@label='Ad']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Soyad_Textbox",
+    "value":"//input[@label='Soyad']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Eposta_Adresi_Textbox",
+    "value":"//div[2]//div[1]//div[1]//div[1]//div[1]//input[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Telefon_Textbox",
+    "value":"//div[2]//div[1]//div[1]//div[1]//div[1]//input[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Dogum_Tarihi_Textbox",
+    "value":"//div[@class='react-datepicker__input-container']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Takım_Dropdown",
+    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 gTkNlE']/div[4]/div[1]/div/div[1]/div[@class='dropdown__Button-wa0gtc-6 kEweqg']/div[2]/div[.='Seçiniz...']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Meslek_Dropdown",
+    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 gTkNlE']/div[4]/div[2]/div/div[1]/div[@class='dropdown__Button-wa0gtc-6 kEweqg']/div[2]/div[.='Seçiniz...']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox",
+    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/div[2]/div/div[@class='checkbox__Container-sc-1lav4ov-2 hoiMaP']/div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ']/div",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Acık_Rıza_Metni_Linktext",
+    "value":"//a[contains(text(),'za Metni')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Acık_Rıza_Metni_Kontrol",
+    "value":"//h1[contains(text(),'isel Verilerin Korunmas')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Linktext",
+    "value":"//a[contains(text(),'nlatma Metni')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Kontrol",
+    "value":"//h1[contains(text(),'isel Verilerin Korunmas')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Ye_Kazan_Checkbox",
+    "value":"//body/div[@id='root']/div[@class='masterContainer__Container-sc-1yzbkqj-0 bGJLxJ']/div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 klgTRg']/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 jMZFHK']/form/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/div[4]/div[1]/div[1]/div[1]/div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Ye_Kazan_Linktext",
+    "value":"//a[contains(text(),'Ye-Kazan Sadakat Program')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Ye_Kazan_Kontrol",
+    "value":"//h1[contains(text(),'Yedikçe kazan')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton",
+    "value":"//div[@id='root']/div/div[4]//form//button[@type='submit']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext",
+    "value":"//a[@class='userInfo__LinkButton-sc-1qnfndl-1 IrNqp']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup",
+    "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Vazgec_Buton",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO leUiDi']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO gAinbq']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Üyelik_Bilgilerim_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 esUSWH']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Siparislerim_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Pizza_Takip_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Pizza Takip')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Notlarım_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Notlar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Adreslerim_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Adreslerim')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext",
+    "value":"//a[@class='account__SideMenuLink-sc-1yjmvmo-4 elRybR'][contains(text(),'Kredi Kartlar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Linktext",
+    "value":"//a[contains(text(),'ifre De')]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparislerim_Aktif_Siparislerim_Text",
+    "value":"//h4[contains(text(),'Aktif Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparislerim_Tek_Tıkla_Siparislerim_Text",
+    "value":"//h4[contains(text(),'kla Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparislerim_Eski_Siparislerim_Text",
+    "value":"//h4[contains(text(),'Eski Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "pizza_Takip_Siparis_Numarası_Textbox",
+    "value":"//input[@name='orderId']",
+    "type": "xpath"
+  },
+  {
+    "key": "pizza_Takip_Görüntüle_Buton",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO kvQXdT']",
+    "type": "xpath"
+  },
+  {
+    "key": "Notlarım_Yeni_Not_Ekle_Buton",
+    "value":"//a[@class='notes__NewButton-x7fyts-8 dzXSxl sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO kfUJay']",
+    "type": "xpath"
+  },
+  {
+    "key": "Notlarım_Not_Düzenle_Buton",
+    "value":"//div[@class='notes__EditButton-x7fyts-7 iqvMpM']",
+    "type": "xpath"
+  },
+  {
+    "key": "adreslerim_Adres_Ekle_Buton",
+    "value":"//a[@class='addresses__Button-sc-3nfw42-1 dyGhGG']",
+    "type": "xpath"
+  },
+  {
+    "key": "adreslerim_Adres_Düzenle_Buton",
+    "value":"//span[contains(text(),'Düzenle')]",
+    "type": "xpath"
+  },
+  {
+    "key": "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton",
+    "value":"//button[@class='sc-1mahmit-0-button-buttons__ButtonBase-bPYnhn kdfJAX']",
+    "type": "xpath"
+  },
+  {
+    "key": "adreslerim_Adres_Düzenle_Sil_Buton",
+    "value":"//div[@class='spinner__SpinnerContainer-mjba5r-0 gvJRXZ']",
+    "type": "xpath"
+  },
+  {
+    "key": "kredi_Kartlarım_Kart_Ekle_Buton",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO kfUJay']",
+    "type": "xpath"
+  },
+  {
+    "key": "kredi_Kartlarım_Kart_Ekle_Telefon_Textbox",
+    "value":"//input[@id='msisdn']",
+    "type": "xpath"
+  },
+  {
+    "key": "kredi_Kartlarım_Kart_Ekle_Kart_İsmi_Textbox",
+    "value":"//input[@id='accountAliasName']",
+    "type": "xpath"
+  },
+  {
+    "key": "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox",
+    "value":"//input[@id='rtaPan']",
+    "type": "xpath"
+  },
+  {
+    "key": "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox",
+    "value":"//input[@id='expiryDate1']",
+    "type": "xpath"
+  },
+  {
+    "key": "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox",
+    "value":"//input[@id='expiryDate2']",
+    "type": "xpath"
+  },
+  {
+    "key": "kredi_Kartlarım_Kart_Ekle_Ekle_Buton",
+    "value":"//div[@class='spinner__SpinnerContainer-mjba5r-0 gvJRXZ']",
+    "type": "xpath"
+  },
+  {
+    "key": "sifre_Degistir_Eski_Sifre_Textbox",
+    "value":"//input[@name='oldPassword']",
+    "type": "xpath"
+  },
+  {
+    "key": "sifre_Degistir_Yeni_Sifre_Textbox",
+    "value":"//input[@name='newPassword']",
+    "type": "xpath"
+  },
+  {
+    "key": "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox",
+    "value":"//input[@name='newPasswordRepeat']",
+    "type": "xpath"
+  },
+  {
+    "key": "sifre_Degistir_Degistir_Buton",
+    "value":"//button[@class='styled__Button-sc-1rgpx0-5 dJWhEw']",
+    "type": "xpath"
+  }
+
+]

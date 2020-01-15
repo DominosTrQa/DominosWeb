@@ -632,6 +632,16 @@ public class BaseSteps extends BaseTest {
 
   }
 
+  @Step({"<key> li elementi bul, temizle ve rasgele isim değerini yaz",
+          "Find element by <key> clear and send keys random isim"})
+  public void RandomeName(String key){
+    Long timestamp = getTimestamp();
+    WebElement webElement = findElementWithKey(key);
+    webElement.clear();
+    webElement.sendKeys("testotomasyon" + timestamp + "@testinium.com");
+
+  }
+
   @Step("Rastgele telefon no üret")
   public String rastgelTelNoGelsin( ) {
     Vector<Integer> array = new Vector<Integer>();
@@ -657,6 +667,5 @@ public class BaseSteps extends BaseTest {
     String rastgeleTcno= rastgelTelNoGelsin();
     sendKeys(rastgeleTcno,key);
   }
-
 
 }

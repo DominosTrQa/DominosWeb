@@ -128,6 +128,16 @@
     "key": "üyelik_Bilgilerim_Buton",
     "value":"//div[@id='root']/div/div[2]/div/div[3]//ul/li[1]/a",
     "type": "xpath"
+  },
+  {
+    "key": "siparislerim_Buton",
+    "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Kontrol",
+    "value":"//div[@class='styled__ServiceTypeStaticTitle-sc-1akju1v-3 jmrCDC']",
+    "type": "xpath"
   }
 
 
