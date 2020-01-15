@@ -118,6 +118,16 @@
     "key": "uyeOlButon",
     "value":"(//a[contains(text(),'Üye Ol')])",
     "type": "xpath"
+  },
+  {
+    "key": "profil_Menu_Buton",
+    "value":"//div[@id='root']/div/div[2]/div/div[3]/div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Buton",
+    "value":"//div[@id='root']/div/div[2]/div/div[3]//ul/li[1]/a",
+    "type": "xpath"
   }
 
 
