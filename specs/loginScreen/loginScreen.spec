@@ -6,7 +6,7 @@ Specification Heading
 Login - Success Scenario
 ----------------
 Tags:login_successScenario
-* "sevgialkan011@gmail.com" kullanıcısı ve "Sevgi1234" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com " kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Element var mı kontrol et "gelAlButon"
 * Element var mı kontrol et "adreseTeslimButon"
 
@@ -15,7 +15,7 @@ Tags:login_successScenario
 Login - Failed Scenario
 ----------------
 Tags:login_failedScenario
-* "sevgialkan011@gmail.com" kullanıcısı ve "test" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com " kullanıcısı ve "test" şifresi ile üye girişi yapılır
 * Element var mı kontrol et "epostaVeyaSifreYanlisText"
 
 
@@ -23,7 +23,7 @@ Tags:login_failedScenario
 Login - Failed Scenario2
 ----------------
 Tags:login_failedScenario2
-* "test@gmail.com" kullanıcısı ve "Sevgi1234" şifresi ile üye girişi yapılır
+* "test@gmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Element var mı kontrol et "epostaVeyaSifreYanlisText"
 
 
@@ -69,16 +69,16 @@ Tags:signup_screenControlScenario
 * Element var mı kontrol et "facebookIleGirisButon"
 * Element var mı kontrol et "googleIleGirisButon"
 * Element var mı kontrol et "uyeOlSayfasiKVKCheckbox"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiEpostaCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiSmsCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiTelefonCheckbox"
 * Element var mı kontrol et "uyeOlSayfasiYeKazanCheckbox"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKCheckbox"
-* Element var mı kontrol et "uyeOlSayfasiEpostaCheckbox"
-* Element var mı kontrol et "uyeOlSayfasiSmsCheckbox"
-* Element var mı kontrol et "uyeOlSayfasiTelefonCheckbox"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox"
-* Element var mı kontrol et "uyeOlSayfasiEpostaCheckbox"
-* Element var mı kontrol et "uyeOlSayfasiSmsCheckbox"
-* Element var mı kontrol et "uyeOlSayfasiTelefonCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiyeKazanEpostaCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiYeKazanSmsCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiYeKazanTelefonCheckbox"
+
 
 
 
@@ -89,4 +89,50 @@ Tags:signup_newAccountCreateSuccessScenario
 * Random mail ve telefon ile üye olunur
 * Element var mı kontrol et "gelAlButon"
 * Element var mı kontrol et "adreseTeslimButon"
+
+
+Sign Up - New Account Create Fail Scenario
+----------------
+Tags:signup_newAccountCreateFailScenario
+* Üye ol butonuna tıklanır
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Element var mı kontrol et "uyeOlAdBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlSoyaddBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlTelefonBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlEpostaBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlSifreBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlSifreTekrarBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlUyelikSozlesmesiBosBirakilamazUyariText"
+
+
+
+Sign Up - New Account Create Success Scenario2
+----------------
+Tags:signup_newAccountCreateSuccessScenario2
+* Üye ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur ve iletişim kanalları seçilir
+* Element var mı kontrol et "gelAlButon"
+* Element var mı kontrol et "adreseTeslimButon"
+
+
+Üye Olmadan Devam Et  - Button Control
+----------------
+Tags:uyeOlmadanDevamEt_buttonKontrol
+* Elementi bekle ve sonra tıkla "loginButton"
+* Element var mı kontrol et "uyeOlmadanDevamEtButon"
+
+
+Üye Olmadan Devam Et  - Screen Control
+----------------
+Tags:uyeOlmadanDevamEt_screenKontrol
+* Elementi bekle ve sonra tıkla "loginButton"
+* Üye olmadan devam et
+* Element var mı kontrol et "gelAlButon"
+* Element var mı kontrol et "adreseTeslimButon"
+* Element var mı kontrol et "loginButton"
+* Element var mı kontrol et "uyeOlButon"
+
+
+
+
 
