@@ -668,4 +668,52 @@ public class BaseSteps extends BaseTest {
     sendKeys(rastgeleTcno,key);
   }
 
+  @Step({"<key> li elementi bul ve değerini <saveKey> olarak sakla",
+          "Find element by <key> and save text <saveKey>"})
+  public void saveTextByKey(String key, String saveKey) throws InterruptedException {
+    Thread.sleep(1000);
+    StoreHelper.INSTANCE.saveValue(saveKey, findElementWithKey(key).getText());
+    Thread.sleep(2000);
+
+  }
+  @Step({"<key> li elementi bul ve değerini <saveKey> saklanan değeri içeriyor mu kontrol et",
+          "Find element by <key> and compare saved key <saveKey>"})
+  public void equalsSaveTextByKeyContain(String key, String saveKey) {
+    Assert.assertTrue(StoreHelper.INSTANCE.getValue(saveKey).contains(findElementWithKey(key).getText()));
+  }
+
+
+  @Step({"<key> li elementi bul ve değerini <saveKey> saklanan değer ile karşılaştır ve değişiklik oldugunu dogrula",
+          "Find element by <key> and compare saved key <saveKey>"})
+  public void equalsSaveTextByKeyNotequal(String key, String saveKey) {
+    Assert.assertNotEquals(StoreHelper.INSTANCE.getValue(saveKey), findElementWithKey(key).getText());
+  }
+
+  @Step({"<key> li elementi bul, temizle ve <text> değerini yaz",
+          "Find element by <key> clear and send keys <text>"})
+  public void sendKeysByKey(String key, String text) {
+
+    WebElement webElement = findElementWithKey(key);
+    webElement.clear();
+    webElement.sendKeys(text);
+  }
+
+  @Step({"<key> li elementi bul, temizle",
+          "Find element by <key> clear "})
+  public void sendKeysByKey2(String key) {
+    WebElement webElement = findElementWithKey(key);
+    webElement.clear();
+  }
+
+  @Step({"<key> li elementi bul ve değerini <saveKey> saklanan değer ile karşılaştır",
+          "Find element by <key> and compare saved key <saveKey>"})
+  public void equalsSaveTextByKey(String key, String saveKey) {
+    Assert.assertEquals(StoreHelper.INSTANCE.getValue(saveKey), findElementWithKey(key).getText());
+  }
+
+
+
+
 }
+
+
