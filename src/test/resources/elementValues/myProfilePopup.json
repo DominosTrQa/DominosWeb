@@ -1,0 +1,63 @@
+[
+  {
+    "key": "Profilim_Popup_Ye_Kazan_Buton",
+    "value":"//div[@class='styled__Loyaltyregister-sc-126ws66-1 eaLfoz']",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox",
+    "value":"//div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Ye_Kazan_Ye_Kazana_Katıl_Buton",
+    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']//div[4]//div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Ye_Kazan_Sıkca_Sorulan_Sorular_Text",
+    "value":"//div[@class='styled__Header-sc-1j313tq-7 fmjFdz pageHeader__Container-uo3je7-0 bumabh']//h1[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Linktext",
+    "value":"//a[contains(text(),'Üyelik Ko')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Yedikce_Kazan_Text",
+    "value":"//h1[contains(text(),'Yedikçe kazan')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Uyelik_Bilgilerim_Eposta_Textbox",
+    "value":"//div[2]//div[1]//div[1]//div[1]//div[1]//input[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox",
+    "value":"//body//div[2]//div[2]//div[1]//div[1]//div[1]//input[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Siparislerim_Buton",
+    "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Siparislerim_Tek_Tikla_Siparislerim_Text",
+    "value":"//h4[contains(text(),'kla Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Siparislerim_Aktif_Siparislerim_Text",
+    "value":"//h4[contains(text(),'Aktif Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Siparislerim_Eski_Siparislerim_Text",
+    "value":"//h4[contains(text(),'Eski Sipari')]",
+    "type": "xpath"
+  }
+
+]

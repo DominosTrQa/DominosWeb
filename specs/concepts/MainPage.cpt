@@ -13,7 +13,7 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
 * Elementi bekle ve sonra tıkla "ilceSariyer"
-* "2" saniye bekle
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
 * Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
 * "2" saniye bekle
@@ -37,20 +37,25 @@
 #Gel Al da Şubeleri Göster butonuna tıklanır
 * "1" saniye bekle
 * Elementi bekle ve sonra tıkla "subeleriGosterButon"
+
 #Gel Al da listelenen ilk şube seçilir
 * "1" saniye bekle
 * Elementi bekle ve sonra tıkla "gelAlListelemeIlkSube"
+
 # Seçili Adres ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "cookiesKapatButon"
+
 # Seçili Şube ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "seciliSubeIleDevamEtButon"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "cookiesKapatButon"
+
 # Tüm Kampanyalara Git
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "tümKampanyalarButon"
+
 # Sepetime git
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "sepetimButon"

@@ -7,12 +7,7 @@ myProfileScreen
 ------------------------------------------------
 Tags:profilim_uyelikBilgilerimSayfaKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
@@ -36,12 +31,7 @@ Tags:profilim_uyelikBilgilerimSayfaKontrolu
 ------------------------------------------------
 Tags:profilim_siparislerimSayfaKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Siparislerim_Linktext"
 * Element var mı kontrol et "siparislerim_Aktif_Siparislerim_Text"
 * Element var mı kontrol et "siparislerim_Tek_Tıkla_Siparislerim_Text"
@@ -51,40 +41,25 @@ Tags:profilim_siparislerimSayfaKontrolu
 ------------------------------------------------
 Tags:profilim_pizzaTakipSayfaKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * Element var mı kontrol et "pizza_Takip_Siparis_Numarası_Textbox"
 * Element var mı kontrol et "pizza_Takip_Görüntüle_Buton"
 
-16- Profilim-Notlarım sayfa kontrolü (Bitmedi)
+16- Profilim-Notlarım sayfa kontrolü
 ---------------------------------------------------------
 Tags:profilim_notlarimSayfaKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * Element var mı kontrol et "Notlarım_Yeni_Not_Ekle_Buton"
-//* Element var mı kontrol et "Notlarım_Not_Düzenle_Buton"
+* Element var mı kontrol et "Notlarım_Not_Düzenle_Buton"
 
 17- Profilim - Adreslerim sayfa kontrolü
 ---------------------------------------------------------
 Tags:profilim_adreslerimSayfaKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_Linktext"
 * Element var mı kontrol et "adreslerim_Adres_Ekle_Buton"
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Buton"
@@ -95,15 +70,9 @@ Tags:profilim_adreslerimSayfaKontrolu
 ---------------------------------------------------------
 Tags:profilim_krediKartlarimSayfaKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
-* Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Telefon_Textbox"
 * Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox"
 * Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox"
 * Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox"
@@ -113,12 +82,7 @@ Tags:profilim_krediKartlarimSayfaKontrolu
 ---------------------------------------------------------
 Tags:profilim_sifreDegistirSayfaKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
 * Element var mı kontrol et "sifre_Degistir_Eski_Sifre_Textbox"
 * Element var mı kontrol et "sifre_Degistir_Yeni_Sifre_Textbox"
@@ -130,12 +94,7 @@ Tags:profilim_sifreDegistirSayfaKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_degistirilebilirAlanlarinKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
@@ -149,40 +108,29 @@ Tags:uyelikBilgilerim_degistirilebilirAlanlarinKontrolu
 ------------------------------------------------
 Tags:uyelikBilgilerim_zorunluAlanlarinKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Element var mı kontrol et "üyelik_Bilgilerim_Eposta_Adresi_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Telefon_Textbox"
 
-22- Üyelik Bilgilerim - Değişikliklerin başarılı bir şekilde yapıldığının kontrolü    (Bitmedi)
+22- Üyelik Bilgilerim - Değişikliklerin başarılı bir şekilde yapıldığının kontrolü (Bitmedi)
 -------------------------------------------------------------------------------------
 Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Üye olarak giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
-* "üyelik_Bilgilerim_Ad_Textbox" elementinin text alanını BACKSPACE ile temizle
-* "üyelik_Bilgilerim_Ad_Textbox" li elementi bul, temizle ve rasgele isim değerini yaz
-*"15" saniye bekle
+* "üyelik_Bilgilerim_Ad_Textbox" elementine random isim yaz
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Soyad_Textbox"
+* "üyelik_Bilgilerim_Soyad_Textbox" elementine random isim yaz
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Dogum_Tarihi__Tarih_Sec"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
+
 
 23- Üyelik Bilgilerim - Üyelikten ayrılmak için tıklayın kontrolü
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 
@@ -191,13 +139,7 @@ Tags:uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilmasiKontrolu
 
-* Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
@@ -208,12 +150,7 @@ Tags:uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilmasiKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_uyelintenAyrilmadanVazgecmeKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Vazgec_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
@@ -222,12 +159,7 @@ Tags:uyelikBilgilerim_uyelintenAyrilmadanVazgecmeKontrolu
 --------------------------------------------------------
 Tags:uyelikBilgilerim_KVKKAydinlatmaMetniKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Kontrol"
 
@@ -235,26 +167,16 @@ Tags:uyelikBilgilerim_KVKKAydinlatmaMetniKontrolu
 ----------------------------------------------------
 Tags:uyelikBilgilerim_AcikRizaMetniKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Acık_Rıza_Metni_Linktext"
-*Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Kontrol"
+* Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Kontrol"
 
 
 28- Üyelik Bilgilerim - Ye-Kazan Sadakat Programı Üyelik Koşulları Metni kontrolü
 --------------------------------------------------------------------------------
 Tags:uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ye_Kazan_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Kontrol"
 
@@ -490,3 +412,69 @@ Tags:krediKartlarim_hataliKartKontrolu
 * "20" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox" elemente yaz
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Ekle_Buton"
 * Element var mı kontrol et "krediKartlarimGecersizKartNumarasiUyariText"
+45- Şifre Değiştir - Zorunlu alan kontrolü
+--------------------------------------------------------------------------------
+Tags:sifreDegistir_ZorunluAlanKontrolu
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Eski_Sifre_Error_Kontrol_Text"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Yeni_Sifre_Error_Kontrol_Text"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Yeni_Sifre_Tekrar_Error_Kontrol_Text"
+
+46- Şifre Değiştir - Hatalı şifrelere verilen hata kontrolü(eski şifre hatalı)
+--------------------------------------------------------------------------------
+Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluEskiSifreHatali
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
+* "123456Do" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
+* "123456Do1" textini "sifre_Degistir_Yeni_Sifre_Textbox" elemente yaz
+* "123456Do1" textini "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifre_Degistir_Degistir_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Eski_Sifre_Hatalı_Popup_Kontrol"
+
+47- Şifre Değiştir - Hatalı şifrelere verilen hata kontrolü(yeni şifreler farklı)
+--------------------------------------------------------------------------------
+Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerHatali
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
+* "123456Do" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
+* "123456Do1" textini "sifre_Degistir_Yeni_Sifre_Textbox" elemente yaz
+* "123456Do12" textini "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifre_Degistir_Degistir_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Yeni_Sifre_Uyusmuyor_Kontrol_Text"
+
+48- Şifre Değiştir - Hatalı şifrelere verilen hata kontrolü(yeni şifreler farklı)
+--------------------------------------------------------------------------------
+Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
+* "123456Do" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
+* "123456Do" textini "sifre_Degistir_Yeni_Sifre_Textbox" elemente yaz
+* "123456Do" textini "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifre_Degistir_Degistir_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Aynı_Sifre_Olamaz_Popup_Text"
+
+49- Şifre Değiştir - Başarılı şekilde şifre değiştirme kontrolü
+--------------------------------------------------------------------------------
+Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
+
+* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
+* "Test1234" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
+* "123456Do" textini "sifre_Degistir_Yeni_Sifre_Textbox" elemente yaz
+* "123456Do" textini "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifre_Degistir_Degistir_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Aynı_Sifre_Olamaz_Popup_Text"
+
+
+
+
+

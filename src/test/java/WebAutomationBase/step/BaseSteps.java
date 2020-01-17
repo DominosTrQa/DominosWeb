@@ -667,6 +667,12 @@ public class BaseSteps extends BaseTest {
     String rastgeleTcno= rastgelTelNoGelsin();
     sendKeys(rastgeleTcno,key);
   }
+  public String randomName(int stringLength){
+
+    Random random = new Random();
+    char[] chars = "ABCDEFGHIJKLMNOPQRSTUWVXYZabcdefghijklmnopqrstuwvxyz".toCharArray();
+    String stringRandom = "";
+    for (int i = 0; i < stringLength; i++) {
 
   @Step({"<key> li elementi bul ve değerini <saveKey> olarak sakla",
           "Find element by <key> and save text <saveKey>"})
@@ -704,6 +710,17 @@ public class BaseSteps extends BaseTest {
     WebElement webElement = findElementWithKey(key);
     webElement.clear();
   }
+      stringRandom = stringRandom + String.valueOf(chars[random.nextInt(chars.length)]);
+    }
+
+    return stringRandom;
+  }
+
+  @Step({"<key> elementine random isim yaz"})
+  public void writeRandomNameToElement(String key){
+    findElement(key).sendKeys(randomName(3));
+  }
+}
 
   @Step({"<key> li elementi bul ve değerini <saveKey> saklanan değer ile karşılaştır",
           "Find element by <key> and compare saved key <saveKey>"})

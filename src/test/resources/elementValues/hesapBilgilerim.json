@@ -25,6 +25,11 @@
     "type": "xpath"
   },
   {
+    "key": "üyelik_Bilgilerim_Dogum_Tarihi__Tarih_Sec",
+    "value":"//div[@class='react-datepicker__day react-datepicker__day--wed'][contains(text(),'9')]",
+    "type": "xpath"
+  },
+  {
     "key": "üyelik_Bilgilerim_Takım_Dropdown",
     "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 gTkNlE']/div[4]/div[1]/div/div[1]/div[@class='dropdown__Button-wa0gtc-6 kEweqg']/div[2]/div[.='Seçiniz...']",
     "type": "xpath"
@@ -61,7 +66,7 @@
   },
   {
     "key": "üyelik_Bilgilerim_Ye_Kazan_Checkbox",
-    "value":"//body/div[@id='root']/div[@class='masterContainer__Container-sc-1yzbkqj-0 bGJLxJ']/div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 klgTRg']/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 jMZFHK']/form/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/div[4]/div[1]/div[1]/div[1]/div[1]",
+    "value":"//body/div[@id='root']/div[@class='masterContainer__Container-sc-1yzbkqj-0 bGJLxJ']/div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 klgTRg']/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 jMZFHK']/form/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/div[3]/div[1]/div[1]/div[1]",
     "type": "xpath"
   },
   {
@@ -132,6 +137,46 @@
   {
     "key": "üyelik_Bilgilerim_Sifre_Degistir_Linktext",
     "value":"//a[contains(text(),'ifre De')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Linktext",
+    "value":"//a[contains(text(),'ifre De')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton",
+    "value":"//button[@class='styled__Button-sc-1rgpx0-5 dJWhEw']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Eski_Sifre_Error_Kontrol_Text",
+    "value":"//div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 gNbNNr']//div//div[@class='input__ErrorText-wbeopl-4 bcanhF'][contains(text(),'rakamazs')]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Yeni_Sifre_Error_Kontrol_Text",
+    "value":"//body/div[@id='root']/div[@class='masterContainer__Container-sc-1yzbkqj-0 bGJLxJ']/div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 klgTRg']/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 jMZFHK']/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/form/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[2]/div[1]/div[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Yeni_Sifre_Uyusmuyor_Kontrol_Text",
+    "value":"//div[@class='input__ErrorText-wbeopl-4 bcanhF']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Aynı_Sifre_Olamaz_Popup_Text",
+    "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk']",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Yeni_Sifre_Tekrar_Error_Kontrol_Text",
+    "value":"//body/div[@id='root']/div[@class='masterContainer__Container-sc-1yzbkqj-0 bGJLxJ']/div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 klgTRg']/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 jMZFHK']/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/form/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[3]/div[1]/div[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Eski_Sifre_Hatalı_Popup_Kontrol",
+    "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk']",
     "type": "xpath"
   },
   {
