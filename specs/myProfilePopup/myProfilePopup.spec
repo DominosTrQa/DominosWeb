@@ -114,3 +114,12 @@ Tags:profilimPopup_SiparislerimSiparisAlanlariKontrolu
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Aktif_Siparislerim_Text"
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Tek_Tikla_Siparislerim_Text"
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Eski_Siparislerim_Text"
+
+Profilim Popup - Çıkış Yap - Var Olan Kullanıcı ile Çıkış Kontrolü
+----------------------------------------------------------------------
+
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
