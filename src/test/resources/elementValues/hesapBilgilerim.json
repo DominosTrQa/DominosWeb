@@ -288,6 +288,98 @@
     "key": "sifre_Degistir_Degistir_Buton",
     "value":"//button[@class='styled__Button-sc-1rgpx0-5 dJWhEw']",
     "type": "xpath"
+  },
+  {
+    "key": "pizzaTakipTakipKoduGecersizdirText",
+    "value":"(//div[contains(text(),'Girdiğin takip kodu geçersizdir')])",
+    "type": "xpath"
+  },
+  {
+    "key": "pizzaTakipSiparisSonucuText",
+    "value":"//*[@class='pageHeader__Title-uo3je7-1 gMRowo']",
+    "type": "xpath"
+  },
+  {
+    "key": "pizzaTakipDijitalPizzaTakipSistemiAlani",
+    "value":"//*[@class='pizzaTrackerInfo__FlContainer-sc-178atlk-0 ZHdvy']",
+    "type": "xpath"
+  },
+  {
+    "key": "krediKartlarimKartIsmiTextbox",
+    "value":"//*[@label='Kart İsmi']",
+    "type": "xpath"
+  },
+  {
+    "key": "krediKartlarimGecersizKartNumarasiUyariText",
+    "value":"(//div[contains(text(),'Geçersiz Kart Numarası')])",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimYeniNotEklePopUpText",
+    "value":"(//div[contains(text(),'Yeni Not Ekle')])",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimYeniNotEkleNotBasligiTextbox",
+    "value":"(//input[@class='input__Control-wbeopl-2 iQtoeP'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimYeniNotEkleNotTextbox",
+    "value":"(//input[@class='input__Control-wbeopl-2 iQtoeP'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimYeniNotEkleYeniNotEkleButon",
+    "value":"(//button[contains(text(),'Yeni Not Ekle')])",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimBirinciNotBasligi",
+    "value":"(//*[(@class='notes__NoteTitle-x7fyts-3 cpNPRp')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimIkinciNotBasligi",
+    "value":"(//*[(@class='notes__NoteTitle-x7fyts-3 cpNPRp')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimIlkNotDuzenleButon",
+    "value":"(//*[(@class='notes__EditButton-x7fyts-7 iqvMpM')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimIkinciNotDuzenleButon",
+    "value":"(//*[(@class='notes__EditButton-x7fyts-7 iqvMpM')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimSilButon",
+    "value":"(//button[contains(text(),'Sil')])",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimDüzenlePopupText",
+    "value":"(//div[contains(text(),'Düzenle')])",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimDüzenleDegisiklikleriKaydetButon",
+    "value":"(//button[contains(text(),'DEĞİŞİKLİKLERİ KAYDET')])",
+    "type": "xpath"
+  },
+  {
+    "key": "notlarimDüzenlePopupKapatButonu",
+    "value":"(//div[@class='modalDialog__CloseButton-sc-1wmoa97-2 bCJEoT'])",
+    "type": "xpath"
   }
+
+
+
+
+
+
+
 
 ]

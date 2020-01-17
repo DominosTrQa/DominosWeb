@@ -181,6 +181,237 @@ Tags:uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 * Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Kontrol"
 
 
+29-Pizza Takip - Zorunlu Alan Kontrolü
+----------------
+Tags:pizzaTakip_zorunluAlanKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
+* Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
+* Element var mı kontrol et "pizzaTakipTakipKoduGecersizdirText"
+
+
+30 - Pizza Takip - Sipariş Numarası Girilerek Görüntüle Butonuna Tıklanınca Çıkan Ekran Kontrolü
+----------------
+Tags:pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
+* "123456" textini "pizza_Takip_Siparis_Numarası_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
+* Element var mı kontrol et "pizzaTakipSiparisSonucuText"
+
+
+
+31 - Pizza Takip - Dijital Pizza Takip Sistemi Yazısının Kontrolü
+----------------
+Tags:pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
+* Element var mı kontrol et "pizzaTakipDijitalPizzaTakipSistemiAlani"
+
+
+32 - Notlarım - Yeni Not Ekle Popup Kontrolü
+----------------
+Tags:notlarim_yeniNotEklePopupKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
+* Element var mı kontrol et "notlarimYeniNotEklePopUpText"
+
+
+kullanıcının her zaman bir notu bulunacak şekilde yaptım
+33 - Notlarım - Yeni Not Ekleme Kontrolü
+----------------
+Tags:notlarim_yeniNotEklemeKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
+* Element var mı kontrol et "notlarimYeniNotEklePopUpText"
+* "5" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
+* "3" saniye bekle
+* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
+* "3" saniye bekle
+* "notlarimIkinciNotBasligi" li elementi bul ve değerini "randomKelime" saklanan değeri içeriyor mu kontrol et
+* Elementi bekle ve sonra tıkla "notlarimIkinciNotDuzenleButon"
+* Elementi bekle ve sonra tıkla "notlarimSilButon"
+* "3" saniye bekle
+
+
+kullanıcının her zaman bir notu bulunacak şekilde yaptım
+34 - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
+----------------
+Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
+* Element var mı kontrol et "notlarimYeniNotEklePopUpText"
+* "5" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
+* "3" saniye bekle
+* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
+* "3" saniye bekle
+* "notlarimIkinciNotBasligi" li elementi bul ve değerini "randomKelime" saklanan değeri içeriyor mu kontrol et
+* Elementi bekle ve sonra tıkla "notlarimIkinciNotDuzenleButon"
+* Element var mı kontrol et "notlarimDüzenlePopupText"
+* Elementi bekle ve sonra tıkla "notlarimSilButon"
+* "3" saniye bekle
+
+
+
+kullanıcının her zaman bir notu bulunacak şekilde yaptım
+35 - Notlarım - Var Olan Notu Değiştirme Kontrolü
+----------------
+Tags:notlarim_varOlanNotuDegistirmeKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
+* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "notlarimBirinciNotBasligi"
+* Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
+* "1" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
+* "3" saniye bekle
+* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* Elementi bekle ve sonra tıkla "notlarimDüzenleDegisiklikleriKaydetButon"
+* "3" saniye bekle
+* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" saklanan değer ile karşılaştır ve değişiklik oldugunu dogrula
+
+
+
+
+
+kullanıcının her zaman bir notu bulunacak şekilde yaptım
+36 - Notlarım - Var Olan Notu Değiştirmekten Vazgeçme Kontrolü
+----------------
+Tags:notlarim_varOlanNotuDegistirmeKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
+* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "notlarimBirinciNotBasligi"
+* Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
+* Elementi bekle ve sonra tıkla "notlarimDüzenlePopupKapatButonu"
+* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" saklanan değer ile karşılaştır
+
+
+
+kullanıcının her zaman bir notu bulunacak şekilde yaptım
+37 - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
+----------------
+Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
+* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "notlarimBirinciNotBasligi"
+* Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
+* Elementi bekle ve sonra tıkla "notlarimSilButon"
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
+* Element var mı kontrol et "notlarimYeniNotEklePopUpText"
+* "3" saniye bekle
+* "Test" textini "notlarimYeniNotEkleNotBasligiTextbox" elemente yaz
+* "Test" textini "notlarimYeniNotEkleNotTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
+* "3" saniye bekle
+
+
+
+//bitmedi
+42 - Kredi Kartlarım - Başarılı Bir Şekilde Kredi Kartı Eklemek
+----------------
+Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemek
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al da listelenen ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
+* "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox"
+* "4282209027132016" textini "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox"
+* "05" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox"
+* "20" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Ekle_Buton"
+
+
+
+44 - Kredi Kartlarım - Hatalı Kart Kontrolü
+----------------
+Tags:krediKartlarim_hataliKartKontrolu
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al da listelenen ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
+* "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox"
+* "1234567891234567" textini "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox"
+* "12" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox"
+* "20" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Ekle_Buton"
+* Element var mı kontrol et "krediKartlarimGecersizKartNumarasiUyariText"
 45- Şifre Değiştir - Zorunlu alan kontrolü
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_ZorunluAlanKontrolu
