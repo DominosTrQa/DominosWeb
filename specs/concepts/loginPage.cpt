@@ -27,6 +27,18 @@
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
+# Sabit sifre Random mail ve telefon ile üye olunur
+* "Test" textini "uyeOlAdTextbox" elemente yaz
+* "Test" textini "uyeOlSoyadTextbox" elemente yaz
+* Rastgele telefon no üret
+* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
+* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
+* "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
+* "Test1234" textini "uyeOlSifreTexbox" elemente yaz
+* "uyeOlSifreyTekrarTextbox" li elementi bul ve değerini "randomSifre" saklanan degeri yazdir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
 # Random mail ve telefon ile üye olunur ve iletişim kanalları seçilir
 * "Test" textini "uyeOlAdTextbox" elemente yaz
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
@@ -43,3 +55,38 @@
 * Elementi bekle ve sonra tıkla "uyeOlSayfasisuccessYeKazanCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanSmsCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
+# Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+# Üye olarak giriş yapılır ve profilim butonuna tıklanır
+* Üye ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+
+
+# Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+# Üye olarak giriş yapılır ve siparislerime git
+* Üye ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "Profilim_Popup_Siparislerim_Buton"

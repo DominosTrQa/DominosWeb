@@ -667,5 +667,21 @@ public class BaseSteps extends BaseTest {
     String rastgeleTcno= rastgelTelNoGelsin();
     sendKeys(rastgeleTcno,key);
   }
+  public String randomName(int stringLength){
 
+    Random random = new Random();
+    char[] chars = "ABCDEFGHIJKLMNOPQRSTUWVXYZabcdefghijklmnopqrstuwvxyz".toCharArray();
+    String stringRandom = "";
+    for (int i = 0; i < stringLength; i++) {
+
+      stringRandom = stringRandom + String.valueOf(chars[random.nextInt(chars.length)]);
+    }
+
+    return stringRandom;
+  }
+
+  @Step({"<key> elementine random isim yaz"})
+  public void writeRandomNameToElement(String key){
+    findElement(key).sendKeys(randomName(3));
+  }
 }
