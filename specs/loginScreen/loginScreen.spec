@@ -3,7 +3,7 @@ Specification Heading
 
 
      
-Login - Success Scenario
+1-Login - Success Scenario
 ----------------
 Tags:login_successScenario
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -12,7 +12,7 @@ Tags:login_successScenario
 
 
 
-Login - Failed Scenario
+2-Login - Failed Scenario
 ----------------
 Tags:login_failedScenario
 * "dominostest2@hotmail.com" kullanıcısı ve "test" şifresi ile üye girişi yapılır
@@ -20,7 +20,7 @@ Tags:login_failedScenario
 
 
 
-Login - Failed Scenario2
+2-Login - Failed Scenario2
 ----------------
 Tags:login_failedScenario2
 * "test@gmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -28,7 +28,7 @@ Tags:login_failedScenario2
 
 
 
-Login - Screen Check Scenario
+3-Login - Screen Check Scenario
 ----------------
 Tags:login_screenCheckScenario
 * Elementi bekle ve sonra tıkla "loginButton"
@@ -43,19 +43,19 @@ Tags:login_screenCheckScenario
 
 
 
-Login - Parolamı Unuttum Scenario
+4-Login - Parolamı Unuttum Scenario
 ----------------
 Tags:login_parolamiUnuttumScenario
 * Elementi bekle ve sonra tıkla "loginButton"
 * Elementi bekle ve sonra tıkla "parolamıUnuttumButton"
 * "3" saniye bekle
-* "sevgialkan011@gmail.com" textini "parolamıUnuttumEmailTextbox" elemente yaz
+* "dominostest2@hotmail.com" textini "parolamıUnuttumEmailTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sifremiHatirlatButon"
 * Element var mı kontrol et "sifremDegistirmeMailiGonderildiText"
 
 
 
-Sign Up - Screen Control Scenario
+7-Sign Up - Screen Control Scenario
 ----------------
 Tags:signup_screenControlScenario
 * Üye ol butonuna tıklanır
@@ -82,7 +82,7 @@ Tags:signup_screenControlScenario
 
 
 
-Sign Up - New Account Create Success Scenario
+8-Sign Up - New Account Create Success Scenario
 ----------------
 Tags:signup_newAccountCreateSuccessScenario
 * Üye ol butonuna tıklanır
@@ -91,7 +91,7 @@ Tags:signup_newAccountCreateSuccessScenario
 * Element var mı kontrol et "adreseTeslimButon"
 
 
-Sign Up - New Account Create Fail Scenario
+9-Sign Up - New Account Create Fail Scenario
 ----------------
 Tags:signup_newAccountCreateFailScenario
 * Üye ol butonuna tıklanır
@@ -106,7 +106,7 @@ Tags:signup_newAccountCreateFailScenario
 
 
 
-Sign Up - New Account Create Success Scenario2
+10-Sign Up - New Account Create Success Scenario2
 ----------------
 Tags:signup_newAccountCreateSuccessScenario2
 * Üye ol butonuna tıklanır
@@ -115,14 +115,14 @@ Tags:signup_newAccountCreateSuccessScenario2
 * Element var mı kontrol et "adreseTeslimButon"
 
 
-Üye Olmadan Devam Et  - Button Control
+11-Üye Olmadan Devam Et - Button Control
 ----------------
 Tags:uyeOlmadanDevamEt_buttonKontrol
 * Elementi bekle ve sonra tıkla "loginButton"
 * Element var mı kontrol et "uyeOlmadanDevamEtButon"
 
 
-Üye Olmadan Devam Et  - Screen Control
+12-Üye Olmadan Devam Et - Screen Control
 ----------------
 Tags:uyeOlmadanDevamEt_screenKontrol
 * Elementi bekle ve sonra tıkla "loginButton"
@@ -131,7 +131,6 @@ Tags:uyeOlmadanDevamEt_screenKontrol
 * Element var mı kontrol et "adreseTeslimButon"
 * Element var mı kontrol et "loginButton"
 * Element var mı kontrol et "uyeOlButon"
-
 
 
 
