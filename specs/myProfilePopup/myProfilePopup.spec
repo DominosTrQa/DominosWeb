@@ -6,7 +6,7 @@ myProfilePopup
 -----------------------------------------------------
 Tags:profilimPopup_yeKazanSayfaKontrolu
 
-* Üye olarak giriş yapılır ve profilim butonuna tıklanır
+* Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Buton"
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Ye_Kazana_Katıl_Buton"
@@ -16,7 +16,7 @@ Tags:profilimPopup_yeKazanSayfaKontrolu
 ---------------------------------------------------
 Tags:profilimPopup_uyelikKosullariSayfaKontrolu
 
-* Üye olarak giriş yapılır ve profilim butonuna tıklanır
+* Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Buton"
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Linktext"
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Yedikce_Kazan_Text"
@@ -25,7 +25,7 @@ Tags:profilimPopup_uyelikKosullariSayfaKontrolu
 ------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimZorunluAlanKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Eposta_Textbox"
 * Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox"
 
@@ -34,7 +34,7 @@ Tags:profilimPopup_uyelikBilgilerimZorunluAlanKontrolu
 -------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimDegistirebilirimAlanKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
@@ -47,7 +47,7 @@ Tags:profilimPopup_uyelikBilgilerimDegistirebilirimAlanKontrolu
 ----------------------------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimDegisikliklerinBasariliBirSekildeYapidigininKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
 * "üyelik_Bilgilerim_Ad_Textbox" elementine random isim yaz
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
@@ -56,7 +56,7 @@ Tags:profilimPopup_uyelikBilgilerimDegisikliklerinBasariliBirSekildeYapidigininK
 ----------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmakicinTiklayinKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 
@@ -64,7 +64,7 @@ Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmakicinTiklayinKontrolu
 ---------------------------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmasiKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
@@ -74,7 +74,7 @@ Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmas
 -------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmadanVazgecmeKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Vazgec_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
@@ -83,7 +83,7 @@ Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmadanVazgecmeKontrolu
 ----------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimKvkkAydinlatmaMetniKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Kontrol"
 
@@ -91,7 +91,7 @@ Tags:profilimPopup_uyelikBilgilerimKvkkAydinlatmaMetniKontrolu
 ---------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimAcikRizaMetniKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Acık_Rıza_Metni_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Kontrol"
 
@@ -99,15 +99,15 @@ Tags:profilimPopup_uyelikBilgilerimAcikRizaMetniKontrolu
 --------------------------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimYeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ye_Kazan_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Kontrol"
 
 61- Profilim Popup - Siparişlerim - Sipariş Alanları Kontrolü
-------------------------------------------------------------
+--------------------------------------------------------------
 Tags:profilimPopup_SiparislerimSiparisAlanlariKontrolu
 
-* Üye olarak giriş yapılır ve siparislerime git
+* Üye olunur giriş yapılır ve siparislerime git
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Aktif_Siparislerim_Text"
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Tek_Tikla_Siparislerim_Text"
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Eski_Siparislerim_Text"
@@ -309,31 +309,32 @@ Tags:profilimPopupNotlarim_varOlanNotuSilmeKontrolu
 * Elementi bekle ve sonra tıkla "notlarimSilButon"
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
 
-
-
-Profilim Popup - Çıkış Yap - Var Olan Kullanıcı ile Çıkış Kontrolü
+74- Profilim Popup - Çıkış Yap - Var Olan Kullanıcı ile Çıkış Kontrolü
 ----------------------------------------------------------------------
+Tags:profilimPopup_cikisYapVarOlanKullaniciileCikisKontrolu
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Üye olunur giriş yapılır ve profilim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "Profilim_Popup_Cikis_Yap_LinkText"
+
+75- Profilim Popup - Çıkış Yap - Yeni Kullanıcı ile Çıkış Kontrolü
+----------------------------------------------------------------
+Tags:profilimPopup_cikisYapYeniKullaniciileCikisKontrolu
+
+* Üye olunur giriş yapılır ve profilim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "Profilim_Popup_Cikis_Yap_LinkText"
 
 
 76 - Profilim Popup - Adreslerim - Popup Kontrolü
 ----------------
 Tags:profilimPopupAdreslerim_popupKontrolu
-* Üye olarak giriş yapılır ve profilim butonuna tıklanır
+* Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
 * Element var mı kontrol et "profilimPopupAdreslerimPopupText"
-
-
 
 77 - Profilim Popup - Adreslerim - Manuel Yeni Adres Ekleme kontrolü
 ----------------
 Tags:profilimPopupAdreslerim_manuelYeniAdresEklemeKontrolu
-* Üye olarak giriş yapılır ve profilim butonuna tıklanır
+* Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
 * Element var mı kontrol et "profilimPopupAdreslerimPopupText"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"
@@ -349,7 +350,7 @@ Tags:profilimPopupAdreslerim_manuelYeniAdresEklemeKontrolu
 78 - Profilim Popup - Adreslerim - İl İlçe Mahalle Değiştirme Kontrolü
 ----------------
 Tags:profilimPopupAdreslerim_ilIlceMahalleDegistirmeKontrolu
-* Üye olarak giriş yapılır ve profilim butonuna tıklanır
+* Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
 * Element var mı kontrol et "profilimPopupAdreslerimPopupText"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimIlIlceDüzenleButon"
@@ -376,7 +377,7 @@ Tags:profilimPopupAdreslerim_kayitliAdreslerdenSecmeKontrolu
 80 - Profilim Popup - Adreslerim - Kayıtlı Adresi Düzenle Kontrolü
 ----------------
 Tags:profilimPopupAdreslerim_kayitliAdresiDuzenleKontrolu
-* Üye olarak giriş yapılır ve profilim butonuna tıklanır
+* Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
 * Element var mı kontrol et "profilimPopupAdreslerimPopupText"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"
@@ -400,7 +401,7 @@ Tags:profilimPopupAdreslerim_kayitliAdresiDuzenleKontrolu
 81 - Profilim Popup - Adreslerim - Kayıtlı Adresi Sil Kontrolü
 ----------------
 Tags:profilimPopupAdreslerim_kayitliAdresiSilKontrolu
-* Üye olarak giriş yapılır ve profilim butonuna tıklanır
+* Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
 * Element var mı kontrol et "profilimPopupAdreslerimPopupText"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"

@@ -113,11 +113,11 @@
     "key": "profilimPopupAdreslerimKayitliAdresSecilenAdresileDevamEt",
     "value":"//a[text()='SEÇİLİ ADRES İLE DEVAM ET']",
     "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Cikis_Yap_LinkText",
+    "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 jjKXGt']",
+    "type": "xpath"
   }
-
-
-
-
-
 
 ]
