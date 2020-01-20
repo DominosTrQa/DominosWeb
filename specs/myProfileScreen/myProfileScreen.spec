@@ -116,7 +116,7 @@ Tags:uyelikBilgilerim_zorunluAlanlarinKontrolu
 -------------------------------------------------------------------------------------
 Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
 * "üyelik_Bilgilerim_Ad_Textbox" elementine random isim yaz
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Soyad_Textbox"
@@ -184,12 +184,8 @@ Tags:uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 29-Pizza Takip - Zorunlu Alan Kontrolü
 ----------------
 Tags:pizzaTakip_zorunluAlanKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
 * Element var mı kontrol et "pizzaTakipTakipKoduGecersizdirText"
@@ -198,12 +194,8 @@ Tags:pizzaTakip_zorunluAlanKontrolu
 30 - Pizza Takip - Sipariş Numarası Girilerek Görüntüle Butonuna Tıklanınca Çıkan Ekran Kontrolü
 ----------------
 Tags:pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * "123456" textini "pizza_Takip_Siparis_Numarası_Textbox" elemente yaz
 * Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
@@ -214,12 +206,8 @@ Tags:pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKon
 31 - Pizza Takip - Dijital Pizza Takip Sistemi Yazısının Kontrolü
 ----------------
 Tags:pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * Element var mı kontrol et "pizzaTakipDijitalPizzaTakipSistemiAlani"
 
@@ -227,12 +215,8 @@ Tags:pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 32 - Notlarım - Yeni Not Ekle Popup Kontrolü
 ----------------
 Tags:notlarim_yeniNotEklePopupKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
 * Element var mı kontrol et "notlarimYeniNotEklePopUpText"
@@ -242,12 +226,8 @@ kullanıcının her zaman bir notu bulunacak şekilde yaptım
 33 - Notlarım - Yeni Not Ekleme Kontrolü
 ----------------
 Tags:notlarim_yeniNotEklemeKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
@@ -268,12 +248,8 @@ kullanıcının her zaman bir notu bulunacak şekilde yaptım
 34 - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
 ----------------
 Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
@@ -296,12 +272,8 @@ kullanıcının her zaman bir notu bulunacak şekilde yaptım
 35 - Notlarım - Var Olan Notu Değiştirme Kontrolü
 ----------------
 Tags:notlarim_varOlanNotuDegistirmeKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
 * "3" saniye bekle
@@ -323,12 +295,8 @@ kullanıcının her zaman bir notu bulunacak şekilde yaptım
 36 - Notlarım - Var Olan Notu Değiştirmekten Vazgeçme Kontrolü
 ----------------
 Tags:notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
 * "3" saniye bekle
@@ -343,12 +311,8 @@ kullanıcının her zaman bir notu bulunacak şekilde yaptım
 37 - Notlarım - Var olan notu silme kontrolü
 ----------------
 Tags:notlarim_varOlanNotuSilmeKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
 * "3" saniye bekle
@@ -369,14 +333,8 @@ Tags:notlarim_varOlanNotuSilmeKontrolu
 42 - Kredi Kartlarım - Başarılı Bir Şekilde Kredi Kartı Eklemek
 ----------------
 Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemek
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Gel Al da Şubeleri Göster butonuna tıklanır
-* Gel Al da listelenen ilk şube seçilir
-* Seçili Şube ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+* Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
 * "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
@@ -466,7 +424,7 @@ Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_BasariliSekildeSifreDegistirmeKontrolu
 
-* Üye olarak giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
 * "Test1234" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
 * "123456Do" textini "sifre_Degistir_Yeni_Sifre_Textbox" elemente yaz

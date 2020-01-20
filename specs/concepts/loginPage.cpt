@@ -71,7 +71,7 @@
 * Seçili Adres ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 
-# Üye olarak giriş yapılır ve profilim butonuna tıklanır
+# Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Adrese Teslim servis tipi seçilir
@@ -80,7 +80,7 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 
 
-# Üye olarak giriş yapılır ve üyelik bilgilerime git
+# Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Adrese Teslim servis tipi seçilir
@@ -89,7 +89,7 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
 
-# Üye olarak giriş yapılır ve siparislerime git
+# Üye olunur giriş yapılır ve siparislerime git
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Adrese Teslim servis tipi seçilir

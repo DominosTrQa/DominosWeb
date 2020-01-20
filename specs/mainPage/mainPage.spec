@@ -59,5 +59,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 86- Anasayfa Kontrolü - Üye - Butonların kontrolü
 -----------------------------------------------------
  Tags:profilimPopup_uyeDegilkenPizzaTakipAcilirPopupKontrolu
+ 
+ 
 
 
