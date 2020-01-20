@@ -238,6 +238,11 @@
     "key": "Anasayfa_Siparisleri_Puanla_Text",
     "value":"//div[@class='scoreOrderBox__Description-ewiow6-2 koiQMP']",
     "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Button",
+    "value":"//*[@class='logo__Svg-sc-99o634-0 dAufCP']",
+    "type": "xpath"
   }
 
 

@@ -1,0 +1,20 @@
+[
+
+  {
+  "key": "Ye_Kazan_Dominos_Ye_Kazan_Text",
+  "value":"//div[@class='styled__PageHeaderWrapper-sc-1n69iee-3 eXfnrv pageHeader__Container-uo3je7-0 bumabh']//h1[1]",
+  "type": "xpath"
+  },
+  {
+  "key": "Ye_Kazan_Uyelik_Kosullari_Close_Button",
+  "value":"//div[@class='modalDialog__CloseButton-sc-1wmoa97-2 bCJEoT']",
+  "type": "xpath"
+  },
+  {
+  "key": "Ye_Kazan_Sikca_Sorulan_Sorulardan_Biri_Linktext",
+  "value":"//div[contains(text(),'s Ye-Kazan Program')]",
+  "type": "xpath"
+  }
+
+
+]

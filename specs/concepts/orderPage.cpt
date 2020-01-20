@@ -131,3 +131,29 @@
 #Siparişin oluştuğunu kontrol et
 * "5" saniye bekle
 * Element var mı kontrol et "siparisDetaylariText"
+
+# Yeni not ekle sil kontrol et
+* Element var mı kontrol et "Notlarım_Yeni_Not_Ekle_Buton"
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Not_Basligi_TextBox"
+* "Test" textini "Notlarım_Yeni_Not_Ekle_Not_Basligi_TextBox" elemente yaz
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Not_TextBox"
+* "Test" textini "Notlarım_Yeni_Not_Ekle_Not_TextBox" elemente yaz
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Yeni_Not_Ekle_Button"
+* Element var mı kontrol et "Notlarım_Not_Düzenle_Buton"
+* Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Buton"
+* Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Sil_Buton"
+
+# Yeni not ekle
+* Element var mı kontrol et "Notlarım_Yeni_Not_Ekle_Buton"
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Not_Basligi_TextBox"
+* "Test" textini "Notlarım_Yeni_Not_Ekle_Not_Basligi_TextBox" elemente yaz
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Not_TextBox"
+* "Test" textini "Notlarım_Yeni_Not_Ekle_Not_TextBox" elemente yaz
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Yeni_Not_Ekle_Button"
+
+# Notu Sil
+* Element var mı kontrol et "Notlarım_Not_Düzenle_Buton"
+* Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Buton"
+* Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Sil_Buton"

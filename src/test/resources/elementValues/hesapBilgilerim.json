@@ -210,8 +210,33 @@
     "type": "xpath"
   },
   {
+    "key": "Notlarım_Yeni_Not_Ekle_Not_Basligi_TextBox",
+    "value":"//input[@name='title']",
+    "type": "xpath"
+  },
+  {
+    "key": "Notlarım_Yeni_Not_Ekle_Not_TextBox",
+    "value":"//input[@name='detail']",
+    "type": "xpath"
+  },
+  {
+    "key": "Notlarım_Yeni_Not_Ekle_Yeni_Not_Ekle_Button",
+    "value":"//button[@class='noteForm__Button-sc-1cp9ef3-3 fXCoXk']",
+    "type": "xpath"
+  },
+  {
     "key": "Notlarım_Not_Düzenle_Buton",
     "value":"//div[@class='notes__EditButton-x7fyts-7 iqvMpM']",
+    "type": "xpath"
+  },
+  {
+    "key": "Notlarım_Not_Düzenle_Sil_Buton",
+    "value":"//button[contains(text(),'Sil')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Notlarım_Not_Birinci_Basligi_Text",
+    "value":"//h4[@class='notes__NoteTitle-x7fyts-3 cpNPRp']",
     "type": "xpath"
   },
   {
