@@ -464,7 +464,7 @@ Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
 
 49- Şifre Değiştir - Başarılı şekilde şifre değiştirme kontrolü
 --------------------------------------------------------------------------------
-Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
+Tags:sifreDegistir_BasariliSekildeSifreDegistirmeKontrolu
 
 * Üye olarak giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"

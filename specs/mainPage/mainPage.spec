@@ -56,7 +56,8 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 * Element var mı kontrol et "Anasayfa_Pizza_Takip_Textbox"
 * Element var mı kontrol et "Anasayfa_Pizza_Takip_Goruntule_Button"
 
-
-
+86- Anasayfa Kontrolü - Üye - Butonların kontrolü
+-----------------------------------------------------
+ Tags:profilimPopup_uyeDegilkenPizzaTakipAcilirPopupKontrolu
 
 
