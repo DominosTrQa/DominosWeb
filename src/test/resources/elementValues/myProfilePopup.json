@@ -65,6 +65,61 @@
     "type": "xpath"
   },
   {
+    "key": "profilimPopupPizzaTakipButon",
+    "value":"//a[contains(text(),'Pizza Takip')]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupNotlarimButon",
+    "value":"//a[contains(text(),'Notlarım')]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupAdreslerimButon",
+    "value":"//a[contains(text(),'Adreslerim')]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupAdreslerimPopupText",
+    "value":"//span[contains(text(),'Adrese Teslim')]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupAdreslerimYeniAdresEkleButton",
+    "value":"//a[contains(text(),'YENİ ADRES EKLE')]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupAdreslerimEklenenAdres",
+    "value":"//div[@class='styled__AddressName-yleopv-9 eNBbSa']",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupAdreslerimIlIlceDüzenleButon",
+    "value":"//div[contains(text(),'Düzenle')]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupAdreslerimIlIlceDüzenlemeKontrol",
+    "value":"//span[contains(text(),'Ankara')]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupAdreslerimSecilenAdresDuzenleButon",
+    "value":"//span[text()='DÜZENLE']",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupAdreslerimSecilenAdresSilButon",
+    "value":"//*[text()='Sil']",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimPopupAdreslerimKayitliAdresSecilenAdresileDevamEt",
+    "value":"//a[text()='SEÇİLİ ADRES İLE DEVAM ET']",
+    "type": "xpath"
+  },
+  {
     "key": "Profilim_Popup_Cikis_Yap_LinkText",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 jjKXGt']",
     "type": "xpath"

@@ -21,6 +21,18 @@
 * Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
 * "5" saniye bekle
 
+# Yeni İl ilçe mahalle seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilAnkara"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceAltindag"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleBattalgaziMahallesi"
+* "2" saniye bekle
+
+
 # Adrese Teslim için konum ile il ilçe mahalle seçilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "konum_Paylas"
@@ -47,7 +59,7 @@
 
 # Seçili Adres ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "cookiesKapatButon"
 
 # Seçili Şube ile Devam Et butonuna basılır
@@ -63,3 +75,6 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "sepetimButon"
 * Elementi bekle ve sonra tıkla "sepeteGitButon"
+
+# Profilim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"

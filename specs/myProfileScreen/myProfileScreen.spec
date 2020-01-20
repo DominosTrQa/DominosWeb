@@ -114,7 +114,7 @@ Tags:uyelikBilgilerim_zorunluAlanlarinKontrolu
 
 22- Üyelik Bilgilerim - Değişikliklerin başarılı bir şekilde yapıldığının kontrolü (Bitmedi)
 -------------------------------------------------------------------------------------
-Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontrolu
+Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontroluB
 
 * Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
@@ -278,10 +278,6 @@ Tags:notlarim_varOlanNotuDegistirmeKontrolu
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * Elementi bekle ve sonra tıkla "notlarimDüzenleDegisiklikleriKaydetButon"
 * "3" saniye bekle
-
-
-
-
 
 
 36 - Notlarım - Var Olan Notu Değiştirmekten Vazgeçme Kontrolü
