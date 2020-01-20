@@ -11,7 +11,7 @@
   },
   {
     "key": "Profilim_Popup_Ye_Kazan_Ye_Kazana_Katıl_Buton",
-    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']//div[4]//div[1]",
+    "value":"//button[@class='styled__LoyaltyButton-sc-1n69iee-5 HjgKz']",
     "type": "xpath"
   },
   {
@@ -40,6 +40,11 @@
     "type": "xpath"
   },
   {
+    "key": "Profilim_Popup_Uyelik_Bilgilerim_Sms_Textbox",
+    "value":"//div[@class='styled__CheckboxContainer-n8nwy9-0 fjePyS']//div[1]//div[1]//div[1]",
+    "type": "xpath"
+  },
+  {
     "key": "Profilim_Popup_Siparislerim_Buton",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Sipari')]",
     "type": "xpath"
@@ -62,6 +67,26 @@
   {
     "key": "Profilim_Popup_Cikis_Yap_LinkText",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 jjKXGt']",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Adreslerim_LinkText",
+    "value":"//a[contains(text(),'Adreslerim')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Kredi_Kartlarim_LinkText",
+    "value":"//a[contains(text(),'Kredi Kartlar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Notlarim_LinkText",
+    "value":"//a[contains(text(),'Notlar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Merhaba_Text",
+    "value":"//h4[@class='styled__ProfileLoyaltyTitle-sc-126ws66-11 AUWRl']",
     "type": "xpath"
   }
 

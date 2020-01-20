@@ -7,7 +7,7 @@ myProfileScreen
 ------------------------------------------------
 Tags:profilim_uyelikBilgilerimSayfaKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
@@ -31,7 +31,7 @@ Tags:profilim_uyelikBilgilerimSayfaKontrolu
 ------------------------------------------------
 Tags:profilim_siparislerimSayfaKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Siparislerim_Linktext"
 * Element var mı kontrol et "siparislerim_Aktif_Siparislerim_Text"
 * Element var mı kontrol et "siparislerim_Tek_Tıkla_Siparislerim_Text"
@@ -41,7 +41,7 @@ Tags:profilim_siparislerimSayfaKontrolu
 ------------------------------------------------
 Tags:profilim_pizzaTakipSayfaKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * Element var mı kontrol et "pizza_Takip_Siparis_Numarası_Textbox"
 * Element var mı kontrol et "pizza_Takip_Görüntüle_Buton"
@@ -50,12 +50,12 @@ Tags:profilim_pizzaTakipSayfaKontrolu
 ---------------------------------------------------------
 Tags:profilim_notlarimSayfaKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
-* Element var mı kontrol et "Notlarım_Yeni_Not_Ekle_Buton"
-* Element var mı kontrol et "Notlarım_Not_Düzenle_Buton"
+* Yeni not ekle sil kontrol et
 
-17- Profilim - Adreslerim sayfa kontrolü
+
+17- Profilim - Adreslerim sayfa kontrolü (Bitmedi)
 ---------------------------------------------------------
 Tags:profilim_adreslerimSayfaKontrolu
 
@@ -70,7 +70,7 @@ Tags:profilim_adreslerimSayfaKontrolu
 ---------------------------------------------------------
 Tags:profilim_krediKartlarimSayfaKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
 * Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox"
@@ -82,7 +82,7 @@ Tags:profilim_krediKartlarimSayfaKontrolu
 ---------------------------------------------------------
 Tags:profilim_sifreDegistirSayfaKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
 * Element var mı kontrol et "sifre_Degistir_Eski_Sifre_Textbox"
 * Element var mı kontrol et "sifre_Degistir_Yeni_Sifre_Textbox"
@@ -94,7 +94,7 @@ Tags:profilim_sifreDegistirSayfaKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_degistirilebilirAlanlarinKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
@@ -108,7 +108,7 @@ Tags:uyelikBilgilerim_degistirilebilirAlanlarinKontrolu
 ------------------------------------------------
 Tags:uyelikBilgilerim_zorunluAlanlarinKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Element var mı kontrol et "üyelik_Bilgilerim_Eposta_Adresi_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Telefon_Textbox"
 
@@ -130,7 +130,7 @@ Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 
@@ -139,7 +139,7 @@ Tags:uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilmasiKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
@@ -150,7 +150,7 @@ Tags:uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilmasiKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_uyelintenAyrilmadanVazgecmeKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Vazgec_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
@@ -159,7 +159,7 @@ Tags:uyelikBilgilerim_uyelintenAyrilmadanVazgecmeKontrolu
 --------------------------------------------------------
 Tags:uyelikBilgilerim_KVKKAydinlatmaMetniKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Kontrol"
 
@@ -167,7 +167,7 @@ Tags:uyelikBilgilerim_KVKKAydinlatmaMetniKontrolu
 ----------------------------------------------------
 Tags:uyelikBilgilerim_AcikRizaMetniKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Acık_Rıza_Metni_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Kontrol"
 
@@ -176,7 +176,7 @@ Tags:uyelikBilgilerim_AcikRizaMetniKontrolu
 --------------------------------------------------------------------------------
 Tags:uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ye_Kazan_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Kontrol"
 
@@ -185,7 +185,7 @@ Tags:uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 ----------------
 Tags:pizzaTakip_zorunluAlanKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
 * Element var mı kontrol et "pizzaTakipTakipKoduGecersizdirText"
@@ -195,7 +195,7 @@ Tags:pizzaTakip_zorunluAlanKontrolu
 ----------------
 Tags:pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * "123456" textini "pizza_Takip_Siparis_Numarası_Textbox" elemente yaz
 * Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
@@ -207,27 +207,26 @@ Tags:pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKon
 ----------------
 Tags:pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * Element var mı kontrol et "pizzaTakipDijitalPizzaTakipSistemiAlani"
 
 
 32 - Notlarım - Yeni Not Ekle Popup Kontrolü
-----------------
+------------------------------------------------
 Tags:notlarim_yeniNotEklePopupKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
 * Element var mı kontrol et "notlarimYeniNotEklePopUpText"
 
 
-kullanıcının her zaman bir notu bulunacak şekilde yaptım
 33 - Notlarım - Yeni Not Ekleme Kontrolü
-----------------
+-----------------------------------------
 Tags:notlarim_yeniNotEklemeKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
@@ -238,18 +237,14 @@ Tags:notlarim_yeniNotEklemeKontrolu
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
 * "3" saniye bekle
-* "notlarimIkinciNotBasligi" li elementi bul ve değerini "randomKelime" saklanan değeri içeriyor mu kontrol et
-* Elementi bekle ve sonra tıkla "notlarimIkinciNotDuzenleButon"
-* Elementi bekle ve sonra tıkla "notlarimSilButon"
-* "3" saniye bekle
 
 
-kullanıcının her zaman bir notu bulunacak şekilde yaptım
+
 34 - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
-----------------
+-------------------------------------------------------
 Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
@@ -260,24 +255,22 @@ Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
 * "3" saniye bekle
-* "notlarimIkinciNotBasligi" li elementi bul ve değerini "randomKelime" saklanan değeri içeriyor mu kontrol et
-* Elementi bekle ve sonra tıkla "notlarimIkinciNotDuzenleButon"
+* "Notlarım_Not_Birinci_Basligi_Text" li elementi bul ve değerini "randomKelime" saklanan değeri içeriyor mu kontrol et
+* Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Buton"
 * Element var mı kontrol et "notlarimDüzenlePopupText"
 * Elementi bekle ve sonra tıkla "notlarimSilButon"
 * "3" saniye bekle
 
 
 
-kullanıcının her zaman bir notu bulunacak şekilde yaptım
+
 35 - Notlarım - Var Olan Notu Değiştirme Kontrolü
-----------------
+---------------------------------------------------
 Tags:notlarim_varOlanNotuDegistirmeKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "notlarimBirinciNotBasligi"
+* Yeni not ekle
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
 * "1" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
 * "3" saniye bekle
@@ -285,19 +278,19 @@ Tags:notlarim_varOlanNotuDegistirmeKontrolu
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * Elementi bekle ve sonra tıkla "notlarimDüzenleDegisiklikleriKaydetButon"
 * "3" saniye bekle
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" saklanan değer ile karşılaştır ve değişiklik oldugunu dogrula
 
 
 
 
 
-kullanıcının her zaman bir notu bulunacak şekilde yaptım
+
 36 - Notlarım - Var Olan Notu Değiştirmekten Vazgeçme Kontrolü
-----------------
+----------------------------------------------------------------
 Tags:notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
+* Yeni not ekle
 * "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "notlarimBirinciNotBasligi"
@@ -307,25 +300,15 @@ Tags:notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 
 
 
-kullanıcının her zaman bir notu bulunacak şekilde yaptım
+
 37 - Notlarım - Var olan notu silme kontrolü
-----------------
+-----------------------------------------------
 Tags:notlarim_varOlanNotuSilmeKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "notlarimBirinciNotBasligi"
-* Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
-* Elementi bekle ve sonra tıkla "notlarimSilButon"
-* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
-* Element var mı kontrol et "notlarimYeniNotEklePopUpText"
-* "3" saniye bekle
-* "Test" textini "notlarimYeniNotEkleNotBasligiTextbox" elemente yaz
-* "Test" textini "notlarimYeniNotEkleNotTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
-* "3" saniye bekle
+* Yeni not ekle
+* Notu Sil
 
 
 
@@ -334,7 +317,7 @@ Tags:notlarim_varOlanNotuSilmeKontrolu
 ----------------
 Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemek
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
 * "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
@@ -349,16 +332,9 @@ Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemek
 
 
 44 - Kredi Kartlarım - Hatalı Kart Kontrolü
-----------------
+--------------------------------------------
 Tags:krediKartlarim_hataliKartKontrolu
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Gel Al da Şubeleri Göster butonuna tıklanır
-* Gel Al da listelenen ilk şube seçilir
-* Seçili Şube ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
 * "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
@@ -370,6 +346,8 @@ Tags:krediKartlarim_hataliKartKontrolu
 * "20" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox" elemente yaz
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Ekle_Buton"
 * Element var mı kontrol et "krediKartlarimGecersizKartNumarasiUyariText"
+
+
 45- Şifre Değiştir - Zorunlu alan kontrolü
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_ZorunluAlanKontrolu
