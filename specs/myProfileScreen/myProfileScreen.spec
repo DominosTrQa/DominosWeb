@@ -114,7 +114,7 @@ Tags:uyelikBilgilerim_zorunluAlanlarinKontrolu
 
 22- Üyelik Bilgilerim - Değişikliklerin başarılı bir şekilde yapıldığının kontrolü (Bitmedi)
 -------------------------------------------------------------------------------------
-Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontrolu
+Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontroluB
 
 * Üye olarak giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
@@ -322,7 +322,7 @@ Tags:notlarim_varOlanNotuDegistirmeKontrolu
 kullanıcının her zaman bir notu bulunacak şekilde yaptım
 36 - Notlarım - Var Olan Notu Değiştirmekten Vazgeçme Kontrolü
 ----------------
-Tags:notlarim_varOlanNotuDegistirmeKontrolu
+Tags:notlarim_varOlanNotuDegistirmektenVazgecme
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
@@ -340,9 +340,9 @@ Tags:notlarim_varOlanNotuDegistirmeKontrolu
 
 
 kullanıcının her zaman bir notu bulunacak şekilde yaptım
-37 - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
+37 - Notlarım - Var olan notu silme kontrolü
 ----------------
-Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
+Tags:notlarim_varOlanNotuSilmeKontrolu
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
@@ -368,7 +368,7 @@ Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
 //bitmedi
 42 - Kredi Kartlarım - Başarılı Bir Şekilde Kredi Kartı Eklemek
 ----------------
-Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemek
+Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemekB
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * İl ilçe mahalle seçilir

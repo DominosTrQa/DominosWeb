@@ -15,6 +15,11 @@
     "type": "xpath"
   },
   {
+    "key": "ilAnkara",
+    "value":"//div[text()='Ankara'][1]",
+    "type": "xpath"
+  },
+  {
     "key": "ilceDropdown",
     "value":"(//div[contains(text(),'Seçiniz')])[1]",
     "type": "xpath"
@@ -25,6 +30,11 @@
     "type": "xpath"
   },
   {
+    "key": "ilceAltindag",
+    "value":"//div[text()='Altındağ'][1]",
+    "type": "xpath"
+  },
+  {
     "key": "mahalleDropdown",
     "value":"(//div[contains(text(),'Seçiniz')])[1]",
     "type": "xpath"
@@ -32,6 +42,11 @@
   {
     "key": "mahallePinarMahallesi",
     "value":"//div[text()='Pınar Mh.']",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleBattalgaziMahallesi",
+    "value":"//div[text()='Battalgazi Mh.'][1]",
     "type": "xpath"
   },
   {
@@ -139,6 +154,12 @@
     "value":"//div[@class='styled__ServiceTypeStaticTitle-sc-1akju1v-3 jmrCDC']",
     "type": "xpath"
   }
+
+
+
+
+
+
 
 
 ]
