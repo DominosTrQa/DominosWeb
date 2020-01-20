@@ -138,6 +138,91 @@
     "key": "Anasayfa_Kontrol",
     "value":"//div[@class='styled__ServiceTypeStaticTitle-sc-1akju1v-3 jmrCDC']",
     "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Adrese_Teslim_Button",
+    "value":"//div[@class='styled__ServiceTypeButton-yzvmyj-4 caPTuS']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Adres_Degisikligi_Button",
+    "value":"//div[@class='styled__ServiceTypeAddressInfo-yzvmyj-5 jGOKYo']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Gorsel_Sol_Ok_Button",
+    "value":"//div[@class='styled__ArrowStyled-sc-1n3cmsd-8 hLOuDF']//*[@class='styled__Svg-sc-1n3cmsd-10 cKrFwI']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Gorsel_Sag_Ok_Button",
+    "value":"//div[@class='styled__ArrowStyled-sc-1n3cmsd-8 fkpmTC']//*[@class='styled__Svg-sc-1n3cmsd-10 cKrFwI']T",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Ye_Kazan_Kazandıklarım_Button",
+    "value":"//a[@class='loyalytyBox__Button-sc-1i2p079-5 jbwovi']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Hemen_Puanla_Button",
+    "value":"//a[@class='scoreOrderBox__Button-ewiow6-6 dkqZQY']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button",
+    "value":"//a[@class='styled__ContentButton-lcu2gq-6 ciSBnQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Promosyon_Kodu_Button",
+    "value":"//div[contains(text(),'Promosyon Kodu')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown",
+    "value":"//div[@class='placeholderText dropdown__ButtonText-wa0gtc-3 cuiAQE dropdown__ButtonInnerItems-wa0gtc-2 hOPRSO']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Promosyon_Promosyon_Kodu_Textbox",
+    "value":"//input[@class='input__Control-wbeopl-2 iQtoeP']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Pizza_Takip_Button",
+    "value":"//div[contains(text(),'Pizza Takip')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Pizza_Takip_Textbox",
+    "value":"//div[contains(text(),'Pizza Takip')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Pizza_Takip_Goruntule_Button",
+    "value":"//a[@class='popup__SubmitButton-ee5s9n-5 bZVIzF']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Subeye_Ozel_Button",
+    "value":"//div[contains(text(),'ubeye Özel')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Tek_Tik_Text",
+    "value":"//div[@class='styled__SubDescription-lcu2gq-8 irEgIN']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Ye_Kazan_Text",
+    "value":"//div[@class='loyalytyBox__Description-sc-1i2p079-4 hyuVxq']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Siparisleri_Puanla_Text",
+    "value":"//div[@class='scoreOrderBox__Description-ewiow6-2 koiQMP']",
+    "type": "xpath"
   }
 
 

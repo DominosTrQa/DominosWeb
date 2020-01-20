@@ -9,14 +9,17 @@
 
 # İl ilçe mahalle seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilİstanbul"
-* "2" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceSariyer"
-* "4" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
-* "2" saniye bekle
+* "5" saniye bekle
 
 # Adrese Teslim için konum ile il ilçe mahalle seçilir
 * "2" saniye bekle

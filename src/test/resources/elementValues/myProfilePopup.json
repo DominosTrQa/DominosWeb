@@ -58,6 +58,11 @@
     "key": "Profilim_Popup_Siparislerim_Eski_Siparislerim_Text",
     "value":"//h4[contains(text(),'Eski Sipari')]",
     "type": "xpath"
+  },
+  {
+    "key": "Profilim_Popup_Cikis_Yap_LinkText",
+    "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 jjKXGt']",
+    "type": "xpath"
   }
 
 ]

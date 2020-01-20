@@ -322,7 +322,7 @@ Tags:notlarim_varOlanNotuDegistirmeKontrolu
 kullanıcının her zaman bir notu bulunacak şekilde yaptım
 36 - Notlarım - Var Olan Notu Değiştirmekten Vazgeçme Kontrolü
 ----------------
-Tags:notlarim_varOlanNotuDegistirmeKontrolu
+Tags:notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
@@ -340,9 +340,9 @@ Tags:notlarim_varOlanNotuDegistirmeKontrolu
 
 
 kullanıcının her zaman bir notu bulunacak şekilde yaptım
-37 - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
+37 - Notlarım - Var olan notu silme kontrolü
 ----------------
-Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
+Tags:notlarim_varOlanNotuSilmeKontrolu
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
