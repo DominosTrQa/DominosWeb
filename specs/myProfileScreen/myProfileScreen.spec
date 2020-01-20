@@ -114,7 +114,7 @@ Tags:uyelikBilgilerim_zorunluAlanlarinKontrolu
 
 22- Üyelik Bilgilerim - Değişikliklerin başarılı bir şekilde yapıldığının kontrolü (Bitmedi)
 -------------------------------------------------------------------------------------
-Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontrolu
+Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontroluB
 
 * Üye olunur giriş yapılır ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
@@ -308,7 +308,7 @@ Tags:notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 
 
 kullanıcının her zaman bir notu bulunacak şekilde yaptım
-37 - Notlarım - Var olan notu silme kontrolü
+37 - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
 ----------------
 Tags:notlarim_varOlanNotuSilmeKontrolu
 
