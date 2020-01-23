@@ -70,7 +70,7 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 
 
-# Üye olunur giriş yapılır ve üyelik bilgilerime git
+# Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Adrese Teslim servis tipi seçilir
@@ -79,7 +79,7 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
 
-# Üye olunur giriş yapılır ve siparislerime git
+# Üye olunur giriş yapılır  Adrese Teslim servis tipi secilir ve siparislerime gidilir
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Adrese Teslim servis tipi seçilir
@@ -102,7 +102,7 @@
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 
-# Üye olunur giriş yapılır ve Ye Kazana git
+# Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Adrese Teslim servis tipi seçilir

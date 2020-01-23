@@ -81,7 +81,7 @@
   },
   {
     "key": "tümKampanyalarButon",
-    "value":"//span[contains(text(),'Tüm Kampanyalar')]",
+    "value":"//a[contains(text(),'Tüm Kampanyalar')]",
     "type": "xpath"
   },
   {
@@ -92,6 +92,11 @@
   {
     "key": "EkstralarveIceceklerButon",
     "value":"//a[contains(text(),'Ekstralar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Ekstra_Lezzetler",
+    "value":"//div[@class='masterContainer__Container-sc-1yzbkqj-0 klgTRg']//a[3]",
     "type": "xpath"
   },
   {
@@ -242,6 +247,16 @@
   {
     "key": "Anasayfa_Button",
     "value":"//*[@class='logo__Svg-sc-99o634-0 dAufCP']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Tüm_Kampanyalar_Text",
+    "value":"//h1[@class='pageHeader__Title-uo3je7-1 gMRowo']",
+    "type": "xpath"
+  },
+  {
+    "key": "Anasayfa_Tüm_Pizzalar_Text",
+    "value":"//h1[@class='pageHeader__Title-uo3je7-1 gMRowo']",
     "type": "xpath"
   }
 

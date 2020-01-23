@@ -25,7 +25,7 @@ Tags:profilimPopup_uyelikKosullariSayfaKontrolu
 ------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimZorunluAlanKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Eposta_Textbox"
 * Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox"
 
@@ -34,7 +34,7 @@ Tags:profilimPopup_uyelikBilgilerimZorunluAlanKontrolu
 -------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimDegistirebilirimAlanKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
@@ -47,7 +47,7 @@ Tags:profilimPopup_uyelikBilgilerimDegistirebilirimAlanKontrolu
 ----------------------------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimDegisikliklerinBasariliBirSekildeYapidigininKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
 * "üyelik_Bilgilerim_Ad_Textbox" elementine random isim yaz
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
@@ -56,7 +56,7 @@ Tags:profilimPopup_uyelikBilgilerimDegisikliklerinBasariliBirSekildeYapidigininK
 ----------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmakicinTiklayinKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 
@@ -64,7 +64,7 @@ Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmakicinTiklayinKontrolu
 ---------------------------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmasiKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
@@ -74,7 +74,7 @@ Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmas
 -------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmadanVazgecmeKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Vazgec_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
@@ -83,7 +83,7 @@ Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmadanVazgecmeKontrolu
 ----------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimKvkkAydinlatmaMetniKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Kontrol"
 
@@ -91,7 +91,7 @@ Tags:profilimPopup_uyelikBilgilerimKvkkAydinlatmaMetniKontrolu
 ---------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimAcikRizaMetniKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Acık_Rıza_Metni_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Kontrol"
 
@@ -99,7 +99,7 @@ Tags:profilimPopup_uyelikBilgilerimAcikRizaMetniKontrolu
 --------------------------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimYeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ye_Kazan_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Kontrol"
 
@@ -107,7 +107,7 @@ Tags:profilimPopup_uyelikBilgilerimYeKazanSadakatProgramiUyelikKosullariMetniKon
 --------------------------------------------------------------
 Tags:profilimPopup_SiparislerimSiparisAlanlariKontrolu
 
-* Üye olunur giriş yapılır ve siparislerime git
+* Üye olunur giriş yapılır  Adrese Teslim servis tipi secilir ve siparislerime gidilir
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Aktif_Siparislerim_Text"
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Tek_Tikla_Siparislerim_Text"
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Eski_Siparislerim_Text"

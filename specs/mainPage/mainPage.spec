@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 82- Anasayfa Kontrolü - Üye Değilken - Butonların kontrolü
 ------------------------------------------------------------
- Tags:profilimPopup_yeKazanSayfaKontrolu
+ Tags:profilimPopup_uyeDegilkenButonlarinkontrolü
 
 * Üye olmadan devam et
 * Element var mı kontrol et "dominosLogo"

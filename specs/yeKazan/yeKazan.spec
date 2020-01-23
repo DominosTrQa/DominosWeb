@@ -9,7 +9,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -------------------------------------------------
 Tags:yeKazan_yeKazanSayfaKontrolu
 
-* Üye olunur giriş yapılır ve Ye Kazana git
+* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Element var mı kontrol et "Ye_Kazan_Dominos_Ye_Kazan_Text"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
 
@@ -17,7 +17,7 @@ Tags:yeKazan_yeKazanSayfaKontrolu
 ------------------------------------------------------------
 Tags:yeKazan_yeKazanUyelikKosullariKontrolu
 
-* Üye olunur giriş yapılır ve Ye Kazana git
+* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Linktext"
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Yedikce_Kazan_Text"
 * Elementi bekle ve sonra tıkla "Ye_Kazan_Uyelik_Kosullari_Close_Button"
@@ -27,7 +27,7 @@ Tags:yeKazan_yeKazanUyelikKosullariKontrolu
 -----------------------------------------------------------
 Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 
-* Üye olunur giriş yapılır ve Ye Kazana git
+* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
 
@@ -35,7 +35,7 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 ----------------------------------------------------------
  Tags:yeKazan_yeKazanKatilButonKontrolu
 
-* Üye olunur giriş yapılır ve Ye Kazana git
+* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Ye_Kazana_Katıl_Buton"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
 
@@ -43,7 +43,7 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 --------------------------------------------------------
  Tags:yeKazan_yeKazanSmsCheckBoxKontrolu
  
-* Üye olunur giriş yapılır ve Ye Kazana git
+* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
 * Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Sms_Textbox"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
@@ -52,7 +52,7 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 ------------------------------------------------------------
  Tags:yeKazan_yeKazanEpostaCheckBoxKontrolu
 
-* Üye olunur giriş yapılır ve Ye Kazana git
+* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
 * Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Eposta_Textbox"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
@@ -61,7 +61,7 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 -------------------------------------------------------------
  Tags:yeKazan_yeKazanTelefonCheckBoxKontrolu
 
-* Üye olunur giriş yapılır ve Ye Kazana git
+* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
 * Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
@@ -70,7 +70,7 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 ------------------------------------------------------------------
  Tags:yeKazan_yeKazanSikcaSorulanSorularkBoxKontrolu
 
-* Üye olunur giriş yapılır ve Ye Kazana git
+* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Sıkca_Sorulan_Sorular_Text"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
 
@@ -78,6 +78,6 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 ---------------------------------------------------------------------------
  Tags:yeKazan_yeKazanSikcaSorulanSorularkBoxKontrolu
 
-* Üye olunur giriş yapılır ve Ye Kazana git
+* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
 * Element var mı kontrol et "Ye_Kazan_Sikca_Sorulan_Sorulardan_Biri_Linktext"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
