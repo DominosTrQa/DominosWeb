@@ -31,17 +31,17 @@
   },
   {
     "key": "Profilim_Popup_Uyelik_Bilgilerim_Eposta_Textbox",
-    "value":"//div[2]//div[1]//div[1]//div[1]//div[1]//input[1]",
+    "value":"//p[contains(text(),'E-Posta')]",
     "type": "xpath"
   },
   {
     "key": "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox",
-    "value":"//body//div[2]//div[2]//div[1]//div[1]//div[1]//input[1]",
+    "value":"//p[contains(text(),'Telefon')]",
     "type": "xpath"
   },
   {
     "key": "Profilim_Popup_Uyelik_Bilgilerim_Sms_Textbox",
-    "value":"//div[@class='styled__CheckboxContainer-n8nwy9-0 fjePyS']//div[1]//div[1]//div[1]",
+    "value":"//p[contains(text(),'SMS')]",
     "type": "xpath"
   },
   {

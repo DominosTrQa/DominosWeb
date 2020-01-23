@@ -7,7 +7,7 @@ myProfileScreen
 ------------------------------------------------
 Tags:profilim_uyelikBilgilerimSayfaKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
@@ -31,7 +31,7 @@ Tags:profilim_uyelikBilgilerimSayfaKontrolu
 ------------------------------------------------
 Tags:profilim_siparislerimSayfaKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Siparislerim_Linktext"
 * Element var mı kontrol et "siparislerim_Aktif_Siparislerim_Text"
 * Element var mı kontrol et "siparislerim_Tek_Tıkla_Siparislerim_Text"
@@ -41,7 +41,7 @@ Tags:profilim_siparislerimSayfaKontrolu
 ------------------------------------------------
 Tags:profilim_pizzaTakipSayfaKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * Element var mı kontrol et "pizza_Takip_Siparis_Numarası_Textbox"
 * Element var mı kontrol et "pizza_Takip_Görüntüle_Buton"
@@ -50,7 +50,7 @@ Tags:profilim_pizzaTakipSayfaKontrolu
 ---------------------------------------------------------
 Tags:profilim_notlarimSayfaKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * Yeni not ekle sil kontrol et
 
@@ -70,7 +70,7 @@ Tags:profilim_adreslerimSayfaKontrolu
 ---------------------------------------------------------
 Tags:profilim_krediKartlarimSayfaKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
 * Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox"
@@ -82,7 +82,7 @@ Tags:profilim_krediKartlarimSayfaKontrolu
 ---------------------------------------------------------
 Tags:profilim_sifreDegistirSayfaKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
 * Element var mı kontrol et "sifre_Degistir_Eski_Sifre_Textbox"
 * Element var mı kontrol et "sifre_Degistir_Yeni_Sifre_Textbox"
@@ -94,7 +94,7 @@ Tags:profilim_sifreDegistirSayfaKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_degistirilebilirAlanlarinKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
@@ -108,7 +108,7 @@ Tags:uyelikBilgilerim_degistirilebilirAlanlarinKontrolu
 ------------------------------------------------
 Tags:uyelikBilgilerim_zorunluAlanlarinKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Eposta_Adresi_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Telefon_Textbox"
 
@@ -116,7 +116,7 @@ Tags:uyelikBilgilerim_zorunluAlanlarinKontrolu
 -------------------------------------------------------------------------------------
 Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontroluB
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
 * "üyelik_Bilgilerim_Ad_Textbox" elementine random isim yaz
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Soyad_Textbox"
@@ -130,7 +130,7 @@ Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontroluB
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 
@@ -139,7 +139,7 @@ Tags:uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilmasiKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
@@ -150,7 +150,7 @@ Tags:uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilmasiKontrolu
 -------------------------------------------------------------
 Tags:uyelikBilgilerim_uyelintenAyrilmadanVazgecmeKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Vazgec_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
@@ -159,7 +159,7 @@ Tags:uyelikBilgilerim_uyelintenAyrilmadanVazgecmeKontrolu
 --------------------------------------------------------
 Tags:uyelikBilgilerim_KVKKAydinlatmaMetniKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Kontrol"
 
@@ -167,7 +167,7 @@ Tags:uyelikBilgilerim_KVKKAydinlatmaMetniKontrolu
 ----------------------------------------------------
 Tags:uyelikBilgilerim_AcikRizaMetniKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Acık_Rıza_Metni_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Kontrol"
 
@@ -176,7 +176,7 @@ Tags:uyelikBilgilerim_AcikRizaMetniKontrolu
 --------------------------------------------------------------------------------
 Tags:uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ye_Kazan_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Kontrol"
 
@@ -185,7 +185,7 @@ Tags:uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 ----------------
 Tags:pizzaTakip_zorunluAlanKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
 * Element var mı kontrol et "pizzaTakipTakipKoduGecersizdirText"
@@ -195,7 +195,7 @@ Tags:pizzaTakip_zorunluAlanKontrolu
 ----------------
 Tags:pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * "123456" textini "pizza_Takip_Siparis_Numarası_Textbox" elemente yaz
 * Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
@@ -207,7 +207,7 @@ Tags:pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKon
 ----------------
 Tags:pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
 * Element var mı kontrol et "pizzaTakipDijitalPizzaTakipSistemiAlani"
 
@@ -216,7 +216,7 @@ Tags:pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 ------------------------------------------------
 Tags:notlarim_yeniNotEklePopupKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
 * Element var mı kontrol et "notlarimYeniNotEklePopUpText"
@@ -226,7 +226,7 @@ Tags:notlarim_yeniNotEklePopupKontrolu
 -----------------------------------------
 Tags:notlarim_yeniNotEklemeKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
@@ -244,7 +244,7 @@ Tags:notlarim_yeniNotEklemeKontrolu
 -------------------------------------------------------
 Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
@@ -268,7 +268,7 @@ Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
 ---------------------------------------------------
 Tags:notlarim_varOlanNotuDegistirmeKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * Yeni not ekle
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
@@ -284,7 +284,7 @@ Tags:notlarim_varOlanNotuDegistirmeKontrolu
 ----------------------------------------------------------------
 Tags:notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * Yeni not ekle
 * "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
@@ -301,7 +301,7 @@ Tags:notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 -----------------------------------------------
 Tags:notlarim_varOlanNotuSilmeKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
 * Yeni not ekle
 * Notu Sil
@@ -313,7 +313,7 @@ Tags:notlarim_varOlanNotuSilmeKontrolu
 ----------------
 Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemek
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
 * "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
@@ -330,7 +330,7 @@ Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemek
 44 - Kredi Kartlarım - Hatalı Kart Kontrolü
 --------------------------------------------
 Tags:krediKartlarim_hataliKartKontrolu
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
 * "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
@@ -398,7 +398,7 @@ Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_BasariliSekildeSifreDegistirmeKontrolu
 
-* Üye olunur giriş yapılır ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
 * "Test1234" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
 * "123456Do" textini "sifre_Degistir_Yeni_Sifre_Textbox" elemente yaz

@@ -1,0 +1,179 @@
+[
+  {
+    "key": "extra_Lezzetler_Tab_Sol_Ok_Buton",
+    "value":"//div[@class='styled__TabButton-sc-5srq3g-3 eRWxBJ']",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Sağ_Ok_Buton",
+    "value":"//div[@class='styled__TabButton-sc-5srq3g-3 gnOAkE']",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Dürümler_Buton",
+    "value":"//span[contains(text(),'Dürümler')]",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Ekmek_Arasi_Buton",
+    "value":"//div[@class='styled__Tab-sc-5srq3g-6 ePsNKi']",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Tavuklar_Buton",
+    "value":"//span[contains(text(),'Tavuklar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Tatlilar_Buton",
+    "value":"//span[contains(text(),'Tatl')]",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Ekmekler_Buton",
+    "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Ekmekler')]",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Salatalar_Buton",
+    "value":"//span[contains(text(),'Salatalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Icecekler_Buton",
+    "value":"//span[contains(text(),'çecekler')]",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Soslar_Buton",
+    "value":"//span[contains(text(),'Soslar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Ekstra_Lezzetler_Text",
+    "value":"//h1[@class='pageHeader__Title-uo3je7-1 gMRowo']",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Dominos_Blog_Text",
+    "value":"//a[contains(text(),\"Domino's Blog\")]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_1button",
+    "value":"(//*[.='SEPETE EKLE'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_2button",
+    "value":"(//*[.='SEPETE EKLE'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_3button",
+    "value":"(//*[.='SEPETE EKLE'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_4button",
+    "value":"(//*[.='SEPETE EKLE'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_5button",
+    "value":"(//*[.='SEPETE EKLE'])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_6button",
+    "value":"(//*[.='SEPETE EKLE'])[6]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_7button",
+    "value":"(//*[.='SEPETE EKLE'])[7]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_8button",
+    "value":"(//*[.='SEPETE EKLE'])[8]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_9button",
+    "value":"(//*[.='SEPETE EKLE'])[9]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_10button",
+    "value":"(//*[.='SEPETE EKLE'])[10]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_11button",
+    "value":"(//*[.='SEPETE EKLE'])[11]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_12button",
+    "value":"(//*[.='SEPETE EKLE'])[12]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_13button",
+    "value":"(//*[.='SEPETE EKLE'])[13]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_14button",
+    "value":"(//*[.='SEPETE EKLE'])[14]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_15button",
+    "value":"(//*[.='SEPETE EKLE'])[15]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_16button",
+    "value":"(//*[.='SEPETE EKLE'])[16]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_17button",
+    "value":"(//*[.='SEPETE EKLE'])[17]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_18button",
+    "value":"(//*[.='SEPETE EKLE'])[18]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_19button",
+    "value":"(//*[.='SEPETE EKLE'])[19]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_20button",
+    "value":"(//*[.='SEPETE EKLE'])[20]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_21button",
+    "value":"(//*[.='SEPETE EKLE'])[21]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_22button",
+    "value":"(//*[.='SEPETE EKLE'])[22]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepete_Ekle_23button",
+    "value":"(//*[.='SEPETE EKLE'])[23]",
+    "type": "xpath"
+  }
+
+
+]
