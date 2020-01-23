@@ -1,0 +1,145 @@
+[
+
+  {
+  "key": "subeyeOzelAdresBilgileriText",
+  "value":"//div[contains(text(),'Adres Bilgileri')]",
+  "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirButon",
+    "value":"//a[contains(text(),'Şubeyi Değiştir')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelCalismaSaatleriText",
+    "value":"//h2[contains(text(),'Çalışma Saatleri')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeGonderimBolgeleriText",
+    "value":"//h2[contains(text(),'Şube Gönderim Bölgeleri')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelGonderimSuresiText",
+    "value":"//h2[contains(text(),'Gönderim Süresi')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelOdemeTipiText",
+    "value":"//h2[contains(text(),'Ödeme Tipi')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelEveServisBilgiAlani",
+    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-17 jTNVcC storeDetail__ColumnNonPadding-d50sx7-13 ckkbTF column__NewColumn-sc-1s5q7bb-0 gNbNNr')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelGelAlBilgiAlani",
+    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-17 jTNVcC storeDetail__ColumnNonPadding-d50sx7-13 ckkbTF column__NewColumn-sc-1s5q7bb-0 gNbNNr')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelMesafeBilgisiAlani",
+    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-17 ekKBES storeDetail__ColumnNonPadding-d50sx7-13 ckkbTF column__NewColumn-sc-1s5q7bb-0 gNbNNr')])",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeBilgileriText",
+    "value":"//div[contains(text(),'Şube Bilgileri')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyeOzelKampanyalarText",
+    "value":"//div[contains(text(),'Şubeye Özel Kampanyalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelHaftaninKampanyalariText",
+    "value":"//div[contains(text(),'Haftanın Kampanyaları')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelTumKampanyalarButon",
+    "value":"//button[contains(text(),'Tüm Kampanyalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelAcikKapaliBilgisi",
+    "value":"(//*[(@class='storeDetail__StoreOpenStatus-d50sx7-22 hcfMuJ')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelYolTarifiAlButon",
+    "value":"//*[contains(text(),'Yol Tarifi Al')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirSubeAraTab",
+    "value":"//div[contains(text(),'Şube Ara')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirHaritadanSecTab",
+    "value":"//div[contains(text(),'Haritadan Seç')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirSubeAdiTextbox",
+    "value":"//input[(@class='input__Control-wbeopl-2 iQtoeP')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirSubeAraButon",
+    "value":"//a[contains(text(),'Şube Ara')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirIlSecimAlani",
+    "value":"//div[(@class='styled__AreaListWrapper-mwgboy-17 hOUJNG')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirIlSecimiYapinText",
+    "value":"//p[contains(text(),'İl Seçimi Yapın')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirIlkSube",
+    "value":"(//div[(@class='storeCard__Left-sc-1c3i6iy-0 dsKtfl')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirIlkSubeSubeBilgileriveKampanyalari",
+    "value":"(//a[contains(text(),'Şube Bilgileri ve Kampanyaları')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirSecilenIlIstanbul",
+    "value":"//a[contains(text(),'İstanbul')][1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirSecilenIlceSarıyer",
+    "value":"//a[contains(text(),'Sarıyer')][1]",
+    "type": "xpath"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
