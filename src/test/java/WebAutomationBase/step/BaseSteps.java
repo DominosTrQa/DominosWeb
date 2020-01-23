@@ -725,6 +725,13 @@ public class BaseSteps extends BaseTest {
     findElement(key).sendKeys(randomName(3));
   }
 
+  @Step({"<key> li elementin değeri <text> e eşitliğini kontrol et",
+          "Find element by <key> and text equals <text>"})
+  public void equalsTextByKey(String key, String text) {
+    Assert.assertEquals(text, findElementWithKey(key).getText());
+  }
+
+
 
 
 }
