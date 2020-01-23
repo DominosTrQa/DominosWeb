@@ -81,17 +81,17 @@
   },
   {
     "key": "tümKampanyalarButon",
-    "value":"//a[contains(text(),'Tüm Kampanyalar')]",
+    "value":"//span[contains(text(),'Tüm Kampanyalar')]",
     "type": "xpath"
   },
   {
-    "key": "tümPizzalarButon",
-    "value":"//a[contains(text(),'Tüm Pizzalar')]",
+    "key": "anasayfaTümPizzalarButon",
+    "value":"//span[contains(text(),'Tüm Pizzalar')]",
     "type": "xpath"
   },
   {
-    "key": "EkstralarveIceceklerButon",
-    "value":"//a[contains(text(),'Ekstralar')]",
+    "key": "ekstraLezzetlerButon",
+    "value":"//span[contains(text(),'Ekstra')]",
     "type": "xpath"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "key": "profil_Menu_Buton",
-    "value":"//div[@id='root']/div/div[2]/div/div[3]/div[1]",
+    "value":"(//div[contains(text(),'Profilim')])",
     "type": "xpath"
   },
   {
@@ -257,6 +257,71 @@
   {
     "key": "Anasayfa_Tüm_Pizzalar_Text",
     "value":"//h1[@class='pageHeader__Title-uo3je7-1 gMRowo']",
+    "type": "xpath"
+  },
+  {
+    "key": "ustTabTumKampanyalar",
+    "value":"//a[contains(text(),'Tüm Kampanyalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "ustTabTumPizzalar",
+    "value":"//a[contains(text(),'Tüm Pizzalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "ustTabEkstralarveIcecekler",
+    "value":"//a[contains(text(),'Ekstralar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetinizdeUrunBulunmamaktadirText",
+    "value":"//div[contains(text(),'SEPETİNİZDE ÜRÜN BULUNMAMAKTADIR')]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarKurumsalAlani",
+    "value":"(//div[@class='styled__FooterColumn-sc-2i2f7q-2 jPmNtC'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarYardimAlani",
+    "value":"(//div[@class='styled__FooterColumn-sc-2i2f7q-2 jPmNtC'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarInovasyonDünyasiAlani",
+    "value":"(//div[@class='styled__FooterColumn-sc-2i2f7q-2 jPmNtC'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarGooglePlayButon",
+    "value":"(//a[@class='styled__SocialMediaItem-sc-2i2f7q-15 bxLeff'])",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarAppStoreButon",
+    "value":"(//a[@class='styled__SocialMediaItem-sc-2i2f7q-15 fDNejW'])",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarMessengerButon",
+    "value":"(//a[@class='styled__SocialMediaItem-sc-2i2f7q-15 bETcZB'])",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarSiparisHattiText",
+    "value":"(//div[@class='styled__SubTitle-sc-2i2f7q-13 dNEBIg'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarSikayetHattiText",
+    "value":"(//div[@class='styled__SubTitle-sc-2i2f7q-13 dNEBIg'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarSosyalMedyaButonlari",
+    "value":"(//div[@class='styled__SocialMediaImages-sc-2i2f7q-8 ehWLSz'])",
     "type": "xpath"
   }
 

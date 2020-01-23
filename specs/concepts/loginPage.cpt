@@ -95,14 +95,23 @@
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 
-# Üye olunur ve Anasayfaya gidilir
+# Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 
-# Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
+# Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Üye ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Gel Al servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al da listelenen ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+
+# Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Adrese Teslim servis tipi seçilir

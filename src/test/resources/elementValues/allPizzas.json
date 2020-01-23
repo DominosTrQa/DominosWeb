@@ -1,0 +1,171 @@
+[
+
+  {
+  "key": "sayfaBasligi",
+  "value":"(//*[@class='pageHeader__Title-uo3je7-1 gMRowo'])",
+  "type": "xpath"
+  },
+  {
+    "key": "cazipPizzalarButon",
+    "value":"//span[contains(text(),'Cazip Pizzalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "ozelPizzalarButon",
+    "value":"//span[contains(text(),'Özel Pizzalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "bolMalzemePizzalarButon",
+    "value":"//span[contains(text(),'Bol Malzeme Pizzalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "gurmePizzalarButon",
+    "value":"//span[contains(text(),'Gurme Pizzalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "pizzalarSagOkButon",
+    "value":"//*[(@class='styled__TabButton-sc-5srq3g-3 gnOAkE')]",
+    "type": "xpath"
+  },
+  {
+    "key": "pizzalarSolOkButon",
+    "value":"//*[(@class='styled__TabButton-sc-5srq3g-3 eRWxBJ')]",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarCazipSuperos",
+    "value":"(//h4[contains(text(),'Süperos')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarCazipSucuksever",
+    "value":"(//h4[contains(text(),'Sucuksever')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarCazipClassic",
+    "value":"(//h4[contains(text(),'Classic')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarÖzelFit",
+    "value":"(//h4[contains(text(),'Fit')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarÖzelVegi",
+    "value":"(//h4[contains(text(),'Vegi')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarÖzelSosyal",
+    "value":"(//h4[contains(text(),'Sosyal')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarÖzelTavuklu",
+    "value":"(//h4[contains(text(),'Tavuklu')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarBolMalzemeDevMalzeemos",
+    "value":"(//h4[contains(text(),'Dev Malzemos')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarBolMalzemeDopdoluExtra",
+    "value":"(//h4[contains(text(),'Dopdolu Extra')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarBolMalzemeExtravaganzza",
+    "value":"(//h4[contains(text(),'Extravaganzza')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarBolMalzemeBolMalzemos",
+    "value":"(//h4[contains(text(),'Bol Malzemos')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarBolMalzemeKarışık",
+    "value":"(//h4[contains(text(),'Karışık')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarBolMalzemeItaliano",
+    "value":"(//h4[contains(text(),'Italiano')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarGurmeDortPeynirli",
+    "value":"(//h4[contains(text(),'Dört Peynirli')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarGurmePastırmaSucuk",
+    "value":"(//h4[contains(text(),'Pastırma & Sucuk')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarGurmeNewYork",
+    "value":"(//h4[contains(text(),'New York')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarGurmeKonyalım",
+    "value":"(//h4[contains(text(),'Konyalım')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarGurmeMangalSucuklu",
+    "value":"(//h4[contains(text(),'Mangal Sucuklu')])",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarGurmeCallypso",
+    "value":"(//h4[contains(text(),'Callypso')])",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisVerBirinciButon",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisVerIkinciButon",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisVerUcuncuButon",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisVerDorduncuButon",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisVerBesinciButon",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisVerAltinciButon",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[6]",
+    "type": "xpath"
+  }
+
+
+
+
+
+
+
+
+]

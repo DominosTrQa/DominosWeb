@@ -9,7 +9,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -------------------------------------------------
 Tags:yeKazan_yeKazanSayfaKontrolu
 
-* Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
+* Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Element var mı kontrol et "Ye_Kazan_Dominos_Ye_Kazan_Text"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
 
@@ -18,6 +18,7 @@ Tags:yeKazan_yeKazanSayfaKontrolu
 Tags:yeKazan_yeKazanUyelikKosullariKontrolu
 
 * Üye olunur Adrese Teslim servis tipi secilir ve Ye Kazana gidilir
+* Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Linktext"
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Yedikce_Kazan_Text"
 * Elementi bekle ve sonra tıkla "Ye_Kazan_Uyelik_Kosullari_Close_Button"
