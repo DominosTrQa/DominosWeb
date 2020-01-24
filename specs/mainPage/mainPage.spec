@@ -9,7 +9,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 ------------------------------------------------------------
  Tags:anasayfa_uyeDegilkenButonlarinkontrolu
 
-* Üye olmadan devam et
+* Üye olmadan anasayfaya devam et
 * Element var mı kontrol et "dominosLogo"
 * Element var mı kontrol et "Anasayfa_Adrese_Teslim_Button"
 * Element var mı kontrol et "Anasayfa_Adres_Degisikligi_Button"
