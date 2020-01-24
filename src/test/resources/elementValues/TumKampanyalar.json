@@ -1,0 +1,117 @@
+[
+  {
+    "key": "TümKampanyalar",
+    "value":"/html//div[@id='root']/div/div[5]/div[1]/a[@href='/kampanyalar']/span[.='Tüm Kampanyalar']",
+    "type": "xpath"
+  },
+  {
+    "key": "HaftaninKampanyalari",
+    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[1]/span[.='Haftanın Kampanyaları']",
+    "type": "xpath"
+  },
+  {
+    "key": "TekKisilikKampanyalar",
+    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[2]/span[.='Tek Kişilik Kampanyalar']",
+    "type": "xpath"
+  },
+  {
+    "key": "TekKisilikKampanyalar2",
+    "value":"/html//div[@id='root']//h1[.=' Tek Kişilik Kampanyalar ']",
+    "type": "xpath"
+  },
+  {
+    "key": "4KisiveÜzeriKampanyalar",
+    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[4]/span[.='4 Kişi ve Üzeri Kampanyalar']",
+    "type": "xpath"
+  },
+  {
+    "key": "4KisiveÜzeriKampanyalar2",
+    "value":"/html//div[@id='root']//h1[.=' 4 Kişi ve Üzeri Kampanyalar ']",
+    "type": "xpath"
+  },
+  {
+    "key": "2-3-KisilikKampanyalar",
+    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[3]/span[.='2-3 Kişilik Kampanyalar']",
+    "type": "xpath"
+  },
+  {
+    "key": "2-3-KisilikKampanyalar2",
+    "value":"/html//div[@id='root']//h1[.=' 2-3 Kişilik Kampanyalar ']",
+    "type": "xpath"
+  },
+  {
+    "key": "GelAlHaftaninKampanyalari",
+    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[5]/span[.='Gel Al Haftanın Kampanyaları']",
+    "type": "xpath"
+  },
+  {
+    "key": "GelAlHaftaninKampanyalari2",
+    "value":"/html//div[@id='root']//h1[.=' Gel Al Haftanın Kampanyaları ']",
+    "type": "xpath"
+  },
+  {
+    "key": "SiparisVer",
+    "value":"//div[@class='react-swipeable-view-container']/div[1]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
+    "type": "xpath"
+  },
+  {
+    "key": "SiparisVer2",
+    "value":"//div[@class='react-swipeable-view-container']/div[3]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
+    "type": "xpath"
+  },
+  {
+    "key": "okİsareti",
+    "value":"//html//div[@id='root']/div/div[4]/div[3]/div[2]/div[3]/i",
+    "type": "xpath"
+  },
+  {
+    "key": "tümkampanyalar2",
+    "value":"/html//div[@id='root']/div/div[2]//a[@href='/kampanyalar']",
+    "type": "xpath"
+  },
+  {
+    "key": "tümpizzalar",
+    "value":"/html//div[@id='root']/div//a[@href='/pizzalar']",
+    "type": "xpath"
+  },
+  {
+    "key": "ekstralaricecekler",
+    "value":"/html//div[@id='root']/div//a[@href='/yanurunler']",
+    "type": "xpath"
+  },
+  {
+    "key": "Profilim",
+    "value":"/html//div[@id='root']/div/div[2]/div/div[3]/div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepetim",
+    "value":"//div[@id='root']/div/div[2]/div/div[2]/button[@type='button']/i[@class='icon-angle-up']",
+    "type": "xpath"
+  },
+  {
+    "key": "HaftaninKampanyalariSiparisKontrol",
+    "value":"//html//div[@id='root']/div/div[4]/div[3]//div[@class='react-swipeable-view-container']/div[1]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
+    "type": "xpath"
+  },
+  {
+    "key": "TekKisilikKampanyalarSiparisKontrol",
+    "value":"/html//div[@id='root']/div/div[4]/div[3]//div[@class='react-swipeable-view-container']/div[2]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
+    "type": "xpath"
+  },
+  {
+    "key": "2-3KisilikKampanyalarSiparisKontrol",
+    "value":"/html//div[@id='root']/div/div[4]/div[3]//div[@class='react-swipeable-view-container']/div[3]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
+    "type": "xpath"
+  },
+  {
+    "key": "4KisilikKampanyalarSiparisKontrol",
+    "value":"/html//div[@id='root']/div/div[4]/div[3]//div[@class='react-swipeable-view-container']/div[4]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
+    "type": "xpath"
+  },
+  {
+    "key": "GelAlHaftaninKampanyalariSiparisKontrol",
+    "value":"/html//div[@id='root']/div/div[4]/div[3]//div[@class='react-swipeable-view-container']/div[5]//div[.='Sipariş Ver']",
+    "type": "xpath"
+  }
+]
