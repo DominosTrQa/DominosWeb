@@ -19,7 +19,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 * "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button" alanına js ile kaydır
 * Element var mı kontrol et "tümKampanyalarButon"
 * Element var mı kontrol et "anasayfaTümPizzalarButon"
-* Element var mı kontrol et "EkstralarveIceceklerButon"
+* Element var mı kontrol et "ekstraLezzetlerButon"
 * Element var mı kontrol et "Anasayfa_Ye_Kazan_Kazandıklarım_Button"
 * Element var mı kontrol et "Anasayfa_Hemen_Puanla_Button"
 * Element var mı kontrol et "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button"
@@ -70,7 +70,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 * "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button" alanına js ile kaydır
 * Element var mı kontrol et "tümKampanyalarButon"
 * Element var mı kontrol et "anasayfaTümPizzalarButon"
-* Element var mı kontrol et "EkstralarveIceceklerButon"
+* Element var mı kontrol et "ekstraLezzetlerButon"
 * Element var mı kontrol et "Anasayfa_Ye_Kazan_Kazandıklarım_Button"
 * Element var mı kontrol et "Anasayfa_Hemen_Puanla_Button"
 * Element var mı kontrol et "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button"
