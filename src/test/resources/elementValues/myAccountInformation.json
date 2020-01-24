@@ -11,12 +11,12 @@
   },
   {
     "key": "üyelik_Bilgilerim_Eposta_Adresi_Textbox",
-    "value":"//div[2]//div[1]//div[1]//div[1]//div[1]//input[1]",
+    "value":"//input[@label='E-Posta Adresi']",
     "type": "xpath"
   },
   {
     "key": "üyelik_Bilgilerim_Telefon_Textbox",
-    "value":"//div[2]//div[1]//div[1]//div[1]//div[1]//input[1]",
+    "value":"//input[@label='Telefon']",
     "type": "xpath"
   },
   {

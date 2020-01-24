@@ -156,7 +156,7 @@ Tags:anaSayfaTumPizzalar_ustBarProfilimPopupBasariliAciliyormuKontrol
 
 107 - Anasayfa - Tüm Pizzalar - Üst Bar Sepetim Popup Başarılı Açılıyor mu Kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_ustBarProfilimPopupBasariliAciliyormuKontrol
+Tags:anaSayfaTumPizzalar_ustBarSepetimPopupBasariliAciliyormuKontrol
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "anasayfaTümPizzalarButon"
