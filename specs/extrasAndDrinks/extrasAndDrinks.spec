@@ -9,7 +9,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 ---------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerSayfaKontrolü
  
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "EkstralarveIceceklerButon"
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
@@ -20,7 +20,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 ------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerDurumlerSayfaKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Dürümler_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
@@ -31,7 +31,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerEkmekArasiSayfaKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmek_Arasi_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
@@ -43,7 +43,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerTavuklarSayfaKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tavuklar_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
@@ -54,7 +54,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerTatlilarSayfaKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tatlilar_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
@@ -65,7 +65,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerEkmeklerSayfaKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmekler_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
@@ -76,7 +76,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerSalatalarSayfaKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Salatalar_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
@@ -87,7 +87,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklericeceklerSayfaKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
@@ -99,7 +99,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerSoslarSayfaKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Soslar_Buton"
@@ -111,7 +111,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 --------------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerUstBarlarArasiGecisSayfaKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Elementi bekle ve sonra tıkla "tümKampanyalarButon"
 * Elementi bekle ve sonra tıkla "Anasayfa_Tüm_Kampanyalar_Text"
@@ -125,7 +125,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerUstBarProfilimPopupKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
@@ -137,7 +137,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerUstBarSepetimPopupKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 * Elementi bekle ve sonra tıkla "sepetimButon"
@@ -147,7 +147,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerUAltBarYazilarinKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 * Element var mı kontrol et "extra_Lezzetler_Dominos_Blog_Text"
@@ -158,7 +158,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 ------------------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerUHerTabdaEkleButonKontrolü
 
-* Üye olunur ve Anasayfaya gidilir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Dürümler_Buton"
