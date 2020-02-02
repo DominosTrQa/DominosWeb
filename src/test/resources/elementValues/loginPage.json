@@ -1,5 +1,10 @@
 [
   {
+    "key": "girisYapButon",
+    "value":"//*[@class='styled__ButtonContainer-sc-187wemu-8 inaIhN']/button/div",
+    "type": "xpath"
+  },
+  {
     "key": "loginButton",
     "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo']",
     "type": "xpath"
@@ -14,10 +19,11 @@
     "value":"password",
     "type": "id"
   },
+
   {
-    "key": "girisYapButon",
-    "value":"//div[@class='spinner__SpinnerContainer-mjba5r-0 gvJRXZ']",
-    "type": "xpath"
+    "key": "girisYapButon2",
+    "value":".bvaIHo.sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO",
+    "type": "css"
   },
   {
     "key": "epostaVeyaSifreYanlisText",
@@ -96,24 +102,15 @@
   },
   {
     "key": "uyeOlMesafeliSatisSozlesmesi",
-    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])",
+    "value":"//div/div[2]/div[2]/div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ']/div",
     "type": "xpath"
   },
   {
-    "key": "uyeOlSayfasiÜyeOlButon",
-    "value":"(//div[@class='spinner__SpinnerContainer-mjba5r-0 gvJRXZ'])",
+    "key": "uyeOlSayfasiKVKKCheckbox",
+    "value":"(//*[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ'])[2]",
     "type": "xpath"
   },
-  {
-    "key": "uyeOlSayfasiKVKCheckbox",
-    "value":"(//div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ'])[2]",
-    "type": "xpath"
-  },
-  {
-    "key": "uyeOlSayfasiEpostaCheckbox",
-    "value":"(//p[contains(text(),'E-posta')])[1]",
-    "type": "xpath"
-  },
+
   {
     "key": "uyeOlSayfasiSmsCheckbox",
     "value":"(//p[contains(text(),'SMS')])[1]",
@@ -124,26 +121,13 @@
     "value":"(//p[contains(text(),'Telefon')])[1]",
     "type": "xpath"
   },
-  {
-    "key": "uyeOlSayfasiyeKazanEpostaCheckbox",
-    "value":"(//p[contains(text(),'E-posta')])[2]",
-    "type": "xpath"
-  },
+
   {
     "key": "uyeOlSayfasiYeKazanSmsCheckbox",
     "value":"(//p[contains(text(),'SMS')])[2]",
     "type": "xpath"
   },
-  {
-    "key": "uyeOlSayfasiYeKazanTelefonCheckbox",
-    "value":"(//p[contains(text(),'Telefon')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "uyeOlSayfasiYeKazanCheckbox",
-    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[5]",
-    "type": "xpath"
-  },
+
   {
     "key": "uyeOlSayfasisuccessYeKazanCheckbox",
     "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[3]",
@@ -183,20 +167,12 @@
     "key": "uyeOlUyelikSozlesmesiBosBirakilamazUyariText",
     "value":"(//div[contains(text(),'İnternet Sitesi Üyelik Sözleşmesi boş bırakılamaz')])",
     "type": "xpath"
+  },
+  {
+    "key": "uyeOlUyelikSozlesmesiBosBirakilamazUyariText",
+    "value":"(//div[contains(text(),'İnternet Sitesi Üyelik Sözleşmesi boş bırakılamaz')])",
+    "type": "xpath"
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ]

@@ -5,11 +5,16 @@ Created by sahabt on 2020-01-24
 This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
+üye ol
+------
+* Üye ol butonuna tıklanır
+
+
 Tüm Kampanyalar Sayfa Kontrolü
 ------------------------
 tags:tümkampanyalarsayfakontrolü
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -30,7 +35,7 @@ Haftanın Kampanyaları sayfa kontrolü (buton ve yan okla geçme)
 -------------------------------------------------------------
 tags:HaftanınKampanyalarısayfakontrolü(butonveyanoklageçme)
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -48,7 +53,7 @@ Tek Kişilik Kampanyalar sayfa kontrolü (buton ve yan okla geçme)
 ---------------------------------------------
 tags:TekKişilikKampanyalarsayfakontrolü(butonveyanoklageçme)
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -61,7 +66,7 @@ tags:TekKişilikKampanyalarsayfakontrolü(butonveyanoklageçme)
 2-3 Kişilik Kampanyalar sayfa kontrolü (buton ve yan okla geçme)
 ----------------------------------------
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -75,7 +80,7 @@ tags:TekKişilikKampanyalarsayfakontrolü(butonveyanoklageçme)
 ----------------------------------------------------
 tags:4Kişiveüzerikampanyalarsayfakontrolü(butonveyanoklageçme)
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -90,7 +95,7 @@ Gel Al Haftanın Kampanyaları sayfa kontrolü (buton ve yan okla geçme)
 --------------------------------------------
 tags:GelAlHaftanınKampanyalarısayfakontrolü(butonveyanoklageçme)
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -106,7 +111,7 @@ tags:GelAlHaftanınKampanyalarısayfakontrolü(butonveyanoklageçme)
 ----------------------------------------------------------------------------------
 tags:ÜstBarSayfalararasıgeçişkontrolü(TümKampanyalarTümPizzalarEkstralar&İçecekler)
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -122,7 +127,7 @@ tags:ÜstBarSayfalararasıgeçişkontrolü(TümKampanyalarTümPizzalarEkstralar&
 --------------------------------------------------
 tags:ÜstBarProfilimpopupbaşarılıaçılıyormukontrolü
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -136,7 +141,7 @@ tags:ÜstBarProfilimpopupbaşarılıaçılıyormukontrolü
 --------------------------------------------------
 tags:ÜstBarSepetimpopupbaşarılı çılıyormıkontrolü
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -157,7 +162,7 @@ Her tab da Sipariş Ver buton kontrolü (Haftanın Kampanyaları, Tek Kişilik K
 ---------------------------------------------------------------------------------------------------------------------
 tags:HertabdaSiparişVerbutonkontrolü(HaftanınKampanyalarıTekKişilikKampanyalar2-3KişilikKampanyalar4KişiveüzeriKampanyalarGelAlHaftanınKampanyaları)
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır

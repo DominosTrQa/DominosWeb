@@ -31,7 +31,7 @@
   "type": "id"
   },
   {
-    "key": "adresKaydetButon",
+    "key": "adresKaydetButon2",
     "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo']",
     "type": "xpath"
   },

@@ -33,6 +33,37 @@
 * "2" saniye bekle
 
 
+# Yeni İl ilçe mahalle seçilir2
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilcegaziosmanPasa"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahallemevlanaMahallesi"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+* "2" saniye bekle
+
+
+# Yeni İl ilçe mahalle seçilir3
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceyüpsultan"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalletopcularmahallesi"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+* "2" saniye bekle
+
+
+
+
 # Adrese Teslim için konum ile il ilçe mahalle seçilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "konum_Paylas"

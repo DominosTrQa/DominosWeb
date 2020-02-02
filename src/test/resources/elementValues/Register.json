@@ -1,0 +1,142 @@
+[
+  {
+    "key": "uyeOlSayfasiÜyeOlButon",
+    "value":"",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiEpostaCheckbox",
+    "value":"(//p[contains(text(),'E-posta')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiYeKazanCheckbox",
+    "value":"//div[5]/div[@class='checkbox__LabelContainer-sc-1lav4ov-4 iKznIR']/p/span[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiyeKazanEpostaCheckbox",
+    "value":"(//p[contains(text(),'E-posta')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiÜyeOlButon",
+    "value":".gwzqiN.sc-1mahmit-0-button-buttons__ButtonBase-bPYnhn > .gvJRXZ.spinner__SpinnerContainer-mjba5r-0",
+    "type": "css"
+  },
+  {
+    "key": "uyeOlSayfasiYeKazanTelefonCheckbox",
+    "value":"(//p[contains(text(),'Telefon')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "SepeteGit",
+    "value":"//*[@id=\"root\"]/div/div[2]/div/div[2]/button",
+    "type": "xpath"
+  },
+  {
+    "key": "SepeteGit2",
+    "value":"//*[@class='styled__CartTotalContianer-sc-126ws66-29 jOkfmy']/a",
+    "type": "xpath"
+  },
+  {
+    "key": "BinaAdıKapıNo",
+    "value":"(//*[@class='input__Label-wbeopl-1 hKvIFA'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Daire",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "AdresAdı",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "Telefon",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "KaydetButonu",
+    "value":"//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO fgXSTh']",
+    "type": "xpath"
+  },
+  {
+    "key": "AdresTarifi",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "CaddeSokak",
+    "value":"//*[@id=\"root\"]/div/div[1]/div/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "CaddeSokakSelectAkatSokak",
+    "value":"((//*[@class='dropdown__MenuWrapper-wa0gtc-12 gaNPcZ'])[4]/div/div/div)[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "CaddeSokakSelect835Sokak",
+    "value":"((//*[@class='dropdown__MenuWrapper-wa0gtc-12 gaNPcZ'])[4]/div/div/div)[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "CaddeSokakSelectAkatSokak",
+    "value":"((//*[@class='dropdown__MenuWrapper-wa0gtc-12 gaNPcZ'])[4]/div/div/div)[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilcegaziosmanPasa",
+    "value":"//div[text()='Gaziosmanpaşa']",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceyüpsultan",
+    "value":"//div[text()='Eyüpsultan']",
+    "type": "xpath"
+  },
+  {
+    "key": "mahallemevlanaMahallesi",
+    "value":"//div[text()='Mevlana Mh.']",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalletopcularmahallesi",
+    "value":"//div[text()='Topçular Mh.']",
+    "type": "xpath"
+  },
+  {
+    "key": "İlceSeciniz",
+    "value":"(//*[@class='wa0gtc-2-input-dropdown__ButtonInnerItems-dCVTJe dwmKFW'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisVerBirinciButon",
+    "value":"//div[@class='styled__Column-sc-1lvff6m-5 fFKhjN column__NewColumn-sc-1s5q7bb-0 lnTHAX']/a[@class='styled__Button-sc-1lvff6m-0 fakEki'][contains(text(),'Sipariş Ver')]",
+    "type": "xpath"
+  },
+  {
+    "key": "SeciliAdresileDevamEt",
+    "value":"//*[@class='styled__AddressName-yleopv-9 eNBbSa']",
+    "type": "xpath"
+  },
+  {
+    "key": "ÖdemeSekliNakitButonu",
+    "value":"//*[@label='Nakit']",
+    "type": "xpath"
+  },
+  {
+    "key": "CookieAccept",
+    "value":"//button[contains(text(),'Onaylıyorum')]",
+    "type": "xpath"
+  },
+  {
+    "key": "DropdownKapıNoSelect",
+    "value": "//*[@class='autoComplete__AutoComplete-xi8jyw-1 dscPXh']",
+    "type": "xpath"
+  }
+]

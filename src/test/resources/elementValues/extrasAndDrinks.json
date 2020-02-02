@@ -110,8 +110,8 @@
     "type": "xpath"
   },
   {
-    "key": "Sepete_Ekle_11button",
-    "value":"(//*[.='SEPETE EKLE'])[11]",
+    "key": "SepeteEkleFuseteaSeftali",
+    "value":"(//div[@class='productCard__ButtonWrapper-sc-1qfpiga-5 jmizWP']/a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[6]",
     "type": "xpath"
   },
   {
@@ -173,7 +173,14 @@
     "key": "Sepete_Ekle_23button",
     "value":"(//*[.='SEPETE EKLE'])[23]",
     "type": "xpath"
+  },
+  {
+    "key": "SepeteEkleArtı",
+    "value":"(//*[@class='counter__Button-uj55e1-2 jaDDzl'])[2]/i",
+    "type": "xpath"
   }
+
+
 
 
 ]
