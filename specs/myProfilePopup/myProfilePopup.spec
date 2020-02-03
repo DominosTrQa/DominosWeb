@@ -118,7 +118,7 @@ Tags:profilimPopup_SiparislerimSiparisAlanlariKontrolu
 ----------------
 Tags:profilimPopupPizzaTakip_zorunluAlanKontrolu
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -132,7 +132,7 @@ Tags:profilimPopupPizzaTakip_zorunluAlanKontrolu
 ----------------
 Tags:profilimPopupPizzaTakip_siparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -148,7 +148,7 @@ Tags:profilimPopupPizzaTakip_siparisNumarasiGirilerekGoruntuleButonunaTiklaninca
 ----------------
 Tags:profilimPopupPizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -164,7 +164,7 @@ Tags:profilimPopupPizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 ----------------
 Tags:profilimPopupNotlarim_yeniNotEklePopupKontrolu
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -180,7 +180,7 @@ Tags:profilimPopupNotlarim_yeniNotEklePopupKontrolu
 ----------------
 Tags:profilimPopupNotlarim_yeniNotEklemeKontrolu
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -203,7 +203,7 @@ Tags:profilimPopupNotlarim_yeniNotEklemeKontrolu
 ----------------
 Tags:profilimPopupNotlarim_eklenenNotuDuzenlemePopupKontrolu
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -228,7 +228,7 @@ Tags:profilimPopupNotlarim_eklenenNotuDuzenlemePopupKontrolu
 ----------------
 Tags:profilimPopupNotlarim_varOlanNotuDegistirmeKontrolu
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -260,7 +260,7 @@ Tags:profilimPopupNotlarim_varOlanNotuDegistirmeKontrolu
 ----------------
 Tags:profilimPopupNotlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -287,7 +287,7 @@ Tags:profilimPopupNotlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 ----------------
 Tags:profilimPopupNotlarim_varOlanNotuSilmeKontrolu
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır

@@ -86,7 +86,7 @@ Tags:signup_screenControlScenario
 ----------------
 Tags:signup_newAccountCreateSuccessScenario
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Element var mı kontrol et "gelAlButon"
 * Element var mı kontrol et "adreseTeslimButon"
 

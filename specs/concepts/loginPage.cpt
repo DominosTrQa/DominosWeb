@@ -8,14 +8,27 @@
 * <email> textini "loginEmailTextbox" elemente yaz
 * "3" saniye bekle
 * <password> textini "loginPasswordTextbox" elemente yaz
+* "9" saniye bekle
 * Elementi bekle ve sonra tıkla "girisYapButon"
 * "5" saniye bekle
+
+
+# <email> kullanıcı ve <password> şifresi gir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "loginButton"
+* "5" saniye bekle
+* <email> textini "loginEmailTextbox" elemente yaz
+* "3" saniye bekle
+* <password> textini "loginPasswordTextbox" elemente yaz
+* "9" saniye bekle
+
 
 
 # Üye olmadan devam et
 * Elementi bekle ve sonra tıkla "uyeOlmadanDevamEtButon"
 
-# Random mail ve telefon ile üye olunur
+
+# Ad Soyad Random mail telefon ve sifre girilir
 * "Test" textini "uyeOlAdTextbox" elemente yaz
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
 * Rastgele telefon no üret
@@ -24,8 +37,7 @@
 * "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
 * "Test1234" textini "uyeOlSifreTexbox" elemente yaz
 * "Test1234" textini "uyeOlSifreyTekrarTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
 
 
 # Random mail ve telefon ile üye olunur ve iletişim kanalları seçilir
@@ -62,7 +74,7 @@
 
 # Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -72,7 +84,7 @@
 
 # Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -81,7 +93,7 @@
 
 # Üye olunur giriş yapılır  Adrese Teslim servis tipi secilir ve siparislerime gidilir
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -97,14 +109,14 @@
 
 # Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 
 # Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Gel Al servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Gel Al da Şubeleri Göster butonuna tıklanır
@@ -113,9 +125,40 @@
 
 # Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Üye ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
+* Ad Soyad Random mail telefon ve sifre girilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Buton"
+
+# üye olmak icin bilgiler girilir
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+
+
+# Mesafeli satis sözlesmesi isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+
+
+# Acik riza metni KVKK isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
+
+# ye kazan checkbox
+* Elementi bekle ve sonra tıkla ""
+
+# Adrese teslim tipi seçilir
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+
+
+
+# üye ol
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır

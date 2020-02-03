@@ -130,11 +130,7 @@
     "value":"(//h4[contains(text(),'Callypso')])",
     "type": "xpath"
   },
-  {
-    "key": "siparisVerBirinciButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[1]",
-    "type": "xpath"
-  },
+
   {
     "key": "siparisVerIkinciButon",
     "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
@@ -160,12 +156,5 @@
     "value":"(//*[contains(text(),'Sipariş Ver')])[6]",
     "type": "xpath"
   }
-
-
-
-
-
-
-
 
 ]
