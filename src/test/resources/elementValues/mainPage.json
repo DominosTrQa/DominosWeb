@@ -10,6 +10,11 @@
     "type": "xpath"
   },
   {
+    "key": "ilDropdown2",
+    "value":"(//*[@class='dropdown__Button-wa0gtc-6 kEweqg'])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "ilİstanbul",
     "value":"//div[text()='İstanbul'][1]",
     "type": "xpath"
@@ -22,6 +27,11 @@
   {
     "key": "ilceDropdown",
     "value":"(//div[contains(text(),'Seçiniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceDropdown2",
+    "value":"",
     "type": "xpath"
   },
   {

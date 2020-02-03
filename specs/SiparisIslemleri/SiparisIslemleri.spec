@@ -8,11 +8,12 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 Tek Sube Hizmet Veren Adres/Manuel
 ---------------------------------
+tags:TekSubeHizmetVerenAdres/Manuel
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Yeni İl ilçe mahalle seçilir2
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "CookieAccept"
+* Cookie onaylıyorum butonuna tıkla
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
@@ -61,6 +62,7 @@ Tek Sube Hizmet Veren Adres/Manuel
 
 Tek Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
+tags:TekSubeHizmetVerenAdres/Dropdown
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Yeni İl ilçe mahalle seçilir2
@@ -120,6 +122,7 @@ Tek Sube Hizmet Veren Adres/Dropdown
 
 İki Sube Hizmet Veren Adres
 ---------------------------
+tags:IkiSubeHizmetVerenAdres
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Yeni İl ilçe mahalle seçilir3
@@ -175,8 +178,9 @@ Tek Sube Hizmet Veren Adres/Dropdown
 
 
 
-İki Sube Hizmet Veren Adres/Dropdown
+Iki Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
+tags:IkiSubeHizmetVerenAdres/Dropdown
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Yeni İl ilçe mahalle seçilir3

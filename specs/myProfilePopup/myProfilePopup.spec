@@ -325,7 +325,7 @@ Tags:profilimPopup_cikisYapYeniKullaniciileCikisKontrolu
 
 
 76 - Profilim Popup - Adreslerim - Popup Kontrolü
-----------------
+-------------------------------------------------
 Tags:profilimPopupAdreslerim_popupKontrolu
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"

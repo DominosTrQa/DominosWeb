@@ -172,6 +172,11 @@
     "key": "uyeOlUyelikSozlesmesiBosBirakilamazUyariText",
     "value":"(//div[contains(text(),'İnternet Sitesi Üyelik Sözleşmesi boş bırakılamaz')])",
     "type": "xpath"
+  },
+  {
+    "key": "AdreslerimButonunaTıklanır",
+    "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Adreslerim')]",
+    "type": "xpath"
   }
 
 

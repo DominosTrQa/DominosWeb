@@ -144,15 +144,19 @@
 # Acik riza metni KVKK isaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
 
-# ye kazan checkbox
-* Elementi bekle ve sonra tıkla ""
+# ye kazan checkbox isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox"
+
+# ye kazan checkbox isaretlenir2
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox2"
 
 # Adrese teslim tipi seçilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 
-
+# Cookie onaylıyorum butonuna tıkla
+* Elementi bekle ve sonra tıkla "CookieAccept"
 
 # üye ol
 * Üye ol butonuna tıklanır

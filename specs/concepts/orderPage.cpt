@@ -63,7 +63,8 @@
 
 
 # Adres Ekle
-* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilDropdown2"
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ilİstanbul"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
@@ -86,7 +87,8 @@
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "adresEkleButon"
+ Elementi bekle ve sonra tıkla "adresEkleButon"
+ * Elementi bekle ve sonra tıkla ""
 
 
 # Adresin seçili geldiği sayfada devam et butonuna tıkla
