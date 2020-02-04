@@ -11,7 +11,6 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
  
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
-* Elementi bekle ve sonra tıkla "EkstralarveIceceklerButon"
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 * "3" saniye bekle
 
@@ -178,11 +177,3 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Soslar_Buton"
 * Sepete ekle butonlarının geldiği kontrol edilir 5
 * "3" saniye bekle
-
-
-
-
-
-
-
-

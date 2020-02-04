@@ -18,7 +18,6 @@ Tags:yeKazan_yeKazanSayfaKontrolu
 Tags:yeKazan_yeKazanUyelikKosullariKontrolu
 
 * Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
-* Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Linktext"
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Yedikce_Kazan_Text"
 * Elementi bekle ve sonra tıkla "Ye_Kazan_Uyelik_Kosullari_Close_Button"
