@@ -135,6 +135,10 @@
     "key": "siparisVerIkinciButon",
     "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
     "type": "xpath"
+  },{
+    "key": "siparisVerBirinciButon",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[1]",
+    "type": "xpath"
   },
   {
     "key": "siparisVerUcuncuButon",

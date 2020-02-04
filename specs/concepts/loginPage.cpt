@@ -117,6 +117,8 @@
 # Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Gel Al servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Gel Al da Şubeleri Göster butonuna tıklanır
