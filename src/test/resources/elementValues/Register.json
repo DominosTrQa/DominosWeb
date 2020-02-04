@@ -30,11 +30,6 @@
     "type": "xpath"
   },
   {
-    "key": "uyeOlSayfasiÜyeOlButon",
-    "value":".gwzqiN.sc-1mahmit-0-button-buttons__ButtonBase-bPYnhn > .gvJRXZ.spinner__SpinnerContainer-mjba5r-0",
-    "type": "css"
-  },
-  {
     "key": "uyeOlSayfasiYeKazanTelefonCheckbox",
     "value":"(//p[contains(text(),'Telefon')])[2]",
     "type": "xpath"
