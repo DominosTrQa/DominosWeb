@@ -112,11 +112,11 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
-* Elementi bekle ve sonra tıkla "tümKampanyalarButon"
+* Elementi bekle ve sonra tıkla "ustTabTumKampanyalar"
 * Elementi bekle ve sonra tıkla "Anasayfa_Tüm_Kampanyalar_Text"
-* Elementi bekle ve sonra tıkla "tümPizzalarButon"
+* Elementi bekle ve sonra tıkla "ustTabTumPizzalar"
 * Element var mı kontrol et "Anasayfa_Tüm_Pizzalar_Text"
-* Elementi bekle ve sonra tıkla "EkstralarveIceceklerButon"
+* Elementi bekle ve sonra tıkla "ustTabEkstralarveIcecekler"
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 * "3" saniye bekle
 

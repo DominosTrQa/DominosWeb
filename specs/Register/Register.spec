@@ -1,10 +1,6 @@
 Specification Heading
 =====================
-Created by sahabt on 2020-01-28
 
-This is an executable specification file which follows markdown syntax.
-Every heading in this file denotes a scenario. Every bulleted point denotes a step.
-     
 Register/Eposta
 ----------------
 tags:Register/Eposta
@@ -73,7 +69,7 @@ tags:Register/SadeceKVKKSözlesmesiIsaretlenmez
 * üye olmak icin bilgiler girilir
 * Mesafeli satis sözlesmesi isaretlenir
 * "3" saniye bekle
-* ye kazan checkbox isaretlenir2
+* ye kazan checkbox isaretlenir
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox2"
 * "2" saniye bekle

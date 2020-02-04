@@ -113,12 +113,13 @@ Tags:profilimPopup_SiparislerimSiparisAlanlariKontrolu
 * Element var mı kontrol et "Profilim_Popup_Siparislerim_Eski_Siparislerim_Text"
 
 
-
 62 - Profilim Popup - Pizza Takip - Zorunlu Alan Kontrolü
 ----------------
 Tags:profilimPopupPizzaTakip_zorunluAlanKontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -133,6 +134,8 @@ Tags:profilimPopupPizzaTakip_zorunluAlanKontrolu
 Tags:profilimPopupPizzaTakip_siparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -149,6 +152,8 @@ Tags:profilimPopupPizzaTakip_siparisNumarasiGirilerekGoruntuleButonunaTiklaninca
 Tags:profilimPopupPizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -158,13 +163,13 @@ Tags:profilimPopupPizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 * Element var mı kontrol et "pizzaTakipDijitalPizzaTakipSistemiAlani"
 
 
-
-
 68 - Profilim Popup -  Notlarım - Yeni Not Ekle Popup Kontrolü
 ----------------
 Tags:profilimPopupNotlarim_yeniNotEklePopupKontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -181,6 +186,8 @@ Tags:profilimPopupNotlarim_yeniNotEklePopupKontrolu
 Tags:profilimPopupNotlarim_yeniNotEklemeKontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -204,6 +211,8 @@ Tags:profilimPopupNotlarim_yeniNotEklemeKontrolu
 Tags:profilimPopupNotlarim_eklenenNotuDuzenlemePopupKontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -229,6 +238,8 @@ Tags:profilimPopupNotlarim_eklenenNotuDuzenlemePopupKontrolu
 Tags:profilimPopupNotlarim_varOlanNotuDegistirmeKontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -261,6 +272,8 @@ Tags:profilimPopupNotlarim_varOlanNotuDegistirmeKontrolu
 Tags:profilimPopupNotlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -288,6 +301,8 @@ Tags:profilimPopupNotlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 Tags:profilimPopupNotlarim_varOlanNotuSilmeKontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır

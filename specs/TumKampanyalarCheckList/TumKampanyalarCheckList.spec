@@ -1,20 +1,13 @@
 Specification Heading
 =====================
-Created by sahabt on 2020-01-24
-
-This is an executable specification file which follows markdown syntax.
-Every heading in this file denotes a scenario. Every bulleted point denotes a step.
-
-üye ol
-------
-* Üye ol butonuna tıklanır
-
 
 Tüm Kampanyalar Sayfa Kontrolü
 ------------------------
 tags:tümkampanyalarsayfakontrolü
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -36,6 +29,8 @@ Haftanın Kampanyaları sayfa kontrolü (buton ve yan okla geçme)
 tags:HaftanınKampanyalarısayfakontrolü(butonveyanoklageçme)
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -54,6 +49,8 @@ Tek Kişilik Kampanyalar sayfa kontrolü (buton ve yan okla geçme)
 tags:TekKişilikKampanyalarsayfakontrolü(butonveyanoklageçme)
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -67,6 +64,8 @@ tags:TekKişilikKampanyalarsayfakontrolü(butonveyanoklageçme)
 ----------------------------------------
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -81,6 +80,8 @@ tags:TekKişilikKampanyalarsayfakontrolü(butonveyanoklageçme)
 tags:4Kişiveüzerikampanyalarsayfakontrolü(butonveyanoklageçme)
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -96,6 +97,8 @@ Gel Al Haftanın Kampanyaları sayfa kontrolü (buton ve yan okla geçme)
 tags:GelAlHaftanınKampanyalarısayfakontrolü(butonveyanoklageçme)
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -112,6 +115,8 @@ tags:GelAlHaftanınKampanyalarısayfakontrolü(butonveyanoklageçme)
 tags:ÜstBarSayfalararasıgeçişkontrolü(TümKampanyalarTümPizzalarEkstralar&İçecekler)
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -121,48 +126,37 @@ tags:ÜstBarSayfalararasıgeçişkontrolü(TümKampanyalarTümPizzalarEkstralar&
 * "ekstralaricecekler" elementi "Ekstralar & İçecekler" değerini içeriyor mu kontrol et
 
 
-
-
 Üst Bar Profilim popup başarılı açılıyor mu kontrolü
 --------------------------------------------------
 tags:ÜstBarProfilimpopupbaşarılıaçılıyormukontrolü
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 * Element var mı kontrol et "Profilim"
-
-
-
-
 
 Üst Bar Sepetim popup başarılı açılıyor mı kontrolü
 --------------------------------------------------
 tags:ÜstBarSepetimpopupbaşarılı çılıyormıkontrolü
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 * Element var mı kontrol et "Sepetim"
-
-
-
-Alt Bar yazıları doğru geliyor mu kontrolü
------------------------------------------
-
-
-
-
-
-
 
 Her tab da Sipariş Ver buton kontrolü (Haftanın Kampanyaları, Tek Kişilik Kampanyalar, 2-3 Kişilik Kampanyalar, 4 Kişi ve üzeri Kampanyalar, Gel Al Haftanın Kampanyaları)
 ---------------------------------------------------------------------------------------------------------------------
 tags:HertabdaSiparişVerbutonkontrolü(HaftanınKampanyalarıTekKişilikKampanyalar2-3KişilikKampanyalar4KişiveüzeriKampanyalarGelAlHaftanınKampanyaları)
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır

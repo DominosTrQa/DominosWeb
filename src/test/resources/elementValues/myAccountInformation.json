@@ -291,7 +291,7 @@
   },
   {
     "key": "kredi_Kartlarım_Kart_Ekle_Ekle_Buton",
-    "value":"//div[@class='spinner__SpinnerContainer-mjba5r-0 gvJRXZ']",
+    "value":"//div[@class='spinner__SpinnerContainer-mjba5r-0 ktbWUC']",
     "type": "xpath"
   },
   {

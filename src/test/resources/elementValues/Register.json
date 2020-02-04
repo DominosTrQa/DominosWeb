@@ -1,7 +1,7 @@
 [
   {
     "key": "uyeOlSayfasiÜyeOlButon",
-    "value":"//div[@class='spinner__SpinnerContainer-mjba5r-0 ktbWUC']",
+    "value":"//button[@type='submit']/div[.='Üye Ol ']",
     "type": "xpath"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "key": "uyeOlSayfasiYeKazanCheckbox",
-    "value":"//div[5]/div[@class='checkbox__LabelContainer-sc-1lav4ov-4 iKznIR']/p/span[2]",
+    "value":"//span[contains(text(),'okudum ve kabul ediyorum, bu kapsamda ki')]",
     "type": "xpath"
   },
   {

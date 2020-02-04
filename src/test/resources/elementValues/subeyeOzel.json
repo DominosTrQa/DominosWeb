@@ -1,9 +1,8 @@
 [
-
   {
-  "key": "subeyeOzelAdresBilgileriText",
-  "value":"//div[contains(text(),'Adres Bilgileri')]",
-  "type": "xpath"
+    "key": "subeyeOzelAdresBilgileriText",
+    "value":"//div[contains(text(),'Adres Bilgileri')]",
+    "type": "xpath"
   },
   {
     "key": "subeyeOzelSubeyiDegistirButon",
@@ -32,17 +31,17 @@
   },
   {
     "key": "subeyeOzelEveServisBilgiAlani",
-    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-17 jTNVcC storeDetail__ColumnNonPadding-d50sx7-13 ckkbTF column__NewColumn-sc-1s5q7bb-0 gNbNNr')])[1]",
+    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-15 gOZGzq storeDetail__ColumnNonPadding-d50sx7-11 cKixMG column__NewColumn-sc-1s5q7bb-0 gNbNNr')])[1]",
     "type": "xpath"
   },
   {
     "key": "subeyeOzelGelAlBilgiAlani",
-    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-17 jTNVcC storeDetail__ColumnNonPadding-d50sx7-13 ckkbTF column__NewColumn-sc-1s5q7bb-0 gNbNNr')])[2]",
+    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-15 gOZGzq storeDetail__ColumnNonPadding-d50sx7-11 cKixMG column__NewColumn-sc-1s5q7bb-0 gNbNNr')])[2]",
     "type": "xpath"
   },
   {
     "key": "subeyeOzelMesafeBilgisiAlani",
-    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-17 ekKBES storeDetail__ColumnNonPadding-d50sx7-13 ckkbTF column__NewColumn-sc-1s5q7bb-0 gNbNNr')])",
+    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-15 ejeQug storeDetail__ColumnNonPadding-d50sx7-11 cKixMG column__NewColumn-sc-1s5q7bb-0 gNbNNr')])",
     "type": "xpath"
   },
   {
@@ -67,7 +66,7 @@
   },
   {
     "key": "subeyeOzelAcikKapaliBilgisi",
-    "value":"(//*[(@class='storeDetail__StoreOpenStatus-d50sx7-22 hcfMuJ')])[1]",
+    "value":"(//*[(@class='storeDetail__StoreOpenStatus-d50sx7-20 burTmA')])[1]",
     "type": "xpath"
   },
   {
@@ -125,6 +124,4 @@
     "value":"//a[contains(text(),'Sarıyer')][1]",
     "type": "xpath"
   }
-
-
 ]

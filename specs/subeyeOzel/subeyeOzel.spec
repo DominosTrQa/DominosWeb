@@ -1,11 +1,9 @@
 Şubeye Özel
 =====================
 
-     
 124 - Anasayfa - Şubeye Özel Sayfa Kontrolü
 ----------------
 Tags:anaSayfaSubeyeOzel_sayfaKontrolu
-
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Anasayfa_Subeye_Ozel_Button"
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
@@ -19,18 +17,16 @@ Tags:anaSayfaSubeyeOzel_sayfaKontrolu
 * Element var mı kontrol et "subeyeOzelGelAlBilgiAlani"
 * Element var mı kontrol et "subeyeOzelMesafeBilgisiAlani"
 * Element var mı kontrol et "subeyeOzelSubeBilgileriText"
-* Element var mı kontrol et "subeyeOzelSubeyeOzelKampanyalarText"
-* Element var mı kontrol et "subeyeOzelHaftaninKampanyalariText"
+ Element var mı kontrol et "subeyeOzelSubeyeOzelKampanyalarText"
+ Element var mı kontrol et "subeyeOzelHaftaninKampanyalariText"
 * Element var mı kontrol et "subeyeOzelTumKampanyalarButon"
-* Element var mı kontrol et "siparisVerBirinciButon"
+ Element var mı kontrol et "siparisVerBirinciButon"
 * Element var mı kontrol et "subeyeOzelAcikKapaliBilgisi"
 * Element var mı kontrol et "subeyeOzelYolTarifiAlButon"
-
 
 125 - Anasayfa - Tüm Kampanyalar Butonu Kontrolü
 ----------------
 Tags:anaSayfaSubeyeOzel_tumKampanyalarButonuKontrolu
-
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Anasayfa_Subeye_Ozel_Button"
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
@@ -39,11 +35,9 @@ Tags:anaSayfaSubeyeOzel_tumKampanyalarButonuKontrolu
 * Elementi bekle ve sonra tıkla "subeyeOzelTumKampanyalarButon"
 * "sayfaBasligi" elementi "Tüm Kampanyalar" değerini içeriyor mu kontrol et
 
-
 126 - Anasayfa - Şubeyi Değiştir Sayfası Kontrolü
 ----------------
 Tags:anaSayfaSubeyeOzel_subeyiDegistirSayfaKontrolu
-
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Anasayfa_Subeye_Ozel_Button"
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
@@ -57,11 +51,9 @@ Tags:anaSayfaSubeyeOzel_subeyiDegistirSayfaKontrolu
 * Element var mı kontrol et "subeyeOzelSubeyiDegistirIlSecimAlani"
 * Element var mı kontrol et "subeyeOzelSubeyiDegistirIlSecimiYapinText"
 
-
 127 - Anasayfa - Şubeyi Değiştir Sayfası Şube Ara Kontrolü
 ----------------
 Tags:anaSayfaSubeyeOzel_subeyiDegistirSubeAraKontrolu
-
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Anasayfa_Subeye_Ozel_Button"
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
@@ -78,12 +70,9 @@ Tags:anaSayfaSubeyeOzel_subeyiDegistirSubeAraKontrolu
 * "3" saniye bekle
 * "sayfaBasligi" elementi "Ayazağa" değerini içeriyor mu kontrol et
 
-
-
 128 - Anasayfa - Şubeyi Değiştir Sayfası Sana En Yakın Dominosu Bul Kontrolü
 ----------------
 Tags:anaSayfaSubeyeOzel_subeyiDegistirSanaEnYakinDominosuBulKontrolu
-
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Anasayfa_Subeye_Ozel_Button"
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et

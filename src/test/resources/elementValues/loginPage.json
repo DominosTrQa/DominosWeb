@@ -19,7 +19,6 @@
     "value":"password",
     "type": "id"
   },
-
   {
     "key": "girisYapButon2",
     "value":".bvaIHo.sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO",
@@ -107,10 +106,14 @@
   },
   {
     "key": "uyeOlSayfasiKVKKCheckbox",
-    "value":"(//*[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ'])[2]",
+    "value":"//span[contains(text(),'nde belirtilen hususlar kapsam')]",
     "type": "xpath"
   },
-
+  {
+    "key": "uyeOlSayfasiEpostaCheckbox",
+    "value":"(//p[contains(text(),'E-posta')])[1]",
+    "type": "xpath"
+  },
   {
     "key": "uyeOlSayfasiSmsCheckbox",
     "value":"(//p[contains(text(),'SMS')])[1]",
@@ -121,13 +124,11 @@
     "value":"(//p[contains(text(),'Telefon')])[1]",
     "type": "xpath"
   },
-
   {
     "key": "uyeOlSayfasiYeKazanSmsCheckbox",
     "value":"(//p[contains(text(),'SMS')])[2]",
     "type": "xpath"
   },
-
   {
     "key": "uyeOlSayfasisuccessYeKazanCheckbox",
     "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[3]",
@@ -177,7 +178,25 @@
     "key": "AdreslerimButonunaTıklanır",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Adreslerim')]",
     "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiyeKazanEpostaCheckbox",
+    "value":"(//p[contains(text(),'E-posta')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiYeKazanSmsCheckbox",
+    "value":"(//p[contains(text(),'SMS')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasiYeKazanTelefonCheckbox",
+    "value":"(//p[contains(text(),'Telefon')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlSayfasYeKazanCheckbox",
+    "value":"(//div[(@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI')])[5]",
+    "type": "xpath"
   }
-
-
 ]

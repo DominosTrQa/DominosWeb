@@ -31,12 +31,12 @@
   },
   {
     "key": "Profilim_Popup_Uyelik_Bilgilerim_Eposta_Textbox",
-    "value":"//p[contains(text(),'E-Posta')]",
+    "value":"//input[@label='E-Posta Adresi']",
     "type": "xpath"
   },
   {
     "key": "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox",
-    "value":"//p[contains(text(),'Telefon')]",
+    "value":"//input[@label='Telefon']",
     "type": "xpath"
   },
   {

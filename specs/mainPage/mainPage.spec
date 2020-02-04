@@ -1,9 +1,6 @@
 mainPage
 =====================
-Created by testinium on 17.01.2020
 
-This is an executable specification file which follows markdown syntax.
-Every heading in this file denotes a scenario. Every bulleted point denotes a step.
      
 82- Anasayfa Kontrolü - Üye Değilken - Butonların kontrolü
 ------------------------------------------------------------
@@ -27,9 +24,9 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 * Element var mı kontrol et "Anasayfa_Pizza_Takip_Button"
 * Element var mı kontrol et "Anasayfa_Subeye_Ozel_Button"
 
-83- Anasayfa Kontrolü - Yazıların kontrolü
+83- Anasayfa Kontrolü - Üye Değilken - Yazıların kontrolü
 ----------------------------------------------
- Tags:anasayfa_yazilarinKontrolu
+ Tags:anasayfa_UyeDegilkenyazilarinKontrolu
 
 * Üye olmadan anasayfaya devam et
 * Element var mı kontrol et "dominosLogo"

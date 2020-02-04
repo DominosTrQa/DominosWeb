@@ -50,12 +50,13 @@
 * "Test1234" textini "uyeOlSifreTexbox" elemente yaz
 * "Test1234" textini "uyeOlSifreyTekrarTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKCheckbox"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiSmsCheckbox"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasisuccessYeKazanCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanSmsCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
 
 # Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -75,6 +76,8 @@
 # Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -85,6 +88,8 @@
 # Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -94,6 +99,8 @@
 # Üye olunur giriş yapılır  Adrese Teslim servis tipi secilir ve siparislerime gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -130,6 +137,8 @@
 # Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
