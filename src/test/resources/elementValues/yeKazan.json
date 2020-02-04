@@ -14,6 +14,26 @@
   "key": "Ye_Kazan_Sikca_Sorulan_Sorulardan_Biri_Linktext",
   "value":"//div[contains(text(),'s Ye-Kazan Program')]",
   "type": "xpath"
+  },
+  {
+  "key": "Profilim_Popup_Uyelik_Bilgilerim_KVK_Eposta_Checkbox",
+  "value":"(//p[.='E-posta'])[1]",
+  "type": "xpath"
+  },
+  {
+  "key": "Profilim_Popup_Uyelik_Bilgilerim_Ye_Kazan_Eposta_Checkbox",
+  "value":"/html//div[@id='root']/div/div[4]/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']//p[.='E-Posta']",
+  "type": "xpath"
+  },
+  {
+  "key": "Profilim_Popup_Uyelik_Bilgilerim_KVK_Eposta_Checkbox",
+  "value":"(//p[.='Telefon'])[1]",
+  "type": "xpath"
+  },
+  {
+  "key": "Profilim_Popup_Uyelik_Bilgilerim_Ye_Kazan_Telefon_Checkbox",
+  "value":"/html//div[@id='root']/div/div[4]/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']//p[.='Telefon']",
+  "type": "xpath"
   }
 
 

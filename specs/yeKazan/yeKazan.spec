@@ -51,7 +51,7 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 
 * Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
-* Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Eposta_Textbox"
+* Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Ye_Kazan_Eposta_Checkbox"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
 
 97- Ye_Kazan Kontrolü - Ye_Kazan Telefon Checkbox Kontrolü
@@ -60,7 +60,7 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 
 * Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
-* Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox"
+* Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Ye_Kazan_Telefon_Checkbox"
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
 
 98- Ye_Kazan Kontrolü - Ye_Kazan Sıkça Sorulan Sorular Kontrolü
