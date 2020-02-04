@@ -88,7 +88,7 @@
 * "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "3" saniye bekle
  Elementi bekle ve sonra tıkla "adresEkleButon"
- * Elementi bekle ve sonra tıkla ""
+* Elementi bekle ve sonra tıkla "adresKaydetButon2"
 
 
 # Adresin seçili geldiği sayfada devam et butonuna tıkla

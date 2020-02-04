@@ -6,6 +6,11 @@
   "type": "xpath"
   },
   {
+    "key": "caddeDropdown2",
+    "value":"(//i[@class='icon-chevron-down dropdown__ButtonIndicatorIcon-wa0gtc-5 cTBsPq'])[4]",
+    "type": "xpath"
+  },
+  {
   "key": "sokakKelebekSokak",
   "value":"//div[text()='Kelebek Sk.']",
   "type": "xpath"

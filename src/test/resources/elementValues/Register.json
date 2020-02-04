@@ -153,5 +153,40 @@
     "key": "AdresKontrol",
     "value": "//div[@class='styled__ServiceTypeAddressInfo-yzvmyj-5 dlSdkD']/span[contains(text(),'İstanbul Gaziosmanpaşa Mevlana Mh.')]",
     "type": "xpath"
+  },
+  {
+    "key": "AdresDüzenleButon",
+    "value": "//*[@class='styled__ServiceTypeAddressInfo-yzvmyj-5 jGOKYo']",
+    "type": "xpath"
+  },
+  {
+    "key": "BuAlaniBosBirakamazsinizYazisi",
+    "value": "//*[@class='input__ErrorText-wbeopl-4 bcanhF']",
+    "type": "xpath"
+  },
+  {
+    "key": "KaydetPasifButonKontrol",
+    "value": "//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO fgXSTh']",
+    "type": "xpath"
+  },
+  {
+    "key": "KayıtlıAdresButonGaziosmanpasaTıkla",
+    "value": "//*[@class='styled__Address-yleopv-8 bRebOW']",
+    "type": "xpath"
+  },
+  {
+    "key": "KayıtlıAdresDüzenleButonGaziosmanpasa",
+    "value": "//*[@class='edit']",
+    "type": "xpath"
+  },
+  {
+    "key": "KayıtlıAdresDüzenleButonGaziosmanpasaSil",
+    "value": "//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO ZXpBa'][contains(text(),'Sil')]",
+    "type": "xpath"
+  },
+  {
+    "key": "Güncelle833sk",
+    "value": "//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'][contains(text(),'833. Sk.')]",
+    "type": "xpath"
   }
 ]
