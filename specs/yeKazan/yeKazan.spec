@@ -73,7 +73,7 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 
 99- Ye_Kazan Kontrolü - Ye_Kazan Sıkça Sorulan Sorulardan Birinin Kontrolü
 ---------------------------------------------------------------------------
- Tags:yeKazan_yeKazanSikcaSorulanSorularkBoxKontrolu
+ Tags:yeKazan_yeKazanSikcaSorulanSorulardanBirininKontrolu
 
 * Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Element var mı kontrol et "Ye_Kazan_Sikca_Sorulan_Sorulardan_Biri_Linktext"
