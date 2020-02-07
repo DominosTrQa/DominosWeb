@@ -1,22 +1,22 @@
 [
   {
     "key": "girisYapButon",
-    "value":"//*[@class='styled__ButtonContainer-sc-187wemu-8 inaIhN']/button/div",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNIN_BUTTON_SIGNIN",
+    "type": "id"
   },
   {
     "key": "loginButton",
-    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo']",
-    "type": "xpath"
+    "value":"DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNIN",
+    "type": "id"
   },
   {
     "key": "loginEmailTextbox",
-    "value":"email",
+    "value":"DPE_TR_SIGNIN_INPUT_EMAIL",
     "type": "id"
   },
   {
     "key": "loginPasswordTextbox",
-    "value":"password",
+    "value":"DPE_TR_SIGNIN_INPUT_PASSWORD",
     "type": "id"
   },
   {
@@ -71,43 +71,43 @@
   },
   {
     "key": "uyeOlAdTextbox",
-    "value":"name",
+    "value":"DPE_TR_SIGNUP_INPUT_NAME",
     "type": "id"
   },
   {
     "key": "uyeOlSoyadTextbox",
-    "value":"surname",
+    "value":"DPE_TR_SIGNUP_INPUT_SURNAME",
     "type": "id"
   },
   {
     "key": "uyeOlTelefonTextbox",
-    "value":"mobilePhone",
+    "value":"DPE_TR_SIGNUP_INPUT_MOBILEPHONE",
     "type": "id"
   },
   {
     "key": "uyeOlEmailTextbox",
-    "value":"email",
+    "value":"DPE_TR_SIGNUP_INPUT_EMAIL",
     "type": "id"
   },
   {
     "key": "uyeOlSifreTexbox",
-    "value":"password",
+    "value":"DPE_TR_SIGNUP_INPUT_PASSWORD",
     "type": "id"
   },
   {
     "key": "uyeOlSifreyTekrarTextbox",
-    "value":"passwordagain",
+    "value":"DPE_TR_SIGNUP_INPUT_PASSWORDAGAIN",
     "type": "id"
   },
   {
     "key": "uyeOlMesafeliSatisSozlesmesi",
-    "value":"//div/div[2]/div[2]/div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ']/div",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS1",
+    "type": "id"
   },
   {
     "key": "uyeOlSayfasiKVKKCheckbox",
-    "value":"//span[contains(text(),'nde belirtilen hususlar kapsam')]",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS2",
+    "type": "id"
   },
   {
     "key": "uyeOlSayfasiEpostaCheckbox",
@@ -131,8 +131,8 @@
   },
   {
     "key": "uyeOlSayfasisuccessYeKazanCheckbox",
-    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[3]",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS3]",
+    "type": "id"
   },
   {
     "key": "uyeOlAdBosBirakilamazUyariText",

@@ -1,39 +1,38 @@
 [
-
   {
-  "key": "sayfaBasligi",
-  "value":"(//*[@class='pageHeader__Title-uo3je7-1 gMRowo'])",
-  "type": "xpath"
+    "key": "sayfaBasligi",
+    "value":"(//*[@class='pageHeader__Title-uo3je7-1 gMRowo'])",
+    "type": "xpath"
   },
   {
     "key": "cazipPizzalarButon",
-    "value":"//span[contains(text(),'Cazip Pizzalar')]",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB0",
+    "type": "id"
   },
   {
     "key": "ozelPizzalarButon",
-    "value":"//span[contains(text(),'Özel Pizzalar')]",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB1",
+    "type": "id"
   },
   {
     "key": "bolMalzemePizzalarButon",
-    "value":"//span[contains(text(),'Bol Malzeme Pizzalar')]",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB2",
+    "type": "id"
   },
   {
     "key": "gurmePizzalarButon",
-    "value":"//span[contains(text(),'Gurme Pizzalar')]",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB3",
+    "type": "id"
   },
   {
     "key": "pizzalarSagOkButon",
-    "value":"//*[(@class='styled__TabButton-sc-5srq3g-3 gnOAkE')]",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TABRIGHT",
+    "type": "id"
   },
   {
     "key": "pizzalarSolOkButon",
-    "value":"//*[(@class='styled__TabButton-sc-5srq3g-3 eRWxBJ')]",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TABLEFT",
+    "type": "id"
   },
   {
     "key": "tumPizzalarCazipSuperos",
@@ -66,8 +65,13 @@
     "type": "xpath"
   },
   {
-    "key": "tumPizzalarÖzelTavuklu",
-    "value":"(//h4[contains(text(),'Tavuklu')])",
+    "key": "tumPizzalarOzelTavuklu",
+    "value":"//h4[@title='Tavuklu Pizza']",
+    "type": "xpath"
+  },
+  {
+    "key": "tumPizzalarOzelTavukluyaKaydır",
+    "value":"(//div)[@class='productCard__AllPizzaContent-sc-1qfpiga-8 heCHlM'][4]",
     "type": "xpath"
   },
   {
@@ -130,16 +134,15 @@
     "value":"(//h4[contains(text(),'Callypso')])",
     "type": "xpath"
   },
-
   {
     "key": "siparisVerIkinciButon",
     "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
     "type": "xpath"
   },{
-    "key": "siparisVerBirinciButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[1]",
-    "type": "xpath"
-  },
+  "key": "siparisVerBirinciButon",
+  "value":"(//*[contains(text(),'Sipariş Ver')])[1]",
+  "type": "xpath"
+},
   {
     "key": "siparisVerUcuncuButon",
     "value":"(//*[contains(text(),'Sipariş Ver')])[3]",
@@ -160,5 +163,4 @@
     "value":"(//*[contains(text(),'Sipariş Ver')])[6]",
     "type": "xpath"
   }
-
 ]

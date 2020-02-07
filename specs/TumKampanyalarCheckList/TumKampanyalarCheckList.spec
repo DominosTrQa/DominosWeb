@@ -15,7 +15,6 @@ tags:tümkampanyalarsayfakontrolü
 * Element var mı kontrol et "tümkampanyalar2"
 * Element var mı kontrol et "HaftaninKampanyalari"
 * Element var mı kontrol et "TekKisilikKampanyalar"
-* Element var mı kontrol et "TekKisilikKampanyalar"
 * Element var mı kontrol et "2-3-KisilikKampanyalar"
 * Element var mı kontrol et "4KisiveÜzeriKampanyalar"
 * Element var mı kontrol et "GelAlHaftaninKampanyalari"

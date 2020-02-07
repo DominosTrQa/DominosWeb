@@ -58,7 +58,7 @@ Tags:anaSayfaTumPizzalar_ozelPizzalarSayfaKontrolu
 * Element var mı kontrol et "tumPizzalarÖzelFit"
 * Element var mı kontrol et "tumPizzalarÖzelVegi"
 * Element var mı kontrol et "tumPizzalarÖzelSosyal"
-* Element var mı kontrol et "tumPizzalarÖzelTavuklu"
+* Element var mı kontrol et "tumPizzalarOzelTavuklu"
 * Sipariş Ver butonlarının geldiği kontrol edilir 4
 * Elementi bekle ve sonra tıkla "dominosLogo"
 * Element var mı kontrol et "profil_Menu_Buton"

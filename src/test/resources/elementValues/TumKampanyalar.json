@@ -6,23 +6,23 @@
   },
   {
     "key": "HaftaninKampanyalari",
-    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[1]/span[.='Haftanın Kampanyaları']",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB1",
+    "type": "id"
   },
   {
     "key": "TekKisilikKampanyalar",
-    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[2]/span[.='Tek Kişilik Kampanyalar']",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB2",
+    "type": "id"
   },
   {
     "key": "TekKisilikKampanyalar2",
-    "value":"/html//div[@id='root']//h1[.=' Tek Kişilik Kampanyalar ']",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB3",
+    "type": "id"
   },
   {
     "key": "4KisiveÜzeriKampanyalar",
-    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[4]/span[.='4 Kişi ve Üzeri Kampanyalar']",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB4",
+    "type": "id"
   },
   {
     "key": "4KisiveÜzeriKampanyalar2",
@@ -31,18 +31,18 @@
   },
   {
     "key": "2-3-KisilikKampanyalar",
-    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[3]/span[.='2-3 Kişilik Kampanyalar']",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB3",
+    "type": "id"
   },
   {
     "key": "2-3-KisilikKampanyalar2",
-    "value":"/html//div[@id='root']//h1[.=' 2-3 Kişilik Kampanyalar ']",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB3",
+    "type": "id"
   },
   {
     "key": "GelAlHaftaninKampanyalari",
-    "value":"/html//div[@id='root']/div/div[4]/div[3]/div[2]/div[2]/div/div[5]/span[.='Gel Al Haftanın Kampanyaları']",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB5",
+    "type": "id"
   },
   {
     "key": "GelAlHaftaninKampanyalari2",
@@ -96,8 +96,8 @@
   },
   {
     "key": "TekKisilikKampanyalarSiparisKontrol",
-    "value":"/html//div[@id='root']/div/div[4]/div[3]//div[@class='react-swipeable-view-container']/div[2]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB2",
+    "type": "id"
   },
   {
     "key": "2-3KisilikKampanyalarSiparisKontrol",

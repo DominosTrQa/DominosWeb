@@ -110,6 +110,11 @@
     "type": "xpath"
   },
   {
+    "key": "Sepete_Ekle_11button",
+    "value":"(//*[.='SEPETE EKLE'])[11]",
+    "type": "xpath"
+  },
+  {
     "key": "SepeteEkleFuseteaSeftali",
     "value":"(//div[@class='productCard__ButtonWrapper-sc-1qfpiga-5 jmizWP']/a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[6]",
     "type": "xpath"
@@ -177,6 +182,11 @@
   {
     "key": "SepeteEkleArtı",
     "value":"(//*[@class='counter__Button-uj55e1-2 jaDDzl'])[2]/i",
+    "type": "xpath"
+  },
+  {
+    "key": "EkstralarveIceceklerButon",
+    "value":"//a[@class='styled__HeaderMenuItem-sc-126ws66-35 gEoUee'][contains(text(),'Ekstralar & İçecekler')]",
     "type": "xpath"
   }
 

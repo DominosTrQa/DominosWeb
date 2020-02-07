@@ -9,17 +9,17 @@
 
 # İl ilçe mahalle seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
-* "5" saniye bekle
+ "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilİstanbul"
-* "5" saniye bekle
+ "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
-* "5" saniye bekle
+ "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceSariyer"
-* "5" saniye bekle
+ "5" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
-* "5" saniye bekle
+ "5" saniye bekle
 * Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
-* "5" saniye bekle
+ "5" saniye bekle
 
 # Yeni İl ilçe mahalle seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"

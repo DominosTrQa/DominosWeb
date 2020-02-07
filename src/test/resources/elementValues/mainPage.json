@@ -91,23 +91,23 @@
   },
   {
     "key": "tümKampanyalarButon",
-    "value":"//span[contains(text(),'Tüm Kampanyalar')]",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_BUTTON_CAMPAIGNS",
+    "type": "id"
   },
   {
     "key": "anasayfaTümPizzalarButon",
-    "value":"//span[contains(text(),'Tüm Pizzalar')]",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_BUTTON_PIZZAS",
+    "type": "id"
   },
   {
     "key": "ekstraLezzetlerButon",
-    "value":"//span[contains(text(),'Ekstra')]",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_BUTTON_EXTRAFLAVORS",
+    "type": "id"
   },
   {
     "key": "Ekstra_Lezzetler",
-    "value":"//div[@class='masterContainer__Container-sc-1yzbkqj-0 klgTRg']//a[3]",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_BUTTON_EXTRAFLAVORS",
+    "type": "id"
   },
   {
     "key": "dominosLogo",
@@ -181,23 +181,23 @@
   },
   {
     "key": "Anasayfa_Gorsel_Sol_Ok_Button",
-    "value":"//div[@class='styled__ArrowStyled-sc-1n3cmsd-8 hLOuDF']//*[@class='styled__Svg-sc-1n3cmsd-10 cKrFwI']",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_SLIDER_ARROWLEFT",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Gorsel_Sag_Ok_Button",
-    "value":"//div[@class='styled__ArrowStyled-sc-1n3cmsd-8 fkpmTC']//*[@class='styled__Svg-sc-1n3cmsd-10 cKrFwI']T",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_SLIDER_ARROWRIGHT",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Ye_Kazan_Kazandıklarım_Button",
-    "value":"//a[@class='loyalytyBox__Button-sc-1i2p079-5 jbwovi']",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_BUTTON_LOYALTYWINS",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Hemen_Puanla_Button",
-    "value":"//a[@class='scoreOrderBox__Button-ewiow6-6 dkqZQY']",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_BUTTON_ORDERSCORE",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button",
@@ -211,23 +211,28 @@
   },
   {
     "key": "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown",
-    "value":"//div[@class='placeholderText dropdown__ButtonText-wa0gtc-3 cuiAQE dropdown__ButtonInnerItems-wa0gtc-2 hOPRSO']",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_DROPDOWN_PROMOTIONNAME",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Promosyon_Promosyon_Kodu_Textbox",
-    "value":"//input[@class='input__Control-wbeopl-2 iQtoeP']",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_DROPDOWN_PROMOTIONCODE",
+    "type": "id"
+  },
+  {
+    "key": "Anasayfa_Promosyon_Promosyon_Kullan_Buton",
+    "value":"DPE_TR_HOME_DROPDOWN_PROMOTIONUSE",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Pizza_Takip_Button",
-    "value":"//div[contains(text(),'Pizza Takip')]",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_DROPDOWN_PIZZATRACKER",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Pizza_Takip_Textbox",
-    "value":"//div[contains(text(),'Pizza Takip')]",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_INPUT_PIZZATRACKERNUMBER",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Pizza_Takip_Goruntule_Button",
@@ -236,8 +241,8 @@
   },
   {
     "key": "Anasayfa_Subeye_Ozel_Button",
-    "value":"//div[contains(text(),'ubeye Özel')]",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_DROPDOWN_STORESPECIAL",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Tek_Tik_Text",

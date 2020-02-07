@@ -71,8 +71,8 @@
   },
   {
     "key": "AdresTarifi",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[5]",
-    "type": "xpath"
+    "value":"DPE_TR_ADDRESSADDMODAL_INPUT_INSTRUCTIONS",
+    "type": "id"
   },
   {
     "key": "CaddeSokak",
@@ -131,8 +131,8 @@
   },
   {
     "key": "ÖdemeSekliNakitButonu",
-    "value":"//*[@label='Nakit']",
-    "type": "xpath"
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE1",
+    "type": "id"
   },
   {
     "key": "CookieAccept",
@@ -182,6 +182,21 @@
   {
     "key": "Güncelle833sk",
     "value": "//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'][contains(text(),'833. Sk.')]",
+    "type": "xpath"
+  },
+  {
+    "key": "SokakAdıEdipSokak",
+    "value": "//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'][contains(text(),'Edip Sk.')]",
+    "type": "xpath"
+  },
+  {
+    "key": "SiparisVerOnlineOdeme",
+    "value": "DPE_TR_PAYMENTCARDTYPE_BUTTON_TYPE1",
+    "type": "id"
+  },
+  {
+    "key": "SokakAdı3003Sokak",
+    "value": "//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'][contains(text(),'3003. Sk.')]",
     "type": "xpath"
   }
 ]

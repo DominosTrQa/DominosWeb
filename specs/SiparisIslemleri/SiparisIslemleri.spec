@@ -1,9 +1,6 @@
 Specification Heading
 =====================
-Created by sahabt on 2020-02-02
 
-This is an executable specification file which follows markdown syntax.
-Every heading in this file denotes a scenario. Every bulleted point denotes a step.
      
 
 Tek Sube Hizmet Veren Adres/Manuel
@@ -52,6 +49,8 @@ tags:TekSubeHizmetVerenAdres/Manuel
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 * "2" saniye bekle
+* Adrese Teslim servis tipi seçilir
+* Yeni İl ilçe mahalle seçilir2
 * Elementi bekle ve sonra tıkla "SeciliAdresileDevamEt"
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "3" saniye bekle
@@ -108,6 +107,8 @@ tags:TekSubeHizmetVerenAdres/Dropdown
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 * "2" saniye bekle
+* Adrese Teslim servis tipi seçilir
+* Yeni İl ilçe mahalle seçilir2
 * Elementi bekle ve sonra tıkla "SeciliAdresileDevamEt"
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "3" saniye bekle
@@ -167,6 +168,8 @@ tags:IkiSubeHizmetVerenAdres
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 * "2" saniye bekle
+* Adrese Teslim servis tipi seçilir
+* Yeni İl ilçe mahalle seçilir2
 * Elementi bekle ve sonra tıkla "SeciliAdresileDevamEt"
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "3" saniye bekle
@@ -227,6 +230,8 @@ tags:IkiSubeHizmetVerenAdres/Dropdown
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 * "2" saniye bekle
+* Adrese Teslim servis tipi seçilir
+* Yeni İl ilçe mahalle seçilir2
 * Elementi bekle ve sonra tıkla "SeciliAdresileDevamEt"
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "4" saniye bekle
