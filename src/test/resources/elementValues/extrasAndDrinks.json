@@ -21,8 +21,8 @@
   },
   {
     "key": "extra_Lezzetler_Tab_Tavuklar_Buton",
-    "value":"//span[contains(text(),'Tavuklar')]",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TAB2",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Tab_Tatlilar_Buton",

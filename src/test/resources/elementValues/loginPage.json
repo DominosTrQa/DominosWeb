@@ -41,13 +41,13 @@
   },
   {
     "key": "parolamıUnuttumEmailTextbox",
-    "value":"forgotPassword",
+    "value":"DPE_TR_SIGNIN_INPUT_FORGOTEMAIL",
     "type": "id"
   },
   {
     "key": "sifremiHatirlatButon",
-    "value":"//button[@class='sc-1mahmit-0-button-buttons__ButtonBase-bPYnhn gwzqiN']",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNIN_BUTTON_REMINDPASSWORD",
+    "type": "id"
   },
   {
     "key": "sifremDegistirmeMailiGonderildiText",
@@ -131,7 +131,7 @@
   },
   {
     "key": "uyeOlSayfasisuccessYeKazanCheckbox",
-    "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS3]",
+    "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS3",
     "type": "id"
   },
   {

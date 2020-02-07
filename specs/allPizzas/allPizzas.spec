@@ -164,7 +164,7 @@ Tags:anaSayfaTumPizzalar_ustBarSepetimPopupBasariliAciliyormuKontrol
 * "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
 * Elementi bekle ve sonra tıkla "sepetimButon"
 * Element var mı kontrol et "sepetinizdeUrunBulunmamaktadirText"
-* Elementi bekle ve sonra tıkla "dominosLogo"
+ Elementi bekle ve sonra tıkla "dominosLogo"
 * Element var mı kontrol et "profil_Menu_Buton"
 
 

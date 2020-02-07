@@ -91,7 +91,7 @@
   },
   {
     "key": "tumPizzalarBolMalzemeBolMalzemos",
-    "value":"(//h4[contains(text(),'Bol Malzemos')])",
+    "value":"//h4[contains(text(),'Bol Malzemos')]",
     "type": "xpath"
   },
   {
