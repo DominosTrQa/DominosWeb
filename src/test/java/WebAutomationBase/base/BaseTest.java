@@ -35,7 +35,7 @@ public class BaseTest {
   public void setUp(ExecutionContext executionContext) throws Exception{
 
     logger.info("" + executionContext.getCurrentScenario().getName());
-    String baseUrl = "https://wwww.dominos.com.tr/";
+    String baseUrl = "https://www.dominos.com.tr/";
 
     DesiredCapabilities capabilities = DesiredCapabilities.chrome();
     if (StringUtils.isNotEmpty(getenv("key"))) {
