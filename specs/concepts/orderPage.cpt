@@ -108,18 +108,6 @@
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
  Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
 
-#Üye olmayan kullanıcı için siparişi tamamla
-* "uyeOlmayanOdemeMesafeliSatisSozelesmesiCheckbox" alanına kaydır
-* Elementi bekle ve sonra tıkla "uyeOlmayanOdemeMesafeliSatisSozelesmesiCheckbox"
-* Elementi bekle ve sonra tıkla "uyeOlmayanodemeSiparisVerButon"
-* "Test" textini "onaySayfasiAd" elemente yaz
-* "Test" textini "onaySayfasiSoyad" elemente yaz
-* "sevgialkan011@gmail.com" textini "onaySayfasiEposta" elemente yaz
-* Elementi bekle ve sonra tıkla "onaySayfasiTelefon"
-* "123456789" textini "onaySayfasiTelefon" elemente yaz
-* "uyeOlmayanodemeSiparisVerButon" alanına kaydır
- Elementi bekle ve sonra tıkla "uyeOlmayanodemeSiparisVerButon"
-
 #Üye olan kullanıcı için Gel Al şubesi seç
 * "5" saniye bekle
 * "uyeOlanMusteriharitadanSubeSecDevamButon" alanına kaydır
