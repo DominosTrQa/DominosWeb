@@ -8,7 +8,7 @@ Tek Sube Hizmet Veren Adres/Manuel
 tags:TekSubeHizmetVerenAdres/Manuel
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * "3" saniye bekle
 * Cookie onaylıyorum butonuna tıkla
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
@@ -33,7 +33,7 @@ tags:TekSubeHizmetVerenAdres/Manuel
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "3" saniye bekle
-* "kapiNoTextbox" li elementi bul, temizle ve "20" değerini yaz
+* "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
@@ -59,12 +59,13 @@ tags:TekSubeHizmetVerenAdres/Manuel
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
  Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
 
+
 Tek Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
 tags:TekSubeHizmetVerenAdres/Dropdown
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "CookieAccept"
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"

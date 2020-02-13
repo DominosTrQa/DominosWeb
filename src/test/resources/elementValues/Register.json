@@ -105,6 +105,16 @@
     "type": "xpath"
   },
   {
+    "key": "ilceAtasehir",
+    "value":"//div[text()='Ataşehir']",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleOrnekMahallesi",
+    "value":"//div[text()='Örnek Mh.']",
+    "type": "xpath"
+  },
+  {
     "key": "mahallemevlanaMahallesi",
     "value":"//div[text()='Mevlana Mh.']",
     "type": "xpath"

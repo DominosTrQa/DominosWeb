@@ -63,6 +63,21 @@
 
 
 
+# Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceAtasehir"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleOrnekMahallesi"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+* "2" saniye bekle
+
+
+
 
 # Adrese Teslim için konum ile il ilçe mahalle seçilir
 * "2" saniye bekle
