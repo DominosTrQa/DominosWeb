@@ -8,11 +8,10 @@ Tek Sube Hizmet Veren Adres/Manuel
 tags:TekSubeHizmetVerenAdres/Manuel
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
+* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * "3" saniye bekle
 * Cookie onaylıyorum butonuna tıkla
-* Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
-* "2" saniye bekle
+* Ekstra Lezzetlere gidilir
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 * "5" saniye bekle
 * "SepeteEkleFuseteaSeftali" alanına kaydır
@@ -33,7 +32,7 @@ tags:TekSubeHizmetVerenAdres/Manuel
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "3" saniye bekle
-* "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
+* "kapiNoTextbox" li elementi bul, temizle ve "20" değerini yaz
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
@@ -50,7 +49,7 @@ tags:TekSubeHizmetVerenAdres/Manuel
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 * "2" saniye bekle
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * Elementi bekle ve sonra tıkla "SeciliAdresileDevamEt"
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "3" saniye bekle
@@ -65,7 +64,7 @@ Tek Sube Hizmet Veren Adres/Dropdown
 tags:TekSubeHizmetVerenAdres/Dropdown
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
+* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "CookieAccept"
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
@@ -109,7 +108,7 @@ tags:TekSubeHizmetVerenAdres/Dropdown
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 * "2" saniye bekle
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * Elementi bekle ve sonra tıkla "SeciliAdresileDevamEt"
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "3" saniye bekle
@@ -127,7 +126,7 @@ tags:TekSubeHizmetVerenAdres/Dropdown
 tags:IkiSubeHizmetVerenAdres
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir3
+* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "CookieAccept"
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
@@ -153,10 +152,10 @@ tags:IkiSubeHizmetVerenAdres
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "3" saniye bekle
-* "kapiNoTextbox" li elementi bul, temizle ve "24" değerini yaz
+* "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "daireTextbox"
-* "daireTextbox" li elementi bul, temizle ve "8" değerini yaz
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
 * "3" saniye bekle
@@ -170,7 +169,7 @@ tags:IkiSubeHizmetVerenAdres
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 * "2" saniye bekle
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * Elementi bekle ve sonra tıkla "SeciliAdresileDevamEt"
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "3" saniye bekle
@@ -187,7 +186,7 @@ Iki Sube Hizmet Veren Adres/Dropdown
 tags:IkiSubeHizmetVerenAdres/Dropdown
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir3
+* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "CookieAccept"
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
@@ -213,12 +212,12 @@ tags:IkiSubeHizmetVerenAdres/Dropdown
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "3" saniye bekle
-* "kapiNoTextbox" li elementi bul, temizle ve "24" değerini yaz
+* "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "daireTextbox"
-* "daireTextbox" li elementi bul, temizle ve "8" değerini yaz
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
 * "3" saniye bekle
@@ -232,7 +231,7 @@ tags:IkiSubeHizmetVerenAdres/Dropdown
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 * "2" saniye bekle
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * Elementi bekle ve sonra tıkla "SeciliAdresileDevamEt"
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "4" saniye bekle

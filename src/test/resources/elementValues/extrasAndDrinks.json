@@ -116,7 +116,7 @@
   },
   {
     "key": "SepeteEkleFuseteaSeftali",
-    "value":"//h4[contains(text(),'FuseTea Şeftali Kutu')]",
+    "value":"/a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[6]",
     "type": "xpath"
   },
   {
