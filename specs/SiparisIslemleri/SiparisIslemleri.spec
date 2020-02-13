@@ -57,7 +57,7 @@ tags:TekSubeHizmetVerenAdres/Manuel
 * Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
-* Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
 
 Tek Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
@@ -115,7 +115,7 @@ tags:TekSubeHizmetVerenAdres/Dropdown
 * Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
-* Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
 
 
 
@@ -176,7 +176,7 @@ tags:IkiSubeHizmetVerenAdres
 * Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
-* Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
 
 
 
@@ -238,4 +238,4 @@ tags:IkiSubeHizmetVerenAdres/Dropdown
 * Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
-* Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "odemeSiparisVerButon"

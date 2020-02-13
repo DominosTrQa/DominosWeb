@@ -106,7 +106,7 @@
 * "3" saniye bekle
 * "odemeMesafeliSatisSozelesmesiCheckbox" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
-* Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
 
 #Üye olmayan kullanıcı için siparişi tamamla
 * "uyeOlmayanOdemeMesafeliSatisSozelesmesiCheckbox" alanına kaydır
@@ -118,7 +118,7 @@
 * Elementi bekle ve sonra tıkla "onaySayfasiTelefon"
 * "123456789" textini "onaySayfasiTelefon" elemente yaz
 * "uyeOlmayanodemeSiparisVerButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "uyeOlmayanodemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "uyeOlmayanodemeSiparisVerButon"
 
 #Üye olan kullanıcı için Gel Al şubesi seç
 * "5" saniye bekle
