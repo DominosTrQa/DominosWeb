@@ -206,6 +206,7 @@ public class BaseSteps extends BaseTest {
     return null;
   }
 
+
   @Step({"Go to <url> address",
           "<url> adresine git"})
   public void goToUrl(String url){
@@ -730,6 +731,34 @@ public class BaseSteps extends BaseTest {
   public void equalsTextByKey(String key, String text) {
     Assert.assertEquals(text, findElementWithKey(key).getText());
   }
+
+
+
+  @Step({"Elementin yüklenmesini bekle ve tıkla <key>"})
+  public WebElement getElementWithKeyIfExists2(String key){
+    WebElement webElement;
+    int loopCount = 0;
+    while (loopCount < DEFAULT_MAX_ITERATION_COUNT) {
+      try {
+        webElement = findElementWithKey(key);
+        logger.info(key + " elementi bulundu.");
+        actions.moveToElement(findElement(key));
+        actions.click();
+        actions.build().perform();
+        logger.info(key + " elementine focus ile tıklandı.");
+        return webElement;
+      } catch (WebDriverException e) {
+      }
+      loopCount++;
+      waitByMilliSeconds(DEFAULT_MILLISECOND_WAIT_AMOUNT);
+    }
+    Assert.fail("Element: '" + key + "' doesn't exist.");
+    return null;
+  }
+
+
+
+
 
 
 
