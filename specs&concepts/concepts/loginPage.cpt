@@ -243,3 +243,20 @@
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanTelefonCheckbox"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
+# Adres Güncellenir
+* Elementi bekle ve sonra tıkla "caddeDropdown2"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "Güncelle833sk"
+* "2" saniye bekle
+* "28" textini "kapiNoTextbox" elemente yaz
+* "3" textini "daireTextbox" elemente yaz
+* "ofis" textini "adresAdiTextbox" elemente yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test2" değerini yaz
+
+
+# Güncelle butonu
+* Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"

@@ -1,46 +1,129 @@
 Adres Ekleme
-=====================
+=============
 
-     
+Adres Ekleme Senaryo/Üye Olunarak/Siparis tamamlanir
+---------------------------------------------------
+tags:AdresEklemeSenaryo1ÜyeOlunarak
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
+* mevcut konum kontrol
+* konum paylastiktan sonra ok isaretine tiklanir
+* Sepete Git butonuna tıklanır
+* Sepetteki ürün iki kez arttırılır
+* Sepete Git butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
+* Elementi bekle ve sonra tıkla "KayıtlıAdresButonGaziosmanpasaTıkla"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
+* "2" saniye bekle
+* Ekstra Lezzetlere gidilir
+* Cookie onaylıyorum butonuna tıklanır
+* İçecekler tabine tıklanır
+* Sepete Fuse Tea Eklenir
+* Sepetim iconuna tıklanır
+* Sepetteki ürün iki kez arttırılır
+* Sepete Git butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Ödeme şeklini seç
+* Sipariş Tamamlanır
+* Siparişin oluştuğunu kontrol et
+
+
 Adres Ekleme/Giris Yapılmadan
 -----------------------------
 tags:AdresEkleme/GirisYapılmadan
-
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
-* Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
-* "2" saniye bekle
+* Ekstra Lezzetlere gidilir
 * Cookie onaylıyorum butonuna tıklanır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
-* "5" saniye bekle
-* "SepeteEkleFuseteaSeftali" alanına kaydır
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaSeftali"
-* "4" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteGit"
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleArtı"
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteGit2"
-* "4" saniye bekle
-* Element var mı kontrol et "AdresKontrol"
+* İçecekler tabine tıklanır
+* Sepete Fuse Tea Eklenir
+* Sepetim iconuna tıklanır
+* Sepetteki ürün iki kez arttırılır
+* Sepete Git butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
 
 
-Adres Ekleme/Senaryo2
----------------------
-tags:AdresEkleme/Senaryo2
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "3" saniye bekle
+Adres Ekleme/Konum Paylasarak
+----------------------------
+tags:AdresEklemeKonumPaylasarak
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
+* mevcut konum kontrol
+* konum paylastiktan sonra ok isaretine tiklanir
+* Sepete Git butonuna tıklanır
+* Sepetteki ürün iki kez arttırılır
+* Sepete Git butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No dropdown)
+
+
+
+Adres Ekleme/Konum Paylasarak/Uye Olmadan
+----------------------------------------
+tags:AdresEkleme/KonumPaylasarak/UyeOlmadan
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
-* "2" saniye bekle
+* adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
+* mevcut konum kontrol
+* konum paylastiktan sonra ok isaretine tiklanir
+* Sepete Git butonuna tıklanır
+* Sepetteki ürün iki kez arttırılır
+* Sepete Git butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
+
+
+Adres Ekleme/Profilim sekmesinden girilerek
+-------------------------------------------
+tags:AdresEkleme/Profilimsekmesindengirilerek
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Profilim butonuna tıklanır
+* Profilim pop up Adreslerim butonuna tıklanır ve pop up açıldığı kontrol edilir
+* Profilim pop up Yeni Adres Ekle butonuna tıklanır
+* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
+
+
+Adres Ekleme/Profilim sekmesinden girilerek/Adres tarifi olmadan
+---------------------------------------------------------------
+tags:AdresEkleme/Profilimsekmesindengirilerek
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Profilim butonuna tıklanır
+* Profilim pop up Adreslerim butonuna tıklanır ve pop up açıldığı kontrol edilir
+* Profilim pop up Yeni Adres Ekle butonuna tıklanır
+* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)/Adres tarifi olmadan
+
+
+
+Adres Ekleme/Üye olunur/Kalem ikonuna tiklanir/Secili adres ile devam et
+------------------------------------------------------------------------
+tags:AdresEkleme/Üyeolunur/Kalemikonunatiklanir
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* adres eklerken kalem ikonuna tıkla
+* Profilim pop up Yeni Adres Ekle butonuna tıklanır
+* Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No dropdown)
+
+
+Kayıtlı Adres/Güncelle
+-----------------------
+tags:KayıtlıAdresGüncelle
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Profilim butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Seçili ilk adrese tıkla
 * Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "AdreslerimButonunaTıklanır"
-* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"
-* "2" saniye bekle
-* Adres Ekle
+* İlk adres düzenleye tıklanır
+* Adres Güncellenir
+* Güncelle butonu
+
+
+
+
+
+
 
 Adres Ekleme/Kontrol
 ---------------------
@@ -51,77 +134,22 @@ tags:AdresEkleme/Kontrol
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * "2" saniye bekle
 * Cookie onaylıyorum butonuna tıklanır
-* Elementi bekle ve sonra tıkla "AdresDüzenleButon"
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"
-* "2" saniye bekle
-* Element var mı kontrol et "BuAlaniBosBirakamazsinizYazisi"
-* "3" saniye bekle
-* Element var mı kontrol et "KaydetPasifButonKontrol"
+* Adres düzenle butonuna tiklanir
+* Profilim pop up Yeni Adres Ekle butonuna tıklanır
+* Bu alanı boş bırakamazsınız ve Kaydet buton kontrolü
 
 
 Kayıtlı Adres Sil
 -----------------
 tags:KayıtlıAdresSil
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "3" saniye bekle
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Profilim butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
-* "2" saniye bekle
+* Seçili ilk adrese tıkla
 * Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "AdreslerimButonunaTıklanır"
-* Elementi bekle ve sonra tıkla "KayıtlıAdresButonGaziosmanpasaTıkla"
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "KayıtlıAdresDüzenleButonGaziosmanpasa"
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "KayıtlıAdresDüzenleButonGaziosmanpasaSil"
-
-
-Kayıtlı Adres/Güncelle
------------------------
-tags:KayıtlıAdresGüncelle
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "3" saniye bekle
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
-* "2" saniye bekle
-* Cookie onaylıyorum butonuna tıklanır
-* Profilim butonuna tıklanır
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "AdreslerimButonunaTıklanır"
-* Elementi bekle ve sonra tıkla "KayıtlıAdresButonGaziosmanpasaTıkla"
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "KayıtlıAdresDüzenleButonGaziosmanpasa"
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "caddeDropdown2"
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "Güncelle833sk"
-* "2" saniye bekle
-* "28" textini "kapiNoTextbox" elemente yaz
-* "3" textini "daireTextbox" elemente yaz
-* "ofis" textini "adresAdiTextbox" elemente yaz
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test2" değerini yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* İlk adres düzenleye tıklanır
+* Secili adres silinir
 
 
 
