@@ -207,7 +207,7 @@ Tags:notlarim_varOlanNotuSilmeKontrolu
 //bitmedi
 42 - Kredi Kartlarım - Başarılı Bir Şekilde Kredi Kartı Eklemek
 ----------------
-Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemek
+Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemekB
 * Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Kredi Kartlarım butonuna tıklanır
 * Kredi Kartlarım sayfasında başarılı bir şekilde kredi kartı eklenir
