@@ -1,23 +1,23 @@
 [
   {
     "key": "extra_Lezzetler_Tab_Sol_Ok_Buton",
-    "value":"//div[@class='styled__TabButton-sc-5srq3g-3 eRWxBJ']",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TABLEFT",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Tab_Sağ_Ok_Buton",
-    "value":"//div[@class='styled__TabButton-sc-5srq3g-3 gnOAkE']",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TABRIGHT",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Tab_Dürümler_Buton",
-    "value":"//span[contains(text(),'Dürümler')]",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TAB0",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Tab_Ekmek_Arasi_Buton",
-    "value":"//div[@class='styled__Tab-sc-5srq3g-6 ePsNKi']",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TAB1",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Tab_Tavuklar_Buton",
@@ -26,28 +26,28 @@
   },
   {
     "key": "extra_Lezzetler_Tab_Tatlilar_Buton",
-    "value":"//span[contains(text(),'Tatl')]",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TAB3",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Tab_Ekmekler_Buton",
-    "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Ekmekler')]",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TAB4",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Tab_Salatalar_Buton",
-    "value":"//span[contains(text(),'Salatalar')]",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TAB5",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Tab_Icecekler_Buton",
-    "value":"(//span[contains(text(),'çecekler')])[1]",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TAB6",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Tab_Soslar_Buton",
-    "value":"//span[contains(text(),'Soslar')]",
-    "type": "xpath"
+    "value":"DPE_TR_SIDEPRODUCT_TAB7",
+    "type": "id"
   },
   {
     "key": "extra_Lezzetler_Ekstra_Lezzetler_Text",
@@ -115,8 +115,8 @@
     "type": "xpath"
   },
   {
-    "key": "sepeteEkleFuseteaSeftali",
-    "value":".//*[@class='productCard__Title-sc-1qfpiga-2 bvJHhI'][contains(text(),'FuseTea Şeftali Kutu')]",
+    "key": "SepeteEkleFuseteaLimon",
+    "value":"(//a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[6]",
     "type": "xpath"
   },
   {
@@ -194,9 +194,4 @@
     "value":"(//a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[6]",
     "type": "xpath"
   }
-
-
-
-
-
 ]

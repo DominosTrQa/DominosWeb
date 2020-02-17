@@ -26,7 +26,7 @@
   },
   {
     "key": "üyelik_Bilgilerim_Dogum_Tarihi__Tarih_Sec",
-    "value":"//div[@class='react-datepicker__day react-datepicker__day--wed'][contains(text(),'9')]",
+    "value":"(//div[@class='react-datepicker__day react-datepicker__day--thu'])[2]",
     "type": "xpath"
   },
   {
@@ -41,8 +41,8 @@
   },
   {
     "key": "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox",
-    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/div[2]/div/div[@class='checkbox__Container-sc-1lav4ov-2 hoiMaP']/div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ']/div",
-    "type": "xpath"
+    "value":"IsKvkkSubscription",
+    "type": "id"
   },
   {
     "key": "üyelik_Bilgilerim_Acık_Rıza_Metni_Linktext",
@@ -66,8 +66,8 @@
   },
   {
     "key": "üyelik_Bilgilerim_Ye_Kazan_Checkbox",
-    "value":"//body/div[@id='root']/div[@class='masterContainer__Container-sc-1yzbkqj-0 bGJLxJ']/div[@class='account__Container-sc-1yjmvmo-1 efJpaY masterContainer__Container-sc-1yzbkqj-0 klgTRg']/div[@class='styled__Row-sc-1rgpx0-0 biAoXT row__NewRow-sc-1hpjl6w-0 dZERuy']/div[@class='styled__Column-sc-1rgpx0-1 lCVTd column__NewColumn-sc-1s5q7bb-0 jMZFHK']/form/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']/div[3]/div[1]/div[1]/div[1]",
-    "type": "xpath"
+    "value":"IsYeKazan",
+    "type": "id"
   },
   {
     "key": "üyelik_Bilgilerim_Ye_Kazan_Linktext",
@@ -246,18 +246,18 @@
   },
   {
     "key": "adreslerim_Adres_Düzenle_Buton",
-    "value":"//span[contains(text(),'Düzenle')]",
-    "type": "xpath"
+    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSEDIT0",
+    "type": "id"
   },
   {
     "key": "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton",
-    "value":"//button[@class='sc-1mahmit-0-button-buttons__ButtonBase-bPYnhn kdfJAX']",
-    "type": "xpath"
+    "value":"DPE_TR_ADDRESSADDMODAL_BUTTON_SAVE",
+    "type": "id"
   },
   {
     "key": "adreslerim_Adres_Düzenle_Sil_Buton",
-    "value":"//div[@class='spinner__SpinnerContainer-mjba5r-0 gvJRXZ']",
-    "type": "xpath"
+    "value":"DPE_TR_ADDRESSADDMODAL_BUTTON_DELETE",
+    "type": "id"
   },
   {
     "key": "kredi_Kartlarım_Kart_Ekle_Buton",
@@ -276,18 +276,18 @@
   },
   {
     "key": "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox",
-    "value":"//input[@id='rtaPan']",
-    "type": "xpath"
+    "value":"rtaPan",
+    "type": "id"
   },
   {
     "key": "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox",
-    "value":"//input[@id='expiryDate1']",
-    "type": "xpath"
+    "value":"expiryDate1",
+    "type": "id"
   },
   {
     "key": "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox",
-    "value":"//input[@id='expiryDate2']",
-    "type": "xpath"
+    "value":"expiryDate2",
+    "type": "id"
   },
   {
     "key": "kredi_Kartlarım_Kart_Ekle_Ekle_Buton",
@@ -341,7 +341,7 @@
   },
   {
     "key": "notlarimYeniNotEklePopUpText",
-    "value":"(//div[contains(text(),'Yeni Not Ekle')])",
+    "value":"//a[@class='notes__NewButton-x7fyts-8 dzXSxl sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO kfUJay'][contains(text(),'Yeni Not Ekle')]",
     "type": "xpath"
   },
   {

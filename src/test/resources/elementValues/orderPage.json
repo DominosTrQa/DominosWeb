@@ -85,7 +85,7 @@
     "type": "xpath"
   },
   {
-    "key": "odemeSiparisVerButon",
+    "key": "OdemeyiTamamla",
     "value":"DPE_TR_ORDERCONFIRM_BUTTON_ORDER-D",
     "type": "id"
   },

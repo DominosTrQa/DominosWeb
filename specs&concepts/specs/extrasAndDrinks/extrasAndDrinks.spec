@@ -38,6 +38,7 @@ extrasAndDrinks
 
 
 
+
 114- Anasayfa - Ekstralar ve İçecekler - Tatlılar Sayfa Kontrolü
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerTatlilarSayfaKontrolü
@@ -45,6 +46,7 @@ extrasAndDrinks
 * Ekstra Lezzetlere gidilir
 * Tatlılar tabine tıklanır
 * Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
+
 
 
 
@@ -121,7 +123,7 @@ extrasAndDrinks
 * Element var mı kontrol et "extra_Lezzetler_Dominos_Blog_Text"
 
 
-122- Anasayfa - Ekstralar ve İçecekler - Her Tabda Sepete Ekle Buton Kontrolü
+123- Anasayfa - Ekstralar ve İçecekler - Her Tabda Sepete Ekle Buton Kontrolü
 ------------------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerUHerTabdaEkleButonKontrolü
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir

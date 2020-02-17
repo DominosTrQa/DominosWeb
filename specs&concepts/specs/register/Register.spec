@@ -1,5 +1,5 @@
-Specification Heading
-=====================
+Register
+=========
 
 Register/Eposta
 ----------------
@@ -55,23 +55,3 @@ tags:Register/SadeceKVKKSözlesmesiIsaretlenmez
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox2"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

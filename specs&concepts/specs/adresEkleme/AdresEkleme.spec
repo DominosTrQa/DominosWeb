@@ -1,7 +1,6 @@
 Adres Ekleme
 =====================
 
-/********* BU SPEC TEKRAR YAZILACAĞI İÇİN DÜZENLEMEDİM
      
 Adres Ekleme/Giris Yapılmadan
 -----------------------------
