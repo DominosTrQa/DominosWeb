@@ -1,58 +1,134 @@
 Adres Ekleme
 =====================
 
-     
+Adres Ekleme Senaryo 1/Üye Olunarak
+--------------------------------------
+tags:AdresEklemeSenaryo1ÜyeOlunarak
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelectAkyolSokak"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* "3" saniye bekle
+* "kapiNoTextbox" li elementi bul, temizle ve "24" değerini yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* "daireTextbox" li elementi bul, temizle ve "8" değerini yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* "3" saniye bekle
+* "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "2" saniye bekle
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "KayıtlıAdresButonGaziosmanpasaTıkla"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
+* "5" saniye bekle
+* "SepeteEkleFuseteaLimon" alanına kaydır
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaLimon"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "SepeteGit"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "SepeteEkleArtı"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "SepeteEkleArtı"
+* Elementi bekle ve sonra tıkla "SepeteGit2"
+* "3" saniye bekle
+* "siparisVerBirinciButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "siparisVerBirinciButon"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
+* Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
+* Elementi bekle ve sonra tıkla "OdemeyiTamamla"
+
+
+
 Adres Ekleme/Giris Yapılmadan
 -----------------------------
 tags:AdresEkleme/GirisYapılmadan
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * "2" saniye bekle
 * Cookie onaylıyorum butonuna tıkla
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 * "5" saniye bekle
-* "SepeteEkleFuseteaSeftali" alanına kaydır
+* "SepeteEkleFuseteaLimon" alanına kaydır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaSeftali"
+* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaLimon"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteGit"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "SepeteEkleArtı"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteEkleArtı"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteGit2"
 * "4" saniye bekle
 * Element var mı kontrol et "AdresKontrol"
-
-
-
-
-
-Adres Ekleme/Senaryo2
----------------------
-tags:AdresEkleme/Senaryo2
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * "3" saniye bekle
+* "siparisVerBirinciButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "siparisVerBirinciButon"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
+* Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
+* Elementi bekle ve sonra tıkla "OdemeyiTamamla"
+
+
+
+Adres Ekleme/Konum Paylasarak
+----------------------------
+tags:AdresEklemeKonumPaylasarak
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenleKonumPaylas"
+//Tamamlanacak
+
+
+
+Adres Ekleme/Konum Paylasarak/Uye Olmadan
+----------------------------------------
+tags:AdresEkleme/KonumPaylasarak/UyeOlmadan
 * Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
-* Cookie onaylıyorum butonuna tıkla
-* Profilim butonuna tıklanır
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "AdreslerimButonunaTıklanır"
-* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"
-* "2" saniye bekle
-* Adres Ekle
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
+* Elementi bekle ve sonra tıkla "AdreseTeslimKonumPaylas"
+//Tamamlanacak
+
+
+
+
 
 Adres Ekleme/Kontrol
 ---------------------
 tags:AdresEkleme/Kontrol
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "3" saniye bekle
-* Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * "2" saniye bekle
-* Cookie onaylıyorum butonuna tıkla
 * Elementi bekle ve sonra tıkla "AdresDüzenleButon"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"
@@ -65,10 +141,7 @@ tags:AdresEkleme/Kontrol
 Kayıtlı Adres Sil
 -----------------
 tags:KayıtlıAdresSil
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "3" saniye bekle
-* Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * "2" saniye bekle
 * Cookie onaylıyorum butonuna tıkla
 * Profilim butonuna tıklanır
@@ -84,12 +157,8 @@ tags:KayıtlıAdresSil
 Kayıtlı Adres/Güncelle
 -----------------------
 tags:KayıtlıAdresGüncelle
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "3" saniye bekle
-* Adrese Teslim servis tipi seçilir
-* Yeni İl ilçe mahalle seçilir2
+* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * "2" saniye bekle
-* Cookie onaylıyorum butonuna tıkla
 * Profilim butonuna tıklanır
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "AdreslerimButonunaTıklanır"

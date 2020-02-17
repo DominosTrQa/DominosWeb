@@ -55,13 +55,14 @@ Tags:profilim_notlarimSayfaKontrolu
 * Yeni not ekle sil kontrol et
 
 
-17- Profilim - Adreslerim sayfa kontrolü (Bitmedi)
----------------------------------------------------------
+17- Profilim - Adreslerim sayfa kontrolü
+----------------------------------------
 Tags:profilim_adreslerimSayfaKontrolu
 
 * Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_Linktext"
-* Element var mı kontrol et "adreslerim_Adres_Ekle_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* Element var mı kontrol et "adreslerim_Adres_Düzenle_Buton"
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Buton"
 * Element var mı kontrol et "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
 * Element var mı kontrol et "adreslerim_Adres_Düzenle_Sil_Buton"
@@ -122,6 +123,7 @@ Tags:uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontroluB
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Soyad_Textbox"
 * "üyelik_Bilgilerim_Soyad_Textbox" elementine random isim yaz
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Dogum_Tarihi__Tarih_Sec"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
 
@@ -140,10 +142,12 @@ Tags:uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
 Tags:uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilmasiKontrolu
 
 * Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
-* Element var mı kontrol et "Anasayfa_Kontrol"
+* "3" saniye bekle
+* Element var mı kontrol et "uyeOlSayfasiÜyeOlButon"
 
 
 25- Üyelik Bilgilerim - Üyelikten ayrılmadan vazgeçme kontrolü
@@ -345,10 +349,10 @@ Tags:krediKartlarim_hataliKartKontrolu
 
 
 45- Şifre Değiştir - Zorunlu alan kontrolü
---------------------------------------------------------------------------------
+--------------------------------------------
 Tags:sifreDegistir_ZorunluAlanKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Eski_Sifre_Error_Kontrol_Text"
@@ -359,7 +363,7 @@ Tags:sifreDegistir_ZorunluAlanKontrolu
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluEskiSifreHatali
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
 * "123456Do" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
@@ -372,7 +376,7 @@ Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluEskiSifreHatali
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerHatali
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
 * "123456Do" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
@@ -385,7 +389,7 @@ Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerHatali
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
 * "123456Do" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz

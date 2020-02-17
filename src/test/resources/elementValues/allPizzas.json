@@ -36,38 +36,38 @@
   },
   {
     "key": "tumPizzalarCazipSuperos",
-    "value":"(//h4[contains(text(),'Süperos')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB0_CARD0",
+    "type": "id"
   },
   {
     "key": "tumPizzalarCazipSucuksever",
-    "value":"(//h4[contains(text(),'Sucuksever')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB0_CARD1",
+    "type": "id"
   },
   {
     "key": "tumPizzalarCazipClassic",
-    "value":"(//h4[contains(text(),'Classic')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB0_CARD2",
+    "type": "id"
   },
   {
     "key": "tumPizzalarÖzelFit",
-    "value":"(//h4[contains(text(),'Fit')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB1_CARD0",
+    "type": "id"
   },
   {
     "key": "tumPizzalarÖzelVegi",
-    "value":"(//h4[contains(text(),'Vegi')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB1_CARD1",
+    "type": "id"
   },
   {
     "key": "tumPizzalarÖzelSosyal",
-    "value":"(//h4[contains(text(),'Sosyal')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB1_CARD2",
+    "type": "id"
   },
   {
     "key": "tumPizzalarOzelTavuklu",
-    "value":"//h4[@title='Tavuklu Pizza']",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB1_CARD3",
+    "type": "id"
   },
   {
     "key": "tumPizzalarOzelTavukluyaKaydır",
@@ -76,73 +76,74 @@
   },
   {
     "key": "tumPizzalarBolMalzemeDevMalzeemos",
-    "value":"(//h4[contains(text(),'Dev Malzemos')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB2_CARD0",
+    "type": "id"
   },
   {
     "key": "tumPizzalarBolMalzemeDopdoluExtra",
-    "value":"(//h4[contains(text(),'Dopdolu Extra')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB2_CARD1",
+    "type": "id"
   },
   {
     "key": "tumPizzalarBolMalzemeExtravaganzza",
-    "value":"(//h4[contains(text(),'Extravaganzza')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB2_CARD2",
+    "type": "id"
   },
   {
     "key": "tumPizzalarBolMalzemeBolMalzemos",
-    "value":"//h4[contains(text(),'Bol Malzemos')]",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB2_CARD3",
+    "type": "id"
   },
   {
     "key": "tumPizzalarBolMalzemeKarışık",
-    "value":"(//h4[contains(text(),'Karışık')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB2_CARD4",
+    "type": "id"
   },
   {
     "key": "tumPizzalarBolMalzemeItaliano",
-    "value":"(//h4[contains(text(),'Italiano')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB2_CARD5",
+    "type": "id"
   },
   {
     "key": "tumPizzalarGurmeDortPeynirli",
-    "value":"(//h4[contains(text(),'Dört Peynirli')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB3_CARD0",
+    "type": "id"
   },
   {
     "key": "tumPizzalarGurmePastırmaSucuk",
-    "value":"(//h4[contains(text(),'Pastırma & Sucuk')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB3_CARD1",
+    "type": "id"
   },
   {
     "key": "tumPizzalarGurmeNewYork",
-    "value":"(//h4[contains(text(),'New York')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB3_CARD2",
+    "type": "id"
   },
   {
     "key": "tumPizzalarGurmeKonyalım",
-    "value":"(//h4[contains(text(),'Konyalım')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB3_CARD3",
+    "type": "id"
   },
   {
     "key": "tumPizzalarGurmeMangalSucuklu",
-    "value":"(//h4[contains(text(),'Mangal Sucuklu')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB3_CARD4",
+    "type": "id"
   },
   {
     "key": "tumPizzalarGurmeCallypso",
-    "value":"(//h4[contains(text(),'Callypso')])",
-    "type": "xpath"
+    "value":"DPE_TR_PIZZAS_TAB3_CARD5",
+    "type": "id"
   },
   {
     "key": "siparisVerIkinciButon",
     "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
     "type": "xpath"
-  },{
-  "key": "siparisVerBirinciButon",
-  "value":"(//*[contains(text(),'Sipariş Ver')])[1]",
-  "type": "xpath"
-},
+  },
+  {
+    "key": "siparisVerBirinciButon",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[1]",
+    "type": "xpath"
+  },
   {
     "key": "siparisVerUcuncuButon",
     "value":"(//*[contains(text(),'Sipariş Ver')])[3]",

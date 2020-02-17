@@ -46,6 +46,7 @@ extrasAndDrinks
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sol_Ok_Buton"
 * "3" saniye bekle
 
+
 114- Anasayfa - Ekstralar ve İçecekler - Tatlılar Sayfa Kontrolü
 -----------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerTatlilarSayfaKontrolü
@@ -56,6 +57,7 @@ extrasAndDrinks
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sol_Ok_Buton"
 * "3" saniye bekle
+
 
 115- Anasayfa - Ekstralar ve İçecekler - Ekmekler Sayfa Kontrolü
 -----------------------------------------------------------------------
@@ -150,7 +152,7 @@ extrasAndDrinks
 * "3" saniye bekle
 
 
-122- Anasayfa - Ekstralar ve İçecekler - Her Tabda Sepete Ekle Buton Kontrolü
+123- Anasayfa - Ekstralar ve İçecekler - Her Tabda Sepete Ekle Buton Kontrolü
 ------------------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerUHerTabdaEkleButonKontrolü
 

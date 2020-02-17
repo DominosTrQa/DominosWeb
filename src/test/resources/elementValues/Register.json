@@ -1,8 +1,8 @@
 [
   {
     "key": "uyeOlSayfasiÜyeOlButon",
-    "value":"//button[@type='submit']/div[.='Üye Ol ']",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNUP_BUTTON_SIGNUP",
+    "type": "id"
   },
   {
     "key": "uyeOlSayfasiEpostaCheckbox",
@@ -11,8 +11,8 @@
   },
   {
     "key": "uyeOlSayfasiYeKazanCheckbox",
-    "value":"//span[contains(text(),'okudum ve kabul ediyorum, bu kapsamda ki')]",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS3",
+    "type": "id"
   },
   {
     "key": "uyeOlSayfasiYeKazanCheckbox2",
@@ -95,6 +95,11 @@
     "type": "xpath"
   },
   {
+    "key": "CaddeSokakSelectAkyolSokak",
+    "value":"((//*[@class='dropdown__MenuWrapper-wa0gtc-12 gaNPcZ'])[4]/div/div/div)[4]",
+    "type": "xpath"
+  },
+  {
     "key": "ilcegaziosmanPasa",
     "value":"//div[text()='Gaziosmanpaşa']",
     "type": "xpath"
@@ -130,7 +135,7 @@
     "type": "xpath"
   },
   {
-    "key": "siparisVerBirinciButon",
+    "key": "siparisVerBirinciButon2",
     "value":"//div[@class='styled__Column-sc-1lvff6m-5 fFKhjN column__NewColumn-sc-1s5q7bb-0 lnTHAX']/a[@class='styled__Button-sc-1lvff6m-0 fakEki'][contains(text(),'Sipariş Ver')]",
     "type": "xpath"
   },
@@ -208,5 +213,15 @@
     "key": "SokakAdı3003Sokak",
     "value": "//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'][contains(text(),'3003. Sk.')]",
     "type": "xpath"
+  },
+  {
+    "key": "AdresEklemeKalemIkonuDüzenle",
+    "value":"DPE_TR_ADDRESSEDIT_BUTTON_EDIT",
+    "type": "id"
+  },
+  {
+    "key": "AdresEklemeKalemIkonuDüzenleKonumPaylas",
+    "value":"DPE_TR_NEARSTORELISTDELIVERY_BUTTON_LOCATIONSHARE",
+    "type": "id"
   }
 ]

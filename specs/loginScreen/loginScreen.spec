@@ -5,6 +5,7 @@ Specification Heading
 ----------------
 Tags:login_successScenario
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "3" saniye bekle
 * Element var mı kontrol et "gelAlButon"
 * Element var mı kontrol et "adreseTeslimButon"
 
@@ -13,11 +14,15 @@ Tags:login_successScenario
 Tags:login_failedScenario
 * "dominostest2@hotmail.com" kullanıcısı ve "test" şifresi ile üye girişi yapılır
 * Element var mı kontrol et "epostaVeyaSifreYanlisText"
+
+
 2-Login - Failed Scenario2
 ----------------
 Tags:login_failedScenario2
 * "test@gmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Element var mı kontrol et "epostaVeyaSifreYanlisText"
+
+
 3-Login - Screen Check Scenario
 ----------------
 Tags:login_screenCheckScenario
@@ -41,6 +46,7 @@ Tags:login_parolamiUnuttumScenario
 * Elementi bekle ve sonra tıkla "sifremiHatirlatButon"
 * Element var mı kontrol et "sifremDegistirmeMailiGonderildiText"
 
+
 7-Sign Up - Screen Control Scenario
 ----------------
 Tags:signup_screenControlScenario
@@ -52,8 +58,8 @@ Tags:signup_screenControlScenario
 * Element var mı kontrol et "uyeOlSifreyTekrarTextbox"
 * Element var mı kontrol et "uyeOlMesafeliSatisSozlesmesi"
 * Element var mı kontrol et "uyeOlSayfasiÜyeOlButon"
-* Element var mı kontrol et "facebookIleGirisButon"
-* Element var mı kontrol et "googleIleGirisButon"
+* Element var mı kontrol et "UyeOlfacebookIleGirisButon"
+* Element var mı kontrol et "UyeOlgoogleIleGirisButon"
 * Element var mı kontrol et "uyeOlSayfasiKVKKCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
 * Element var mı kontrol et "uyeOlSayfasiEpostaCheckbox"

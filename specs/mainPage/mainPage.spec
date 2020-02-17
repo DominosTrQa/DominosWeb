@@ -10,8 +10,8 @@ mainPage
 * Element var mı kontrol et "dominosLogo"
 * Element var mı kontrol et "Anasayfa_Adrese_Teslim_Button"
 * Element var mı kontrol et "Anasayfa_Adres_Degisikligi_Button"
-* Element var mı kontrol et "loginButon"
-* Element var mı kontrol et "sepetimButon"
+* Element var mı kontrol et "loginButonLoginOlmadan"
+* Element var mı kontrol et "sepetimButonLoginOlmadan"
 * Element var mı kontrol et "Anasayfa_Gorsel_Sol_Ok_Button"
 * "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button" alanına js ile kaydır
 * Element var mı kontrol et "tümKampanyalarButon"

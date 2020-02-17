@@ -66,12 +66,12 @@
   },
   {
     "key": "profilimPopupPizzaTakipButon",
-    "value":"//a[contains(text(),'Pizza Takip')]",
+    "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Pizza Takip')]",
     "type": "xpath"
   },
   {
     "key": "profilimPopupNotlarimButon",
-    "value":"//a[contains(text(),'Notlarım')]",
+    "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Notlarım')]",
     "type": "xpath"
   },
   {
@@ -86,8 +86,8 @@
   },
   {
     "key": "profilimPopupAdreslerimYeniAdresEkleButton",
-    "value":"//a[contains(text(),'YENİ ADRES EKLE')]",
-    "type": "xpath"
+    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_NEWADDRESS",
+    "type": "id"
   },
   {
     "key": "profilimPopupAdreslerimEklenenAdres",
@@ -96,8 +96,8 @@
   },
   {
     "key": "profilimPopupAdreslerimIlIlceDüzenleButon",
-    "value":"//div[contains(text(),'Düzenle')]",
-    "type": "xpath"
+    "value":"DPE_TR_ADDRESSEDIT_BUTTON_EDIT",
+    "type": "id"
   },
   {
     "key": "profilimPopupAdreslerimIlIlceDüzenlemeKontrol",
@@ -106,13 +106,13 @@
   },
   {
     "key": "profilimPopupAdreslerimSecilenAdresDuzenleButon",
-    "value":"//span[text()='DÜZENLE']",
-    "type": "xpath"
+    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSEDIT0",
+    "type": "id"
   },
   {
     "key": "profilimPopupAdreslerimSecilenAdresSilButon",
-    "value":"//*[text()='Sil']",
-    "type": "xpath"
+    "value":"DPE_TR_ADDRESSADDMODAL_BUTTON_DELETE",
+    "type": "id"
   },
   {
     "key": "profilimPopupAdreslerimKayitliAdresSecilenAdresileDevamEt",
@@ -143,5 +143,10 @@
     "key": "Profilim_Popup_Merhaba_Text",
     "value":"//h4[@class='styled__ProfileLoyaltyTitle-sc-126ws66-11 AUWRl']",
     "type": "xpath"
+  },
+  {
+    "key": "üyelik_Bilgilerim_Adreslerim_ilkadres",
+    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSITEM0",
+    "type": "id"
   }
 ]

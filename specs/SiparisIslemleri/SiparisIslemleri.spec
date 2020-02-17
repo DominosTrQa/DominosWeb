@@ -1,22 +1,21 @@
-Specification Heading
-=====================
+Siparis islemleri
+=================
 
-     
+
 
 Tek Sube Hizmet Veren Adres/Manuel
 ---------------------------------
 tags:TekSubeHizmetVerenAdres/Manuel
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
+* üye ol
+ Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * "3" saniye bekle
 * Cookie onaylıyorum butonuna tıkla
 * Ekstra Lezzetlere gidilir
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 * "5" saniye bekle
-* "SepeteEkleFuseteaSeftali" alanına kaydır
+* "SepeteEkleFuseteaLimon" alanına kaydır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaSeftali"
+* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaLimon"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteGit"
 * "2" saniye bekle
@@ -56,24 +55,23 @@ tags:TekSubeHizmetVerenAdres/Manuel
 * Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
- Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "OdemeyiTamamla"
 
 
 Tek Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
 tags:TekSubeHizmetVerenAdres/Dropdown
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
+* üye ol
+ Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "CookieAccept"
+* Cookie onaylıyorum butonuna tıkla
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 * "5" saniye bekle
-* "SepeteEkleFuseteaSeftali" alanına kaydır
+* "SepeteEkleFuseteaLimon" alanına kaydır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaSeftali"
+* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaLimon"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteGit"
 * "2" saniye bekle
@@ -115,7 +113,7 @@ tags:TekSubeHizmetVerenAdres/Dropdown
 * Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
- Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "OdemeyiTamamla"
 
 
 
@@ -124,18 +122,17 @@ tags:TekSubeHizmetVerenAdres/Dropdown
 İki Sube Hizmet Veren Adres
 ---------------------------
 tags:IkiSubeHizmetVerenAdres
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
+* üye ol
+ Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "CookieAccept"
+* Cookie onaylıyorum butonuna tıkla
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 * "5" saniye bekle
-* "SepeteEkleFuseteaSeftali" alanına kaydır
+* "SepeteEkleFuseteaLimon" alanına kaydır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaSeftali"
+* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaLimon"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteGit"
 * "2" saniye bekle
@@ -176,7 +173,7 @@ tags:IkiSubeHizmetVerenAdres
 * Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
- Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "OdemeyiTamamla"
 
 
 
@@ -184,18 +181,17 @@ tags:IkiSubeHizmetVerenAdres
 Iki Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
 tags:IkiSubeHizmetVerenAdres/Dropdown
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
+* üye ol
+Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "CookieAccept"
+* Cookie onaylıyorum butonuna tıkla
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 * "5" saniye bekle
-* "SepeteEkleFuseteaSeftali" alanına kaydır
+* "SepeteEkleFuseteaLimon" alanına kaydır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaSeftali"
+* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaLimon"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteGit"
 * "2" saniye bekle
@@ -238,4 +234,4 @@ tags:IkiSubeHizmetVerenAdres/Dropdown
 * Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
- Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
+ Elementi bekle ve sonra tıkla "OdemeyiTamamla"

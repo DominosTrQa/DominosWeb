@@ -1,4 +1,4 @@
-Specification Heading
+Tum Kampanyalar
 =====================
 
 Tüm Kampanyalar Sayfa Kontrolü

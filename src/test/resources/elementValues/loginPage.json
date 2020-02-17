@@ -31,13 +31,13 @@
   },
   {
     "key": "uyeOlmadanDevamEtButon",
-    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO leUiDi']",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNIN_BUTTON_GUESTBUTTON",
+    "type": "id"
   },
   {
     "key": "parolamıUnuttumButton",
-    "value":"(//span[contains(text(),'Parolamı Unuttum')])",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNIN_BUTTON_FORGOTPASSWORD",
+    "type": "id"
   },
   {
     "key": "parolamıUnuttumEmailTextbox",
@@ -56,18 +56,18 @@
   },
   {
     "key": "beniHatirlaCheckbox",
-    "value":"//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI']",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNIN_CHECKBOX_REMEMBERME",
+    "type": "id"
   },
   {
     "key": "googleIleGirisButon",
-    "value":"(//i[@class='icon-googleplus'])[2]",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNIN_BUTTON_GOOGLELOGIN",
+    "type": "id"
   },
   {
     "key": "facebookIleGirisButon",
-    "value":"(//i[@class='icon-facebook'])[2]",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNIN_BUTTON_FACEBOOKLOGIN",
+    "type": "id"
   },
   {
     "key": "uyeOlAdTextbox",
@@ -196,7 +196,17 @@
   },
   {
     "key": "uyeOlSayfasYeKazanCheckbox",
-    "value":"(//div[(@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI')])[5]",
-    "type": "xpath"
+    "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS3",
+    "type": "id"
+  },
+  {
+    "key": "UyeOlfacebookIleGirisButon",
+    "value":"DPE_TR_SIGNUP_BUTTON_FACEBOOKSIGNUP",
+    "type": "id"
+  },
+  {
+    "key": "UyeOlgoogleIleGirisButon",
+    "value":"DPE_TR_SIGNUP_BUTTON_GOOGLESIGNUP",
+    "type": "id"
   }
 ]

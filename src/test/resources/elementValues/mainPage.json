@@ -6,8 +6,8 @@
   },
   {
     "key": "ilDropdown",
-    "value":"(//div[contains(text(),'Seçiniz')])[1]",
-    "type": "xpath"
+    "value":"DPE_TR_STOREFILTERFORMDELIVERY_DROPDOWN_CITY",
+    "type": "id"
   },
   {
     "key": "ilDropdown2",
@@ -26,13 +26,8 @@
   },
   {
     "key": "ilceDropdown",
-    "value":"(//div[contains(text(),'Seçiniz')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "ilceDropdown2",
-    "value":"",
-    "type": "xpath"
+    "value":"DPE_TR_STOREFILTERFORMDELIVERY_DROPDOWN_COUNTY",
+    "type": "id"
   },
   {
     "key": "ilceSariyer",
@@ -46,8 +41,8 @@
   },
   {
     "key": "mahalleDropdown",
-    "value":"(//div[contains(text(),'Seçiniz')])[1]",
-    "type": "xpath"
+    "value":"DPE_TR_STOREFILTERFORMDELIVERY_DROPDOWN_DISTRICT",
+    "type": "id"
   },
   {
     "key": "mahallePinarMahallesi",
@@ -61,13 +56,13 @@
   },
   {
     "key": "seciliAdresIleDevamEtButon",
-    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo']",
-    "type": "xpath"
+    "value":"DPE_TR_STOREFILTERFORMDELIVERY_BUTTON_ADDRESSSELECT",
+    "type": "id"
   },
   {
     "key": "subeleriGosterButon",
-    "value":"(//a[contains(text(),'ŞUBELERİ GÖSTER')])",
-    "type": "xpath"
+    "value":"DPE_TR_STOREFILTERFORM_BUTTON_STOREVISIBLE",
+    "type": "id"
   },
   {
     "key": "seciliSubeIleDevamEtButon",
@@ -75,19 +70,19 @@
     "type": "xpath"
   },
   {
-    "key": "loginButon",
+    "key": "loginButonLoginOlmadan",
     "value":"//span[@class='styled__LoginButtonText-sc-126ws66-43 jrBoap']",
     "type": "xpath"
   },
   {
     "key":  "gelAlButon",
-    "value":"//div[contains(text(),'Gel Al')]",
-    "type": "xpath"
+    "value":"DPE_TR_SERVICETYPEMODAL_BUTTON_CARRYOUT",
+    "type": "id"
   },
   {
     "key": "adreseTeslimButon",
-    "value":"//div[contains(text(),'Adrese Teslim')]",
-    "type": "xpath"
+    "value":"DPE_TR_SERVICETYPEMODAL_BUTTON_DELIVERY",
+    "type": "id"
   },
   {
     "key": "tümKampanyalarButon",
@@ -115,7 +110,7 @@
     "type": "xpath"
   },
   {
-    "key": "sepetimButon",
+    "key": "sepetimButonLoginOlmadan",
     "value":"//i[@class='icon-angle-up']",
     "type": "xpath"
   },
@@ -125,9 +120,14 @@
     "type": "xpath"
   },
   {
-    "key": "konum_Paylas",
-    "value":"//i[@class='icon-navigation']",
-    "type": "xpath"
+    "key": "AdreseTeslimKonumPaylas",
+    "value":"DPE_TR_NEARSTORELISTDELIVERY_BUTTON_LOCATIONSHARE",
+    "type": "id"
+  },
+  {
+    "key": "GelAlKonumPaylas",
+    "value":"DPE_TR_NEARSTORELIST_BUTTON_LOCATIONSELECT",
+    "type": "id"
   },
   {
     "key": "konum_Devam_Et",
@@ -151,7 +151,7 @@
   },
   {
     "key": "profil_Menu_Buton",
-    "value":"(//div[contains(text(),'Profilim')])",
+    "value":"//*[@class='styled__ProfileMenuButton-sc-126ws66-2 dmfZCP']",
     "type": "xpath"
   },
   {
@@ -171,13 +171,13 @@
   },
   {
     "key": "Anasayfa_Adrese_Teslim_Button",
-    "value":"//div[@class='styled__ServiceTypeButton-yzvmyj-4 caPTuS']",
-    "type": "xpath"
+    "value":"DPE_TR_TOPBAR_BUTTON_SERVICETYPESELECT",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Adres_Degisikligi_Button",
-    "value":"//div[@class='styled__ServiceTypeAddressInfo-yzvmyj-5 jGOKYo']",
-    "type": "xpath"
+    "value":"DPE_TR_TOPBAR_BUTTON_ADDRESSMODALOPEN",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Gorsel_Sol_Ok_Button",
@@ -206,8 +206,8 @@
   },
   {
     "key": "Anasayfa_Promosyon_Kodu_Button",
-    "value":"//div[contains(text(),'Promosyon Kodu')]",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_DROPDOWN",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown",
@@ -236,8 +236,8 @@
   },
   {
     "key": "Anasayfa_Pizza_Takip_Goruntule_Button",
-    "value":"//a[@class='popup__SubmitButton-ee5s9n-5 bZVIzF']",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_DROPDOWN_PIZZATRACKER",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Subeye_Ozel_Button",
@@ -291,7 +291,7 @@
   },
   {
     "key": "sepetinizdeUrunBulunmamaktadirText",
-    "value":"//div[contains(text(),'SEPETİNİZDE ÜRÜN BULUNMAMAKTADIR')]",
+    "value":"//div[contains(text(),'SEPETINIZDE ÜRÜN BULUNMAMAKTADIR.')]",
     "type": "xpath"
   },
   {
@@ -338,6 +338,27 @@
     "key": "altBarSosyalMedyaButonlari",
     "value":"(//div[@class='styled__SocialMediaImages-sc-2i2f7q-8 ehWLSz'])",
     "type": "xpath"
+  },
+  {
+    "key": "AdresEklemeKalemIkonu",
+    "value":"DPE_TR_TOPBAR_BUTTON_ADDRESSMODALOPEN",
+    "type": "id"
+  },
+  {
+    "key": "YeniAdresEkleButonu",
+    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_NEWADDRESS",
+    "type": "id"
+  },
+  {
+    "key": "siparisSayfasıseciliAdresIleDevamEtButon",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO blmbQq']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimButon",
+    "value":"//button[@class='styled__CartButton-sc-126ws66-17 cwxyFL']",
+    "type": "xpath"
   }
+
 
 ]
