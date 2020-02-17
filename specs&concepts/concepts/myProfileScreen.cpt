@@ -1,0 +1,199 @@
+
+
+# Üyelik bilgilerim sayfasındaki elementler kontrol edilir
+* Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
+* Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
+* Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
+* Element var mı kontrol et "üyelik_Bilgilerim_Takım_Dropdown"
+* Element var mı kontrol et "üyelik_Bilgilerim_Meslek_Dropdown"
+* Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox"
+* Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Checkbox"
+* Element var mı kontrol et "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
+* Element var mı kontrol et "üyelik_Bilgilerim_Üyelik_Bilgilerim_Linktext"
+* Element var mı kontrol et "üyelik_Bilgilerim_Siparislerim_Linktext"
+* Element var mı kontrol et "üyelik_Bilgilerim_Pizza_Takip_Linktext"
+* Element var mı kontrol et "üyelik_Bilgilerim_Notlarım_Linktext"
+* Element var mı kontrol et "üyelik_Bilgilerim_Adreslerim_Linktext"
+* Element var mı kontrol et "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
+
+# Üyelik bilgilerim sayfasındaki Siparişlerim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Siparislerim_Linktext"
+
+# Üyelik bilgilerimden gidilen Siparişlerim sayfası kontrol edilir
+* Element var mı kontrol et "siparislerim_Aktif_Siparislerim_Text"
+* Element var mı kontrol et "siparislerim_Tek_Tıkla_Siparislerim_Text"
+* Element var mı kontrol et "siparislerim_Eski_Siparislerim_Text"
+
+# Üyelik bilgilerim sayfasındaki Adreslerim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_Linktext"
+
+# Üyelik bilgilerimden gidilen Adreslerim sayfası kontrol edilir
+* Element var mı kontrol et "adreslerim_Adres_Ekle_Buton"
+* Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Buton"
+* Element var mı kontrol et "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
+* Element var mı kontrol et "adreslerim_Adres_Düzenle_Sil_Buton"
+
+# Üyelik bilgilerim sayfasındaki Pizza Takip butonuna tıklanır
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Pizza_Takip_Linktext"
+
+# Üyelik bilgilerimden gidilen Pizza Takip sayfası kontrol edilir
+* Element var mı kontrol et "pizza_Takip_Siparis_Numarası_Textbox"
+* Element var mı kontrol et "pizza_Takip_Görüntüle_Buton"
+
+# Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Notlarım_Linktext"
+
+# Üyelik bilgilerim sayfasındaki Kredi Kartlarım butonuna tıklanır
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Kredi_Kartlarım_Linktext"
+
+# Kredi Kartlarım sayfasındaki Kart Ekle butonuna tıklanır ve gelen elementler kontrol edilir
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
+* Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox"
+* Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox"
+* Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox"
+* Element var mı kontrol et "kredi_Kartlarım_Kart_Ekle_Ekle_Buton"
+
+# Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Linktext"
+
+# Üyelik bilgilerimden gidilen Şifre Değiştir sayfası kontrol edilir
+* Element var mı kontrol et "sifre_Degistir_Eski_Sifre_Textbox"
+* Element var mı kontrol et "sifre_Degistir_Yeni_Sifre_Textbox"
+* Element var mı kontrol et "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox"
+* Element var mı kontrol et "sifre_Degistir_Degistir_Buton"
+
+# Üyelik bilgilerimde değişiklik yapılabildiği kontrol edilir
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
+* "üyelik_Bilgilerim_Ad_Textbox" elementine random isim yaz
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Soyad_Textbox"
+* "üyelik_Bilgilerim_Soyad_Textbox" elementine random isim yaz
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Dogum_Tarihi__Tarih_Sec"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
+
+
+# Üyelik bilgilerimdeki değiştirilebilir alanlar kontrol edilir
+* Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
+* Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
+* Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
+* Element var mı kontrol et "üyelik_Bilgilerim_Takım_Dropdown"
+* Element var mı kontrol et "üyelik_Bilgilerim_Meslek_Dropdown"
+* Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox"
+* Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Checkbox"
+
+# Üyelikten Ayrıl butonuna basılır ve pop up geldiği kontrol edilir
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
+* Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
+
+# Üyelikten Ayrıl butonuna basılır, pop up kabul edilir ve anasayfaya yönlendirdiği kontrol edilir
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
+* Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
+* Element var mı kontrol et "Anasayfa_Kontrol"
+
+# Üyelikten Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Vazgec_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
+
+# Üyelik bilgilerimden gidilen Pizza Takip sayfasının zorunlu alanları kontrol edilir
+* Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
+* Element var mı kontrol et "pizzaTakipTakipKoduGecersizdirText"
+
+# Üyelik bilgilerimden gidilen Pizza Takip sayfasındaki Görüntüle butonunun çalıştığı kontrol edilir
+* "123456" textini "pizza_Takip_Siparis_Numarası_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
+* Element var mı kontrol et "pizzaTakipSiparisSonucuText"
+
+# Notlarım sayfasındaki Yeni Not Ekle butonuna basılır ve pop up açıldığı kontrol edilir
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
+* Element var mı kontrol et "notlarimYeniNotEklePopUpText"
+
+# Random yeni not eklenir
+* "5" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
+* "3" saniye bekle
+* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
+* "3" saniye bekle
+
+# Not eklendikten sonra popup daki elementlerin varlığı kontrol edilir
+* "Notlarım_Not_Birinci_Basligi_Text" li elementi bul ve değerini "randomKelime" saklanan değeri içeriyor mu kontrol et
+* Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Buton"
+* Element var mı kontrol et "notlarimDüzenlePopupText"
+* Elementi bekle ve sonra tıkla "notlarimSilButon"
+* "3" saniye bekle
+
+# Eklenen not düzenlenir
+* Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
+* "1" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
+* "3" saniye bekle
+* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* Elementi bekle ve sonra tıkla "notlarimDüzenleDegisiklikleriKaydetButon"
+* "3" saniye bekle
+
+# Eklenen notu düzenlemekten vazgeçilir ve değişiklik olmadığı kontrol edilir
+* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "notlarimBirinciNotBasligi"
+* Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
+* Elementi bekle ve sonra tıkla "notlarimDüzenlePopupKapatButonu"
+* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" saklanan değer ile karşılaştır
+
+# Kredi Kartlarım sayfasında başarılı bir şekilde kredi kartı eklenir
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
+* "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox"
+* "4282209027132016" textini "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox"
+* "05" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox"
+* "20" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Ekle_Buton"
+
+
+# Kredi Kartlarım sayfasında hatalı bir kart eklenir ve uyarı alındığı gözlemlenir
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
+* "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox"
+* "1234567891234567" textini "kredi_Kartlarım_Kart_Ekle_Kart_Numarası_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox"
+* "12" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Ay_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox"
+* "20" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Ekle_Buton"
+* Element var mı kontrol et "krediKartlarimGecersizKartNumarasiUyariText"
+
+# Şifre Değiştir sayfasındaki zorunlu alanlar kontrol edilir
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Eski_Sifre_Error_Kontrol_Text"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Yeni_Sifre_Error_Kontrol_Text"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Yeni_Sifre_Tekrar_Error_Kontrol_Text"
+
+# Şifre Değiştir sayfasında girilen eski şifrenin hatalı olduğu uyarısı kontrol edilir
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
+* "123456Do" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
+* "123456Do1" textini "sifre_Degistir_Yeni_Sifre_Textbox" elemente yaz
+* "123456Do1" textini "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifre_Degistir_Degistir_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Eski_Sifre_Hatalı_Popup_Kontrol"
+
+# Şifre Değiştir sayfasında girilen yeni şifrenin farklı olduğu uyarısı kontrol edilir
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton"
+* "123456Do" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
+* "123456Do" textini "sifre_Degistir_Yeni_Sifre_Textbox" elemente yaz
+* "123456Do" textini "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifre_Degistir_Degistir_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Aynı_Sifre_Olamaz_Popup_Text"
+
+# Şifre Değiştir sayfasında başarılı bir şekilde şifre değiştirildiği kontrol edilir
+* "Test1234" textini "sifre_Degistir_Eski_Sifre_Textbox" elemente yaz
+* "123456Do" textini "sifre_Degistir_Yeni_Sifre_Textbox" elemente yaz
+* "123456Do" textini "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifre_Degistir_Degistir_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Aynı_Sifre_Olamaz_Popup_Text"
+
+

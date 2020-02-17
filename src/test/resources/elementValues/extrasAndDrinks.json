@@ -188,9 +188,10 @@
     "key": "EkstralarveIceceklerButon",
     "value":"//a[@class='styled__HeaderMenuItem-sc-126ws66-35 gEoUee'][contains(text(),'Ekstralar & İçecekler')]",
     "type": "xpath"
+  },
+  {
+    "key": "SepeteEkleFuseteaLimon",
+    "value":"(//a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[6]",
+    "type": "xpath"
   }
-
-
-
-
 ]

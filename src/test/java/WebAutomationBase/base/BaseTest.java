@@ -35,7 +35,7 @@ public class BaseTest {
   public void setUp(ExecutionContext executionContext) throws Exception{
 
     logger.info("" + executionContext.getCurrentScenario().getName());
-    String baseUrl = "https://www.dominos.com.tr/";
+    String baseUrl = "http://dpe-staging.dominos.com.tr/";
 
     DesiredCapabilities capabilities = DesiredCapabilities.chrome();
     if (StringUtils.isNotEmpty(getenv("key"))) {
@@ -89,6 +89,7 @@ public class BaseTest {
 
   @AfterScenario
   public void tearDown(){
+
     driver.quit();
   }
 

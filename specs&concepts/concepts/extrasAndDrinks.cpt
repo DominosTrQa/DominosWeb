@@ -65,13 +65,50 @@
 * Element var mı kontrol et "Sepete_Ekle_22button"
 * Element var mı kontrol et "Sepete_Ekle_23button"
 
+# İçecekler tabine tıklanır
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 
+# Dürümler tabine tıklanır
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Dürümler_Buton"
 
+# Ekmek Arası tabine tıklanır
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmek_Arasi_Buton"
 
+# Tavuklar tabine tıklanır
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tavuklar_Buton"
 
+# Tatlılar tabine tıklanır
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tatlilar_Buton"
 
+# Ekmekler tabine tıklanır
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmekler_Buton"
 
+# Salatalar tabine tıklanır
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Salatalar_Buton"
 
+# Soslar tabine tıklanır
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Soslar_Buton"
 
+# Ekstra lezzetler sayfasının açıldığı kontrol edilir
+* Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 
+# Sepete Fuse Tea Eklenir
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaLimon"
 
+# Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sol_Ok_Buton"
+
+# Ekstra lezzetler sayfasındayken üst barlar arası geçiş kontrolü yapılır
+* Elementi bekle ve sonra tıkla "ustTabTumKampanyalar"
+* Elementi bekle ve sonra tıkla "Anasayfa_Tüm_Kampanyalar_Text"
+* Elementi bekle ve sonra tıkla "ustTabTumPizzalar"
+* Element var mı kontrol et "Anasayfa_Tüm_Pizzalar_Text"
+* Elementi bekle ve sonra tıkla "ustTabEkstralarveIcecekler"
+* Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
+
+# Ekstra lezzetler sayfasındayken profilim popup kontrolü yapılır
+* Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Element var mı kontrol et "üyelik_Bilgilerim_Buton"

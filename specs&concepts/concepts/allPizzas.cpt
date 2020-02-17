@@ -1,0 +1,123 @@
+
+
+# Sipariş Ver butonlarının geldiği kontrol edilir 3
+* Element var mı kontrol et "siparisVerBirinciButon"
+* Element var mı kontrol et "siparisVerIkinciButon"
+* Element var mı kontrol et "siparisVerUcuncuButon"
+
+# Sipariş Ver butonlarının geldiği kontrol edilir 4
+* Element var mı kontrol et "siparisVerBirinciButon"
+* Element var mı kontrol et "siparisVerIkinciButon"
+* Element var mı kontrol et "siparisVerUcuncuButon"
+* Element var mı kontrol et "siparisVerDorduncuButon"
+
+# Sipariş Ver butonlarının geldiği kontrol edilir 6
+* Element var mı kontrol et "siparisVerBirinciButon"
+* Element var mı kontrol et "siparisVerIkinciButon"
+* Element var mı kontrol et "siparisVerUcuncuButon"
+* Element var mı kontrol et "siparisVerDorduncuButon"
+* Element var mı kontrol et "siparisVerBesinciButon"
+* Element var mı kontrol et "siparisVerAltinciButon"
+
+# Tüm Pizzalar sayfasının elementlerinin geldiği kontrol edilir
+* "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
+* Element var mı kontrol et "cazipPizzalarButon"
+* Element var mı kontrol et "ozelPizzalarButon"
+* Element var mı kontrol et "bolMalzemePizzalarButon"
+* Element var mı kontrol et "gurmePizzalarButon"
+* Element var mı kontrol et "pizzalarSagOkButon"
+* Element var mı kontrol et "pizzalarSolOkButon"
+
+# Cazip Pizzalar sayfasının elementlerinin geldiği kontrol edilir
+* "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
+* Element var mı kontrol et "tumPizzalarCazipSuperos"
+* Elementi bekle ve sonra tıkla "pizzalarSagOkButon"
+* Elementi bekle ve sonra tıkla "pizzalarSolOkButon"
+* "sayfaBasligi" li elementin değeri "Cazip Pizzalar" e eşitliğini kontrol et
+* Element var mı kontrol et "tumPizzalarCazipSuperos"
+* Element var mı kontrol et "tumPizzalarCazipSucuksever"
+* Element var mı kontrol et "tumPizzalarCazipClassic"
+
+# Özel Pizzalar sayfasının elementlerinin geldiği kontrol edilir
+* "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
+* Elementi bekle ve sonra tıkla "pizzalarSagOkButon"
+* "sayfaBasligi" li elementin değeri "Özel Pizzalar" e eşitliğini kontrol et
+* Elementi bekle ve sonra tıkla "pizzalarSolOkButon"
+* "sayfaBasligi" li elementin değeri "Cazip Pizzalar" e eşitliğini kontrol et
+* Elementi bekle ve sonra tıkla "ozelPizzalarButon"
+* "sayfaBasligi" li elementin değeri "Özel Pizzalar" e eşitliğini kontrol et
+* Element var mı kontrol et "tumPizzalarÖzelFit"
+* Element var mı kontrol et "tumPizzalarÖzelVegi"
+* Element var mı kontrol et "tumPizzalarÖzelSosyal"
+* Element var mı kontrol et "tumPizzalarOzelTavuklu"
+
+# Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
+* "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
+* Elementin yüklenmesini bekle ve tıkla "pizzalarSagOkButon"
+* "sayfaBasligi" li elementin değeri "Özel Pizzalar" e eşitliğini kontrol et
+* Elementin yüklenmesini bekle ve tıkla "pizzalarSagOkButon"
+* "sayfaBasligi" li elementin değeri "Bol Malzeme Pizzalar" e eşitliğini kontrol et
+* Elementin yüklenmesini bekle ve tıkla "pizzalarSolOkButon"
+* "sayfaBasligi" li elementin değeri "Özel Pizzalar" e eşitliğini kontrol et
+* Elementin yüklenmesini bekle ve tıkla "bolMalzemePizzalarButon"
+* "sayfaBasligi" li elementin değeri "Bol Malzeme Pizzalar" e eşitliğini kontrol et
+* Element var mı kontrol et "tumPizzalarBolMalzemeDevMalzeemos"
+* Element var mı kontrol et "tumPizzalarBolMalzemeDopdoluExtra"
+* Element var mı kontrol et "tumPizzalarBolMalzemeExtravaganzza"
+* Element var mı kontrol et "tumPizzalarBolMalzemeBolMalzemos"
+* Element var mı kontrol et "tumPizzalarBolMalzemeKarışık"
+* Element var mı kontrol et "tumPizzalarBolMalzemeItaliano"
+
+# Gurme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
+* "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
+* Elementin yüklenmesini bekle ve tıkla "pizzalarSagOkButon"
+* "sayfaBasligi" li elementin değeri "Özel Pizzalar" e eşitliğini kontrol et
+* Elementin yüklenmesini bekle ve tıkla "pizzalarSagOkButon"
+* "sayfaBasligi" li elementin değeri "Bol Malzeme Pizzalar" e eşitliğini kontrol et
+* Elementi bekle ve sonra tıkla "pizzalarSagOkButon"
+* "sayfaBasligi" li elementin değeri "Gurme Pizzalar" e eşitliğini kontrol et
+* Elementin yüklenmesini bekle ve tıkla "pizzalarSolOkButon"
+* "sayfaBasligi" li elementin değeri "Bol Malzeme Pizzalar" e eşitliğini kontrol et
+* Elementin yüklenmesini bekle ve tıkla "gurmePizzalarButon"
+* "sayfaBasligi" li elementin değeri "Gurme Pizzalar" e eşitliğini kontrol et
+* Element var mı kontrol et "tumPizzalarGurmeDortPeynirli"
+* Element var mı kontrol et "tumPizzalarGurmePastırmaSucuk"
+* Element var mı kontrol et "tumPizzalarGurmeNewYork"
+* Element var mı kontrol et "tumPizzalarGurmeKonyalım"
+* Element var mı kontrol et "tumPizzalarGurmeMangalSucuklu"
+* Element var mı kontrol et "tumPizzalarGurmeCallypso"
+
+# Tüm Pizzalar sayfasındayken üst bar sayfalar arası geçiş kontrol edilir
+* "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
+* Tabdeki Tüm Kampanyalar butonuna tıklanır
+* "sayfaBasligi" li elementin değeri "Tüm Kampanyalar" e eşitliğini kontrol et
+* Tabdeki Tüm Pizzalar butonuna tıklanır
+* "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
+* Tabdeki Ekstralar ve İçecekler butonuna tıklanır
+* "sayfaBasligi" li elementin değeri "Ekstra Lezzetler" e eşitliğini kontrol et
+
+
+# Tüm Pizzalar sayfasındayken Sepetim pop up açılıyor mu kontrol edilir
+* "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
+* Sepetim iconuna tıklanır
+* Element var mı kontrol et "sepetinizdeUrunBulunmamaktadirText"
+* Element var mı kontrol et "profil_Menu_Buton"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

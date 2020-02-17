@@ -35,16 +35,6 @@
     "type": "xpath"
   },
   {
-    "key": "SepeteGit",
-    "value":"//*[@id=\"root\"]/div/div[2]/div/div[2]/button",
-    "type": "xpath"
-  },
-  {
-    "key": "SepeteGit2",
-    "value":"//*[@class='styled__CartTotalContianer-sc-126ws66-29 jOkfmy']/a",
-    "type": "xpath"
-  },
-  {
     "key": "BinaAdıKapıNo",
     "value":"(//*[@class='input__Label-wbeopl-1 hKvIFA'])[1]",
     "type": "xpath"

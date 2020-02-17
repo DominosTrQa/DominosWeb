@@ -358,7 +358,10 @@
     "key": "sepetimButon",
     "value":"//button[@class='styled__CartButton-sc-126ws66-17 cwxyFL']",
     "type": "xpath"
+  },
+  {
+    "key": "seciliTestAdres",
+    "value":"(//div[contains(text(),'test')])[1]",
+    "type": "xpath"
   }
-
-
 ]
