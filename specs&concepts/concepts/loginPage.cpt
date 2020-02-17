@@ -1,0 +1,244 @@
+
+
+
+# Giriş Yap butonuna basılır
+* Elementi bekle ve sonra tıkla "loginButton"
+
+# Parolamı Unuttum butonuna basılır ve textboxa mail adresi yazılır
+* Elementi bekle ve sonra tıkla "parolamıUnuttumButton"
+* "dominostest2@hotmail.com" textini "parolamıUnuttumEmailTextbox" elemente yaz
+
+
+# Şifremi Hatırlat butonunun çalıştığı kontrol edilir
+* Elementi bekle ve sonra tıkla "sifremiHatirlatButon"
+* Element var mı kontrol et "sifremDegistirmeMailiGonderildiText"
+
+# Giriş Yap sayfasındaki elementlerin geldiği kontrol edilir
+* Element var mı kontrol et "loginEmailTextbox"
+* Element var mı kontrol et "loginPasswordTextbox"
+* Element var mı kontrol et "girisYapButon"
+* Element var mı kontrol et "uyeOlmadanDevamEtButon"
+* Element var mı kontrol et "parolamıUnuttumButton"
+* Element var mı kontrol et "beniHatirlaCheckbox"
+* Element var mı kontrol et "facebookIleGirisButon"
+* Element var mı kontrol et "googleIleGirisButon"
+
+# <email> kullanıcısı ve <password> şifresi ile üye girişi yapılır
+* Elementi bekle ve sonra tıkla "loginButton"
+* "5" saniye bekle
+* <email> textini "loginEmailTextbox" elemente yaz
+* "3" saniye bekle
+* <password> textini "loginPasswordTextbox" elemente yaz
+* "9" saniye bekle
+* Elementi bekle ve sonra tıkla "girisYapButon"
+* "5" saniye bekle
+
+# Üye olmadan devam et
+* Elementin yüklenmesini bekle ve tıkla "uyeOlmadanDevamEtButon"
+
+# Ad Soyad Random mail telefon ve sifre girilir
+* "Test" textini "uyeOlAdTextbox" elemente yaz
+* "Test" textini "uyeOlSoyadTextbox" elemente yaz
+* Rastgele telefon no üret
+* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
+* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
+* "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
+* "Test1234" textini "uyeOlSifreTexbox" elemente yaz
+* "Test1234" textini "uyeOlSifreyTekrarTextbox" elemente yaz
+* "2" saniye bekle
+
+# Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
+
+# Random mail ve telefon ile üye olunur ve iletişim kanalları seçilir
+* "Test" textini "uyeOlAdTextbox" elemente yaz
+* "Test" textini "uyeOlSoyadTextbox" elemente yaz
+* Rastgele telefon no üret
+* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
+* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
+* "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
+* "Test1234" textini "uyeOlSifreTexbox" elemente yaz
+* "Test1234" textini "uyeOlSifreyTekrarTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiSmsCheckbox"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasisuccessYeKazanCheckbox"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanSmsCheckbox"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
+
+# Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+
+# Üye olunur giriş yapılır ve profilim butonuna tıklanır
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+
+
+# Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+
+# Üye olunur giriş yapılır  Adrese Teslim servis tipi secilir ve siparislerime gidilir
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "Profilim_Popup_Siparislerim_Buton"
+
+# Üye olmadan anasayfaya devam et
+* Elementi bekle ve sonra tıkla "loginButton"
+* Üye olmadan devam et
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+
+# Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+
+# Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Gel Al servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al da listelenen ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+
+# Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Buton"
+
+# üye olmak icin bilgiler girilir
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+
+# Mesafeli satis sözlesmesi isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+
+# Acik riza metni KVKK isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
+
+# ye kazan checkbox isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox"
+
+# ye kazan checkbox isaretlenir2
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox2"
+
+# Adrese teslim tipi seçilir
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+
+# Cookie onaylıyorum butonuna tıklanır
+* Elementi bekle ve sonra tıkla "CookieAccept"
+
+# üye ol
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+
+# Üye ol sayfasının elementlerinin geldiği kontrol edilir
+* Element var mı kontrol et "uyeOlAdTextbox"
+* Element var mı kontrol et "uyeOlSoyadTextbox"
+* Element var mı kontrol et "uyeOlTelefonTextbox"
+* Element var mı kontrol et "uyeOlSifreTexbox"
+* Element var mı kontrol et "uyeOlSifreyTekrarTextbox"
+* Element var mı kontrol et "uyeOlMesafeliSatisSozlesmesi"
+* Element var mı kontrol et "uyeOlSayfasiÜyeOlButon"
+* Element var mı kontrol et "facebookIleGirisButon"
+* Element var mı kontrol et "googleIleGirisButon"
+* Element var mı kontrol et "uyeOlSayfasiKVKKCheckbox"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiEpostaCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiSmsCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiTelefonCheckbox"
+* Element var mı kontrol et "uyeOlSayfasYeKazanCheckbox"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasYeKazanCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiyeKazanEpostaCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiYeKazanSmsCheckbox"
+* Element var mı kontrol et "uyeOlSayfasiYeKazanTelefonCheckbox"
+
+# Adrese Teslim ve Gel butonlarının geldiği kontrol edilir
+* Element var mı kontrol et "gelAlButon"
+* Element var mı kontrol et "adreseTeslimButon"
+
+# Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
+* Element var mı kontrol et "epostaVeyaSifreYanlisText"
+
+# Üye olurken bilgiler boş bırakıldığında uyarıların geldiği kontrol edilir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Element var mı kontrol et "uyeOlAdBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlSoyaddBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlTelefonBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlEpostaBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlSifreBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlSifreTekrarBosBirakilamazUyariText"
+* Element var mı kontrol et "uyeOlUyelikSozlesmesiBosBirakilamazUyariText"
+
+# KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
+* Acik riza metni KVKK isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiEpostaCheckbox"
+* ye kazan checkbox isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
+# KVKK ve Ye Kazan Sms seçilir ve üye olunur
+* Acik riza metni KVKK isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiSmsCheckbox"
+* ye kazan checkbox isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanSmsCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
+# KVKK ve Ye Kazan Telefon seçilir ve üye olunur
+* Acik riza metni KVKK isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiTelefonCheckbox"
+* ye kazan checkbox isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanTelefonCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"

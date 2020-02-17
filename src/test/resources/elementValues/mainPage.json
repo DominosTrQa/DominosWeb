@@ -338,6 +338,18 @@
     "key": "altBarSosyalMedyaButonlari",
     "value":"(//div[@class='styled__SocialMediaImages-sc-2i2f7q-8 ehWLSz'])",
     "type": "xpath"
+  },
+  {
+    "key": "seciliTestAdres",
+    "value":"(//div[contains(text(),'test')])[1]",
+    "type": "xpath"
   }
+
+
+
+
+
+
+
 
 ]

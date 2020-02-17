@@ -41,7 +41,7 @@
   },
   {
     "key": "extra_Lezzetler_Tab_Icecekler_Buton",
-    "value":"//span[contains(text(),'çecekler')]",
+    "value":"(//span[contains(text(),'çecekler')])[1]",
     "type": "xpath"
   },
   {
@@ -115,8 +115,8 @@
     "type": "xpath"
   },
   {
-    "key": "SepeteEkleFuseteaSeftali",
-    "value":"/a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[6]",
+    "key": "sepeteEkleFuseteaSeftali",
+    "value":".//*[@class='productCard__Title-sc-1qfpiga-2 bvJHhI'][contains(text(),'FuseTea Şeftali Kutu')]",
     "type": "xpath"
   },
   {
@@ -188,7 +188,13 @@
     "key": "EkstralarveIceceklerButon",
     "value":"//a[@class='styled__HeaderMenuItem-sc-126ws66-35 gEoUee'][contains(text(),'Ekstralar & İçecekler')]",
     "type": "xpath"
+  },
+  {
+    "key": "SepeteEkleFuseteaLimon",
+    "value":"(//a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[6]",
+    "type": "xpath"
   }
+
 
 
 
