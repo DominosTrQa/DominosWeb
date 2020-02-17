@@ -3,7 +3,7 @@ Tüm Kampanyalar
 
 Tüm Kampanyalar Sayfa Kontrolü
 ------------------------
-tags:tümkampanyalarsayfakontrolü
+tags:tumkampanyalarsayfakontrolü
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -14,9 +14,9 @@ tags:tümkampanyalarsayfakontrolü
 * Tüm Kampanyalar sayfasındaki elementler kontrol edilir
 
 
-Haftanın Kampanyaları sayfa kontrolü (buton ve yan okla geçme)
--------------------------------------------------------------
-tags:HaftanınKampanyalarısayfakontrolü(butonveyanoklageçme)
+Haftanın Kampanyaları sayfa kontrolü
+-----------------------------------------
+tags:HaftaninKampanyalarisayfakontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -29,7 +29,7 @@ tags:HaftanınKampanyalarısayfakontrolü(butonveyanoklageçme)
 
 Tek Kişilik Kampanyalar sayfa kontrolü
 ---------------------------------------------
-tags:TekKişilikKampanyalarsayfakontrolü
+tags:TekKisilikKampanyalarsayfakontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -43,7 +43,7 @@ tags:TekKişilikKampanyalarsayfakontrolü
 
 2-3 Kişilik Kampanyalar sayfa kontrolü
 ----------------------------------------
-tags:ikiUcKişilikKampanyalarsayfakontrolü
+tags:ikiUcKisilikKampanyalarsayfakontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -53,9 +53,10 @@ tags:ikiUcKişilikKampanyalarsayfakontrolü
 * Tüm Kampanyalar Butonuna tıklanır
 * 2-3 Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 
+
 4 Kişi ve üzeri kampanyalar sayfa kontrolü
 ----------------------------------------------------
-tags:4Kişiveüzerikampanyalarsayfakontrolü
+tags:4Kisiveuzerikampanyalarsayfakontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -68,7 +69,7 @@ tags:4Kişiveüzerikampanyalarsayfakontrolü
 
 Gel Al Haftanın Kampanyaları sayfa kontrolü
 --------------------------------------------
-tags:GelAlHaftanınKampanyalarısayfakontrolü
+tags:GelAlHaftaninKampanyalarisayfakontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -79,10 +80,9 @@ tags:GelAlHaftanınKampanyalarısayfakontrolü
 * Gel Al Haftanın  Kampanyaları sayfasındaki elementler kontrol edilir
 
 
-
 Üst Bar Sayfalar arası geçiş kontrolü
 -------------------------------------------------------------------------
-tags:ÜstBarSayfalararasıgeciskontrolu
+tags:ÜstBarSayfalararasigeciskontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -95,7 +95,7 @@ tags:ÜstBarSayfalararasıgeciskontrolu
 
 Üst Bar Profilim popup başarılı açılıyor mu kontrolü
 --------------------------------------------------
-tags:ÜstBarProfilimpopupbaşarılıaçılıyormukontrolü
+tags:UstBarProfilimpopupbasariliaciliyormukontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -104,9 +104,10 @@ tags:ÜstBarProfilimpopupbaşarılıaçılıyormukontrolü
 * Seçili Adres ile Devam Et butonuna basılır
 * Element var mı kontrol et "Profilim"
 
+
 Üst Bar Sepetim popup başarılı açılıyor mı kontrolü
 --------------------------------------------------
-tags:ÜstBarSepetimpopupbaşarılı çılıyormıkontrolü
+tags:UstBarSepetimpopupbaşarılı çılıyormıkontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -115,9 +116,10 @@ tags:ÜstBarSepetimpopupbaşarılı çılıyormıkontrolü
 * Seçili Adres ile Devam Et butonuna basılır
 * Element var mı kontrol et "Sepetim"
 
+
 Her tab da Sipariş Ver buton kontrolü
----------------------------------------------------------------------------------------------------------------------
-tags:HertabdaSiparişVerbutonkontrolü
+--------------------------------------------------------
+tags:HertabdaSiparisVerbutonkontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır

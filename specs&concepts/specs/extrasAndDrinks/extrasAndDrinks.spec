@@ -121,7 +121,6 @@ extrasAndDrinks
 * Element var mı kontrol et "extra_Lezzetler_Dominos_Blog_Text"
 
 
-
 122- Anasayfa - Ekstralar ve İçecekler - Her Tabda Sepete Ekle Buton Kontrolü
 ------------------------------------------------------------------------------
  Tags:extrasAndDrinks_anasayfaEkstralarveiceceklerUHerTabdaEkleButonKontrolü

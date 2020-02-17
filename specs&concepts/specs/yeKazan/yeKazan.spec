@@ -72,3 +72,4 @@ Tags:yeKazan_yeKazanOnayCheckBoxKontrolu
 * Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
 * Ye Kazan Sıkça Sorulan Sorulardab biri kontrol edilir
 * Anasayfaya gidilir
+

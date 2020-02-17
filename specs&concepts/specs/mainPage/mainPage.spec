@@ -42,7 +42,6 @@ mainPage
 87- Anasayfa Kontrolü - Üye -  Yazıların kontrolü
 -----------------------------------------------------
  Tags:anasayfa_uyeYazilarinKontrolu
-
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Üye iken anasayfadaki yazıların geldiği kontrol edilir
 
@@ -50,14 +49,13 @@ mainPage
 88- Anasayfa Kontrolü - Üye - Popup Barın kontrolü
 ----------------------------------------------------
  Tags:anasayfa_uyePopupBarinKontrolu
-
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Üye iken popup bar kontrol edilir
+
 
 89- Anasayfa Kontrolü - Üye -  Promosyon Kodu açılır popup kontrolü
 --------------------------------------------------------------------
  Tags:anasayfa_uyePromosyonAcilirPopupKontrolu
-
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Promosyon Kodu butonuna tıklanır
 * Üye iken Promosyon Kodu alanı kontrol edilir
@@ -66,7 +64,6 @@ mainPage
 90- Anasayfa Kontrolü - Üye - Pizza Takip açılır popup kontrolü
 ------------------------------------------------------------------
 Tags:anasayfa_uyePizzaTakipAcilirPopupKontrolu
-
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Pizza Takip butonuna tıklanır
 * Üye iken Pizza Takip alanı kontrol edilir
