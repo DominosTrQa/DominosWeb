@@ -5,7 +5,7 @@ Sipariş İşlemleri
 
 Tek Sube Hizmet Veren Adres/Manuel
 ---------------------------------
-tags:TekSubeHizmetVerenAdresManuel
+tags:TekSubeHizmetVerenAdresManuelCanli
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -28,7 +28,7 @@ tags:TekSubeHizmetVerenAdresManuel
 
 Tek Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
-tags:TekSubeHizmetVerenAdresDropdown
+tags:TekSubeHizmetVerenAdresDropdownCanli
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -50,7 +50,7 @@ tags:TekSubeHizmetVerenAdresDropdown
 
 İki Sube Hizmet Veren Adres Manuel
 ---------------------------
-tags:IkiSubeHizmetVerenAdresManuel
+tags:IkiSubeHizmetVerenAdresManuelCanli
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -72,7 +72,7 @@ tags:IkiSubeHizmetVerenAdresManuel
 
 Iki Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
-tags:IkiSubeHizmetVerenAdresDropdown
+tags:IkiSubeHizmetVerenAdresDropdownCanli
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
