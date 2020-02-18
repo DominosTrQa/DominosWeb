@@ -93,6 +93,7 @@
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 
 # Sepete Fuse Tea Eklenir
+* "SepeteEkleFuseteaLimon" alanına kaydır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteEkleFuseteaLimon"
 

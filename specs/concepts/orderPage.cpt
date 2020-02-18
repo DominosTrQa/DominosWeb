@@ -71,8 +71,32 @@
 * "2" saniye bekle
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * "4" saniye bekle
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 * "2" saniye bekle
+
+# Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)/Adres tarifi olmadan
+* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* "3" saniye bekle
+* "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* "3" saniye bekle
+* "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
+* "5" saniye bekle
+* Elementin yüklenmesini bekle ve tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+* "2" saniye bekle
+
 
 # Adres bilgileri tamamlanır(Liste - üye)
 * "3" saniye bekle
@@ -184,3 +208,22 @@
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "OdemeyiTamamla"
 
+# Adres düzenle butonuna tiklanir
+* Elementi bekle ve sonra tıkla "AdresDüzenleButon"
+* "2" saniye bekle
+
+# Bu alanı boş bırakamazsınız ve Kaydet buton kontrolü
+* Element var mı kontrol et "BuAlaniBosBirakamazsinizYazisi"
+* "3" saniye bekle
+* Element var mı kontrol et "KaydetPasifButonKontrol"
+
+# Seçili ilk adrese tıkla
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* "2" saniye bekle
+
+# İlk adres düzenleye tıklanır
+* Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Buton"
+
+
+# Secili adres silinir
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"

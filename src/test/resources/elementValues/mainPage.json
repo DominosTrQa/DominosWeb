@@ -363,5 +363,15 @@
     "key": "seciliTestAdres",
     "value":"(//div[contains(text(),'test')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "mevcutKonumunuz",
+    "value":"DPE_TR_NEARSTORELISTDELIVERY_BUTTON_CURRENTLOCATION",
+    "type": "id"
+  },
+  {
+    "key": "KonumpaylasOkisareti",
+    "value":"//*[@class='styled__LocationIcon-sc-7lrbup-4 ljHEoq']",
+    "type": "xpath"
   }
 ]

@@ -148,6 +148,7 @@
 
 # Profilim pop up Yeni Adres Ekle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"
+* "2" saniye bekle
 
 # Profilim pop up eklenen adresin listelendiği ve bulunduğu sayfadaki elementler kontrol edilir
 * Element var mı kontrol et "profilimPopupAdreslerimEklenenAdres"

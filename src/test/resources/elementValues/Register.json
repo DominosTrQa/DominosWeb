@@ -213,5 +213,25 @@
     "key": "AdresEklemeKalemIkonuDüzenleKonumPaylas",
     "value":"DPE_TR_NEARSTORELISTDELIVERY_BUTTON_LOCATIONSHARE",
     "type": "id"
+  },
+  {
+    "key": "ilDropdownGelAl",
+    "value":"DPE_TR_STOREFILTERFORM_DROPDOWN_CITY",
+    "type": "id"
+  },
+  {
+    "key": "ilceDropdownGelAl",
+    "value":"DPE_TR_STOREFILTERFORM_DROPDOWN_DISTRICT",
+    "type": "id"
+  },
+  {
+    "key": "mahalleDropdownGelAl",
+    "value":"DPE_TR_STOREFILTERFORM_DROPDOWN_COUNTIES",
+    "type": "id"
+  },
+  {
+    "key": "mahalleAyazagaMahallesi",
+    "value":"//div[text()='Ayazağa Mh.']",
+    "type": "xpath"
   }
 ]
