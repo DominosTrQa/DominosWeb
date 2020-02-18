@@ -6,7 +6,7 @@ Adres Ekleme Senaryo/Üye Olunarak/Siparis tamamlanir
 tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
-* mevcut konum secildikten sonra kontrol edilmesi
+* mevcut konum secildikten sonra kontrol edilir
 * konum paylastiktan sonra ok isaretine tiklanir
 * Sepete Git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
@@ -48,7 +48,7 @@ Adres Ekleme/Konum Paylasarak
 tags:AdresEklemeKonumPaylasarak
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
-* mevcut konum secildikten sonra kontrol edilmesi
+* mevcut konum secildikten sonra kontrol edilir
 * konum paylastiktan sonra ok isaretine tiklanir
 * Sepete Git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
@@ -63,7 +63,7 @@ tags:AdresEklemeKonumPaylasarakUyeOlmadan
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
-* mevcut konum secildikten sonra kontrol edilmesi
+* mevcut konum secildikten sonra kontrol edilir
 * konum paylastiktan sonra ok isaretine tiklanir
 * Sepete Git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
