@@ -1,5 +1,6 @@
 # Adrese Teslim servis tipi seçilir
 * Elementin yüklenmesini bekle ve tıkla "adreseTeslimButon"
+* "3" saniye bekle
 
 # Gel Al servis tipi seçilir
 * Elementin yüklenmesini bekle ve tıkla "gelAlButon"
@@ -8,6 +9,7 @@
 * Elementin yüklenmesini bekle ve tıkla "uyeOlButon"
 
 # İl ilçe mahalle seçilir
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilİstanbul"
@@ -21,20 +23,21 @@
 * Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
 * "5" saniye bekle
 
-
-# Yeni İl ilçe mahalle seçilir
-* Elementi bekle ve sonra tıkla "ilDropdown"
+# İl ilçe mahalle seçilir(Gel Al)
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilDropdownGelAl"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilİstanbul"
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceSariyer"
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleDropdownGelAl"
+* "6" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
-* "5" saniye bekle
+
 
 
 # Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
@@ -149,7 +152,7 @@
 * "2" saniye bekle
 
 
-# mevcut konum kontrol
+# mevcut konum secildikten sonra kontrol edilmesi
 * Elementi bekle ve sonra tıkla "mevcutKonumunuz"
 
 # konum paylastiktan sonra ok isaretine tiklanir

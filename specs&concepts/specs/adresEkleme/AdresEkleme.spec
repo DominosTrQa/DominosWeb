@@ -3,20 +3,17 @@ Adres Ekleme
 
 Adres Ekleme Senaryo/Üye Olunarak/Siparis tamamlanir
 ---------------------------------------------------
-tags:AdresEklemeSenaryo1ÜyeOlunarak
+tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
-* mevcut konum kontrol
+* mevcut konum secildikten sonra kontrol edilmesi
 * konum paylastiktan sonra ok isaretine tiklanir
 * Sepete Git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete Git butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
-* Elementi bekle ve sonra tıkla "KayıtlıAdresButonGaziosmanpasaTıkla"
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
-* "2" saniye bekle
+* İlk kayıtlı adres seçilir
 * Ekstra Lezzetlere gidilir
 * Cookie onaylıyorum butonuna tıklanır
 * İçecekler tabine tıklanır
@@ -32,7 +29,7 @@ tags:AdresEklemeSenaryo1ÜyeOlunarak
 
 Adres Ekleme/Giris Yapılmadan
 -----------------------------
-tags:AdresEkleme/GirisYapılmadan
+tags:AdresEklemeGirisYapılmadan
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * Ekstra Lezzetlere gidilir
@@ -51,7 +48,7 @@ Adres Ekleme/Konum Paylasarak
 tags:AdresEklemeKonumPaylasarak
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
-* mevcut konum kontrol
+* mevcut konum secildikten sonra kontrol edilmesi
 * konum paylastiktan sonra ok isaretine tiklanir
 * Sepete Git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
@@ -60,14 +57,13 @@ tags:AdresEklemeKonumPaylasarak
 * Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No dropdown)
 
 
-
 Adres Ekleme/Konum Paylasarak/Uye Olmadan
 ----------------------------------------
-tags:AdresEkleme/KonumPaylasarak/UyeOlmadan
+tags:AdresEklemeKonumPaylasarakUyeOlmadan
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
 * adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
-* mevcut konum kontrol
+* mevcut konum secildikten sonra kontrol edilmesi
 * konum paylastiktan sonra ok isaretine tiklanir
 * Sepete Git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
@@ -78,7 +74,7 @@ tags:AdresEkleme/KonumPaylasarak/UyeOlmadan
 
 Adres Ekleme/Profilim sekmesinden girilerek
 -------------------------------------------
-tags:AdresEkleme/Profilimsekmesindengirilerek
+tags:AdresEklemeProfilimsekmesindengirilerek
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Profilim butonuna tıklanır
 * Profilim pop up Adreslerim butonuna tıklanır ve pop up açıldığı kontrol edilir
@@ -88,7 +84,7 @@ tags:AdresEkleme/Profilimsekmesindengirilerek
 
 Adres Ekleme/Profilim sekmesinden girilerek/Adres tarifi olmadan
 ---------------------------------------------------------------
-tags:AdresEkleme/Profilimsekmesindengirilerek
+tags:AdresEklemeProfilimsekmesindengirilerekAdrestarifiolmadan
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Profilim butonuna tıklanır
 * Profilim pop up Adreslerim butonuna tıklanır ve pop up açıldığı kontrol edilir
@@ -96,10 +92,9 @@ tags:AdresEkleme/Profilimsekmesindengirilerek
 * Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)/Adres tarifi olmadan
 
 
-
-Adres Ekleme/Üye olunur/Kalem ikonuna tiklanir/Secili adres ile devam et
+Adres Ekleme/Üye olunur/Kalem ikonuna tiklanir/Secili adres ile devam edilir
 ------------------------------------------------------------------------
-tags:AdresEkleme/Üyeolunur/Kalemikonunatiklanir
+tags:AdresEklemeÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * adres eklerken kalem ikonuna tıkla
 * Profilim pop up Yeni Adres Ekle butonuna tıklanır
@@ -120,11 +115,6 @@ tags:KayıtlıAdresGüncelle
 * Güncelle butonu
 
 
-
-
-
-
-
 Adres Ekleme/Kontrol
 ---------------------
 tags:AdresEkleme/Kontrol
@@ -132,7 +122,6 @@ tags:AdresEkleme/Kontrol
 * "3" saniye bekle
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
-* "2" saniye bekle
 * Cookie onaylıyorum butonuna tıklanır
 * Adres düzenle butonuna tiklanir
 * Profilim pop up Yeni Adres Ekle butonuna tıklanır
@@ -150,13 +139,3 @@ tags:KayıtlıAdresSil
 * Profilim butonuna tıklanır
 * İlk adres düzenleye tıklanır
 * Secili adres silinir
-
-
-
-
-
-
-
-
-
-
