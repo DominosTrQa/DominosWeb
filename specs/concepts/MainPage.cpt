@@ -148,7 +148,7 @@
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenleKonumPaylas"
 
-# Adres eklerken kalem ikonuna tıkla
+# Adres eklerken kalem ikonuna tıklanır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
 
@@ -157,7 +157,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "mevcutKonumunuz"
 
-# Konum paylastiktan sonra ok isaretine tiklanir
+# Konum paylastiktan sonra ok isaretine tıklanir
 * Elementi bekle ve sonra tıkla "KonumpaylasOkisareti"
 
 # Ekstra Lezzetlere gidilir

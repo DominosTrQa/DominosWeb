@@ -87,7 +87,7 @@ Tags:anaSayfaTumPizzalar_altBarYazilariDogruGeliyormuKontrolu
 
 
 109 - Anasayfa - Tüm Pizzalar - Her tab da Sipariş Ver Buton Kontrolü
-----------------
+---------------------------------------------------------------------
 Tags:anaSayfaTumPizzalar_herTabdaSiparisVerButonKontrolu
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır

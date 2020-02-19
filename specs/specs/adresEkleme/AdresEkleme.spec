@@ -62,7 +62,6 @@ tags:AdresEklemeKonumPaylasarakUyeOlmadan
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
 * Mevcut konum secildikten sonra kontrol edilir
-* Konum paylastiktan sonra ok isaretine tiklanir
 * Sepete git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -94,7 +93,7 @@ Adres Ekleme/Üye olunur/Kalem ikonuna tiklanir/Secili adres ile devam edilir
 ------------------------------------------------------------------------
 tags:AdresEklemeÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
-* Adres eklerken kalem ikonuna tıkla
+* Adres eklerken kalem ikonuna tıklanır
 * Profilim pop up Yeni Adres Ekle butonuna tıklanır
 * Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
 
