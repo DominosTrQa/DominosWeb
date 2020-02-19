@@ -84,3 +84,10 @@ Tags:uyeOlmadanDevamEt_screenKontrol
 * Adrese Teslim ve Gel butonlarının geldiği kontrol edilir
 * Element var mı kontrol et "loginButton"
 * Element var mı kontrol et "uyeOlButon"
+
+13-damla
+-----------
+Tags:deneme
+
+* Giriş Yap butonuna basılır
+* Üye olmadan devam et
