@@ -16,7 +16,7 @@
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 
-# Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No dropdown)
+# Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
 * "3" saniye bekle
@@ -27,9 +27,9 @@
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
 * "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
-* "5" saniye bekle
+* Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* Telefon noyu "adresSayfasiTelefonTextbox" elementine yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 
@@ -49,7 +49,7 @@
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 
-# Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
+# Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
 * "3" saniye bekle
@@ -65,10 +65,9 @@
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
 * "3" saniye bekle
 * "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
-* "5" saniye bekle
-* Elementin yüklenmesini bekle ve tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "2" saniye bekle
+* Rastgele telefon no üret
+* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
+* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
@@ -152,7 +151,7 @@
 # Adresin seçili geldiği sayfada devam et butonuna tıkla
 * Elementi bekle ve sonra tıkla "adresEkleDevamButon"
 
-# Ödeme şeklini seç
+# Ödeme şekli seçilir
 * "10" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliKrediKarti"
 * "odemeDevamButon" alanına kaydır
@@ -174,7 +173,7 @@
 * "uyeOlmayanMusteriHaritadanSubeSecDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "uyeOlmayanMusteriHaritadanSubeSecDevamButon"
 
-#Siparişin oluştuğunu kontrol et
+#Siparişin oluştuğu kontrol edilir
 * "5" saniye bekle
 * Element var mı kontrol et "siparisDetaylariText"
 
@@ -199,12 +198,15 @@
 * "Test" textini "Notlarım_Yeni_Not_Ekle_Not_TextBox" elemente yaz
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Yeni_Not_Ekle_Button"
 
-# Notu Sil
+# Varolan not silinir
 * Element var mı kontrol et "Notlarım_Not_Düzenle_Buton"
 * Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Buton"
 * Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Sil_Buton"
 
-# Sipariş Tamamlanır
+# Varolan not kontrolü yapılır
+* Element var mı kontrol et "notlarimYeniNotEklePopUpText"
+
+# Sipariş tamamlanır
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "OdemeyiTamamla"
 
@@ -212,18 +214,17 @@
 * Elementi bekle ve sonra tıkla "AdresDüzenleButon"
 * "2" saniye bekle
 
-# Bu alanı boş bırakamazsınız ve Kaydet buton kontrolü
+# Bu alanı boş bırakamazsınız ve kaydet buton kontrolü yapılır
 * Element var mı kontrol et "BuAlaniBosBirakamazsinizYazisi"
 * "3" saniye bekle
 * Element var mı kontrol et "KaydetPasifButonKontrol"
 
-# Seçili ilk adrese tıkla
+# Seçili ilk adrese tıklanır
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
 * "2" saniye bekle
 
 # İlk adres düzenleye tıklanır
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Buton"
 
-
-# Secili adres silinir
+# Seçili adres silinir
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"

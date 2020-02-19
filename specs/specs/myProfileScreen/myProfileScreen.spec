@@ -202,9 +202,9 @@ Tags:notlarim_varOlanNotuSilmeKontrolu
 * Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
 * Yeni not ekle
-* Notu Sil
+* Varolan not silinir
+* Varolan not kontrolü yapılır
 
-//bitmedi
 42 - Kredi Kartlarım - Başarılı Bir Şekilde Kredi Kartı Eklemek
 ----------------
 Tags:krediKartlarim_basariliBirSekildeKrediKartiEklemekB

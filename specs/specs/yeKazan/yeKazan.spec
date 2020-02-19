@@ -1,5 +1,5 @@
 yeKazan
-=====================
+=========
 
      
 91- Ye_Kazan Kontrolü - Ye_Kazan Sayfa Kontrolü

@@ -77,7 +77,7 @@
 
 # Profilim pop up Adreslerim İl, İlçe, Mahalle düzenlenir
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimIlIlceDüzenleButon"
-* Yeni İl ilçe mahalle seçilir
+* İl ilçe mahalle seçilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * Element var mı kontrol et "profilimPopupAdreslerimIlIlceDüzenlemeKontrol"
 

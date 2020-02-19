@@ -5,71 +5,69 @@ Adres Ekleme Senaryo/Üye Olunarak/Siparis tamamlanir
 ---------------------------------------------------
 tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
-* adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
-* mevcut konum secildikten sonra kontrol edilir
-* konum paylastiktan sonra ok isaretine tiklanir
-* Sepete Git butonuna tıklanır
+* Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
+* Mevcut konum secildikten sonra kontrol edilir
+* Sepetim iconuna tıklanır
 * Sepetteki ürün iki kez arttırılır
-* Sepete Git butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
-* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * İlk kayıtlı adres seçilir
 * Ekstra Lezzetlere gidilir
 * Cookie onaylıyorum butonuna tıklanır
 * İçecekler tabine tıklanır
-* Sepete Fuse Tea Eklenir
+* Sepete fuse tea eklenir
 * Sepetim iconuna tıklanır
 * Sepetteki ürün iki kez arttırılır
-* Sepete Git butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
-* Ödeme şeklini seç
-* Sipariş Tamamlanır
-* Siparişin oluştuğunu kontrol et
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Ödeme şekli seçilir
+* Sipariş tamamlanır
+* Siparişin oluştuğu kontrol edilir
 
 
 Adres Ekleme/Giris Yapılmadan
 -----------------------------
 tags:AdresEklemeGirisYapılmadan
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
+* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Ekstra Lezzetlere gidilir
 * Cookie onaylıyorum butonuna tıklanır
 * İçecekler tabine tıklanır
-* Sepete Fuse Tea Eklenir
+* Sepete fuse tea eklenir
 * Sepetim iconuna tıklanır
 * Sepetteki ürün iki kez arttırılır
-* Sepete Git butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
-* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
 
 
 Adres Ekleme/Konum Paylasarak
 ----------------------------
 tags:AdresEklemeKonumPaylasarak
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
-* adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
-* mevcut konum secildikten sonra kontrol edilir
-* konum paylastiktan sonra ok isaretine tiklanir
-* Sepete Git butonuna tıklanır
+* Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
+* Mevcut konum secildikten sonra kontrol edilir
+* Sepete git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
-* Sepete Git butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
-* Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No dropdown)
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
 
 
 Adres Ekleme/Konum Paylasarak/Uye Olmadan
 ----------------------------------------
 tags:AdresEklemeKonumPaylasarakUyeOlmadan
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
-* adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
-* mevcut konum secildikten sonra kontrol edilir
-* konum paylastiktan sonra ok isaretine tiklanir
-* Sepete Git butonuna tıklanır
+* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
+* Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
+* Mevcut konum secildikten sonra kontrol edilir
+* Konum paylastiktan sonra ok isaretine tiklanir
+* Sepete git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
-* Sepete Git butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
-* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
 
 
 Adres Ekleme/Profilim sekmesinden girilerek
@@ -79,7 +77,7 @@ tags:AdresEklemeProfilimsekmesindengirilerek
 * Profilim butonuna tıklanır
 * Profilim pop up Adreslerim butonuna tıklanır ve pop up açıldığı kontrol edilir
 * Profilim pop up Yeni Adres Ekle butonuna tıklanır
-* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)
+* Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
 
 
 Adres Ekleme/Profilim sekmesinden girilerek/Adres tarifi olmadan
@@ -96,9 +94,9 @@ Adres Ekleme/Üye olunur/Kalem ikonuna tiklanir/Secili adres ile devam edilir
 ------------------------------------------------------------------------
 tags:AdresEklemeÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
-* adres eklerken kalem ikonuna tıkla
+* Adres eklerken kalem ikonuna tıkla
 * Profilim pop up Yeni Adres Ekle butonuna tıklanır
-* Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No dropdown)
+* Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
 
 
 Kayıtlı Adres/Güncelle
@@ -107,7 +105,7 @@ tags:KayıtlıAdresGüncelle
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Profilim butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* Seçili ilk adrese tıkla
+* Seçili ilk adrese tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * İlk adres düzenleye tıklanır
@@ -121,11 +119,11 @@ tags:AdresEkleme/Kontrol
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * "3" saniye bekle
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
+* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Adres düzenle butonuna tiklanir
 * Profilim pop up Yeni Adres Ekle butonuna tıklanır
-* Bu alanı boş bırakamazsınız ve Kaydet buton kontrolü
+* Bu alanı boş bırakamazsınız ve kaydet buton kontrolü yapılır
 
 
 Kayıtlı Adres Sil
@@ -134,8 +132,8 @@ tags:KayıtlıAdresSil
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Profilim butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* Seçili ilk adrese tıkla
+* Seçili ilk adrese tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * İlk adres düzenleye tıklanır
-* Secili adres silinir
+* Seçili adres silinir

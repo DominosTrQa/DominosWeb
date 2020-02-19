@@ -81,7 +81,7 @@ tags:GelAlHaftaninKampanyalarisayfakontrolu
 
 
 Üst Bar Sayfalar arası geçiş kontrolü
--------------------------------------------------------------------------
+--------------------------------------
 tags:ÜstBarSayfalararasigeciskontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -118,7 +118,7 @@ tags:UstBarSepetimpopupbaşarılı çılıyormıkontrolu
 
 
 Her tab da Sipariş Ver buton kontrolü
---------------------------------------------------------
+--------------------------------------
 tags:HertabdaSiparisVerbutonkontrolu
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir

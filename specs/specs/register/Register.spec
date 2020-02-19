@@ -4,7 +4,7 @@ Register
 Register/Eposta
 ----------------
 tags:Register/Eposta
-* üye olmak icin bilgiler girilir
+* Üye olmak icin bilgiler girilir
 * Mesafeli satis sözlesmesi isaretlenir
 * KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
 
@@ -12,7 +12,7 @@ tags:Register/Eposta
 Register/SMS
 -------------
 tags:Register/SMS
-* üye olmak icin bilgiler girilir
+* Üye olmak icin bilgiler girilir
 * Mesafeli satis sözlesmesi isaretlenir
 * KVKK ve Ye Kazan Sms seçilir ve üye olunur
 
@@ -20,7 +20,7 @@ tags:Register/SMS
 Register/Telefon
 ----------------
 tags:Register/Telefon
-* üye olmak icin bilgiler girilir
+* Üye olmak icin bilgiler girilir
 * Mesafeli satis sözlesmesi isaretlenir
 * KVKK ve Ye Kazan Telefon seçilir ve üye olunur
 
@@ -28,7 +28,7 @@ tags:Register/Telefon
 Register/SadeceMesafeliSatisSözlesmesiIsaretlenir
 -------------------------------------------------
 tags:Register/SadeceMesafeliSatisSözlesmesiIsaretlenir
-* üye olmak icin bilgiler girilir
+* Üye olmak icin bilgiler girilir
 * Mesafeli satis sözlesmesi isaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
@@ -36,7 +36,7 @@ tags:Register/SadeceMesafeliSatisSözlesmesiIsaretlenir
 Register/SadeceYeKazanSözlesmesiIsaretlenmez
 ---------------------------------------------
 tags:Register/SadeceYeKazanSözlesmesiIsaretlenmez
-* üye olmak icin bilgiler girilir
+* Üye olmak icin bilgiler girilir
 * Mesafeli satis sözlesmesi isaretlenir
 * Acik riza metni KVKK isaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiEpostaCheckbox"
@@ -47,7 +47,7 @@ tags:Register/SadeceYeKazanSözlesmesiIsaretlenmez
 Register/SadeceKVKKSözlesmesiIsaretlenmez
 ------------------------------------------
 tags:Register/SadeceKVKKSözlesmesiIsaretlenmez
-* üye olmak icin bilgiler girilir
+* Üye olmak icin bilgiler girilir
 * Mesafeli satis sözlesmesi isaretlenir
 * "3" saniye bekle
 * ye kazan checkbox isaretlenir
