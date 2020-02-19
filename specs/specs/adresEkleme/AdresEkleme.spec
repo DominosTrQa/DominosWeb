@@ -6,8 +6,8 @@ Adres Ekleme Senaryo/Üye Olunarak/Siparis tamamlanir
 tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
-* Mevcut konum secildikten sonra kontrol edilir
-* Sepetim iconuna tıklanır
+* Mevcut konum seçildikten sonra kontrol edilir
+* Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -17,7 +17,7 @@ tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
 * Cookie onaylıyorum butonuna tıklanır
 * İçecekler tabine tıklanır
 * Sepete fuse tea eklenir
-* Sepetim iconuna tıklanır
+* Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -35,7 +35,7 @@ tags:AdresEklemeGirisYapılmadan
 * Cookie onaylıyorum butonuna tıklanır
 * İçecekler tabine tıklanır
 * Sepete fuse tea eklenir
-* Sepetim iconuna tıklanır
+* Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -47,7 +47,7 @@ Adres Ekleme/Konum Paylasarak
 tags:AdresEklemeKonumPaylasarak
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
-* Mevcut konum secildikten sonra kontrol edilir
+* Mevcut konum seçildikten sonra kontrol edilir
 * Sepete git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -61,7 +61,7 @@ tags:AdresEklemeKonumPaylasarakUyeOlmadan
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
-* Mevcut konum secildikten sonra kontrol edilir
+* Mevcut konum seçildikten sonra kontrol edilir
 * Sepete git butonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -116,7 +116,6 @@ Adres Ekleme/Kontrol
 ---------------------
 tags:AdresEkleme/Kontrol
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "3" saniye bekle
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır

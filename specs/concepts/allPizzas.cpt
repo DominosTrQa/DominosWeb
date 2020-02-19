@@ -99,16 +99,16 @@
 
 # Tüm Pizzalar sayfasındayken Sepetim pop up açılıyor mu kontrol edilir
 * "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
-* Sepetim iconuna tıklanır
+* Sepetim ikonuna tıklanır
 * Element var mı kontrol et "sepetinizdeUrunBulunmamaktadirText"
 * Element var mı kontrol et "profil_Menu_Buton"
 
 
 
-# Sag ok butonuna tiklanir
+# Sağ ok butonuna tıklanır
 * Elementi bekle ve sonra tıkla "pizzalarSagOkButon"
 
-# Üyelik bilgilerim butonuna tiklanir
+# Üyelik bilgilerim butonuna tıklanır
 * Element var mı kontrol et "üyelik_Bilgilerim_Buton"
 
 

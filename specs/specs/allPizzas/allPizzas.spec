@@ -67,7 +67,7 @@ Tags:anaSayfaTumPizzalar_ustBarProfilimPopupBasariliAciliyormuKontrol
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Profilim butonuna tıklanır
-* Üyelik bilgilerim butonuna tiklanir
+* Üyelik bilgilerim butonuna tıklanır
 
 
 107 - Anasayfa - Tüm Pizzalar - Üst Bar Sepetim Popup Başarılı Açılıyor mu Kontrolü
@@ -92,11 +92,11 @@ Tags:anaSayfaTumPizzalar_herTabdaSiparisVerButonKontrolu
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Sipariş Ver butonlarının geldiği kontrol edilir 3
-* Sag ok butonuna tiklanir
+* Sağ ok butonuna tıklanır
 * Sipariş Ver butonlarının geldiği kontrol edilir 4
-* Sag ok butonuna tiklanir
+* Sağ ok butonuna tıklanır
 * Sipariş Ver butonlarının geldiği kontrol edilir 6
-* Sag ok butonuna tiklanir
+* Sağ ok butonuna tıklanır
 * Sipariş Ver butonlarının geldiği kontrol edilir 6
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 

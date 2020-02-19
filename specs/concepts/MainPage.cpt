@@ -124,7 +124,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "TümKampanyalar"
 
-# Sepetim iconuna tıklanır
+# Sepetim ikonuna tıklanır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "sepetimiconButon"
 * "1" saniye bekle
@@ -153,11 +153,11 @@
 * "2" saniye bekle
 
 
-# Mevcut konum secildikten sonra kontrol edilir
+# Mevcut konum seçildikten sonra kontrol edilir
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "mevcutKonumunuz"
 
-# Konum paylastiktan sonra ok isaretine tıklanir
+# Konum paylaştıktan sonra ok isaretine tıklanır
 * Elementi bekle ve sonra tıkla "KonumpaylasOkisareti"
 
 # Ekstra Lezzetlere gidilir

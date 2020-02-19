@@ -16,7 +16,7 @@ tags:TekSubeHizmetVerenAdresManuel
 * Ekstra Lezzetlere gidilir
 * İçecekler tabine tıklanır
 * Sepete fuse tea eklenir
-* Sepetim iconuna tıklanır
+* Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -38,7 +38,7 @@ tags:TekSubeHizmetVerenAdresDropdown
 * Ekstra Lezzetlere gidilir
 * İçecekler tabine tıklanır
 * Sepete fuse tea eklenir
-* Sepetim iconuna tıklanır
+* Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -60,7 +60,7 @@ tags:IkiSubeHizmetVerenAdresManuel
 * Ekstra Lezzetlere gidilir
 * İçecekler tabine tıklanır
 * Sepete fuse tea eklenir
-* Sepetim iconuna tıklanır
+* Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -82,7 +82,7 @@ tags:IkiSubeHizmetVerenAdresDropdown
 * Ekstra Lezzetlere gidilir
 * İçecekler tabine tıklanır
 * Sepete fuse tea eklenir
-* Sepetim iconuna tıklanır
+* Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
