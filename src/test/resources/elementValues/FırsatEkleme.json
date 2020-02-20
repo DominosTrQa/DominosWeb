@@ -1,0 +1,92 @@
+[
+  {
+    "key": "AnasayfaSüperDerbiFırsatı",
+    "value":"DPE_TR_HOME_SLIDER0",
+    "type": "id"
+  },
+  {
+    "key": "AnasayfaEkmekArasıFırsatı",
+    "value":"DPE_TR_HOME_SLIDER1",
+    "type": "id"
+  },
+  {
+    "key": "birinciUrunSeciniz",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0",
+    "type": "id"
+  },
+  {
+    "key": "kavurmaliEkmekArasiButon",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "ikinciUrunSeciniz",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1",
+    "type": "id"
+  },
+  {
+    "key": "patsoEkmekArasiButon",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1_ITEM1",
+    "type": "id"
+  },
+  {
+    "key": "fırsatSepetEkle",
+    "value":"DPE_TR_COUPONDETAIL_BUTTON_ADDTOBASKET",
+    "type": "id"
+  },
+  {
+    "key": "Sepettekiürünkontrol",
+    "value":"//*[@class='counter__Display-uj55e1-3 ewpVev']",
+    "type": "xpath"
+  },
+  {
+    "key": "klasikHamurButon",
+    "value":"(//*[@class='pizzaOptionCard__Thumb-sc-1yq2lkf-1 cMlrKb'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "bolSosisKlasikKenarButon",
+    "value":"(//*[@class='pizzaOptionCard__Container-sc-1yq2lkf-0 cZsssq'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "pizzaDüzenleButonTextboxilkürün",
+    "value":"//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq']",
+    "type": "xpath"
+  },
+  {
+    "key": "pizzaDüzenleButonTextboxikinciürün",
+    "value":"//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq']",
+    "type": "xpath"
+  },
+  {
+    "key": "pizzaDüzenleButonTextboxücüncüürün",
+    "value":"//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq']",
+    "type": "xpath"
+  },
+  {
+    "key": "ekstraMalzemeEkleButon",
+    "value":"(//*[@class='dropdown__Button2Indicator-wa0gtc-10 oYXWv'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "ekstraMalzemeCheddarCheckbox",
+    "value":"undefined_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "ekstraMalzemeMozarellaCheckbox",
+    "value":"undefined_ITEM1",
+    "type": "id"
+  },
+  {
+    "key": "ekstraMalzemeEkleEkleButon",
+    "value":"undefined_ITEM2",
+    "type": "id"
+  },
+  {
+    "key": "pizzadüzenlegüncellebuton",
+    "value":"//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
+    "type": "xpath"
+  }
+]

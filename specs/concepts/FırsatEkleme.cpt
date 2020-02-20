@@ -1,0 +1,58 @@
+
+
+# Anasayfadaki Süper Derbi fırsatına tıklanır
+* Elementi bekle ve sonra tıkla "AnasayfaSüperDerbiFırsatı"
+
+
+# Anasayfadaki Ekmek Arası fırsatına tıklanır
+* Elementi bekle ve sonra tıkla "AnasayfaEkmekArasıFırsatı"
+
+# Dilediğin 2 Adet Ekmek Arası kampanyası için ürünler seçilir
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla "kavurmaliEkmekArasiButon"
+* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla "patsoEkmekArasiButon"
+
+# Fırsat ürünleri seçildikten sonra sepete eklenir
+* Elementi bekle ve sonra tıkla "fırsatSepetEkle"
+
+# Sepetimde ürün var mı kontrol edilir
+* Elementi bekle ve sonra tıkla "Sepettekiürünkontrol"
+
+# Pizza düzenleme yapılır
+* Klasik Hamur seçilir
+* Bol Sosis Klasik Kenar seçilir
+* Ekstra Malzeme Ekle butonuna tıklanır
+* Cheddar ve Mozarella eklenir
+
+
+# Klasik Hamur seçilir
+* Elementi bekle ve sonra tıkla "klasikHamurButon"
+
+
+
+# Bol Sosis Klasik Kenar seçilir
+* Elementi bekle ve sonra tıkla "bolSosisKlasikKenarButon"
+
+# Acılı İstiyorum checkbox seçilir
+* Elementi bekle ve sonra tıkla "aciliIstiyorumCheckbox"
+
+# Pizza düzenle butonuna basılır
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+
+# Pizza düzenle butonuna basılır(ikinci ürün)
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxikinciürün"
+
+# Pizza düzenle butonuna basılır(ücüncü ürün)
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxücüncüürün"
+
+# Ekstra Malzeme Ekle butonuna tıklanır
+* Elementi bekle ve sonra tıkla "ekstraMalzemeEkleButon"
+
+# Cheddar ve Mozarella eklenir
+* Elementi bekle ve sonra tıkla "ekstraMalzemeCheddarCheckbox"
+* Elementi bekle ve sonra tıkla "ekstraMalzemeMozarellaCheckbox"
+* Elementi bekle ve sonra tıkla "ekstraMalzemeEkleEkleButon"
+
+# Pizza düzenle güncellenir
+* Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"

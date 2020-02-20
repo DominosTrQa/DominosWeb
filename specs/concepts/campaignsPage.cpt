@@ -1,7 +1,7 @@
 
 
 
-# 3 al 1 öde kampanyasını seç
+# 3 al 1 öde kampanyasını seçilir
 * Elementin yüklenmesini bekle ve tıkla "3al1OdeKampanyasi"
 
 # 3 al 1 öde kampanyası için siparişi oluştur
@@ -12,10 +12,10 @@
 * Elementin yüklenmesini bekle ve tıkla "siparisSecinizDropdown"
 * Elementin yüklenmesini bekle ve tıkla "dropdownVegi"
 
-# Sepete Ekle
+# Sepete eklenir
 * Elementin yüklenmesini bekle ve tıkla "SepeteEkleButon"
 
-# Haftanın kampanyalarına git
+# Haftanın kampanyalarına gidilir
 * Elementin yüklenmesini bekle ve tıkla "haftanınKampanyalariTab"
 
 # Büyük Boy Pizzalar Gel Al kampanyasını seç
