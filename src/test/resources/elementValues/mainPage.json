@@ -146,8 +146,8 @@
   },
   {
     "key": "uyeOlButon",
-    "value":"(//a[contains(text(),'Üye Ol')])",
-    "type": "xpath"
+    "value":"DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNUP",
+    "type": "id"
   },
   {
     "key": "profil_Menu_Buton",
@@ -350,12 +350,7 @@
     "type": "id"
   },
   {
-    "key": "siparisSayfasıseciliAdresIleDevamEtButon",
-    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO blmbQq']",
-    "type": "xpath"
-  },
-  {
-    "key": "sepetimButon",
+    "key": "sepetimiconButon",
     "value":"//button[@class='styled__CartButton-sc-126ws66-17 cwxyFL']",
     "type": "xpath"
   },

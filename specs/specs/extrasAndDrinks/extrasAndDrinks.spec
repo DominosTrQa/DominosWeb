@@ -111,7 +111,7 @@ extrasAndDrinks
 * Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
-* Sepetim iconuna tıklanır
+* Sepetim ikonuna tıklanır
 
 
 122- Anasayfa - Ekstralar ve İçecekler - Alt Bar Yazıların Kontrolü

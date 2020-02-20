@@ -62,7 +62,7 @@ public class BaseTest {
       System.setProperty("webdriver.chrome.driver", "web_driver/chromedriver");
 
       //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
-      options.addArguments("incognito");
+      //options.addArguments("incognito");
       driver = new ChromeDriver(options);
       driver.manage().window().maximize();
     }

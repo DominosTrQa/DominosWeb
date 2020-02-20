@@ -40,7 +40,7 @@
 
 
 
-# Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana adresi eklenir
+# Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"
 * "2" saniye bekle
@@ -111,7 +111,8 @@
 
 # Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "seciliTestAdres"
-* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+ Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "5" saniye bekle
 
 # Seçili Şube ile Devam Et butonuna basılır
@@ -123,12 +124,12 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "TümKampanyalar"
 
-# Sepetim iconuna tıklanır
+# Sepetim ikonuna tıklanır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "sepetimButon"
+* Elementi bekle ve sonra tıkla "sepetimiconButon"
 * "1" saniye bekle
 
-# Sepete Git butonuna tıklanır
+# Sepete git butonuna tıklanır
 * Elementi bekle ve sonra tıkla "sepeteGitButon"
 * "2" saniye bekle
 
@@ -141,21 +142,22 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * "2" saniye bekle
 
-# adres eklerken kalem ikonuna tıkla,düzenle,konum paylas
+# Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenleKonumPaylas"
 
-# adres eklerken kalem ikonuna tıkla
+# Adres eklerken kalem ikonuna tıklanır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
 
 
-# mevcut konum secildikten sonra kontrol edilir
+# Mevcut konum seçildikten sonra kontrol edilir
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "mevcutKonumunuz"
 
-# konum paylastiktan sonra ok isaretine tiklanir
+# Konum paylaştıktan sonra ok isaretine tıklanır
 * Elementi bekle ve sonra tıkla "KonumpaylasOkisareti"
 
 # Ekstra Lezzetlere gidilir
