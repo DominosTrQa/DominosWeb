@@ -1,5 +1,4 @@
 
-
 # Sipariş Ver butonlarının geldiği kontrol edilir 3
 * Element var mı kontrol et "siparisVerBirinciButon"
 * Element var mı kontrol et "siparisVerIkinciButon"
@@ -89,43 +88,21 @@
 
 # Tüm Pizzalar sayfasındayken üst bar sayfalar arası geçiş kontrol edilir
 * "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
-* Tabdeki Tüm Kampanyalar butonuna tıklanır
+* Tabdaki Tüm Kampanyalar butonuna tıklanır
 * "sayfaBasligi" li elementin değeri "Tüm Kampanyalar" e eşitliğini kontrol et
-* Tabdeki Tüm Pizzalar butonuna tıklanır
+* Tabdaki Tüm Pizzalar butonuna tıklanır
 * "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
-* Tabdeki Ekstralar ve İçecekler butonuna tıklanır
+* Tabdaki Ekstralar ve İçecekler butonuna tıklanır
 * "sayfaBasligi" li elementin değeri "Ekstra Lezzetler" e eşitliğini kontrol et
 
-
-# Tüm Pizzalar sayfasındayken Sepetim pop up açılıyor mu kontrol edilir
+# Tüm Pizzalar sayfasındayken Sepetim popup açılıyor mu kontrol edilir
 * "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
 * Sepetim ikonuna tıklanır
 * Element var mı kontrol et "sepetinizdeUrunBulunmamaktadirText"
 * Element var mı kontrol et "profil_Menu_Buton"
-
-
 
 # Sağ ok butonuna tıklanır
 * Elementi bekle ve sonra tıkla "pizzalarSagOkButon"
 
 # Üyelik bilgilerim butonuna tıklanır
 * Element var mı kontrol et "üyelik_Bilgilerim_Buton"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
