@@ -1,22 +1,49 @@
 
 
 
-# 3 al 1 öde kampanyasını seçilir
+# 3 al 1 öde kampanyası seçilir
 * Elementin yüklenmesini bekle ve tıkla "3al1OdeKampanyasi"
 
-# 3 al 1 öde kampanyası için siparişi oluştur
-* Elementin yüklenmesini bekle ve tıkla "siparisSecinizDropdown"
+
+# 3 al 1 öde kampanyası için sipariş oluşturulur
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
 * Elementin yüklenmesini bekle ve tıkla "dropdownSuperos"
-* Elementin yüklenmesini bekle ve tıkla "siparisSecinizDropdown"
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* "3" saniye bekle
+* Kalp şeklinde hamura tıklanır
+* Çıkarmak istenilen malzemeler seçilir
+* Pizza düzenle güncellenir
+* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
 * Elementin yüklenmesini bekle ve tıkla "dropdownSucuksever"
-* Elementin yüklenmesini bekle ve tıkla "siparisSecinizDropdown"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxikinciürün"
+* "3" saniye bekle
+* Kalp şeklinde hamura tıklanır
+* Çıkarmak istenilen malzemeler seçilir
+* Pizza düzenle güncellenir
+* Elementi bekle ve sonra tıkla "ucuncuUrunseciniz"
 * Elementin yüklenmesini bekle ve tıkla "dropdownVegi"
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxücüncüürün"
+* "3" saniye bekle
+* Kalp şeklinde hamura tıklanır
+* Çıkarmak istenilen malzemeler seçilir
+* Pizza düzenle güncellenir
+
+# Orta boy pizzalar kampanyası için sipariş oluşturulur
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* Elementin yüklenmesini bekle ve tıkla "dropdownSuperos"
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
 
 # Sepete eklenir
 * Elementin yüklenmesini bekle ve tıkla "SepeteEkleButon"
 
 # Haftanın kampanyalarına gidilir
-* Elementin yüklenmesini bekle ve tıkla "haftanınKampanyalariTab"
+* Elementin yüklenmesini bekle ve tıkla "HaftaninKampanyalari"
+
+# Haftanın kampanyalarına gidilir/Gel Al
+* Elementin yüklenmesini bekle ve tıkla "HaftaninKampanyalariGelAl"
 
 # Büyük Boy Pizzalar Gel Al kampanyasını seç
 * Elementin yüklenmesini bekle ve tıkla "büyükBoyPizzalarGelAlKampanyasi"

@@ -35,6 +35,11 @@
     "type": "id"
   },
   {
+    "key": "fırsatSepetEkleGelAl",
+    "value":"(//*[@class='couponDetail__Button-sc-1vcdi7n-0 bDbfCJ'])[2]",
+    "type": "xpath"
+  },
+  {
     "key": "Sepettekiürünkontrol",
     "value":"//*[@class='counter__Display-uj55e1-3 ewpVev']",
     "type": "xpath"
@@ -45,23 +50,28 @@
     "type": "xpath"
   },
   {
+    "key": "Kalpseklindehamurbuton",
+    "value":"(//*[@class='pizzaOptionCard__Thumb-sc-1yq2lkf-1 cMlrKb'])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "bolSosisKlasikKenarButon",
     "value":"(//*[@class='pizzaOptionCard__Container-sc-1yq2lkf-0 cZsssq'])[1]",
     "type": "xpath"
   },
   {
     "key": "pizzaDüzenleButonTextboxilkürün",
-    "value":"//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq']",
+    "value":"(//*[@class='product__EditButton-sc-10q1kcx-3 dtOvDH'])[1]",
     "type": "xpath"
   },
   {
     "key": "pizzaDüzenleButonTextboxikinciürün",
-    "value":"//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq']",
+    "value":"(//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq'])[2]",
     "type": "xpath"
   },
   {
     "key": "pizzaDüzenleButonTextboxücüncüürün",
-    "value":"//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq']",
+    "value":"(//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq'])[3]",
     "type": "xpath"
   },
   {
@@ -88,5 +98,55 @@
     "key": "pizzadüzenlegüncellebuton",
     "value":"//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
     "type": "xpath"
+  },
+  {
+    "key": "ikiortaboysosyalpizza",
+    "value":"DPE_TR_CAMPAIGNS_TAB0_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "sucukMalzeme",
+    "value":"DPE_TR_COUPONDETAIL_CHECKBOX_MODIFIERS_undefined",
+    "type": "id"
+  },
+  {
+    "key": "misirMalzeme",
+    "value":"DPE_TR_COUPONDETAIL_CHECKBOX_MODIFIERS_undefined",
+    "type": "id"
+  },
+  {
+    "key": "KekikMalzeme",
+    "value":"DPE_TR_COUPONDETAIL_CHECKBOX_MODIFIERS_undefined",
+    "type": "id"
+  },
+  {
+    "key": "ortaboypizzalarGelAl",
+    "value":"DPE_TR_CAMPAIGNS_TAB0_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "adreseteslimHaftaninKampanyalari",
+    "value":"DPE_TR_CAMPAIGNS_TAB2",
+    "type": "id"
+  },
+  {
+    "key": "3al1OdeKampanyasiAdreseteslim",
+    "value":"DPE_TR_CAMPAIGNS_TAB2_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "ucuncuUrunseciniz",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2",
+    "type": "id"
+  },
+  {
+    "key": "3al1OdeKampanyasiAdreseteslimtumKampanyalar",
+    "value":"DPE_TR_CAMPAIGNS_TAB0_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "HaftaninKampanyalariGelAl",
+    "value":"DPE_TR_CAMPAIGNS_TAB0",
+    "type": "id"
   }
 ]

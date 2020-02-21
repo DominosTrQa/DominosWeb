@@ -1,6 +1,7 @@
 
 
 # Anasayfadaki Süper Derbi fırsatına tıklanır
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "AnasayfaSüperDerbiFırsatı"
 
 
@@ -16,6 +17,9 @@
 # Fırsat ürünleri seçildikten sonra sepete eklenir
 * Elementi bekle ve sonra tıkla "fırsatSepetEkle"
 
+# Fırsat ürünleri seçildikten sonra sepete eklenir/ Gel Al
+* Elementi bekle ve sonra tıkla "fırsatSepetEkleGelAl"
+
 # Sepetimde ürün var mı kontrol edilir
 * Elementi bekle ve sonra tıkla "Sepettekiürünkontrol"
 
@@ -25,11 +29,11 @@
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir
 
-
 # Klasik Hamur seçilir
 * Elementi bekle ve sonra tıkla "klasikHamurButon"
 
-
+# Kalp şeklinde hamura tıklanır
+* Elementi bekle ve sonra tıkla "Kalpseklindehamurbuton"
 
 # Bol Sosis Klasik Kenar seçilir
 * Elementi bekle ve sonra tıkla "bolSosisKlasikKenarButon"
@@ -38,6 +42,7 @@
 * Elementi bekle ve sonra tıkla "aciliIstiyorumCheckbox"
 
 # Pizza düzenle butonuna basılır
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
 
 # Pizza düzenle butonuna basılır(ikinci ürün)
@@ -56,3 +61,35 @@
 
 # Pizza düzenle güncellenir
 * Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
+
+# Şubeye özel fırsatlara tıklanır
+* Elementi bekle ve sonra tıkla "subeyeOzelFırsatlarButon"
+* "3" saniye bekle
+
+# Şubeye özel fırsatlara tıklanır/ Gel Al
+* Elementi bekle ve sonra tıkla "subeyeOzelFırsatlarButonGelAl"
+
+# 2 orta boy sosyal pizzaya tıklanır
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla ""
+* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla ""
+
+# Çıkarmak istenilen malzemeler seçilir
+* Elementi bekle ve sonra tıkla "sucukMalzeme"
+* Elementi bekle ve sonra tıkla "misirMalzeme"
+* Elementi bekle ve sonra tıkla "KekikMalzeme"
+
+# Orta boy pizzalar kampanyası seçilir/ Gel Al
+* Elementi bekle ve sonra tıkla "ortaboypizzalarGelAl"
+
+# Haftanın kampanyalarına tıklanır/ Adrese teslim
+* Elementi bekle ve sonra tıkla "adreseteslimHaftaninKampanyalari"
+
+# 3 al 1 öde kampanyası seçilir/ Adrese teslim
+* "3" saniye bekle
+* Elementin yüklenmesini bekle ve tıkla "3al1OdeKampanyasiAdreseteslim"
+* "3" saniye bekle
+
+# 3 al 1 öde kampanyası seçilir / Adrese teslim(tüm kampanyalardan girilir)
+* Elementi bekle ve sonra tıkla "3al1OdeKampanyasiAdreseteslimtumKampanyalar"
