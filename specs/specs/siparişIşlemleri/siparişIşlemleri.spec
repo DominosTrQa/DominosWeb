@@ -1,7 +1,6 @@
 Sipariş İşlemleri
 =====================
 
-     
 
 Tek Sube Hizmet Veren Adres/Manuel
 ---------------------------------
@@ -14,7 +13,7 @@ tags:TekSubeHizmetVerenAdresManuel
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
-* İçecekler tabine tıklanır
+* İçecekler tabına tıklanır
 * Sepete fuse tea eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
@@ -26,9 +25,11 @@ tags:TekSubeHizmetVerenAdresManuel
 * Sipariş tamamlanır
 * Siparişin oluştuğu kontrol edilir
 
+
 Tek Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
 tags:TekSubeHizmetVerenAdresDropdown
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -36,7 +37,7 @@ tags:TekSubeHizmetVerenAdresDropdown
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
-* İçecekler tabine tıklanır
+* İçecekler tabına tıklanır
 * Sepete fuse tea eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
@@ -48,9 +49,11 @@ tags:TekSubeHizmetVerenAdresDropdown
 * Sipariş tamamlanır
 * Siparişin oluştuğu kontrol edilir
 
+
 İki Sube Hizmet Veren Adres Manuel
 ---------------------------
 tags:IkiSubeHizmetVerenAdresManuel
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -58,7 +61,7 @@ tags:IkiSubeHizmetVerenAdresManuel
 * Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
-* İçecekler tabine tıklanır
+* İçecekler tabına tıklanır
 * Sepete fuse tea eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
@@ -70,9 +73,11 @@ tags:IkiSubeHizmetVerenAdresManuel
 * Sipariş tamamlanır
 * Siparişin oluştuğu kontrol edilir
 
+
 Iki Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
 tags:IkiSubeHizmetVerenAdresDropdown
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -80,7 +85,7 @@ tags:IkiSubeHizmetVerenAdresDropdown
 * Adrese Teslim servis tipi için Ataşehir / Örnek adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
-* İçecekler tabine tıklanır
+* İçecekler tabına tıklanır
 * Sepete fuse tea eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır

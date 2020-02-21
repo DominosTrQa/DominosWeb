@@ -1,6 +1,4 @@
 
-
-
 # 3 al 1 öde kampanyasını seç
 * Elementin yüklenmesini bekle ve tıkla "3al1OdeKampanyasi"
 
@@ -43,7 +41,6 @@
 * Wait "3" seconds
 * Element var mı kontrol et "TekKisilikKampanyalar2"
 
-
 # Tek Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 * Elementin yüklenmesini bekle ve tıkla "TekKisilikKampanyalar"
 * Element var mı kontrol et "TekKisilikKampanyalar2"
@@ -54,11 +51,9 @@
 * "2-3-KisilikKampanyalar2" elementi "2-3 Kişilik Kampanyalar" değerini içeriyor mu kontrol et
 * Elementin yüklenmesini bekle ve tıkla "okİsareti"
 
-
 # 4 Kişi ve Üzeri Kampanyalar sayfasındaki elementler kontrol edilir
 * Elementin yüklenmesini bekle ve tıkla "4KisiveÜzeriKampanyalar"
 * Element var mı kontrol et "4KisiveÜzeriKampanyalar2"
-
 
 # Gel Al Haftanın  Kampanyaları sayfasındaki elementler kontrol edilir
 * Elementin yüklenmesini bekle ve tıkla "GelAlHaftaninKampanyalari"

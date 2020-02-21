@@ -1,5 +1,4 @@
 
-
 # Üyelik bilgilerim sayfasındaki elementler kontrol edilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
@@ -73,7 +72,6 @@
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Dogum_Tarihi__Tarih_Sec"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
 
-
 # Üyelik bilgilerimdeki değiştirilebilir alanlar kontrol edilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
@@ -83,11 +81,11 @@
 * Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Checkbox"
 
-# Üyelikten Ayrıl butonuna basılır ve pop up geldiği kontrol edilir
+# Üyelikten Ayrıl butonuna basılır ve popup geldiği kontrol edilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 
-# Üyelikten Ayrıl butonuna basılır, pop up kabul edilir ve anasayfaya yönlendirdiği kontrol edilir
+# Üyelikten Ayrıl butonuna basılır, popup kabul edilir ve anasayfaya yönlendirdiği kontrol edilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
@@ -107,7 +105,7 @@
 * Elementi bekle ve sonra tıkla "pizza_Takip_Görüntüle_Buton"
 * Element var mı kontrol et "pizzaTakipSiparisSonucuText"
 
-# Notlarım sayfasındaki Yeni Not Ekle butonuna basılır ve pop up açıldığı kontrol edilir
+# Notlarım sayfasındaki Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
 * Element var mı kontrol et "notlarimYeniNotEklePopUpText"
 
@@ -154,7 +152,6 @@
 * "20" textini "kredi_Kartlarım_Kart_Ekle_Son_Kullanma_Tarihi_Yıl_Textbox" elemente yaz
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Ekle_Buton"
 
-
 # Kredi Kartlarım sayfasında hatalı bir kart eklenir ve uyarı alındığı gözlemlenir
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
 * "test" textini "krediKartlarimKartIsmiTextbox" elemente yaz
@@ -195,5 +192,3 @@
 * "123456Do" textini "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sifre_Degistir_Degistir_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Aynı_Sifre_Olamaz_Popup_Text"
-
-

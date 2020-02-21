@@ -65,28 +65,28 @@
 * Element var mı kontrol et "Sepete_Ekle_22button"
 * Element var mı kontrol et "Sepete_Ekle_23button"
 
-# İçecekler tabine tıklanır
+# İçecekler tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 
-# Dürümler tabine tıklanır
+# Dürümler tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Dürümler_Buton"
 
-# Ekmek Arası tabine tıklanır
+# Ekmek Arası tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmek_Arasi_Buton"
 
-# Tavuklar tabine tıklanır
+# Tavuklar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tavuklar_Buton"
 
-# Tatlılar tabine tıklanır
+# Tatlılar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tatlilar_Buton"
 
-# Ekmekler tabine tıklanır
+# Ekmekler tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmekler_Buton"
 
-# Salatalar tabine tıklanır
+# Salatalar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Salatalar_Buton"
 
-# Soslar tabine tıklanır
+# Soslar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Soslar_Buton"
 
 # Ekstra lezzetler sayfasının açıldığı kontrol edilir
