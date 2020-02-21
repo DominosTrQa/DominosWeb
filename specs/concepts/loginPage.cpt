@@ -191,8 +191,8 @@
 * Element var mı kontrol et "uyeOlSifreyTekrarTextbox"
 * Element var mı kontrol et "uyeOlMesafeliSatisSozlesmesi"
 * Element var mı kontrol et "uyeOlSayfasiÜyeOlButon"
-* Element var mı kontrol et "facebookIleGirisButon"
-* Element var mı kontrol et "googleIleGirisButon"
+* Element var mı kontrol et "UyeOlfacebookIleGirisButon"
+* Element var mı kontrol et "UyeOlgoogleIleGirisButon"
 * Element var mı kontrol et "uyeOlSayfasiKVKKCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
 * Element var mı kontrol et "uyeOlSayfasiEpostaCheckbox"
@@ -258,5 +258,6 @@
 * "AdresTarifi" li elementi bul, temizle ve "test2" değerini yaz
 
 
-# Güncelle butonu
+# Güncelle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
+

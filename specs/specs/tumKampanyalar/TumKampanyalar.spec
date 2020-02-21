@@ -10,6 +10,7 @@ tags:tumkampanyalarsayfakontrolü
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
+* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Tüm Kampanyalar sayfasındaki elementler kontrol edilir
 
@@ -23,6 +24,7 @@ tags:HaftaninKampanyalarisayfakontrolu
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
+* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Haftanın Kampanyaları sayfasındaki elementler kontrol edilir
 
@@ -36,6 +38,7 @@ tags:TekKisilikKampanyalarsayfakontrolu
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
+* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Tek Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 
@@ -50,6 +53,7 @@ tags:ikiUcKisilikKampanyalarsayfakontrolu
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
+* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * 2-3 Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 
@@ -63,6 +67,7 @@ tags:4Kisiveuzerikampanyalarsayfakontrolu
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
+* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * 4 Kişi ve Üzeri Kampanyalar sayfasındaki elementler kontrol edilir
 
@@ -77,6 +82,7 @@ tags:GelAlHaftaninKampanyalarisayfakontrolu
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 * Tüm Kampanyalar Butonuna tıklanır
+* Tüm pizzalar alanına kaydırılır
 * Gel Al Haftanın  Kampanyaları sayfasındaki elementler kontrol edilir
 
 
@@ -89,6 +95,7 @@ tags:ÜstBarSayfalararasigeciskontrolu
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
+* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Tüm Kampanyalar sayfasındayken üst bar sayfalar arası geçiş kontrolü yapılır
 
@@ -102,7 +109,7 @@ tags:UstBarProfilimpopupbasariliaciliyormukontrolu
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
-* Element var mı kontrol et "Profilim"
+* Profilim başarılı açılıyor mu kontrol edilir
 
 
 Üst Bar Sepetim popup başarılı açılıyor mı kontrolü
@@ -114,7 +121,7 @@ tags:UstBarSepetimpopupbaşarılı çılıyormıkontrolu
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
-* Element var mı kontrol et "Sepetim"
+* Sepetim başarılı açılıyor mu kontrol edilir
 
 
 Her tab da Sipariş Ver buton kontrolü

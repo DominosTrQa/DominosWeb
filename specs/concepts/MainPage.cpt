@@ -124,6 +124,10 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "TümKampanyalar"
 
+
+# Tüm pizzalar alanına kaydırılır
+* "anasayfaTümPizzalarButon" alanına kaydır
+
 # Sepetim ikonuna tıklanır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "sepetimiconButon"
@@ -132,6 +136,9 @@
 # Sepete git butonuna tıklanır
 * Elementi bekle ve sonra tıkla "sepeteGitButon"
 * "2" saniye bekle
+
+# Sepetim başarılı açılıyor mu kontrol edilir
+* Element var mı kontrol et "Sepetim"
 
 # Sepetteki ürün iki kez arttırılır
 * Elementi bekle ve sonra tıkla "SepeteEkleArtı"
@@ -142,6 +149,8 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * "2" saniye bekle
 
+# Profilim başarılı açılıyor mu kontrol edilir
+* Element var mı kontrol et "Profilim"
 # Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
