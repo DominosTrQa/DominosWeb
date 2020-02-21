@@ -55,8 +55,8 @@ Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmakicinTiklayinKontrolu
 Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmasiKontrolu
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelikten Ayrılma butonuna tıklanır
+* Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
 * Profilim popup Üyelikten Ayrılma popup kabul edilir
-* Element var mı kontrol et "Anasayfa_Kontrol"
 
 
 57- Profilim Popup - Üyelik Bilgilerim - Üyelikten ayrılmadan vazgeçme kontrolü
@@ -280,7 +280,7 @@ Tags:profilimPopupAdreslerim_ilIlceMahalleDegistirmeKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
-* Profilim popup Adreslerim İl, İlçe, Mahalle düzenlenir
+ Profilim popup Adreslerim İl, İlçe, Mahalle düzenlenir
 
 
 79 - Profilim Popup - Adreslerim - Kayıtlı Adreslerden Seçme Kontrolü
@@ -288,12 +288,11 @@ Tags:profilimPopupAdreslerim_ilIlceMahalleDegistirmeKontrolu
 Tags:profilimPopupAdreslerim_kayitliAdreslerdenSecmeKontrolu
 
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
-* Profilim popup Adreslerim kayıtlı adreslerden adres seçilir
+ Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+ Seçili Adres ile Devam Et butonuna basılır
+ Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+ Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
+ Profilim popup Adreslerim kayıtlı adreslerden adres seçilir
 
 
 80 - Profilim Popup - Adreslerim - Kayıtlı Adresi Düzenle Kontrolü
