@@ -92,7 +92,7 @@ Tags:profilimPopup_uyelikBilgilerimYeKazanSadakatProgramiUyelikKosullariMetniKon
 --------------------------------------------------------------
 Tags:profilimPopup_SiparislerimSiparisAlanlariKontrolu
 
-* Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
+* Üye olunur giriş yapılır, adrese Teslim servis tipi seçilir ve siparislerime gidilir
 * Profilim popup Siparişlerim sayfasındaki alanların geldiği kontrol edilir
 
 
@@ -280,7 +280,7 @@ Tags:profilimPopupAdreslerim_ilIlceMahalleDegistirmeKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
- Profilim popup Adreslerim İl, İlçe, Mahalle düzenlenir
+* Profilim popup Adreslerim İl, İlçe, Mahalle düzenlenir
 
 
 79 - Profilim Popup - Adreslerim - Kayıtlı Adreslerden Seçme Kontrolü
