@@ -5,7 +5,7 @@ Login
 1-Login - Success Scenario
 ----------------
 Tags:login_successScenario
-* "dominostest12345@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim ve Gel butonlarının geldiği kontrol edilir
 
 

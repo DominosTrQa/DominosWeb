@@ -1,9 +1,7 @@
 
 
-# Anasayfadaki Süper Derbi fırsatına tıklanır
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "AnasayfaSüperDerbiFırsatı"
-
+# Anasayfadaki 2 orta boy pizza fırsatına tıklanır
+* Elementini bekle ve hemen tıkla "AnasayfaikiortaboyFırsatı"
 
 # Anasayfadaki Ekmek Arası fırsatına tıklanır
 * Elementi bekle ve sonra tıkla "AnasayfaEkmekArasıFırsatı"
@@ -21,6 +19,7 @@
 * Elementi bekle ve sonra tıkla "fırsatSepetEkleGelAl"
 
 # Sepetimde ürün var mı kontrol edilir
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "Sepettekiürünkontrol"
 
 # Pizza düzenleme yapılır
@@ -69,12 +68,6 @@
 # Şubeye özel fırsatlara tıklanır/ Gel Al
 * Elementi bekle ve sonra tıkla "subeyeOzelFırsatlarButonGelAl"
 
-# 2 orta boy sosyal pizzaya tıklanır
-* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
-* Elementi bekle ve sonra tıkla ""
-* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
-* Elementi bekle ve sonra tıkla ""
-
 # Çıkarmak istenilen malzemeler seçilir
 * Elementi bekle ve sonra tıkla "sucukMalzeme"
 * Elementi bekle ve sonra tıkla "misirMalzeme"
@@ -82,6 +75,9 @@
 
 # Orta boy pizzalar kampanyası seçilir/ Gel Al
 * Elementi bekle ve sonra tıkla "ortaboypizzalarGelAl"
+
+# Gel al dürümos kampanyası seçilir/ Gel Al
+* Elementi bekle ve sonra tıkla "ortaboypizzalarGelAlŞubeyeözel"
 
 # Haftanın kampanyalarına tıklanır/ Adrese teslim
 * Elementi bekle ve sonra tıkla "adreseteslimHaftaninKampanyalari"
@@ -93,3 +89,63 @@
 
 # 3 al 1 öde kampanyası seçilir / Adrese teslim(tüm kampanyalardan girilir)
 * Elementi bekle ve sonra tıkla "3al1OdeKampanyasiAdreseteslimtumKampanyalar"
+
+# 3 al 1 öde kampanyası seçilir
+* Elementin yüklenmesini bekle ve tıkla "3al1OdeKampanyasi"
+
+# 3 al 1 öde kampanyası için sipariş oluşturulur
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* Elementin yüklenmesini bekle ve tıkla "dropdownSuperos"
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* "3" saniye bekle
+* Kalp şeklinde hamura tıklanır
+* Çıkarmak istenilen malzemeler seçilir
+* Pizza düzenle güncellenir
+* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
+* Elementin yüklenmesini bekle ve tıkla "dropdownSucuksever"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxikinciürün"
+* "3" saniye bekle
+* Kalp şeklinde hamura tıklanır
+* Çıkarmak istenilen malzemeler seçilir
+* Pizza düzenle güncellenir
+* Elementi bekle ve sonra tıkla "ucuncuUrunseciniz"
+* Elementin yüklenmesini bekle ve tıkla "dropdownVegi"
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxücüncüürün"
+* "3" saniye bekle
+* Kalp şeklinde hamura tıklanır
+* Çıkarmak istenilen malzemeler seçilir
+* Pizza düzenle güncellenir
+
+# 2 orta boy kampanyası için sipariş oluşturulur
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* Elementin yüklenmesini bekle ve tıkla "dropdownSuperos"
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* "3" saniye bekle
+* Kalp şeklinde hamura tıklanır
+* Çıkarmak istenilen malzemeler seçilir
+* Pizza düzenle güncellenir
+* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
+* Elementin yüklenmesini bekle ve tıkla "dropdownSucuksever"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxikinciürün"
+* "3" saniye bekle
+* Kalp şeklinde hamura tıklanır
+* Çıkarmak istenilen malzemeler seçilir
+* Pizza düzenle güncellenir
+
+# Orta boy pizzalar kampanyası için sipariş oluşturulur
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* Elementin yüklenmesini bekle ve tıkla "dropdownSuperos"
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* Kalp şeklinde hamura tıklanır
+* Çıkarmak istenilen malzemeler seçilir
+* Pizza düzenle güncellenir
+
+# Gel al dürümos kampanyası için sipariş oluşturulur
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla "sebzelipeynirlidürümos"

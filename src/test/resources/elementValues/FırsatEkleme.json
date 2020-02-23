@@ -1,6 +1,6 @@
 [
   {
-    "key": "AnasayfaSüperDerbiFırsatı",
+    "key": "AnasayfaikiortaboyFırsatı",
     "value":"DPE_TR_HOME_SLIDER0",
     "type": "id"
   },
@@ -36,7 +36,7 @@
   },
   {
     "key": "fırsatSepetEkleGelAl",
-    "value":"(//*[@class='couponDetail__Button-sc-1vcdi7n-0 bDbfCJ'])[2]",
+    "value":"(//a[@class='couponDetail__Button-sc-1vcdi7n-0 bDbfCJ'][contains(text(),'Sepete Ekle')])[2]",
     "type": "xpath"
   },
   {
@@ -147,6 +147,16 @@
   {
     "key": "HaftaninKampanyalariGelAl",
     "value":"DPE_TR_CAMPAIGNS_TAB0",
+    "type": "id"
+  },
+  {
+    "key": "ortaboypizzalarGelAlŞubeyeözel",
+    "value":"DPE_TR_CAMPAIGNS_TAB4_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "sebzelipeynirlidürümos",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM0",
     "type": "id"
   }
 ]

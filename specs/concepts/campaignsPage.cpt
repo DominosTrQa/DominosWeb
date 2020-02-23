@@ -1,40 +1,7 @@
 
 
 
-# 3 al 1 öde kampanyası seçilir
-* Elementin yüklenmesini bekle ve tıkla "3al1OdeKampanyasi"
 
-
-# 3 al 1 öde kampanyası için sipariş oluşturulur
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
-* Elementin yüklenmesini bekle ve tıkla "dropdownSuperos"
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
-* "3" saniye bekle
-* Kalp şeklinde hamura tıklanır
-* Çıkarmak istenilen malzemeler seçilir
-* Pizza düzenle güncellenir
-* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
-* Elementin yüklenmesini bekle ve tıkla "dropdownSucuksever"
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxikinciürün"
-* "3" saniye bekle
-* Kalp şeklinde hamura tıklanır
-* Çıkarmak istenilen malzemeler seçilir
-* Pizza düzenle güncellenir
-* Elementi bekle ve sonra tıkla "ucuncuUrunseciniz"
-* Elementin yüklenmesini bekle ve tıkla "dropdownVegi"
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxücüncüürün"
-* "3" saniye bekle
-* Kalp şeklinde hamura tıklanır
-* Çıkarmak istenilen malzemeler seçilir
-* Pizza düzenle güncellenir
-
-# Orta boy pizzalar kampanyası için sipariş oluşturulur
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
-* Elementin yüklenmesini bekle ve tıkla "dropdownSuperos"
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
 
 # Sepete eklenir
 * Elementin yüklenmesini bekle ve tıkla "SepeteEkleButon"
