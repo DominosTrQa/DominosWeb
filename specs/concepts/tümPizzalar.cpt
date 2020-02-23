@@ -52,8 +52,11 @@
 * Elementi bekle ve sonra tıkla "ozelPizzalarButon"
 * "sayfaBasligi" li elementin değeri "Özel Pizzalar" e eşitliğini kontrol et
 * Element var mı kontrol et "tumPizzalarÖzelFit"
+* "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarÖzelVegi"
+* "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarÖzelSosyal"
+* "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarOzelTavuklu"
 
 # Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
@@ -68,10 +71,15 @@
 * Elementin yüklenmesini bekle ve tıkla "bolMalzemePizzalarButon"
 * "sayfaBasligi" li elementin değeri "Bol Malzeme Pizzalar" e eşitliğini kontrol et
 * Element var mı kontrol et "tumPizzalarBolMalzemeDevMalzeemos"
+* "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarBolMalzemeDopdoluExtra"
+* "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarBolMalzemeExtravaganzza"
+* "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarBolMalzemeBolMalzemos"
+* "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarBolMalzemeKarışık"
+* "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarBolMalzemeItaliano"
 
 # Gurme Pizzalar sayfasının elementlerinin geldiği kontrol edilir

@@ -109,7 +109,7 @@
 # Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "seciliTestAdres"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
- Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
+* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "5" saniye bekle
 
 # Seçili Şube ile Devam Et butonuna basılır
