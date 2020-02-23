@@ -49,7 +49,7 @@
 * Elementi bekle ve sonra tıkla "2-3-KisilikKampanyalar"
 * Element var mı kontrol et "SiparisVer2"
  "SiparisVer2" elementi "Sipariş Ver" değerini içeriyor mu kontrol et
-* "2-3-KisilikKampanyalar2" elementi "2-3 Kişilik Kampanyalar" değerini içeriyor mu kontrol et
+* "2-3-KisilikKampanyalar" elementi "2-3 Kişilik Kampanyalar" değerini içeriyor mu kontrol et
 * Elementin yüklenmesini bekle ve tıkla "okİsareti"
 
 # 4 Kişi ve Üzeri Kampanyalar sayfasındaki elementler kontrol edilir
