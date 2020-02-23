@@ -57,7 +57,7 @@
 * "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarÖzelSosyal"
 * "1" saniye bekle
-* Element var mı kontrol et "tumPizzalarOzelTavuklu"
+ Element var mı kontrol et "tumPizzalarOzelTavuklu"
 
 # Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * "2" saniye bekle
@@ -76,7 +76,7 @@
 * "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarBolMalzemeExtravaganzza"
 * "1" saniye bekle
-* Element var mı kontrol et "tumPizzalarBolMalzemeBolMalzemos"
+ Element var mı kontrol et "tumPizzalarBolMalzemeBolMalzemos"
 * "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarBolMalzemeKarışık"
 * "1" saniye bekle
