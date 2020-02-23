@@ -79,6 +79,7 @@
 
 # Tatlılar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tatlilar_Buton"
+* "2" saniye bekle
 
 # Ekmekler tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmekler_Buton"

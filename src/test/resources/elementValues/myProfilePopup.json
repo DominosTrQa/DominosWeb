@@ -101,7 +101,7 @@
   },
   {
     "key": "profilimPopupAdreslerimIlIlceDüzenlemeKontrol",
-    "value":"//span[contains(text(),'Ankara')]",
+    "value":"//span[contains(text(),'İstanbul')]",
     "type": "xpath"
   },
   {

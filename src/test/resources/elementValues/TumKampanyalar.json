@@ -31,12 +31,7 @@
   },
   {
     "key": "2-3-KisilikKampanyalar",
-    "value":"DPE_TR_CAMPAIGNS_TAB3",
-    "type": "id"
-  },
-  {
-    "key": "2-3-KisilikKampanyalar2",
-    "value":"DPE_TR_CAMPAIGNS_TAB3",
+    "value":"DPE_TR_CAMPAIGNS_TAB4",
     "type": "id"
   },
   {
@@ -56,7 +51,7 @@
   },
   {
     "key": "SiparisVer2",
-    "value":"//div[@class='react-swipeable-view-container']/div[3]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
+    "value":"/html//div[@id='root']/div/div[4]//div[@class='react-swipeable-view-container']/div[5]/div/div/div/div[2]/div//div[.='Sipariş Ver']",
     "type": "xpath"
   },
   {
