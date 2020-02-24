@@ -5,6 +5,7 @@ Login
 1-Login - Success Scenario
 ----------------
 Tags:login_successScenario
+
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
@@ -80,6 +81,7 @@ Tags:signup_newAccountCreateSuccessScenario2
 11-Üye Olmadan Devam Et - Button Control
 ----------------
 Tags:uyeOlmadanDevamEt_buttonKontrol
+
 * Giriş Yap butonuna basılır
 * Element var mı kontrol et "uyeOlmadanDevamEtButon"
 
@@ -89,7 +91,7 @@ Tags:uyeOlmadanDevamEt_buttonKontrol
 Tags:uyeOlmadanDevamEt_screenKontrol
 
 * Giriş Yap butonuna basılır
-* Üye olmadan devam et
+* Üye olmadan devam edilir
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 * Element var mı kontrol et "loginButton"
 * Element var mı kontrol et "uyeOlButon"

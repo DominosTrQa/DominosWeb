@@ -41,7 +41,7 @@ Tags:profilim_notlarimSayfaKontrolu
 ---------------------------------------------------------
 Tags:profilim_adreslerimSayfaKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Adreslerim butonuna tıklanır
 * Üyelik bilgilerimden gidilen Adreslerim sayfası kontrol edilir
 
@@ -193,6 +193,7 @@ Tags:notlarim_eklenenNotuDuzenlemePopupKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
+* Yeni not ekle butonuna tıklanır
 * Random yeni not eklenir
 * Not eklendikten sonra popup daki elementlerin varlığı kontrol edilir
 
@@ -250,7 +251,7 @@ Tags:krediKartlarim_hataliKartKontrolu
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_ZorunluAlanKontrolu
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
 * Şifre Değiştir sayfasındaki zorunlu alanlar kontrol edilir
 
@@ -259,7 +260,7 @@ Tags:sifreDegistir_ZorunluAlanKontrolu
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluEskiSifreHatali
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
 * Şifre Değiştir sayfasında girilen eski şifrenin hatalı olduğu uyarısı kontrol edilir
 
@@ -268,7 +269,7 @@ Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluEskiSifreHatali
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerHatali
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
 * Şifre Değiştir sayfasında girilen yeni şifrenin farklı olduğu uyarısı kontrol edilir
 
@@ -277,7 +278,7 @@ Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerHatali
 --------------------------------------------------------------------------------
 Tags:sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
 
-* Kullanıcı ile giriş yap ve üyelik bilgilerime git
+* Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
 * Şifre Değiştir sayfasında girilen yeni şifrenin farklı olduğu uyarısı kontrol edilir
 

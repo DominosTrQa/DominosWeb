@@ -109,6 +109,9 @@
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
 * Element var mı kontrol et "notlarimYeniNotEklePopUpText"
 
+# Yeni not ekle butonuna tıklanır
+* Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
+
 # Random yeni not eklenir
 * "5" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
 * "3" saniye bekle
