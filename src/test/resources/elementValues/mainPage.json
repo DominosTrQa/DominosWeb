@@ -355,6 +355,11 @@
     "type": "xpath"
   },
   {
+    "key": "seciliAdresIleDevamEtButonilkadres",
+    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSITEM0",
+    "type": "id"
+  },
+  {
     "key": "seciliTestAdres",
     "value":"(//div[contains(text(),'test')])[1]",
     "type": "xpath"

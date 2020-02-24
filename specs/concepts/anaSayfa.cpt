@@ -101,14 +101,15 @@
 * Elementi bekle ve sonra tıkla "gelAlListelemeIlkSube"
 
 # Seçili Adres ile Devam Et butonuna basılır
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "cookiesKapatButon"
 * "3" saniye bekle
 
 # Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "seciliTestAdres"
-* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "5" saniye bekle
 

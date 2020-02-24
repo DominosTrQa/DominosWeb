@@ -51,25 +51,16 @@
 * Elementi bekle ve sonra tıkla "CaddeSokak"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "kapiNoTextbox"
-* "3" saniye bekle
 * "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
-* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
-* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
-* "3" saniye bekle
 * "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
-* Rastgele telefon no üret
-* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
-* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
-* "4" saniye bekle
-* Elementi bekle ve sonra tıkla "adresKaydetButon"
-* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adresKaydetButon2"
 
 # Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)/Adres tarifi olmadan
 * Elementi bekle ve sonra tıkla "CaddeSokak"

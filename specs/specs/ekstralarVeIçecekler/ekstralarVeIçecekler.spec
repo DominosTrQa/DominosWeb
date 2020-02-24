@@ -140,8 +140,6 @@ Ekstralar ve İçecekler
 * Sepete ekle butonlarının geldiği kontrol edilir 3
 * Ekmek Arası tabına tıklanır
 * Sepete ekle butonlarının geldiği kontrol edilir 6
-* Tavuklar tabına tıklanır
-* Sepete ekle butonlarının geldiği kontrol edilir 12
 * Tatlılar tabına tıklanır
 * Sepete ekle butonlarının geldiği kontrol edilir 2
 * Ekmekler tabına tıklanır
@@ -152,3 +150,4 @@ Ekstralar ve İçecekler
 * Sepete ekle butonlarının geldiği kontrol edilir 23
 * Soslar tabına tıklanır
 * Sepete ekle butonlarının geldiği kontrol edilir 5
+* Tavuklar tabına tıklanır

@@ -1,6 +1,7 @@
 Adres Ekleme
 =============
 
+
 Adres Ekleme Senaryo/Üye Olunarak/Siparis tamamlanir
 ---------------------------------------------------
 tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
@@ -109,7 +110,7 @@ tags:KayıtlıAdresGüncelle
 * Profilim butonuna tıklanır
 * İlk adres düzenleye tıklanır
 * Adres Güncellenir
-* Güncelle butonu
+* Güncelle butonuna tıklanır
 
 
 Adres Ekleme/Kontrol

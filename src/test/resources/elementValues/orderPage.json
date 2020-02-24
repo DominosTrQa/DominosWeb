@@ -51,8 +51,8 @@
   },
   {
     "key": "siparisSayfasıseciliAdresIleDevamEtButon",
-    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO blmbQq']",
-    "type": "xpath"
+    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_SELECTADDRESS",
+    "type": "id"
   },
   {
     "key": "adresEkleButon",
