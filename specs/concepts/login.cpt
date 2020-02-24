@@ -120,7 +120,7 @@
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 
-# Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+# Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
@@ -230,9 +230,9 @@
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
 # KVKK ve Ye Kazan Telefon seçilir ve üye olunur
-* Açık rıza metni KVKK işaretlenir
+* Acik riza metni KVKK isaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiTelefonCheckbox"
-* Ye kazan checkbox işaretlenir
+* ye kazan checkbox isaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanTelefonCheckbox"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
