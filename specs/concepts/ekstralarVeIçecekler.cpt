@@ -1,15 +1,18 @@
 
 # Sepete ekle butonlarının geldiği kontrol edilir 1
 * Element var mı kontrol et "Sepete_Ekle_1button"
+* "2" saniye bekle
 
 # Sepete ekle butonlarının geldiği kontrol edilir 2
 * Element var mı kontrol et "Sepete_Ekle_1button"
 * Element var mı kontrol et "Sepete_Ekle_2button"
+* "2" saniye bekle
 
 # Sepete ekle butonlarının geldiği kontrol edilir 3
 * Element var mı kontrol et "Sepete_Ekle_1button"
 * Element var mı kontrol et "Sepete_Ekle_2button"
 * Element var mı kontrol et "Sepete_Ekle_3button"
+* "2" saniye bekle
 
 # Sepete ekle butonlarının geldiği kontrol edilir 5
 * Element var mı kontrol et "Sepete_Ekle_1button"
@@ -17,6 +20,7 @@
 * Element var mı kontrol et "Sepete_Ekle_3button"
 * Element var mı kontrol et "Sepete_Ekle_4button"
 * Element var mı kontrol et "Sepete_Ekle_5button"
+* "2" saniye bekle
 
 # Sepete ekle butonlarının geldiği kontrol edilir 6
 * Element var mı kontrol et "Sepete_Ekle_1button"
@@ -25,6 +29,7 @@
 * Element var mı kontrol et "Sepete_Ekle_4button"
 * Element var mı kontrol et "Sepete_Ekle_5button"
 * Element var mı kontrol et "Sepete_Ekle_6button"
+* "2" saniye bekle
 
 # Sepete ekle butonlarının geldiği kontrol edilir 12
 * Element var mı kontrol et "Sepete_Ekle_1button"
@@ -32,6 +37,7 @@
 * Element var mı kontrol et "Sepete_Ekle_3button"
 * Element var mı kontrol et "Sepete_Ekle_4button"
 * Element var mı kontrol et "Sepete_Ekle_5button"
+* "1" saniye bekle
 * Element var mı kontrol et "Sepete_Ekle_6button"
 * Element var mı kontrol et "Sepete_Ekle_7button"
 * Element var mı kontrol et "Sepete_Ekle_8button"
@@ -39,6 +45,7 @@
 * Element var mı kontrol et "Sepete_Ekle_10button"
 * Element var mı kontrol et "Sepete_Ekle_11button"
 * Element var mı kontrol et "Sepete_Ekle_12button"
+* "2" saniye bekle
 
 # Sepete ekle butonlarının geldiği kontrol edilir 23
 * Element var mı kontrol et "Sepete_Ekle_1button"
@@ -64,29 +71,31 @@
 * Element var mı kontrol et "Sepete_Ekle_21button"
 * Element var mı kontrol et "Sepete_Ekle_22button"
 * Element var mı kontrol et "Sepete_Ekle_23button"
+* "2" saniye bekle
 
-# İçecekler tabine tıklanır
+# İçecekler tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 
-# Dürümler tabine tıklanır
+# Dürümler tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Dürümler_Buton"
 
-# Ekmek Arası tabine tıklanır
+# Ekmek Arası tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmek_Arasi_Buton"
 
-# Tavuklar tabine tıklanır
+# Tavuklar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tavuklar_Buton"
 
-# Tatlılar tabine tıklanır
+# Tatlılar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tatlilar_Buton"
+* "2" saniye bekle
 
-# Ekmekler tabine tıklanır
+# Ekmekler tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmekler_Buton"
 
-# Salatalar tabine tıklanır
+# Salatalar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Salatalar_Buton"
 
-# Soslar tabine tıklanır
+# Soslar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Soslar_Buton"
 
 # Ekstra lezzetler sayfasının açıldığı kontrol edilir

@@ -91,8 +91,8 @@
   },
   {
     "key": "tumPizzalarBolMalzemeBolMalzemos",
-    "value":"DPE_TR_PIZZAS_TAB2_CARD3",
-    "type": "id"
+    "value":"//h4[contains(text(),'Bol Malzemos')]",
+    "type": "xpath"
   },
   {
     "key": "tumPizzalarBolMalzemeKarışık",

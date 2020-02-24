@@ -1,13 +1,10 @@
 
-
-
 # Giriş Yap butonuna basılır
 * Elementi bekle ve sonra tıkla "loginButton"
 
 # Parolamı Unuttum butonuna basılır ve textboxa mail adresi yazılır
 * Elementi bekle ve sonra tıkla "parolamıUnuttumButton"
 * "dominostest2@hotmail.com" textini "parolamıUnuttumEmailTextbox" elemente yaz
-
 
 # Şifremi Hatırlat butonunun çalıştığı kontrol edilir
 * Elementi bekle ve sonra tıkla "sifremiHatirlatButon"
@@ -51,7 +48,6 @@
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
-
 # Random mail ve telefon ile üye olunur ve iletişim kanalları seçilir
 * "Test" textini "uyeOlAdTextbox" elemente yaz
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
@@ -68,7 +64,6 @@
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanSmsCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
-
 # Kullanıcı ile giriş yap ve üyelik bilgilerime git
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -76,7 +71,6 @@
 * Seçili Adres ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
-
 
 # Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Üye ol butonuna tıklanır
@@ -88,8 +82,7 @@
 * Seçili Adres ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 
-
-# Üye olunur giriş yapılır Adrese Teslim servis tipi secilir ve üyelik bilgilerime gidilir
+# Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
@@ -100,7 +93,7 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
 
-# Üye olunur giriş yapılır  Adrese Teslim servis tipi secilir ve siparislerime gidilir
+# Üye olunur giriş yapılır, adrese Teslim servis tipi seçilir ve siparislerime gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
@@ -118,7 +111,7 @@
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 
-# Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+# Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
@@ -138,7 +131,7 @@
 * Gel Al da listelenen ilk şube seçilir
 * Seçili Şube ile Devam Et butonuna basılır
 
-# Üye olunur giriş yapılır, Adrese Teslim servis tipi seçilir ve Ye Kazana gidilir
+# Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
@@ -149,20 +142,20 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Buton"
 
-# Üye olmak icin bilgiler girilir
+# Üye olmak için bilgiler girilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 
-# Mesafeli satis sözlesmesi isaretlenir
+# Mesafeli satış sözleşmesi işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 
-# Acik riza metni KVKK isaretlenir
+# Açık rıza metni KVKK işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
 
-# ye kazan checkbox isaretlenir
+# Ye kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox"
 
-# ye kazan checkbox isaretlenir2
+# Ye kazan checkbox işaretlenir2
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox2"
 
 # Adrese teslim tipi seçilir
@@ -174,7 +167,7 @@
 * Elementi bekle ve sonra tıkla "CookieAccept"
 * "3" saniye bekle
 
-# üye ol
+# Üye ol
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
@@ -204,7 +197,7 @@
 * Element var mı kontrol et "uyeOlSayfasiYeKazanSmsCheckbox"
 * Element var mı kontrol et "uyeOlSayfasiYeKazanTelefonCheckbox"
 
-# Adrese Teslim ve Gel butonlarının geldiği kontrol edilir
+# Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 * Element var mı kontrol et "gelAlButon"
 * Element var mı kontrol et "adreseTeslimButon"
 
@@ -222,16 +215,16 @@
 * Element var mı kontrol et "uyeOlUyelikSozlesmesiBosBirakilamazUyariText"
 
 # KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
-* Acik riza metni KVKK isaretlenir
+* Açık rıza metni KVKK işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiEpostaCheckbox"
-* ye kazan checkbox isaretlenir
+* Ye kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
 # KVKK ve Ye Kazan Sms seçilir ve üye olunur
-* Acik riza metni KVKK isaretlenir
+* Açık rıza metni KVKK işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiSmsCheckbox"
-* ye kazan checkbox isaretlenir
+* Ye kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanSmsCheckbox"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
@@ -257,7 +250,5 @@
 * "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test2" değerini yaz
 
-
-# Güncelle butonuna tıklanır
+# Güncelle butonu
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
-

@@ -1,3 +1,4 @@
+
 # Adrese Teslim servis tipi seçilir
 * Elementin yüklenmesini bekle ve tıkla "adreseTeslimButon"
 * "3" saniye bekle
@@ -38,8 +39,6 @@
 * Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
 * "5" saniye bekle
 
-
-
 # Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"
@@ -53,7 +52,6 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "3" saniye bekle
-
 
 # Adrese Teslim servis tipi için Eyüp / Topçular adresi eklenir
 * Elementin yüklenmesini bekle ve tıkla "ilDropdown"
@@ -79,7 +77,6 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "2" saniye bekle
-
 
 # Adrese Teslim için konum ile il ilçe mahalle seçilir
 * Elementin yüklenmesini bekle ve tıkla "konum_Paylas"
@@ -150,7 +147,8 @@
 
 # Profilim başarılı açılıyor mu kontrol edilir
 * Element var mı kontrol et "Profilim"
-# Adres eklerken kalem ikonuna tıklanılır,düzenlenir,konum paylaşılır
+
+# Adres eklerken kalem ikonuna tıklanılır, düzenlenir, konum paylaşılır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
@@ -160,12 +158,11 @@
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
 
-
 # Mevcut konum seçildikten sonra kontrol edilir
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "mevcutKonumunuz"
 
-# Konum paylaştıktan sonra ok isaretine tıklanır
+# Konum paylaştıktan sonra ok işaretine tıklanır
 * Elementi bekle ve sonra tıkla "KonumpaylasOkisareti"
 
 # Ekstra Lezzetlere gidilir
@@ -181,15 +178,15 @@
 * Elementi bekle ve sonra tıkla "dominosLogo"
 * Element var mı kontrol et "profil_Menu_Buton"
 
-# Tabdeki Tüm Kampanyalar butonuna tıklanır
+# Tabdaki Tüm Kampanyalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "ustTabTumKampanyalar"
 * "2" saniye bekle
 
-# Tabdeki Tüm Pizzalar butonuna tıklanır
+# Tabdaki Tüm Pizzalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "ustTabTumPizzalar"
 * "2" saniye bekle
 
-# Tabdeki Ekstralar ve İçecekler butonuna tıklanır
+# Tabdaki Ekstralar ve İçecekler butonuna tıklanır
 * Elementi bekle ve sonra tıkla "ustTabEkstralarveIcecekler"
 * "2" saniye bekle
 
@@ -209,8 +206,6 @@
 * Element var mı kontrol et "dominosLogo"
 * Element var mı kontrol et "Anasayfa_Adrese_Teslim_Button"
 * Element var mı kontrol et "Anasayfa_Adres_Degisikligi_Button"
-* Element var mı kontrol et "loginButon"
-* Element var mı kontrol et "sepetimButon"
 * Element var mı kontrol et "Anasayfa_Gorsel_Sol_Ok_Button"
 * "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button" alanına js ile kaydır
 * Element var mı kontrol et "tümKampanyalarButon"
@@ -236,7 +231,7 @@
 # Promosyon Kodu butonuna tıklanır
 * Elementi bekle ve sonra tıkla "Anasayfa_Promosyon_Kodu_Button"
 
-# Üye değilken Promosyon Kodu pop up kontrol edilir
+# Üye değilken Promosyon Kodu popup kontrol edilir
 * Elementi bekle ve sonra tıkla "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown"
 * Element var mı kontrol et "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown"
 * Element var mı kontrol et "Anasayfa_Promosyon_Promosyon_Kodu_Textbox"
@@ -249,7 +244,6 @@
 * Element var mı kontrol et "Anasayfa_Adrese_Teslim_Button"
 * Element var mı kontrol et "Anasayfa_Adres_Degisikligi_Button"
 * Element var mı kontrol et "profil_Menu_Buton"
-* Element var mı kontrol et "sepetimButon"
 * Element var mı kontrol et "Anasayfa_Gorsel_Sol_Ok_Button"
 * "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button" alanına js ile kaydır
 * Element var mı kontrol et "tümKampanyalarButon"
@@ -307,14 +301,12 @@
 * Element var mı kontrol et "subeyeOzelAcikKapaliBilgisi"
 * Element var mı kontrol et "subeyeOzelYolTarifiAlButon"
 
-
 # Şubeye Özel sayfasındaki Tüm Kampanyalar butonunun çalıştığı kontrol edilir
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
 * "subeyeOzelTumKampanyalarButon" alanına js ile kaydır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "subeyeOzelTumKampanyalarButon"
 * "sayfaBasligi" elementi "Tüm Kampanyalar" değerini içeriyor mu kontrol et
-
 
 # Şubeye Özel sayfasından gidilen Şubeyi Değişitir sayfasındaki elementler kontrol edilir
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
@@ -328,8 +320,7 @@
 * Element var mı kontrol et "subeyeOzelSubeyiDegistirIlSecimAlani"
 * Element var mı kontrol et "subeyeOzelSubeyiDegistirIlSecimiYapinText"
 
-
-# Şubeyi Değişitir sayfasındaki şube aramanın çalıştığı kontrol edilir
+# Şubeyi Değiştir sayfasındaki şube aramanın çalıştığı kontrol edilir
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirButon"
@@ -344,8 +335,7 @@
 * "3" saniye bekle
 * "sayfaBasligi" elementi "Ayazağa" değerini içeriyor mu kontrol et
 
-
-# Şubeyi Değişitir sayfasındaki En Yakın Dominosu Bul çalıştığı kontrol edilir
+# Şubeyi Değiştir sayfasındaki En Yakın Dominosu Bul çalıştığı kontrol edilir
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirButon"
@@ -362,23 +352,3 @@
 
 # Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

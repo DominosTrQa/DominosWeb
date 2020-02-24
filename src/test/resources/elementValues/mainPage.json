@@ -166,8 +166,8 @@
   },
   {
     "key": "Anasayfa_Kontrol",
-    "value":"//div[@class='styled__ServiceTypeStaticTitle-sc-1akju1v-3 jmrCDC']",
-    "type": "xpath"
+    "value":"DPE_TR_TAB_BUTTON0",
+    "type": "id"
   },
   {
     "key": "Anasayfa_Adrese_Teslim_Button",

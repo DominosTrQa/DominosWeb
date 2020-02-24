@@ -1,9 +1,11 @@
 Tüm Kampanyalar
 =====================
 
+
 Tüm Kampanyalar Sayfa Kontrolü
 ------------------------
 tags:tumkampanyalarsayfakontrolü
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -18,6 +20,7 @@ tags:tumkampanyalarsayfakontrolü
 Haftanın Kampanyaları sayfa kontrolü
 -----------------------------------------
 tags:HaftaninKampanyalarisayfakontrolu
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -32,6 +35,7 @@ tags:HaftaninKampanyalarisayfakontrolu
 Tek Kişilik Kampanyalar sayfa kontrolü
 ---------------------------------------------
 tags:TekKisilikKampanyalarsayfakontrolu
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -43,10 +47,10 @@ tags:TekKisilikKampanyalarsayfakontrolu
 * Tek Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 
 
-
 2-3 Kişilik Kampanyalar sayfa kontrolü
 ----------------------------------------
 tags:ikiUcKisilikKampanyalarsayfakontrolu
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -61,6 +65,7 @@ tags:ikiUcKisilikKampanyalarsayfakontrolu
 4 Kişi ve üzeri kampanyalar sayfa kontrolü
 ----------------------------------------------------
 tags:4Kisiveuzerikampanyalarsayfakontrolu
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -75,6 +80,7 @@ tags:4Kisiveuzerikampanyalarsayfakontrolu
 Gel Al Haftanın Kampanyaları sayfa kontrolü
 --------------------------------------------
 tags:GelAlHaftaninKampanyalarisayfakontrolu
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -89,6 +95,7 @@ tags:GelAlHaftaninKampanyalarisayfakontrolu
 Üst Bar Sayfalar arası geçiş kontrolü
 --------------------------------------
 tags:ÜstBarSayfalararasigeciskontrolu
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -103,6 +110,7 @@ tags:ÜstBarSayfalararasigeciskontrolu
 Üst Bar Profilim popup başarılı açılıyor mu kontrolü
 --------------------------------------------------
 tags:UstBarProfilimpopupbasariliaciliyormukontrolu
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -115,6 +123,7 @@ tags:UstBarProfilimpopupbasariliaciliyormukontrolu
 Üst Bar Sepetim popup başarılı açılıyor mı kontrolü
 --------------------------------------------------
 tags:UstBarSepetimpopupbaşarılı çılıyormıkontrolu
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -127,6 +136,7 @@ tags:UstBarSepetimpopupbaşarılı çılıyormıkontrolu
 Her tab da Sipariş Ver buton kontrolü
 --------------------------------------
 tags:HertabdaSiparisVerbutonkontrolu
+
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır

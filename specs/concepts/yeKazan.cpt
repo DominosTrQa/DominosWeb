@@ -1,5 +1,4 @@
 
-
 # Ye Kazan sayfası kontrol edilir
 * Element var mı kontrol et "Ye_Kazan_Dominos_Ye_Kazan_Text"
 
@@ -29,5 +28,5 @@
 # Ye Kazan Sıkça Sorulan Sorular kontrol edilir
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Sıkca_Sorulan_Sorular_Text"
 
-# Ye Kazan Sıkça Sorulan Sorulardab biri kontrol edilir
+# Ye Kazan Sıkça Sorulan Sorulardan biri kontrol edilir
 * Element var mı kontrol et "Ye_Kazan_Sikca_Sorulan_Sorulardan_Biri_Linktext"

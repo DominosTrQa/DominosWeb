@@ -1,5 +1,4 @@
 
-
 # Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No Manuel)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
@@ -34,22 +33,6 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 
 
-
-# Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)/Giris Yapılmadan
-* Elementi bekle ve sonra tıkla "CaddeSokak"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "kapiNoTextbox"
-* "kapiNoTextbox" li elementi bul, temizle ve "20" değerini yaz
-* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
-* Elementi bekle ve sonra tıkla "daireTextbox"
-* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
-* Rastgele telefon no üret
-* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* Telefon noyu "adresSayfasiTelefonTextbox" elementine yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
-
 # Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No Manuel)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
@@ -60,7 +43,6 @@
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
 * "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
 * "5" saniye bekle
-* Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
@@ -112,7 +94,6 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 * "2" saniye bekle
-
 
 # Adres bilgileri tamamlanır(Liste - üye)
 * "3" saniye bekle
@@ -174,18 +155,18 @@
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-#Üye olan kullanıcı için siparişi tamamla
+#Üye olan kullanıcı için siparişi tamamlanır
 * "3" saniye bekle
 * "odemeMesafeliSatisSozelesmesiCheckbox" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
  Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
 
-#Üye olan kullanıcı için Gel Al şubesi seç
+#Üye olan kullanıcı için Gel Al şubesi seçilir
 * "5" saniye bekle
 * "uyeOlanMusteriharitadanSubeSecDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "uyeOlanMusteriharitadanSubeSecDevamButon"
 
-#Üye olmayan kullanıcı için Gel Al şubesi seç
+#Üye olmayan kullanıcı için Gel Al şubesi seçilir
 * "5" saniye bekle
 * "uyeOlmayanMusteriHaritadanSubeSecDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "uyeOlmayanMusteriHaritadanSubeSecDevamButon"
@@ -227,7 +208,7 @@
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "OdemeyiTamamla"
 
-# Adres düzenle butonuna tiklanir
+# Adres düzenle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "AdresDüzenleButon"
 * "2" saniye bekle
 
