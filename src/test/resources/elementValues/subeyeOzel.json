@@ -123,5 +123,15 @@
     "key": "subeyeOzelSubeyiDegistirSecilenIlceSarıyer",
     "value":"//a[contains(text(),'Sarıyer')][1]",
     "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelFırsatlarButonGelAl",
+    "value":"DPE_TR_CAMPAIGNS_TAB4",
+    "type": "id"
+  },
+  {
+    "key": "subeyeOzelFırsatlarButon",
+    "value":"DPE_TR_CAMPAIGNS_TAB0",
+    "type": "id"
   }
 ]

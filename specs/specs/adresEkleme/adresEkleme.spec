@@ -39,7 +39,7 @@ tags:AdresEklemeGirisYapılmadan
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
+* Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)/Giris Yapılmadan
 
 
 Adres Ekleme/Konum Paylasarak
@@ -109,7 +109,7 @@ tags:KayıtlıAdresGüncelle
 * Profilim butonuna tıklanır
 * İlk adres düzenleye tıklanır
 * Adres Güncellenir
-* Güncelle butonu
+* Güncelle butonuna tıklanır
 
 
 Adres Ekleme/Kontrol

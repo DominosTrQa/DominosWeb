@@ -164,6 +164,25 @@ public class BaseSteps extends BaseTest {
     clickElement(key);
   }
 
+  @Step({"Elementini bekle ve hemen tıkla <key>"})
+  public void hemenTikla(String key){
+    WebElement webElement;
+    int loopCount = 0;
+    while (loopCount < DEFAULT_MAX_ITERATION_COUNT) {
+      try {
+        webElement = findElementWithKey(key);
+        clickElement(webElement);
+        logger.info(key + " elementine tıklandı.");
+        return;
+      } catch (WebDriverException e) {
+      }
+      loopCount++;
+      waitByMilliSeconds(DEFAULT_MILLISECOND_WAIT_AMOUNT);
+    }
+    Assert.fail("Element: '" + key + "' doesn't exist.");
+    return;
+  }
+
   @Step({"Click to element <key>",
           "Elementine tıkla <key>"})
   public void clickElement(String key){

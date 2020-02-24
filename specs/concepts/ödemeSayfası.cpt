@@ -32,6 +32,7 @@
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 
+
 # Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No Manuel)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
@@ -64,8 +65,8 @@
 * "3" saniye bekle
 * "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
 * Rastgele telefon no üret
-* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
-* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* Telefon noyu "adresSayfasiTelefonTextbox" elementine yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon"

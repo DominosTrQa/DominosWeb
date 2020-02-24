@@ -1,8 +1,8 @@
 [
   {
     "key": "3al1OdeKampanyasi",
-    "value":"(//div[contains(text(),'3 Al 1 Öde')])[1]",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB0_CARD0",
+    "type": "id"
   },
   {
     "key": "siparisSecinizDropdown",
