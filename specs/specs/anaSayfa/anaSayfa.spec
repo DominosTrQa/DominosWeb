@@ -6,7 +6,7 @@ AnaSayfa
 ------------------------------------------------------------
  Tags:anasayfa_uyeDegilkenButonlarinkontrolu
 
-* Üye olmadan anasayfaya devam et
+* Üye olmadan anasayfaya devam edilir
 * Üye değilken anasayfadaki butonların geldiği kontrol edilir
 
 
@@ -14,7 +14,7 @@ AnaSayfa
 ----------------------------------------------
  Tags:anasayfa_UyeDegilkenyazilarinKontrolu
 
-* Üye olmadan anasayfaya devam et
+* Üye olmadan anasayfaya devam edilir
 * Üye değilken anasayfadaki yazıların geldiği kontrol edilir
 
 
@@ -22,7 +22,7 @@ AnaSayfa
 ------------------------------------------------------------------------------
  Tags:anasayfa_uyeDegilkenPromosyonKoduAcilirPopupKontrolu
 
-* Üye olmadan anasayfaya devam et
+* Üye olmadan anasayfaya devam edilir
 * Promosyon Kodu butonuna tıklanır
 * Üye değilken Promosyon Kodu popup kontrol edilir
 
@@ -31,7 +31,7 @@ AnaSayfa
 --------------------------------------------------------------------------
  Tags:anasayfa_uyeDegilkenPizzaTakipAcilirPopupKontrolu
 
-* Üye olmadan anasayfaya devam et
+* Üye olmadan anasayfaya devam edilir
 * Pizza Takip butonuna tıklanır
 * Üye değilken Pizza takip popup elementleri kontrol edilir
 

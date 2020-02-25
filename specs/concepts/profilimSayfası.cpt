@@ -195,3 +195,6 @@
 * "123456Do" textini "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sifre_Degistir_Degistir_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Aynı_Sifre_Olamaz_Popup_Text"
+
+# Adreslerim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "AdreslerimButonunaTıklanır"
