@@ -2,9 +2,9 @@ Sipariş İşlemleri
 =====================
 
 
-Tek Sube Hizmet Veren Adres/Manuel
+Sipariş İşlemleri - Tek Sube Hizmet Veren Adres - Manuel
 ---------------------------------
-tags:TekSubeHizmetVerenAdresManuel
+tags:siparisIslemleri_TekSubeHizmetVerenAdresManuel
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -22,13 +22,13 @@ tags:TekSubeHizmetVerenAdresManuel
 * Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
- Sipariş tamamlanır
- Siparişin oluştuğu kontrol edilir
+* Sipariş tamamlanır
+* Siparişin oluştuğu kontrol edilir
 
 
-Tek Sube Hizmet Veren Adres/Dropdown
+Sipariş İşlemleri - Tek Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
-tags:TekSubeHizmetVerenAdresDropdown
+tags:siparisIslemleri_TekSubeHizmetVerenAdresDropdown
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -46,13 +46,13 @@ tags:TekSubeHizmetVerenAdresDropdown
 * Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
- Sipariş tamamlanır
- Siparişin oluştuğu kontrol edilir
+* Sipariş tamamlanır
+* Siparişin oluştuğu kontrol edilir
 
 
-İki Sube Hizmet Veren Adres Manuel
+Sipariş İşlemleri - İki Sube Hizmet Veren Adres Manuel
 ---------------------------
-tags:IkiSubeHizmetVerenAdresManuel
+tags:siparisIslemleri_IkiSubeHizmetVerenAdresManuel
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -70,13 +70,13 @@ tags:IkiSubeHizmetVerenAdresManuel
 * Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
- Sipariş tamamlanır
- Siparişin oluştuğu kontrol edilir
+* Sipariş tamamlanır
+* Siparişin oluştuğu kontrol edilir
 
 
-Iki Sube Hizmet Veren Adres/Dropdown
+Sipariş İşlemleri - Iki Sube Hizmet Veren Adres - Dropdown
 ------------------------------------
-tags:IkiSubeHizmetVerenAdresDropdown
+tags:siparisIslemleri_IkiSubeHizmetVerenAdresDropdown
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -94,5 +94,5 @@ tags:IkiSubeHizmetVerenAdresDropdown
 * Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
- Sipariş tamamlanır
- Siparişin oluştuğu kontrol edilir
+* Sipariş tamamlanır
+* Siparişin oluştuğu kontrol edilir

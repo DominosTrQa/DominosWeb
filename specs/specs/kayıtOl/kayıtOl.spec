@@ -2,45 +2,45 @@ Kayıt Ol
 =========
 
 
-Register/Eposta
+KayıtOl - Eposta
 ----------------
-tags:Register/Eposta
+tags:kayıtOl_Eposta
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
 * KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
 
 
-Register/SMS
+KayıtOl - SMS
 -------------
-tags:Register/SMS
+tags:kayıtOl_SMS
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
 * KVKK ve Ye Kazan Sms seçilir ve üye olunur
 
 
-Register/Telefon
+KayıtOl - Telefon
 ----------------
-tags:Register/Telefon
+tags:kayıtOl_Telefon
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
 * KVKK ve Ye Kazan Telefon seçilir ve üye olunur
 
 
-Register/SadeceMesafeliSatisSözlesmesiIsaretlenir
+KayıtOl - SadeceMesafeliSatisSözlesmesiIsaretlenir
 -------------------------------------------------
-tags:Register/SadeceMesafeliSatisSözlesmesiIsaretlenir
+tags:kayıtOl_SadeceMesafeliSatisSözlesmesiIsaretlenir
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
 
-Register/SadeceYeKazanSözlesmesiIsaretlenmez
+KayıtOl - SadeceYeKazanSözlesmesiIsaretlenmez
 ---------------------------------------------
-tags:Register/SadeceYeKazanSözlesmesiIsaretlenmez
+tags:kayıtOl_SadeceYeKazanSözlesmesiIsaretlenmez
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -50,9 +50,9 @@ tags:Register/SadeceYeKazanSözlesmesiIsaretlenmez
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
 
-Register/SadeceKVKKSözlesmesiIsaretlenmez
+KayıtOl - SadeceKVKKSözlesmesiIsaretlenmez
 ------------------------------------------
-tags:Register/SadeceKVKKSözlesmesiIsaretlenmez
+tags:kayıtOl_SadeceKVKKSözlesmesiIsaretlenmez
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir

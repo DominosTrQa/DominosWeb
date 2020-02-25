@@ -4,7 +4,7 @@ Fırsat Ekleme
 
 Fırsat Ekleme - Adrese Teslim - Anasayfadaki Fırsatı Seçme
 -----------------------------------------------------------
-Tags:firsatEklemeAdreseTeslimAnasayfadakiFirsatiSecme
+Tags:fırsatEkleme_AdreseTeslimAnasayfadakiFirsatiSecme
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfadaki 2 orta boy pizza fırsatına tıklanır
@@ -16,7 +16,7 @@ Tags:firsatEklemeAdreseTeslimAnasayfadakiFirsatiSecme
 
 Fırsat Ekleme - Adrese Teslim - Tüm Kampanyalar Kısmından
 ----------------------------------------------------------
-Tags:firsatEklemeAdreseTeslimTumKampanyalarKismindan
+Tags:fırsatEkleme_AdreseTeslimTumKampanyalarKismindan
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -31,7 +31,7 @@ Tags:firsatEklemeAdreseTeslimTumKampanyalarKismindan
 
 Fırsat Ekleme - Adrese Teslim - Tüm Kampanyalar Kısmından - Pizzanı Düzenle
 ----------------------------------------------------------------------------
-Tags:firsatEklemeAdreseTeslimTumKampanyalarKismindanPizzaniDuzenle
+Tags:fırsatEkleme_AdreseTeslimTumKampanyalarKismindanPizzaniDuzenle
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -46,7 +46,7 @@ Tags:firsatEklemeAdreseTeslimTumKampanyalarKismindanPizzaniDuzenle
 
 Fırsat Ekleme - Adrese Teslim - Şubeye Özel Kısmından
 ------------------------------------------------------
-Tags:firsatEklemeAdreseTeslimSubeyeOzelKismindan
+Tags:fırsatEkleme_AdreseTeslimSubeyeOzelKismindan
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
@@ -55,7 +55,7 @@ Tags:firsatEklemeAdreseTeslimSubeyeOzelKismindan
 
 Fırsat Ekleme - Adrese Teslim - Şubeye Özel Kısmından - Pizzanı Düzenle
 -----------------------------------------------------------------------
-Tags:firsatEklemeAdreseTeslimSubeyeOzelKismindan
+Tags:fırsatEkleme_AdreseTeslimSubeyeOzelKismindan
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
@@ -69,7 +69,7 @@ Tags:firsatEklemeAdreseTeslimSubeyeOzelKismindan
 
 Fırsat Ekleme - Gel Al - Tüm Kampanyalar Kısmından
 ---------------------------------------------------
-Tags:firsatEklemeGelAlTumKampanyalarKismindan
+Tags:fırsatEkleme_GelAlTumKampanyalarKismindan
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -84,7 +84,7 @@ Tags:firsatEklemeGelAlTumKampanyalarKismindan
 
 Fırsat Ekleme - Gel Al - Tüm Kampanyalar Kısmından - Pizzanı Düzenle
 ---------------------------------------------------------------------
-Tags:firsatEklemeGelAlTumKampanyalarKismindanPizzaniDuzenle
+Tags:fırsatEkleme_GelAlTumKampanyalarKismindanPizzaniDuzenle
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -99,7 +99,7 @@ Tags:firsatEklemeGelAlTumKampanyalarKismindanPizzaniDuzenle
 
 Fırsat Ekleme - Gel Al - Şubeye Özel Kısmından- Pizzanı Düzenle
 ----------------------------------------------------------------
-Tags:firsatEklemeGelAlSubeyeOzelKismindanPizzaniDuzenle
+Tags:fırsatEkleme_GelAlSubeyeOzelKismindanPizzaniDuzenle
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
@@ -113,7 +113,7 @@ Tags:firsatEklemeGelAlSubeyeOzelKismindanPizzaniDuzenle
 
 Fırsat Ekleme - Gel Al- Şubeye Özel Kısmından
 ----------------------------------------------
-Tags:firsatEklemeGelAlSubeyeOzelKismindan
+Tags:fırsatEkleme_GelAlSubeyeOzelKismindan
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
