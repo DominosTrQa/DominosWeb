@@ -137,17 +137,17 @@ Anasayfa - Ekstralar ve İçecekler - Her Tabda Sepete Ekle Buton Kontrolü
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
 * Dürümler tabına tıklanır
-* Sepete ekle butonlarının geldiği kontrol edilir 3
+* Dürümler ekranı kontrol edilir
 * Ekmek Arası tabına tıklanır
-* Sepete ekle butonlarının geldiği kontrol edilir 6
+* Ekmek Arası ekranı kontrol edilir
 * Tatlılar tabına tıklanır
 * Sepete ekle butonlarının geldiği kontrol edilir 2
 * Ekmekler tabına tıklanır
 * Sepete ekle butonlarının geldiği kontrol edilir 2
 * Salatalar tabına tıklanır
-* Sepete ekle butonlarının geldiği kontrol edilir 1
+* Salatalar ekranı kontrol edilir
 * İçecekler tabına tıklanır
-* Sepete ekle butonlarının geldiği kontrol edilir 23
+* İçecekler ekranı kontrol edilir
 * Soslar tabına tıklanır
 * Sepete ekle butonlarının geldiği kontrol edilir 5
 * Tavuklar tabına tıklanır
