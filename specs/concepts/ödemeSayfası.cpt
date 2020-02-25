@@ -66,24 +66,15 @@
 * Elementi bekle ve sonra tıkla "CaddeSokak"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "kapiNoTextbox"
-* "3" saniye bekle
 * "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
-* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
-* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
-* "3" saniye bekle
 * "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
 * "5" saniye bekle
-* Elementin yüklenmesini bekle ve tıkla "adresSayfasiTelefonTextbox"
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "adresKaydetButon"
-* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adresKaydetButon2"
 
 # Adres bilgileri tamamlanır(Liste - üye)
 * "3" saniye bekle
@@ -107,6 +98,22 @@
 * Elementi bekle ve sonra tıkla "ilkKayitliAdres"
 * "siparisSayfasıseciliAdresIleDevamEtButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
+
+# Sarıyer - Pınar adres bilgileri tamamlanır
+* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "sokakKelebekSokak"
+* "245" textini "kapiNoTextbox" elemente yaz
+* "1" textini "daireTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* "2" saniye bekle
+* Element var mı kontrol et "alanlariBosBirakamazsinizText"
+* "ofis" textini "adresAdiTextbox" elemente yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "3" saniye bekle
 
 # Adres Ekle
 * Elementi bekle ve sonra tıkla "ilDropdown2"
@@ -216,3 +223,9 @@
 
 # Seçili adres silinir
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
+
+# Tabdaki Tüm Kampanyalar butonuna tıklanır
+* Elementi bekle ve sonra tıkla "TümKampanyalar"
+
+# Seçili adres ile devam edilir
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButonilkadres"

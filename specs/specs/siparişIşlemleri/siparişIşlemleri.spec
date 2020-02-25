@@ -22,8 +22,8 @@ tags:TekSubeHizmetVerenAdresManuel
 * Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
-* Sipariş tamamlanır
-* Siparişin oluştuğu kontrol edilir
+ Sipariş tamamlanır
+ Siparişin oluştuğu kontrol edilir
 
 
 Tek Sube Hizmet Veren Adres/Dropdown
@@ -46,8 +46,8 @@ tags:TekSubeHizmetVerenAdresDropdown
 * Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
-* Sipariş tamamlanır
-* Siparişin oluştuğu kontrol edilir
+ Sipariş tamamlanır
+ Siparişin oluştuğu kontrol edilir
 
 
 İki Sube Hizmet Veren Adres Manuel
@@ -70,8 +70,8 @@ tags:IkiSubeHizmetVerenAdresManuel
 * Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
-* Sipariş tamamlanır
-* Siparişin oluştuğu kontrol edilir
+ Sipariş tamamlanır
+ Siparişin oluştuğu kontrol edilir
 
 
 Iki Sube Hizmet Veren Adres/Dropdown
@@ -94,5 +94,5 @@ tags:IkiSubeHizmetVerenAdresDropdown
 * Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
-* Sipariş tamamlanır
-* Siparişin oluştuğu kontrol edilir
+ Sipariş tamamlanır
+ Siparişin oluştuğu kontrol edilir

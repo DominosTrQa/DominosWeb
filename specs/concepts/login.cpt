@@ -155,9 +155,6 @@
 # Ye kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox"
 
-# Ye kazan checkbox işaretlenir2
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox2"
-
 # Adrese teslim tipi seçilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
@@ -232,10 +229,16 @@
 # KVKK ve Ye Kazan Telefon seçilir ve üye olunur
 * Açık rıza metni KVKK işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiTelefonCheckbox"
-* Ye kazan checkbox işaretlenir
+* Ye Kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanTelefonCheckbox"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+
+# Açık rıza metni KVKK işaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
+
+# Ye Kazan checkbox işaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasisuccessYeKazanCheckbox"
 
 # Adres Güncellenir
 * Elementi bekle ve sonra tıkla "caddeDropdown2"
@@ -252,3 +255,6 @@
 
 # Güncelle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
+
+# Tabdaki Tüm Kampanyalar butonuna tıklanır
+* Elementi bekle ve sonra tıkla "tabtümkampanyalar"

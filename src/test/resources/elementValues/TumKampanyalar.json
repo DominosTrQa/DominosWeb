@@ -108,5 +108,10 @@
     "key": "GelAlHaftaninKampanyalariSiparisKontrol",
     "value":"/html//div[@id='root']/div/div[4]/div[3]//div[@class='react-swipeable-view-container']/div[5]//div[.='Sipariş Ver']",
     "type": "xpath"
+  },
+  {
+    "key": "tabtümkampanyalar",
+    "value":"DPE_TR_HOME_BUTTON_CAMPAIGNS",
+    "type": "id"
   }
 ]
