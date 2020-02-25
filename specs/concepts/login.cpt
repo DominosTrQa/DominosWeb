@@ -234,9 +234,6 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
-# Açık rıza metni KVKK işaretlenir
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
-
 # Ye Kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasisuccessYeKazanCheckbox"
 
@@ -255,6 +252,3 @@
 
 # Güncelle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
-
-# Tabdaki Tüm Kampanyalar butonuna tıklanır
-* Elementi bekle ve sonra tıkla "tabtümkampanyalar"

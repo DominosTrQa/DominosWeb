@@ -224,8 +224,5 @@
 # Seçili adres silinir
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
 
-# Tabdaki Tüm Kampanyalar butonuna tıklanır
-* Elementi bekle ve sonra tıkla "TümKampanyalar"
-
 # Seçili adres ile devam edilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButonilkadres"
