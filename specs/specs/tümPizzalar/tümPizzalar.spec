@@ -6,7 +6,7 @@ Tüm Pizzalar
 ----------------
 Tags:anaSayfaTumPizzalar_sayfaKontrolu
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Tüm Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
@@ -16,7 +16,7 @@ Tags:anaSayfaTumPizzalar_sayfaKontrolu
 ----------------
 Tags:anaSayfaTumPizzalar_cazipPizzalarSayfaKontrolu
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Cazip Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * Sipariş Ver butonlarının geldiği kontrol edilir 3
@@ -27,7 +27,7 @@ Tags:anaSayfaTumPizzalar_cazipPizzalarSayfaKontrolu
 ----------------
 Tags:anaSayfaTumPizzalar_ozelPizzalarSayfaKontrolu
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Özel Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * Sipariş Ver butonlarının geldiği kontrol edilir 4
@@ -38,7 +38,7 @@ Tags:anaSayfaTumPizzalar_ozelPizzalarSayfaKontrolu
 ----------------
 Tags:anaSayfaTumPizzalar_bolMalzemePizzalarSayfaKontrolu
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * Sipariş Ver butonlarının geldiği kontrol edilir 6
@@ -49,7 +49,7 @@ Tags:anaSayfaTumPizzalar_bolMalzemePizzalarSayfaKontrolu
 ----------------
 Tags:anaSayfaTumPizzalar_gurmePizzalarSayfaKontrolu
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Gurme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * Sipariş Ver butonlarının geldiği kontrol edilir 6
@@ -60,7 +60,7 @@ Tags:anaSayfaTumPizzalar_gurmePizzalarSayfaKontrolu
 ----------------
 Tags:anaSayfaTumPizzalar_ustBarSayfalarArasiGecisKontrolu
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Tüm Pizzalar sayfasındayken üst bar sayfalar arası geçiş kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
@@ -70,7 +70,7 @@ Tags:anaSayfaTumPizzalar_ustBarSayfalarArasiGecisKontrolu
 ----------------
 Tags:anaSayfaTumPizzalar_ustBarProfilimPopupBasariliAciliyormuKontrol
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Profilim butonuna tıklanır
 * Üyelik bilgilerim butonuna tıklanır
@@ -80,7 +80,7 @@ Tags:anaSayfaTumPizzalar_ustBarProfilimPopupBasariliAciliyormuKontrol
 ----------------
 Tags:anaSayfaTumPizzalar_ustBarSepetimPopupBasariliAciliyormuKontrol
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Tüm Pizzalar sayfasındayken Sepetim popup açılıyor mu kontrol edilir
 
@@ -89,7 +89,7 @@ Tags:anaSayfaTumPizzalar_ustBarSepetimPopupBasariliAciliyormuKontrol
 ----------------
 Tags:anaSayfaTumPizzalar_altBarYazilariDogruGeliyormuKontrolu
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Alt Bardaki elementlerinin geldiği kontrol edilir
 
@@ -98,7 +98,7 @@ Tags:anaSayfaTumPizzalar_altBarYazilariDogruGeliyormuKontrolu
 ---------------------------------------------------------------------
 Tags:anaSayfaTumPizzalar_herTabdaSiparisVerButonKontrolu
 
-* Üye olunur, gel al servis tipi seçilir ve anasayfaya gidilir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Sipariş Ver butonlarının geldiği kontrol edilir 3
 * Sağ ok butonuna tıklanır
