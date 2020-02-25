@@ -6,7 +6,7 @@ Fırsat Ekleme - Adrese Teslim - Anasayfadaki Fırsatı Seçme
 -----------------------------------------------------------
 Tags:firsatEklemeAdreseTeslimAnasayfadakiFirsatiSecme
 
-* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfadaki 2 orta boy pizza fırsatına tıklanır
 * 2 orta boy kampanyası için sipariş oluşturulur
 * Fırsat ürünleri seçildikten sonra sepete eklenir/ Gel Al
@@ -18,7 +18,7 @@ Fırsat Ekleme - Adrese Teslim - Tüm Kampanyalar Kısmından
 ----------------------------------------------------------
 Tags:firsatEklemeAdreseTeslimTumKampanyalarKismindan
 
-* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tabdeki Tüm Kampanyalar butonuna tıklanır
 * Haftanın kampanyalarına tıklanır/ Adrese teslim
@@ -33,7 +33,7 @@ Fırsat Ekleme - Adrese Teslim - Tüm Kampanyalar Kısmından - Pizzanı Düzenl
 ----------------------------------------------------------------------------
 Tags:firsatEklemeAdreseTeslimTumKampanyalarKismindanPizzaniDuzenle
 
-* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tabdeki Tüm Kampanyalar butonuna tıklanır
 * Haftanın kampanyalarına tıklanır/ Adrese teslim
@@ -48,7 +48,7 @@ Fırsat Ekleme - Adrese Teslim - Şubeye Özel Kısmından
 ------------------------------------------------------
 Tags:firsatEklemeAdreseTeslimSubeyeOzelKismindan
 
-* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Şubeye özel fırsatlara tıklanır
 
@@ -57,7 +57,7 @@ Fırsat Ekleme - Adrese Teslim - Şubeye Özel Kısmından - Pizzanı Düzenle
 -----------------------------------------------------------------------
 Tags:firsatEklemeAdreseTeslimSubeyeOzelKismindan
 
-* Üye olunur, Adrese Teslim servis tipi seçilir ve Anasayfaya gidilir
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Şubeye özel fırsatlara tıklanır
 * 3 al 1 öde kampanyası seçilir / Adrese teslim(tüm kampanyalardan girilir)

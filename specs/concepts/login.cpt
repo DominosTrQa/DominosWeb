@@ -155,9 +155,6 @@
 # Ye kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox"
 
-# Ye kazan checkbox işaretlenir2
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox2"
-
 # Adrese teslim tipi seçilir
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
@@ -237,6 +234,12 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
+# Acik riza metni KVKK isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiKVKKCheckbox"
+
+# ye kazan checkbox isaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanCheckbox"
+
 # Adres Güncellenir
 * Elementi bekle ve sonra tıkla "caddeDropdown2"
 * "2" saniye bekle
@@ -252,3 +255,6 @@
 
 # Güncelle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
+
+# Tabdeki Tüm Kampanyalar butonuna tıklanır
+* Elementi bekle ve sonra tıkla "tabtümkampanyalar"
