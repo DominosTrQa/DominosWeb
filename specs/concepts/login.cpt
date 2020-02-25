@@ -227,9 +227,9 @@
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
 # KVKK ve Ye Kazan Telefon seçilir ve üye olunur
-* Acik riza metni KVKK isaretlenir
+* Açık rıza metni KVKK işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiTelefonCheckbox"
-* ye kazan checkbox isaretlenir
+* Ye kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiYeKazanTelefonCheckbox"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"

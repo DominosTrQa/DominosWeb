@@ -20,7 +20,7 @@ Tags:firsatEklemeAdreseTeslimTumKampanyalarKismindan
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
-* Tabdeki Tüm Kampanyalar butonuna tıklanır
+* Tabdaki Tüm Kampanyalar butonuna tıklanır
 * Haftanın kampanyalarına tıklanır/ Adrese teslim
 * 3 al 1 öde kampanyası seçilir/ Adrese teslim
 * 3 al 1 öde kampanyası için sipariş oluşturulur
@@ -35,7 +35,7 @@ Tags:firsatEklemeAdreseTeslimTumKampanyalarKismindanPizzaniDuzenle
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
-* Tabdeki Tüm Kampanyalar butonuna tıklanır
+* Tabdaki Tüm Kampanyalar butonuna tıklanır
 * Haftanın kampanyalarına tıklanır/ Adrese teslim
 * 3 al 1 öde kampanyası seçilir/ Adrese teslim
 * 3 al 1 öde kampanyası için sipariş oluşturulur
@@ -73,7 +73,7 @@ Tags:firsatEklemeGelAlTumKampanyalarKismindan
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
-* Tabdeki Tüm Kampanyalar butonuna tıklanır
+* Tabdaki Tüm Kampanyalar butonuna tıklanır
 * Haftanın kampanyalarına gidilir/Gel Al
 * Orta boy pizzalar kampanyası seçilir/ Gel Al
 * Orta boy pizzalar kampanyası için sipariş oluşturulur
@@ -88,7 +88,7 @@ Tags:firsatEklemeGelAlTumKampanyalarKismindanPizzaniDuzenle
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
-* Tabdeki Tüm Kampanyalar butonuna tıklanır
+* Tabdaki Tüm Kampanyalar butonuna tıklanır
 * Haftanın kampanyalarına gidilir/Gel Al
 * Orta boy pizzalar kampanyası seçilir/ Gel Al
 * Orta boy pizzalar kampanyası için sipariş oluşturulur
