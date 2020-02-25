@@ -1,0 +1,33 @@
+
+
+# Pizza boyutu tek kişilik seçilir
+* Elementi bekle ve sonra tıkla "pizzaboyututekkisilik"
+
+# Kenar tipi sarımsak kenar seçilir
+* Elementi bekle ve sonra tıkla "pizzakenarısarımsakkenar"
+
+# Acılı istiyorum seçeneğine tıklanır
+* Elementi bekle ve sonra tıkla "acılıistiyorumbutonu"
+
+# Mozarella peyniri çıkarılır
+* Elementi bekle ve sonra tıkla "mozarellaPeyniri"
+
+# Pizza sos çıkarılır
+* Elementi bekle ve sonra tıkla "pizzaSos"
+
+# Seçiniz butonuna tıklanır
+* Elementi bekle ve sonra tıkla "secinizButonu"
+
+# Ekstra malzemeler eklenir
+* Seçiniz butonuna tıklanır
+* Pizza sos çıkarılır
+* Seçiniz butonuna tıklanır
+
+# Pizza sos eklenir
+* Elementi bekle ve sonra tıkla "Pizzasoseklenir"
+
+# Sos tercihi acı sos seçilir
+* Elementi bekle ve sonra tıkla "acısosTercihi"
+
+# pizza sepete eklenir
+* Elementi bekle ve sonra tıkla "pizzasepeteekle"
