@@ -105,6 +105,86 @@
     "type": "id"
   },
   {
+    "key": "Tavuklar_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton3",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton4",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD3",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton5",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD4",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton6",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD5",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton7",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD6",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton8",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD7",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton9",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD8",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton10",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD9",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton11",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD10",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton12",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD11",
+    "type": "id"
+  },
+  {
+    "key": "Tatlilar_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB3_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Tatlilar_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB3_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "Ekmekler_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB4_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Ekmekler_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB4_CARD1",
+    "type": "id"
+  },
+  {
     "key": "Salatalar_Buton1",
     "value":"DPE_TR_SIDEPRODUCTS_TAB5_CARD0",
     "type": "id"
@@ -222,6 +302,26 @@
   {
     "key": "Icecekler_Buton23",
     "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD22",
+    "type": "id"
+  },
+  {
+    "key": "Soslar_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB7_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Soslar_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB7_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "Soslar_Buton3",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB7_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "Soslar_Buton4",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB7_CARD3",
     "type": "id"
   },
   {

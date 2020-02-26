@@ -14,37 +14,34 @@
 * Element var mı kontrol et "EkmekArasi_Buton6"
 * "2" saniye bekle
 
+# Tavuklar ekranı kontrol edilir
+* Element var mı kontrol et "Tavuklar_Buton1"
+* Element var mı kontrol et "Tavuklar_Buton2"
+* Element var mı kontrol et "Tavuklar_Buton3"
+* Element var mı kontrol et "Tavuklar_Buton4"
+* Element var mı kontrol et "Tavuklar_Buton5"
+* "5" saniye bekle
+* Element var mı kontrol et "Tavuklar_Buton6"
+* Element var mı kontrol et "Tavuklar_Buton7"
+* Element var mı kontrol et "Tavuklar_Buton8"
+* Element var mı kontrol et "Tavuklar_Buton9"
+* Element var mı kontrol et "Tavuklar_Buton10"
+* Element var mı kontrol et "Tavuklar_Buton11"
+* Element var mı kontrol et "Tavuklar_Buton12"
+* "2" saniye bekle
+
+# Tatlılar ekranı kontrol edilir
+* Element var mı kontrol et "Tatlilar_Buton1"
+* Element var mı kontrol et "Tatlilar_Buton2"
+* "2" saniye bekle
+
+# Ekmekler ekranı kontrol edilir
+* Element var mı kontrol et "Ekmekler_Buton1"
+* Element var mı kontrol et "Ekmekler_Buton2"
+* "2" saniye bekle
+
 # Salatalar ekranı kontrol edilir
 * Element var mı kontrol et "Salatalar_Buton1"
-* "2" saniye bekle
-
-# Sepete ekle butonlarının geldiği kontrol edilir 2
-* Element var mı kontrol et "Sepete_Ekle_1button"
-* Element var mı kontrol et "Sepete_Ekle_2button"
-* "2" saniye bekle
-
-# Sepete ekle butonlarının geldiği kontrol edilir 5
-* Element var mı kontrol et "Sepete_Ekle_1button"
-* Element var mı kontrol et "Sepete_Ekle_2button"
-* Element var mı kontrol et "Sepete_Ekle_3button"
-* Element var mı kontrol et "Sepete_Ekle_4button"
-* Element var mı kontrol et "Sepete_Ekle_5button"
-* "2" saniye bekle
-
-# Sepete ekle butonlarının geldiği kontrol edilir 12
-* Element var mı kontrol et "Sepete_Ekle_1button"
-* Element var mı kontrol et "Sepete_Ekle_2button"
-* Element var mı kontrol et "Sepete_Ekle_3button"
-* Element var mı kontrol et "Sepete_Ekle_4button"
-* Element var mı kontrol et "Sepete_Ekle_5button"
-* "5" saniye bekle
-* Element var mı kontrol et "Sepete_Ekle_6button"
-* Element var mı kontrol et "Sepete_Ekle_7button"
-* Element var mı kontrol et "Sepete_Ekle_8button"
-* Element var mı kontrol et "Sepete_Ekle_9button"
-* Element var mı kontrol et "Sepete_Ekle_10button"
-* Element var mı kontrol et "Sepete_Ekle_11button"
-* Element var mı kontrol et "Sepete_Ekle_12button"
 * "2" saniye bekle
 
 # İçecekler ekranı kontrol edilir
@@ -71,6 +68,14 @@
 * Element var mı kontrol et "Icecekler_Buton21"
 * Element var mı kontrol et "Icecekler_Buton22"
 * Element var mı kontrol et "Icecekler_Buton23"
+* "2" saniye bekle
+
+# Soslar ekranı kontrol edilir
+* Element var mı kontrol et "Soslar_Buton1"
+* Element var mı kontrol et "Soslar_Buton2"
+* Element var mı kontrol et "Soslar_Buton3"
+* Element var mı kontrol et "Soslar_Buton4"
+* Element var mı kontrol et "Soslar_Buton15"
 * "2" saniye bekle
 
 # İçecekler tabına tıklanır

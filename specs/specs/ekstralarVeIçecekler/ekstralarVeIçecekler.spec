@@ -140,14 +140,15 @@ Anasayfa - Ekstralar ve İçecekler - Her Tabda Sepete Ekle Buton Kontrolü
 * Dürümler ekranı kontrol edilir
 * Ekmek Arası tabına tıklanır
 * Ekmek Arası ekranı kontrol edilir
+* Tavuklar tabına tıklanır
+* Tavuklar ekranı kontrol edilir
 * Tatlılar tabına tıklanır
-* Sepete ekle butonlarının geldiği kontrol edilir 2
+* Tatlılar ekranı kontrol edilir
 * Ekmekler tabına tıklanır
-* Sepete ekle butonlarının geldiği kontrol edilir 2
+* Ekmekler ekranı kontrol edilir
 * Salatalar tabına tıklanır
 * Salatalar ekranı kontrol edilir
 * İçecekler tabına tıklanır
 * İçecekler ekranı kontrol edilir
 * Soslar tabına tıklanır
-* Sepete ekle butonlarının geldiği kontrol edilir 5
-* Tavuklar tabına tıklanır
+* Soslar ekranı kontrol edilir
