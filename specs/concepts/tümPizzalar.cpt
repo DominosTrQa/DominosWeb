@@ -57,7 +57,12 @@
 * "1" saniye bekle
 * Element var mı kontrol et "tumPizzalarÖzelSosyal"
 * "1" saniye bekle
- Element var mı kontrol et "tumPizzalarOzelTavuklu"
+
+# Özel pizzalar butonuna tıklanır
+* Elementi bekle ve sonra tıkla "ozelPizzalarButon"
+
+# Özel pizzalar vegi pizzaya tıklanır
+* Elementi bekle ve sonra tıkla "tumPizzalarÖzelVegi"
 
 # Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * "2" saniye bekle
