@@ -180,3 +180,34 @@
 * "3" saniye bekle
 * Element yok mu kontrol et "profilimPopupAdreslerimEklenenAdres"
 * "3" saniye bekle
+
+# Kullanıcıya yeni adres eklenir
+* Cookie onaylıyorum butonuna tıklanır
+* Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
+* Elementi bekle ve sonra tıkla "popupilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* Elementi bekle ve sonra tıkla "popupilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceSariyer"
+* Elementi bekle ve sonra tıkla "popupmahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
+* Elementi bekle ve sonra tıkla "sokakKelebekSokak"
+* "245" textini "kapiNoTextbox" elemente yaz
+* "1" textini "daireTextbox" elemente yaz
+* "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+
+# Kullanıcıdan eklenen adres silinir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "Anasayfa_Adres_Degisikligi_Button"
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Sil_Buton"
+* Element yok mu kontrol et "üyelik_Bilgilerim_Adreslerim_ilkadres"

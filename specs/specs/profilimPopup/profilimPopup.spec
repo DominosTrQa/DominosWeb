@@ -288,11 +288,9 @@ Profilim Popup - Adreslerim - Kayıtlı Adreslerden Seçme Kontrolü
 Tags:profilimPopup_adreslerimKayitliAdreslerdenSecmeKontrolu
 
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
- Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
- Seçili Adres ile Devam Et butonuna basılır
- Elementi bekle ve sonra tıkla "profil_Menu_Buton"
- Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
- Profilim popup Adreslerim kayıtlı adreslerden adres seçilir
+* Kullanıcıya yeni adres eklenir
+* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
+* Kullanıcıdan eklenen adres silinir
 
 
 Profilim Popup - Adreslerim - Kayıtlı Adresi Düzenle Kontrolü

@@ -10,9 +10,14 @@
     "type": "id"
   },
   {
-    "key": "ilDropdown2",
-    "value":"(//*[@class='dropdown__Button-wa0gtc-6 kEweqg'])[1]",
-    "type": "xpath"
+    "key": "popupilDropdown",
+    "value":"DPE_TR_ADDRESSADDMODAL_DROPDOWN_CITY",
+    "type": "id"
+  },
+  {
+    "key": "popupilceDropdown",
+    "value": "DPE_TR_ADDRESSADDMODAL_DROPDOWN_DISTRICT",
+    "type": "id"
   },
   {
     "key": "ilİstanbul",
@@ -42,6 +47,16 @@
   {
     "key": "mahalleDropdown",
     "value":"DPE_TR_STOREFILTERFORMDELIVERY_DROPDOWN_DISTRICT",
+    "type": "id"
+  },
+  {
+    "key": "popupmahalleDropdown",
+    "value": "DPE_TR_ADDRESSADDMODAL_DROPDOWN_COUNTIES",
+    "type": "id"
+  },
+  {
+    "key": "popupcaddeSokakDropdown",
+    "value": "DPE_TR_ADDRESSADDMODAL_DROPDOWN_STREETS",
     "type": "id"
   },
   {

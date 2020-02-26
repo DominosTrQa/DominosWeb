@@ -11,7 +11,7 @@
 * Elementin yüklenmesini bekle ve tıkla "uyeOlButon"
 
 # İl ilçe mahalle seçilir
-* "2" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilİstanbul"
