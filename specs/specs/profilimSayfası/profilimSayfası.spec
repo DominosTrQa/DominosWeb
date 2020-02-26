@@ -168,15 +168,6 @@ Tags:profilimSayfası_pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 * Element var mı kontrol et "pizzaTakipDijitalPizzaTakipSistemiAlani"
 
 
-Profilim Sayfası - Notlarım - Yeni Not Ekle Popup Kontrolü
-------------------------------------------------
-Tags:profilimSayfası_notlarim_yeniNotEklePopupKontrolu
-
-* Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
-* Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
-* Notlarım sayfasındaki Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
-
-
 Profilim Sayfası - Notlarım - Yeni Not Ekleme Kontrolü
 -----------------------------------------
 Tags:profilimSayfası_notlarim_yeniNotEklemeKontrolu
@@ -263,15 +254,6 @@ Tags:profilimSayfası_sifreDegistir_HataliSifrelereVerilenHataKontroluEskiSifreH
 * Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
 * Şifre Değiştir sayfasında girilen eski şifrenin hatalı olduğu uyarısı kontrol edilir
-
-
-Profilim Sayfası - Şifre Değiştir - Hatalı şifrelere verilen hata kontrolü(yeni şifreler farklı)
---------------------------------------------------------------------------------
-Tags:profilimSayfası_sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerHatali
-
-* Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
-* Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
-* Şifre Değiştir sayfasında girilen yeni şifrenin farklı olduğu uyarısı kontrol edilir
 
 
 Profilim Sayfası - Şifre Değiştir - Hatalı şifrelere verilen hata kontrolü(yeni şifreler farklı)
