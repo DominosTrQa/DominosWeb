@@ -125,11 +125,6 @@
     "type": "xpath"
   },
   {
-    "key": "siparisVerBirinciButon2",
-    "value":"//div[@class='styled__Column-sc-1lvff6m-5 fFKhjN column__NewColumn-sc-1s5q7bb-0 lnTHAX']/a[@class='styled__Button-sc-1lvff6m-0 fakEki'][contains(text(),'Sipariş Ver')]",
-    "type": "xpath"
-  },
-  {
     "key": "SeciliAdresileDevamEt",
     "value":"//*[@class='styled__AddressName-yleopv-9 eNBbSa']",
     "type": "xpath"
