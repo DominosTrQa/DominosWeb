@@ -2,7 +2,7 @@ Login
 =====================
 
 
-1-Login - Success Scenario
+Login - Success Scenario
 ----------------
 Tags:login_successScenario
 
@@ -10,7 +10,7 @@ Tags:login_successScenario
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
 
-2-Login - Failed Scenario
+Login - Failed Scenario
 ----------------
 Tags:login_failedScenario
 
@@ -18,7 +18,7 @@ Tags:login_failedScenario
 * Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
 
 
-2-Login - Failed Scenario2
+Login - Failed Scenario2
 ----------------
 Tags:login_failedScenario2
 
@@ -26,7 +26,7 @@ Tags:login_failedScenario2
 * Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
 
 
-3-Login - Screen Check Scenario
+Login - Screen Check Scenario
 ----------------
 Tags:login_screenCheckScenario
 
@@ -34,7 +34,7 @@ Tags:login_screenCheckScenario
 * Giriş Yap sayfasındaki elementlerin geldiği kontrol edilir
 
 
-4-Login - Parolamı Unuttum Scenario
+Login - Parolamı Unuttum Scenario
 ----------------
 Tags:login_parolamiUnuttumScenario
 
@@ -43,17 +43,17 @@ Tags:login_parolamiUnuttumScenario
 * Şifremi Hatırlat butonunun çalıştığı kontrol edilir
 
 
-7-Sign Up - Screen Control Scenario
+Login -Sign Up - Screen Control Scenario
 ----------------
-Tags:signup_screenControlScenario
+Tags:login_signup_screenControlScenario
 
 * Üye ol butonuna tıklanır
 * Üye ol sayfasının elementlerinin geldiği kontrol edilir
 
 
-8-Sign Up - New Account Create Success Scenario
+Login -Sign Up - New Account Create Success Scenario
 ----------------
-Tags:signup_newAccountCreateSuccessScenario
+Tags:login_signup_newAccountCreateSuccessScenario
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -61,34 +61,34 @@ Tags:signup_newAccountCreateSuccessScenario
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
 
-9-Sign Up - New Account Create Fail Scenario
+Login -Sign Up - New Account Create Fail Scenario
 ----------------
-Tags:signup_newAccountCreateFailScenario
+Tags:login_signup_newAccountCreateFailScenario
 
 * Üye ol butonuna tıklanır
 * Üye olurken bilgiler boş bırakıldığında uyarıların geldiği kontrol edilir
 
 
-10-Sign Up - New Account Create Success Scenario2
+Login - Sign Up - New Account Create Success Scenario2
 ----------------
-Tags:signup_newAccountCreateSuccessScenario2
+Tags:login_signup_newAccountCreateSuccessScenario2
 
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur ve iletişim kanalları seçilir
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
 
-11-Üye Olmadan Devam Et - Button Control
+Login - Üye Olmadan Devam Et - Button Control
 ----------------
-Tags:uyeOlmadanDevamEt_buttonKontrol
+Tags:login_uyeOlmadanDevamEt_buttonKontrol
 
 * Giriş Yap butonuna basılır
 * Element var mı kontrol et "uyeOlmadanDevamEtButon"
 
 
-12-Üye Olmadan Devam Et - Screen Control
+Login - Üye Olmadan Devam Et - Screen Control
 ----------------
-Tags:uyeOlmadanDevamEt_screenKontrol
+Tags:login_uyeOlmadanDevamEt_screenKontrol
 
 * Giriş Yap butonuna basılır
 * Üye olmadan devam edilir

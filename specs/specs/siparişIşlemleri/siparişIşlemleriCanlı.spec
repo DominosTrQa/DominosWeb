@@ -2,9 +2,9 @@ Sipariş İşlemleri Canlı
 =====================
 
 
-Tek Sube Hizmet Veren Adres/Manuel
+Sipariş İşlemleri - Tek Sube Hizmet Veren Adres - Manuel
 ---------------------------------
-tags:TekSubeHizmetVerenAdresManuelCanli
+tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresManuelCanli
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -24,9 +24,9 @@ tags:TekSubeHizmetVerenAdresManuelCanli
 * Ödeme şekli seçilir
 
 
-Tek Sube Hizmet Veren Adres/Dropdown
+Sipariş İşlemleri - Tek Sube Hizmet Veren Adres - Dropdown
 ------------------------------------
-tags:TekSubeHizmetVerenAdresDropdownCanli
+tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresDropdownCanli
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -46,9 +46,9 @@ tags:TekSubeHizmetVerenAdresDropdownCanli
 * Ödeme şekli seçilir
 
 
-İki Sube Hizmet Veren Adres Manuel
+Sipariş İşlemleri - İki Sube Hizmet Veren Adres Manuel
 ---------------------------
-tags:IkiSubeHizmetVerenAdresManuelCanli
+tags:siparisIslemleriCanlı_IkiSubeHizmetVerenAdresManuelCanli
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -68,9 +68,9 @@ tags:IkiSubeHizmetVerenAdresManuelCanli
 * Ödeme şekli seçilir
 
 
-Iki Sube Hizmet Veren Adres/Dropdown
+Sipariş İşlemleri - Iki Sube Hizmet Veren Adres - Dropdown
 ------------------------------------
-tags:IkiSubeHizmetVerenAdresDropdownCanli
+tags:siparisIslemleriCanlı_IkiSubeHizmetVerenAdresDropdownCanli
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir

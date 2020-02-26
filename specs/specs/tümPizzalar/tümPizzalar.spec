@@ -2,9 +2,9 @@ Tüm Pizzalar
 =====================
 
 
-100 - Anasayfa - Tüm Pizzalar - Sayfa Kontrolü
+Tüm Pizzalar - Anasayfa - Sayfa Kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_sayfaKontrolu
+Tags:tumPizzalar_anaSayfa_sayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -12,9 +12,9 @@ Tags:anaSayfaTumPizzalar_sayfaKontrolu
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
-101 - Anasayfa - Tüm Pizzalar - Cazip Pizzalar sayfa kontrolü
+Tüm Pizzalar - Anasayfa - Cazip Pizzalar sayfa kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_cazipPizzalarSayfaKontrolu
+Tags:tumPizzalar_anaSayfa_cazipPizzalarSayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -23,9 +23,9 @@ Tags:anaSayfaTumPizzalar_cazipPizzalarSayfaKontrolu
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
-102 - Anasayfa - Tüm Pizzalar - Özel Pizzalar sayfa kontrolü
+Tüm Pizzalar - Anasayfa - Özel Pizzalar sayfa kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_ozelPizzalarSayfaKontrolu
+Tags:tumPizzalar_anaSayfa_ozelPizzalarSayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -34,9 +34,9 @@ Tags:anaSayfaTumPizzalar_ozelPizzalarSayfaKontrolu
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
-103 - Anasayfa - Tüm Pizzalar - Bol Malzeme Pizzalar sayfa kontrolü
+Tüm Pizzalar - Anasayfa - Bol Malzeme Pizzalar sayfa kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_bolMalzemePizzalarSayfaKontrolu
+Tags:tumPizzalar_anaSayfa_bolMalzemePizzalarSayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -45,9 +45,9 @@ Tags:anaSayfaTumPizzalar_bolMalzemePizzalarSayfaKontrolu
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
-104 - Anasayfa - Tüm Pizzalar - Gurme Pizzalar sayfa kontrolü
+Tüm Pizzalar - Anasayfa - Gurme Pizzalar sayfa kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_gurmePizzalarSayfaKontrolu
+Tags:tumPizzalar_anaSayfa_gurmePizzalarSayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -56,9 +56,9 @@ Tags:anaSayfaTumPizzalar_gurmePizzalarSayfaKontrolu
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
-105 - Anasayfa - Tüm Pizzalar - Üst Bar Sayfalar Arası Geçiş Kontrolü
+Tüm Pizzalar - Anasayfa - Üst Bar Sayfalar Arası Geçiş Kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_ustBarSayfalarArasiGecisKontrolu
+Tags:tumPizzalar_anaSayfa_ustBarSayfalarArasiGecisKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -66,9 +66,9 @@ Tags:anaSayfaTumPizzalar_ustBarSayfalarArasiGecisKontrolu
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
-106 - Anasayfa - Tüm Pizzalar - Üst Bar Profilim Popup Başarılı Açılıyor mu Kontrolü
+Tüm Pizzalar - Anasayfa - Üst Bar Profilim Popup Başarılı Açılıyor mu Kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_ustBarProfilimPopupBasariliAciliyormuKontrol
+Tags:tumPizzalar_anaSayfa_ustBarProfilimPopupBasariliAciliyormuKontrol
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -76,27 +76,27 @@ Tags:anaSayfaTumPizzalar_ustBarProfilimPopupBasariliAciliyormuKontrol
 * Üyelik bilgilerim butonuna tıklanır
 
 
-107 - Anasayfa - Tüm Pizzalar - Üst Bar Sepetim Popup Başarılı Açılıyor mu Kontrolü
+Tüm Pizzalar - Anasayfa - Üst Bar Sepetim Popup Başarılı Açılıyor mu Kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_ustBarSepetimPopupBasariliAciliyormuKontrol
+Tags:tumPizzalar_anaSayfa_ustBarSepetimPopupBasariliAciliyormuKontrol
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Tüm Pizzalar sayfasındayken Sepetim popup açılıyor mu kontrol edilir
 
 
-108 - Anasayfa - Tüm Pizzalar -  Alt Bar Yazıları Doğru Geliyor Mu Kontrolü
+Tüm Pizzalar - Anasayfa - Alt Bar Yazıları Doğru Geliyor Mu Kontrolü
 ----------------
-Tags:anaSayfaTumPizzalar_altBarYazilariDogruGeliyormuKontrolu
+Tags:tumPizzalar_anaSayfa_altBarYazilariDogruGeliyormuKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Alt Bardaki elementlerinin geldiği kontrol edilir
 
 
-109 - Anasayfa - Tüm Pizzalar - Her tab da Sipariş Ver Buton Kontrolü
+Tüm Pizzalar - Anasayfa -  Her tab da Sipariş Ver Buton Kontrolü
 ---------------------------------------------------------------------
-Tags:anaSayfaTumPizzalar_herTabdaSiparisVerButonKontrolu
+Tags:tumPizzalar_anaSayfa_herTabdaSiparisVerButonKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır

@@ -2,9 +2,9 @@ Tüm Kampanyalar
 =====================
 
 
-Tüm Kampanyalar Sayfa Kontrolü
+Tüm Kampanyalar - Sayfa Kontrolü
 ------------------------
-tags:tumkampanyalarsayfakontrolü
+tags:tumKampanyalar_sayfaKontrolü
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -17,9 +17,9 @@ tags:tumkampanyalarsayfakontrolü
 * Tüm Kampanyalar sayfasındaki elementler kontrol edilir
 
 
-Haftanın Kampanyaları sayfa kontrolü
+Tüm Kampanyalar - Haftanın Kampanyaları sayfa kontrolü
 -----------------------------------------
-tags:HaftaninKampanyalarisayfakontrolu
+tags:tumKampanyalar_HaftaninKampanyalarisayfakontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -32,9 +32,9 @@ tags:HaftaninKampanyalarisayfakontrolu
 * Haftanın Kampanyaları sayfasındaki elementler kontrol edilir
 
 
-Tek Kişilik Kampanyalar sayfa kontrolü
+Tüm Kampanyalar - Tek Kişilik Kampanyalar sayfa kontrolü
 ---------------------------------------------
-tags:TekKisilikKampanyalarsayfakontrolu
+tags:tumKampanyalar_TekKisilikKampanyalarsayfakontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -47,9 +47,9 @@ tags:TekKisilikKampanyalarsayfakontrolu
 * Tek Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 
 
-2-3 Kişilik Kampanyalar sayfa kontrolü
+Tüm Kampanyalar - 2-3 Kişilik Kampanyalar sayfa kontrolü
 ----------------------------------------
-tags:ikiUcKisilikKampanyalarsayfakontrolu
+tags:tumKampanyalar_ikiUcKisilikKampanyalarsayfakontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -62,9 +62,9 @@ tags:ikiUcKisilikKampanyalarsayfakontrolu
 * 2-3 Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 
 
-4 Kişi ve üzeri kampanyalar sayfa kontrolü
+Tüm Kampanyalar - 4 Kişi ve üzeri kampanyalar sayfa kontrolü
 ----------------------------------------------------
-tags:4Kisiveuzerikampanyalarsayfakontrolu
+tags:tumKampanyalar_4Kisiveuzerikampanyalarsayfakontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -77,9 +77,9 @@ tags:4Kisiveuzerikampanyalarsayfakontrolu
 * 4 Kişi ve Üzeri Kampanyalar sayfasındaki elementler kontrol edilir
 
 
-Gel Al Haftanın Kampanyaları sayfa kontrolü
+Tüm Kampanyalar - Gel Al Haftanın Kampanyaları sayfa kontrolü
 --------------------------------------------
-tags:GelAlHaftaninKampanyalarisayfakontrolu
+tags:tumKampanyalar_GelAlHaftaninKampanyalarisayfakontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -92,9 +92,9 @@ tags:GelAlHaftaninKampanyalarisayfakontrolu
 * Gel Al Haftanın  Kampanyaları sayfasındaki elementler kontrol edilir
 
 
-Üst Bar Sayfalar arası geçiş kontrolü
+Tüm Kampanyalar - Üst Bar Sayfalar arası geçiş kontrolü
 --------------------------------------
-tags:ÜstBarSayfalararasigeciskontrolu
+tags:tumKampanyalar_ÜstBarSayfalararasigeciskontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -107,9 +107,9 @@ tags:ÜstBarSayfalararasigeciskontrolu
 * Tüm Kampanyalar sayfasındayken üst bar sayfalar arası geçiş kontrolü yapılır
 
 
-Üst Bar Profilim popup başarılı açılıyor mu kontrolü
+Tüm Kampanyalar - Üst Bar Profilim popup başarılı açılıyor mu kontrolü
 --------------------------------------------------
-tags:UstBarProfilimpopupbasariliaciliyormukontrolu
+tags:tumKampanyalar_UstBarProfilimpopupbasariliaciliyormukontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -120,9 +120,9 @@ tags:UstBarProfilimpopupbasariliaciliyormukontrolu
 * Profilim başarılı açılıyor mu kontrol edilir
 
 
-Üst Bar Sepetim popup başarılı açılıyor mı kontrolü
+Tüm Kampanyalar - Üst Bar Sepetim popup başarılı açılıyor mı kontrolü
 --------------------------------------------------
-tags:UstBarSepetimpopupbaşarılı çılıyormıkontrolu
+tags:tumKampanyalar_UstBarSepetimpopupbaşarılı çılıyormıkontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -133,9 +133,9 @@ tags:UstBarSepetimpopupbaşarılı çılıyormıkontrolu
 * Sepetim başarılı açılıyor mu kontrol edilir
 
 
-Her tab da Sipariş Ver buton kontrolü
+Tüm Kampanyalar - Her tab da Sipariş Ver buton kontrolü
 --------------------------------------
-tags:HertabdaSiparisVerbutonkontrolu
+tags:tumKampanyalar_HertabdaSiparisVerbutonkontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir

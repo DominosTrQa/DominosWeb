@@ -1,0 +1,342 @@
+[
+  {
+    "key": "extra_Lezzetler_Tab_Sol_Ok_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TABLEFT",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Sağ_Ok_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TABRIGHT",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Dürümler_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TAB0",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Ekmek_Arasi_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TAB1",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Tavuklar_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TAB2",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Tatlilar_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TAB3",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Ekmekler_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TAB4",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Salatalar_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TAB5",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Icecekler_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TAB6",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Soslar_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TAB7",
+    "type": "id"
+  },
+  {
+    "key": "extra_Lezzetler_Ekstra_Lezzetler_Text",
+    "value":"//h1[@class='pageHeader__Title-uo3je7-1 gMRowo']",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Dominos_Blog_Text",
+    "value":"//a[contains(text(),\"Domino's Blog\")]",
+    "type": "xpath"
+  },
+  {
+    "key": "Dürümler_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB0_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Dürümler_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB0_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "Dürümler_Buton3",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB0_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "EkmekArasi_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB1_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "EkmekArasi_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB1_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "EkmekArasi_Buton3",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB1_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "EkmekArasi_Buton4",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB1_CARD3",
+    "type": "id"
+  },
+  {
+    "key": "EkmekArasi_Buton5",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB1_CARD4",
+    "type": "id"
+  },
+  {
+    "key": "EkmekArasi_Buton6",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB1_CARD5",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton3",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton4",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD3",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton5",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD4",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton6",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD5",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton7",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD6",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton8",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD7",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton9",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD8",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton10",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD9",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton11",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD10",
+    "type": "id"
+  },
+  {
+    "key": "Tavuklar_Buton12",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB2_CARD11",
+    "type": "id"
+  },
+  {
+    "key": "Tatlilar_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB3_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Tatlilar_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB3_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "Ekmekler_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB4_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Ekmekler_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB4_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "Salatalar_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB5_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton3",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton4",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD3",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton5",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD4",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton6",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD5",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton7",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD6",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton8",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD7",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton9",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD8",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton10",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD9",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton11",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD10",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton12",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD11",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton13",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD12",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton14",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD13",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton15",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD14",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton16",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD15",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton17",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD16",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton18",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD17",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton19",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD18",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton20",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD19",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton21",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD20",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton22",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD21",
+    "type": "id"
+  },
+  {
+    "key": "Icecekler_Buton23",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD22",
+    "type": "id"
+  },
+  {
+    "key": "Soslar_Buton1",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB7_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "Soslar_Buton2",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB7_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "Soslar_Buton3",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB7_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "Soslar_Buton4",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB7_CARD3",
+    "type": "id"
+  },
+  {
+    "key": "SepeteEkleArtı",
+    "value":"(//*[@class='counter__Button-uj55e1-2 jaDDzl'])[2]/i",
+    "type": "xpath"
+  },
+  {
+    "key": "EkstralarveIceceklerButon",
+    "value":"//a[@class='styled__HeaderMenuItem-sc-126ws66-35 gEoUee'][contains(text(),'Ekstralar & İçecekler')]",
+    "type": "xpath"
+  },
+  {
+    "key": "SepeteEkleFuseteaLimon",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD5",
+    "type": "id"
+  }
+]
