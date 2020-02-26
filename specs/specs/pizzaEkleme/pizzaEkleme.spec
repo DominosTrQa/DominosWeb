@@ -4,7 +4,7 @@ Pizza Ekleme
      
 Pizza Ekleme/Gel Al
 -------------------
-tags:PizzaEklemeGelAl
+tags:pizzaEkleme_gelAl
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -21,7 +21,7 @@ tags:PizzaEklemeGelAl
 
 Pizza Ekleme/Adrese Teslim
 --------------------------
-tags:PizzaEklemeAdreseTeslim
+tags:pizzaEkleme_adreseTeslim
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
