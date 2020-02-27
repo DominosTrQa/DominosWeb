@@ -25,7 +25,7 @@
     "type": "xpath"
   },
   {
-    "key": "üyelik_Bilgilerim_Dogum_Tarihi__Tarih_Sec",
+    "key": "üyelik_Bilgilerim_Dogum_Tarihi_Tarih_Sec",
     "value":"(//div[@class='react-datepicker__day react-datepicker__day--thu'])[2]",
     "type": "xpath"
   },
@@ -145,8 +145,8 @@
     "type": "xpath"
   },
   {
-    "key": "üyelik_Bilgilerim_Sifre_Degistir_Degistir_Buton",
-    "value":"//button[@class='styled__Button-sc-1rgpx0-5 dJWhEw']",
+    "key": "üyelik_Bilgilerim_Sifre_Degistir_Buton",
+    "value":"//button[@class='styled__Button-sc-1rgpx0-5 cPajDw']",
     "type": "xpath"
   },
   {
@@ -305,13 +305,13 @@
     "type": "xpath"
   },
   {
-    "key": "sifre_Degistir_Yeni_Sifre__Tekrar_Textbox",
+    "key": "sifre_Degistir_Yeni_Sifre_Tekrar_Textbox",
     "value":"//input[@name='newPasswordRepeat']",
     "type": "xpath"
   },
   {
-    "key": "sifre_Degistir_Degistir_Buton",
-    "value":"//button[@class='styled__Button-sc-1rgpx0-5 dJWhEw']",
+    "key": "Sifre_Degistir_Buton",
+    "value":"//button[@class='styled__Button-sc-1rgpx0-5 cPajDw']",
     "type": "xpath"
   },
   {

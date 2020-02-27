@@ -15,7 +15,6 @@ tags:pizzaEkleme_gelAl
 * Acılı istiyorum seçeneğine tıklanır
 * Mozarella peyniri çıkarılır
 * Ekstra malzemeler eklenir
-* Sos tercihi acı sos seçilir
 * pizza sepete eklenir
 
 
@@ -31,5 +30,4 @@ tags:pizzaEkleme_adreseTeslim
 * Kenar tipi sarımsak kenar seçilir
 * Acılı istiyorum seçeneğine tıklanır
 * Ekstra malzemeler eklenir
-* Sos tercihi acı sos seçilir
 * pizza sepete eklenir

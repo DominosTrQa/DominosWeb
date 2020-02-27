@@ -14,7 +14,7 @@
 # Profilim popup Üyelik bilgilerim sayfasının değiştirilebilir alanları kontrol edilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
-* Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
+ Element var mı kontrol et "üyelik_Bilgilerim_Dogum_Tarihi_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Takım_Dropdown"
 * Element var mı kontrol et "üyelik_Bilgilerim_Meslek_Dropdown"
 * Element var mı kontrol et "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox"
@@ -142,6 +142,7 @@
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Cikis_Yap_LinkText"
 
 # Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
 * Element var mı kontrol et "profilimPopupAdreslerimPopupText"
 
