@@ -88,7 +88,7 @@ tags:tumKampanyalar_GelAlHaftaninKampanyalarisayfakontrolu
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Tüm pizzalar alanına kaydırılır
+* Haftanın kampanyalarına gidilir
 * Gel Al Haftanın  Kampanyaları sayfasındaki elementler kontrol edilir
 
 

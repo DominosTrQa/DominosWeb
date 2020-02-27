@@ -195,6 +195,7 @@
 * Element var mı kontrol et "uyeOlSayfasiYeKazanTelefonCheckbox"
 
 # Adrese teslim ve gel al butonlarının geldiği kontrol edilir
+* "5" saniye bekle
 * Element var mı kontrol et "gelAlButon"
 * Element var mı kontrol et "adreseTeslimButon"
 

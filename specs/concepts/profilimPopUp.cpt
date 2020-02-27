@@ -142,6 +142,7 @@
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Cikis_Yap_LinkText"
 
 # Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
 * Element var mı kontrol et "profilimPopupAdreslerimPopupText"
 

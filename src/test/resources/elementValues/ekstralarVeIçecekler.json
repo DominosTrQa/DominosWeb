@@ -325,6 +325,11 @@
     "type": "id"
   },
   {
+    "key": "Soslar_Buton5",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB7_CARD4",
+    "type": "id"
+  },
+  {
     "key": "SepeteEkleArtı",
     "value":"(//*[@class='counter__Button-uj55e1-2 jaDDzl'])[2]/i",
     "type": "xpath"
