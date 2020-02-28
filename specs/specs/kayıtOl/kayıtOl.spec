@@ -2,8 +2,8 @@ Kayıt Ol
 =========
 
 
-KayıtOl - Eposta
-----------------
+KayıtOl - Eposta ile üye olunur
+-------------------------------
 tags:kayıtOl_Eposta
 
 * Üye olmak için bilgiler girilir
@@ -11,8 +11,8 @@ tags:kayıtOl_Eposta
 * KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
 
 
-KayıtOl - SMS
--------------
+KayıtOl - SMS ile üye olunur
+----------------------------
 tags:kayıtOl_SMS
 
 * Üye olmak için bilgiler girilir
@@ -20,8 +20,8 @@ tags:kayıtOl_SMS
 * KVKK ve Ye Kazan Sms seçilir ve üye olunur
 
 
-KayıtOl - Telefon
-----------------
+KayıtOl - Telefon ile üye olunur
+--------------------------------
 tags:kayıtOl_Telefon
 
 * Üye olmak için bilgiler girilir
@@ -46,7 +46,6 @@ tags:kayıtOl_SadeceYeKazanSözlesmesiIsaretlenmez
 * Mesafeli satış sözleşmesi işaretlenir
 * Açık rıza metni KVKK işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiEpostaCheckbox"
-* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
 
@@ -56,9 +55,6 @@ tags:kayıtOl_SadeceKVKKSözlesmesiIsaretlenmez
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
-* "3" saniye bekle
 * Ye kazan checkbox işaretlenir
-* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox2"
-* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"

@@ -31,12 +31,12 @@
   },
   {
     "key": "üyelik_Bilgilerim_Takım_Dropdown",
-    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 gTkNlE']/div[4]/div[1]/div/div[1]/div[@class='dropdown__Button-wa0gtc-6 kEweqg']/div[2]/div[.='Seçiniz...']",
+    "value":"(//*[@class='dropdown__ButtonIndicator-wa0gtc-4 eBJtnR'])[1]",
     "type": "xpath"
   },
   {
     "key": "üyelik_Bilgilerim_Meslek_Dropdown",
-    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 gTkNlE']/div[4]/div[2]/div/div[1]/div[@class='dropdown__Button-wa0gtc-6 kEweqg']/div[2]/div[.='Seçiniz...']",
+    "value":"//div[@class='contentContainer__Wrapper-sc-1nl90mt-0 gTkNlE']/div[4]/div[1]/div/div[1]/div[@class='dropdown__Button-wa0gtc-6 kEweqg']/div[2]/div[.='Seçiniz...']",
     "type": "xpath"
   },
   {
