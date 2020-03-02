@@ -775,6 +775,32 @@ public class BaseSteps extends BaseTest {
     return null;
   }
 
+  @Step("<key> li tarihten iki gün sonraki tarihi seç")
+  public void tarihBelirle(String key){
+    waitElementLoadByKey(key);
+    String dateNow = findElementWithKey(key).getText();
+    int date = Integer.parseInt(dateNow);
+    date= date+2;
+    WebElement webElement = driver.findElement(By.xpath("//div[@role='option'][@aria-label='day-"+date+"']"));
+    webElement.click();
+  }
+  public WebElement waitElementLoadByKey(String key) {
+    WebElement mobileElement;
+    int loopCount = 0;
+    while (loopCount < DEFAULT_MAX_ITERATION_COUNT) {
+      try {
+        mobileElement = findElement(key);
+        System.out.println("Element:'" + key + "' found.");
+        return mobileElement;
+      } catch (Exception e) {
+      }
+      loopCount++;
+      waitByMilliSeconds(DEFAULT_MILLISECOND_WAIT_AMOUNT);
+    }
+    Assert.fail("Element: '" + key + "' doesn't exist.");
+    return null;
+  }
+
 
 }
 

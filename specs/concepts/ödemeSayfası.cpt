@@ -152,6 +152,19 @@
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
+# Sipariş notu eklenir
+* "testnot" textini "siparisNotu" elemente yaz
+
+# Gönderim zamanı ileri bir tarih seçilir
+* Elementi bekle ve sonra tıkla "gönderimzamaniIcon"
+* Elementi bekle ve sonra tıkla "gönderimzamaniDahasonra"
+* Elementi bekle ve sonra tıkla "tarihSec"
+* "bugununTarihi" li tarihten iki gün sonraki tarihi seç
+* "2" saniye bekle
+* "gönderimzamaniDahasonra" alanına kaydır
+* Elementi bekle ve sonra tıkla "saatSec"
+* Elementi bekle ve sonra tıkla "saatSecSelect"
+
 #Üye olan kullanıcı için siparişi tamamlanır
 * "3" saniye bekle
 * "odemeMesafeliSatisSozelesmesiCheckbox" alanına kaydır
@@ -226,3 +239,17 @@
 
 # Seçili adres ile devam edilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButonilkadres"
+* "3" saniye bekle
+
+# Ödeme şekli seçilir - Online ödeme
+* Elementi bekle ve sonra tıkla "SiparisVerOnlineOdeme"
+* Elementi bekle ve sonra tıkla "onlineödemeyenikartekleme"
+* "4282209004348015" textini "kartnumarası" elemente yaz
+* "test" textini "kartbilgisiAdSoyad" elemente yaz
+* Elementi bekle ve sonra tıkla "kartbilgisiAY"
+* Elementi bekle ve sonra tıkla "kartbilgisiAYselect"
+* Elementi bekle ve sonra tıkla "kartbilgisiYIL"
+* Elementi bekle ve sonra tıkla "kartbilgisiYILselect"
+* "123" textini "kartbilgisiCVC" elemente yaz
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
