@@ -4,7 +4,7 @@ Checkout Süreci
      
 Checkout Süreci - Kapıda ödeme - Kredi kartı ile
 ----------------------------------------------------
-tags:CheckoutSüreci_Kapıdaödeme_Kredikartıile
+Tags:checkoutSüreci_Kapıdaödeme_Kredikartıile
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -27,7 +27,7 @@ tags:CheckoutSüreci_Kapıdaödeme_Kredikartıile
 
 Checkout Süreci - Kapıda ödeme - Kredi kartı ile - İleri tarih zamanlı
 -----------------------------------------------------------------------
-tags:CheckoutSüreci_Kapıdaödeme_Kredikartıile_Ileritarihzamanlı
+Tags:checkoutSüreci_Kapıdaödeme_Kredikartıile_Ileritarihzamanlı
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -51,7 +51,7 @@ tags:CheckoutSüreci_Kapıdaödeme_Kredikartıile_Ileritarihzamanlı
 
 Checkout Süreci - Online ödeme - Kredi kartı ile
 -------------------------------------------------
-tags:CheckoutSüreci_Onlineödeme_Kredikartıile
+Tags:checkoutSüreci_Onlineödeme_Kredikartıile
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -74,7 +74,7 @@ tags:CheckoutSüreci_Onlineödeme_Kredikartıile
 
 Checkout Süreci - Online ödeme - Kredi kartı ile - Kayıtlı adres seçerek
 ------------------------------------------------------------------------
-tags:CheckoutSüreci_Onlineödeme_Kredikartıile_Kayıtlıadresseçerek
+Tags:checkoutSüreci_Onlineödeme_Kredikartıile_Kayıtlıadresseçerek
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
