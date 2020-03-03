@@ -228,5 +228,15 @@
     "key": "mahalleAyazagaMahallesi",
     "value":"//div[text()='Ayazağa Mh.']",
     "type": "xpath"
+  },
+  {
+    "key": "ilceadalar",
+    "value":"//div[text()='Adalar']",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleburgazadaMahallesi",
+    "value":"//div[text()='Burgazada Mh.']",
+    "type": "xpath"
   }
 ]

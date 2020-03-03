@@ -784,14 +784,15 @@ public class BaseSteps extends BaseTest {
     WebElement webElement = driver.findElement(By.xpath("//div[@role='option'][@aria-label='day-"+date+"']"));
     webElement.click();
   }
+
   public WebElement waitElementLoadByKey(String key) {
-    WebElement mobileElement;
+    WebElement webElement;
     int loopCount = 0;
     while (loopCount < DEFAULT_MAX_ITERATION_COUNT) {
       try {
-        mobileElement = findElement(key);
+        webElement = findElement(key);
         System.out.println("Element:'" + key + "' found.");
-        return mobileElement;
+        return webElement;
       } catch (Exception e) {
       }
       loopCount++;

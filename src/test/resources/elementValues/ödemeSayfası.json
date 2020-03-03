@@ -156,8 +156,8 @@
   },
   {
     "key": "bugununTarihi",
-    "value":"div[class='react-datepicker__day react-datepicker__day--mon react-datepicker__day--keyboard-selected react-datepicker__day--today']",
-    "type": "css"
+    "value":"//div[contains(@class,'day--today')]",
+    "type": "xpath"
   },
   {
     "key": "onlineödemeyenikartekleme",
@@ -196,7 +196,7 @@
   },
   {
     "key": "kartbilgisiYILselect",
-    "value":"(//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[3]",
+    "value":"//div[text()='2022']",
     "type": "xpath"
   },
   {

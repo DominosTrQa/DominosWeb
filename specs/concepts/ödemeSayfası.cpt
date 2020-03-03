@@ -15,6 +15,25 @@
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon2"
 
+# Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
+* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+
+# Yeni adres ekle butonuna tıklanır
+* Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
+
 # Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
@@ -238,18 +257,22 @@
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
 
 # Seçili adres ile devam edilir
-* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButonilkadres"
+* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "3" saniye bekle
 
 # Ödeme şekli seçilir - Online ödeme
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "SiparisVerOnlineOdeme"
 * Elementi bekle ve sonra tıkla "onlineödemeyenikartekleme"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "kartnumarası"
 * "4282209004348015" textini "kartnumarası" elemente yaz
 * "test" textini "kartbilgisiAdSoyad" elemente yaz
 * Elementi bekle ve sonra tıkla "kartbilgisiAY"
 * Elementi bekle ve sonra tıkla "kartbilgisiAYselect"
 * Elementi bekle ve sonra tıkla "kartbilgisiYIL"
 * Elementi bekle ve sonra tıkla "kartbilgisiYILselect"
+* Elementi bekle ve sonra tıkla "kartbilgisiCVC"
 * "123" textini "kartbilgisiCVC" elemente yaz
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
