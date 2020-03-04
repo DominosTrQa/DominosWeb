@@ -10,16 +10,16 @@ Tags:checkoutSüreci_Kapıdaödeme_Kredikartıile
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No Manuel)
+* Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
 * Sipariş notu eklenir
@@ -33,16 +33,16 @@ Tags:checkoutSüreci_Kapıdaödeme_Kredikartıile_Ileritarihzamanlı
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No Manuel)
+* Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
 * Gönderim zamanı ileri bir tarih seçilir
@@ -61,7 +61,7 @@ Tags:checkoutSüreci_Onlineödeme_Kredikartıile
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -88,7 +88,7 @@ Tags:checkoutSüreci_Onlineödeme_Kredikartıile_Kayıtlıadresseçerek
 * Tüm pizzalar alanına kaydırılır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır

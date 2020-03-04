@@ -253,3 +253,6 @@
 
 # Güncelle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
+
+# Üye ol butonuna tıklanır(sepet üzerinden)
+* Elementi bekle ve sonra tıkla "uyarıüzerindenüyeol"
