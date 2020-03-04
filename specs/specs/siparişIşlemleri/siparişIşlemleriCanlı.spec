@@ -4,7 +4,7 @@ Sipariş İşlemleri Canlı
 
 Sipariş İşlemleri - Tek Sube Hizmet Veren Adres - Manuel
 ---------------------------------
-tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresManuelCanli
+Tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresManuelCanli
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -14,7 +14,7 @@ tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresManuelCanli
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -26,7 +26,7 @@ tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresManuelCanli
 
 Sipariş İşlemleri - Tek Sube Hizmet Veren Adres - Dropdown
 ------------------------------------
-tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresDropdownCanli
+Tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresDropdownCanli
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -36,7 +36,7 @@ tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresDropdownCanli
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -48,7 +48,7 @@ tags:siparisIslemleriCanlı_TekSubeHizmetVerenAdresDropdownCanli
 
 Sipariş İşlemleri - İki Sube Hizmet Veren Adres Manuel
 ---------------------------
-tags:siparisIslemleriCanlı_IkiSubeHizmetVerenAdresManuelCanli
+Tags:siparisIslemleriCanlı_IkiSubeHizmetVerenAdresManuelCanli
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -58,7 +58,7 @@ tags:siparisIslemleriCanlı_IkiSubeHizmetVerenAdresManuelCanli
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -70,7 +70,7 @@ tags:siparisIslemleriCanlı_IkiSubeHizmetVerenAdresManuelCanli
 
 Sipariş İşlemleri - Iki Sube Hizmet Veren Adres - Dropdown
 ------------------------------------
-tags:siparisIslemleriCanlı_IkiSubeHizmetVerenAdresDropdownCanli
+Tags:siparisIslemleriCanlı_IkiSubeHizmetVerenAdresDropdownCanli
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -80,7 +80,7 @@ tags:siparisIslemleriCanlı_IkiSubeHizmetVerenAdresDropdownCanli
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır

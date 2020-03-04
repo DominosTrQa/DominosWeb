@@ -106,10 +106,10 @@
 # Ekstra lezzetler sayfasının açıldığı kontrol edilir
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 
-# Sepete fuse tea eklenir
-* "SepeteEkleFuseteaLimon" alanına kaydır
+# Sepete coca cola eklenir
+*"SepeteEkleCocaCola" alanına kaydır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleFuseteaLimon"
+* Elementi bekle ve sonra tıkla "SepeteEkleCocaCola"
 
 # Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"

@@ -40,6 +40,16 @@
     "type": "xpath"
   },
   {
+    "key": "ilceSariyer",
+    "value":"//div[text()='Sarıyer']",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceAdalar",
+    "value":"//div[text()='Adalar']",
+    "type": "xpath"
+  },
+  {
     "key": "ilceAltindag",
     "value":"//div[text()='Altındağ'][1]",
     "type": "xpath"
@@ -62,6 +72,11 @@
   {
     "key": "mahallePinarMahallesi",
     "value":"//div[text()='Pınar Mh.']",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleBurgazadaMahallesi",
+    "value":"//div[text()='Burgazada Mh.']",
     "type": "xpath"
   },
   {
