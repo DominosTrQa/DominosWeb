@@ -133,5 +133,81 @@
     "key": "uyeOlmayanMusteriHaritadanSubeSecDevamButon",
     "value":"//*[@class='guestCheckout__ContinueButton-sc-1pckd4b-8 dFIDRc sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
     "type": "xpath"
+  },
+  {
+    "key": "siparisNotu",
+    "value":"deliveryInstructions",
+    "type": "id"
+  },
+  {
+    "key": "gönderimzamaniIcon",
+    "value":"//*[@class='icon-chevron-down orderConfirm__Arrow-x0pcid-16 fbJdXL']",
+    "type": "xpath"
+  },
+  {
+    "key": "gönderimzamaniDahasonra",
+    "value":"//*[@class='orderConfirm__Column-x0pcid-1 tZydb column__NewColumn-sc-1s5q7bb-0 hYTUQQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "tarihSec",
+    "value":"input[class='react-datepicker__input']",
+    "type": "css"
+  },
+  {
+    "key": "bugununTarihi",
+    "value":"//div[contains(@class,'day--today')]",
+    "type": "xpath"
+  },
+  {
+    "key": "onlineödemeyenikartekleme",
+    "value":"DPE_TR_PAYMENTOPTIONS_BUTTON_ANOTHERCARD",
+    "type": "id"
+  },
+  {
+    "key": "kartnumarası",
+    "value":"DPE_TR_PAYMENTOPTIONS_INPUT_CARDNO",
+    "type": "id"
+  },
+  {
+    "key": "kartbilgisiAdSoyad",
+    "value":"DPE_TR_PAYMENTOPTIONS_INPUT_NAMESURNAME",
+    "type": "id"
+  },
+  {
+    "key": "kartbilgisiCVC",
+    "value":"DPE_TR_PAYMENTOPTIONS_INPUT_CVC",
+    "type": "id"
+  },
+  {
+    "key": "kartbilgisiAY",
+    "value":"DPE_TR_PAYMENTOPTIONS_DROPDOWN_CARDMONTH",
+    "type": "id"
+  },
+  {
+    "key": "kartbilgisiAYselect",
+    "value":"(//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[7]",
+    "type": "xpath"
+  },
+  {
+    "key": "kartbilgisiYIL",
+    "value":"DPE_TR_PAYMENTOPTIONS_DROPDOWN_CARDYEAR",
+    "type": "id"
+  },
+  {
+    "key": "kartbilgisiYILselect",
+    "value":"//div[text()='2022']",
+    "type": "xpath"
+  },
+  {
+    "key": "saatSec",
+    "value":"(//*[@class='dropdown__ButtonIndicator-wa0gtc-4 eBJtnR'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "saatSecSelect",
+    "value":"(//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[1]",
+    "type": "xpath"
   }
+
 ]

@@ -41,7 +41,7 @@
   },
   {
     "key": "extra_Lezzetler_Tab_Icecekler_Buton",
-    "value":"DPE_TR_SIDEPRODUCT_TAB6",
+    "value":"DPE_TR_SIDEPRODUCT_TAB1",
     "type": "id"
   },
   {
@@ -341,7 +341,7 @@
   },
   {
     "key": "SepeteEkleFuseteaLimon",
-    "value":"DPE_TR_SIDEPRODUCTS_TAB6_CARD5",
+    "value":"DPE_TR_SIDEPRODUCTS_TAB1_CARD0",
     "type": "id"
   }
 ]
