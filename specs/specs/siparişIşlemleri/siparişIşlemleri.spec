@@ -4,7 +4,7 @@ Sipariş İşlemleri
 
 Sipariş İşlemleri - Tek Sube Hizmet Veren Adres - Manuel
 ---------------------------------
-tags:siparisIslemleri_TekSubeHizmetVerenAdresManuel
+Tags:siparisIslemleri_TekSubeHizmetVerenAdresManuel
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -14,7 +14,7 @@ tags:siparisIslemleri_TekSubeHizmetVerenAdresManuel
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -28,7 +28,7 @@ tags:siparisIslemleri_TekSubeHizmetVerenAdresManuel
 
 Sipariş İşlemleri - Tek Sube Hizmet Veren Adres/Dropdown
 ------------------------------------
-tags:siparisIslemleri_TekSubeHizmetVerenAdresDropdown
+Tags:siparisIslemleri_TekSubeHizmetVerenAdresDropdown
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -38,7 +38,7 @@ tags:siparisIslemleri_TekSubeHizmetVerenAdresDropdown
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -52,7 +52,7 @@ tags:siparisIslemleri_TekSubeHizmetVerenAdresDropdown
 
 Sipariş İşlemleri - İki Sube Hizmet Veren Adres Manuel
 ---------------------------
-tags:siparisIslemleri_IkiSubeHizmetVerenAdresManuel
+Tags:siparisIslemleri_IkiSubeHizmetVerenAdresManuel
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -62,7 +62,7 @@ tags:siparisIslemleri_IkiSubeHizmetVerenAdresManuel
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -76,7 +76,7 @@ tags:siparisIslemleri_IkiSubeHizmetVerenAdresManuel
 
 Sipariş İşlemleri - Iki Sube Hizmet Veren Adres - Dropdown
 ------------------------------------
-tags:siparisIslemleri_IkiSubeHizmetVerenAdresDropdown
+Tags:siparisIslemleri_IkiSubeHizmetVerenAdresDropdown
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -86,7 +86,7 @@ tags:siparisIslemleri_IkiSubeHizmetVerenAdresDropdown
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır

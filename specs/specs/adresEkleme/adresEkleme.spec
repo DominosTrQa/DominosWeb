@@ -4,7 +4,7 @@ Adres Ekleme
 
 Adres Ekleme - Üye Olunarak - Siparis tamamlanir
 ---------------------------------------------------
-tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
+Tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Adres eklerken kalem ikonuna tıklanılır, düzenlenir, konum paylaşılır
@@ -13,14 +13,14 @@ tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
 
 Adres Ekleme - Giris Yapılmadan
 -----------------------------
-tags:adresEkleme_GirisYapılmadan
+Tags:adresEkleme_GirisYapılmadan
 
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Ekstra Lezzetlere gidilir
 * Cookie onaylıyorum butonuna tıklanır
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -29,7 +29,7 @@ tags:adresEkleme_GirisYapılmadan
 
 Adres Ekleme - Profilim sekmesinden girilerek
 -------------------------------------------
-tags:adresEkleme_Profilimsekmesindengirilerek
+Tags:adresEkleme_Profilimsekmesindengirilerek
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
@@ -40,7 +40,7 @@ tags:adresEkleme_Profilimsekmesindengirilerek
 
 Adres Ekleme - Profilim sekmesinden girilerek/Adres tarifi olmadan
 ---------------------------------------------------------------
-tags:adresEkleme_ProfilimsekmesindengirilerekAdrestarifiolmadan
+Tags:adresEkleme_ProfilimsekmesindengirilerekAdrestarifiolmadan
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
@@ -51,7 +51,7 @@ tags:adresEkleme_ProfilimsekmesindengirilerekAdrestarifiolmadan
 
 Adres Ekleme - Üye olunur - Kalem ikonuna tiklanir/Secili adres ile devam edilir
 ------------------------------------------------------------------------
-tags:adresEkleme_ÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
+Tags:adresEkleme_ÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
@@ -64,7 +64,7 @@ tags:adresEkleme_ÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 
 Adres Ekleme - Kayıtlı Adres - Güncelle
 -----------------------
-tags:adresEkleme_KayıtlıAdresGüncelle
+Tags:adresEkleme_KayıtlıAdresGüncelle
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
@@ -76,7 +76,7 @@ tags:adresEkleme_KayıtlıAdresGüncelle
 
 Adres Ekleme - Kontrol
 ---------------------
-tags:adresEkleme_AdresEkleme/Kontrol
+Tags:adresEkleme_AdresEkleme/Kontrol
 
 * "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -89,7 +89,7 @@ tags:adresEkleme_AdresEkleme/Kontrol
 
 Adres Ekleme - Kayıtlı Adres Sil
 -----------------
-tags:adresEkleme_KayıtlıAdresSil
+Tags:adresEkleme_KayıtlıAdresSil
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır

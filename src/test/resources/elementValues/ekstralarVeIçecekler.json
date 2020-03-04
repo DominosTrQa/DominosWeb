@@ -15,17 +15,17 @@
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Ekmek_Arasi_Buton",
+    "key": "extra_Lezzetler_Tab_Icecekler_Buton",
     "value":"DPE_TR_SIDEPRODUCT_TAB1",
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Tavuklar_Buton",
+    "key": "extra_Lezzetler_Tab_Ekmek_Arasi_Buton",
     "value":"DPE_TR_SIDEPRODUCT_TAB2",
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Tatlilar_Buton",
+    "key": "extra_Lezzetler_Tab_Tavuklar_Buton",
     "value":"DPE_TR_SIDEPRODUCT_TAB3",
     "type": "id"
   },
@@ -35,13 +35,13 @@
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Salatalar_Buton",
+    "key": "extra_Lezzetler_Tab_Tatlilar_Buton",
     "value":"DPE_TR_SIDEPRODUCT_TAB5",
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Icecekler_Buton",
-    "value":"DPE_TR_SIDEPRODUCT_TAB1",
+    "key": "extra_Lezzetler_Tab_Salatalar_Buton",
+    "value":"DPE_TR_SIDEPRODUCT_TAB6",
     "type": "id"
   },
   {
@@ -340,7 +340,7 @@
     "type": "xpath"
   },
   {
-    "key": "SepeteEkleFuseteaLimon",
+    "key": "SepeteEkleCocaCola",
     "value":"DPE_TR_SIDEPRODUCTS_TAB1_CARD0",
     "type": "id"
   }
