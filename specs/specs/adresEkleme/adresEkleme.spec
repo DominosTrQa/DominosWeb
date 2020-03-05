@@ -4,7 +4,7 @@ Adres Ekleme
 
 Adres Ekleme - Üye Olunarak - Siparis tamamlanir
 ---------------------------------------------------
-Tags:AdresEklemeSenaryoÜyeOlunarakSiparistamamlanir
+Tags:adresEkleme_SenaryoÜyeOlunarakSiparistamamlanir
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Adres eklerken kalem ikonuna tıklanılır, düzenlenir, konum paylaşılır
@@ -35,7 +35,7 @@ Tags:adresEkleme_Profilimsekmesindengirilerek
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
 
 
 Adres Ekleme - Profilim sekmesinden girilerek/Adres tarifi olmadan
@@ -46,7 +46,7 @@ Tags:adresEkleme_ProfilimsekmesindengirilerekAdrestarifiolmadan
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)/Adres tarifi olmadan
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
 
 
 Adres Ekleme - Üye olunur - Kalem ikonuna tiklanir/Secili adres ile devam edilir
@@ -56,10 +56,7 @@ Tags:adresEkleme_ÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Adres eklerken kalem ikonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
-* Profilim popup Yeni Adres Ekle butonuna tıklanır
- Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)//bu adımda adresAdiTextbox patlıyor
- bir tek bu case düzeltilmedi
+* Adrese Teslim / Secili Adres kontrol edilir
 
 
 Adres Ekleme - Kayıtlı Adres - Güncelle
@@ -70,9 +67,7 @@ Tags:adresEkleme_KayıtlıAdresGüncelle
 * Profilim butonuna tıklanır
 * Adreslerim butonuna tıklanır
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Sarıyer - Pınar adres bilgileri tamamlanır
-* Güncelle butonuna tıklanır
-
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
 
 Adres Ekleme - Kontrol
 ---------------------
@@ -95,8 +90,6 @@ Tags:adresEkleme_KayıtlıAdresSil
 * Profilim butonuna tıklanır
 * Adreslerim butonuna tıklanır
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Sarıyer - Pınar adres bilgileri tamamlanır
-* Güncelle butonuna tıklanır
-* Seçili adres ile devam edilir
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * İlk adres düzenleye tıklanır
 * Seçili adres silinir

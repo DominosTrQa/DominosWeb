@@ -14,7 +14,7 @@ Tags:checkoutSüreci_Kapıdaödeme_Kredikartıile
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -37,7 +37,7 @@ Tags:checkoutSüreci_Kapıdaödeme_Kredikartıile_Ileritarihzamanlı
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -61,7 +61,7 @@ Tags:checkoutSüreci_Onlineödeme_Kredikartıile
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -88,12 +88,10 @@ Tags:checkoutSüreci_Onlineödeme_Kredikartıile_Kayıtlıadresseçerek
 * Tüm pizzalar alanına kaydırılır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Sepete fuse tea eklenir
+* Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir - Online ödeme
 * Sipariş notu eklenir
-
-

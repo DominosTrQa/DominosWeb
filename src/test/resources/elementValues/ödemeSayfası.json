@@ -40,11 +40,6 @@
     "type": "id"
   },
   {
-    "key": "adresKaydetButon2",
-    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo'][contains(text(),'Kaydet')]",
-    "type": "xpath"
-  },
-  {
     "key": "ilkKayitliAdres",
     "value":"//div[@class='styled__Address-yleopv-8 bRebOW']",
     "type": "xpath"

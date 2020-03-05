@@ -44,7 +44,7 @@ Anasayfa Kontrolü - Üye - Butonların kontrolü
 * Üye iken anasayfadaki butonların geldiği kontrol edilir
 
 
-87- Anasayfa Kontrolü - Üye -  Yazıların kontrolü
+Anasayfa Kontrolü - Üye -  Yazıların kontrolü
 -----------------------------------------------------
  Tags:anasayfa_uyeYazilarinKontrolu
 

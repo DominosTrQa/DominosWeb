@@ -1,6 +1,6 @@
 [
   {
-    "key": "AnasayfaikiortaboyFırsatı",
+    "key": "AnasayfaIlkFırsat",
     "value":"DPE_TR_HOME_SLIDER0",
     "type": "id"
   },
@@ -100,11 +100,6 @@
     "type": "xpath"
   },
   {
-    "key": "ikiortaboysosyalpizza",
-    "value":"DPE_TR_CAMPAIGNS_TAB0_CARD0",
-    "type": "id"
-  },
-  {
     "key": "sucukMalzeme",
     "value":"DPE_TR_COUPONDETAIL_CHECKBOX_MODIFIERS_undefined",
     "type": "id"
@@ -130,23 +125,8 @@
     "type": "id"
   },
   {
-    "key": "3al1OdeKampanyasiAdreseteslim",
-    "value":"DPE_TR_CAMPAIGNS_TAB2_CARD2",
-    "type": "id"
-  },
-  {
     "key": "ucuncuUrunseciniz",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2",
-    "type": "id"
-  },
-  {
-    "key": "3al1OdeKampanyasiAdreseteslimtumKampanyalar",
-    "value":"DPE_TR_CAMPAIGNS_TAB0_CARD0",
-    "type": "id"
-  },
-  {
-    "key": "HaftaninKampanyalariGelAl",
-    "value":"DPE_TR_CAMPAIGNS_TAB0",
     "type": "id"
   },
   {
@@ -157,6 +137,16 @@
   {
     "key": "sebzelipeynirlidürümos",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "FırsatIlkTab",
+    "value":"DPE_TR_CAMPAIGNS_TAB0",
+    "type": "id"
+  },
+  {
+    "key": "FırsatIkinciTab",
+    "value":"DPE_TR_CAMPAIGNS_TAB1",
     "type": "id"
   }
 ]
