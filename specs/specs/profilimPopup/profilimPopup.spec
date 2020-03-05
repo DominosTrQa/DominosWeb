@@ -36,7 +36,7 @@ Tags:profilimPopup_uyelikBilgilerimDegistirebilirimAlanKontrolu
 * Profilim popup Üyelik bilgilerim sayfasının değiştirilebilir alanları kontrol edilir
 
 
-Profilim Popup - Üyelik Bilgilerim - Değişikliklerin başarılı bir şekilde yapıldığının kontrolü (Bitmedi)
+Profilim Popup - Üyelik Bilgilerim - Değişikliklerin başarılı bir şekilde yapıldığının kontrolü
 ----------------------------------------------------------------------------------------------------
 Tags:profilimPopup_uyelikBilgilerimDegisikliklerinBasariliBirSekildeYapidigininKontrolu
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
@@ -281,16 +281,6 @@ Tags:profilimPopup_adreslerimIlIlceMahalleDegistirmeKontrolu
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Adreslerim İl, İlçe, Mahalle düzenlenir
-
-
-Profilim Popup - Adreslerim - Kayıtlı Adreslerden Seçme Kontrolü
-----------------
-Tags:profilimPopup_adreslerimKayitliAdreslerdenSecmeKontrolu
-
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Kullanıcıya yeni adres eklenir
-* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
-* Kullanıcıdan eklenen adres silinir
 
 
 Profilim Popup - Adreslerim - Kayıtlı Adresi Düzenle Kontrolü

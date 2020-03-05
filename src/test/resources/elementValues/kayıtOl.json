@@ -65,11 +65,6 @@
     "type": "id"
   },
   {
-    "key": "CaddeSokak",
-    "value":"//*[@id=\"root\"]/div/div[1]/div/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/div[1]",
-    "type": "xpath"
-  },
-  {
     "key": "CaddeSokakSelectAkatSokak",
     "value":"((//*[@class='dropdown__MenuWrapper-wa0gtc-12 gaNPcZ'])[4]/div/div/div)[4]",
     "type": "xpath"

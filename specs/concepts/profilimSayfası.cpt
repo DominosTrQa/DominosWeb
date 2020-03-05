@@ -117,7 +117,7 @@
 * "3" saniye bekle
 * "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
-* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
+* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleKaydetButon"
 * "3" saniye bekle
 
 # Not eklendikten sonra popup daki elementlerin varlığı kontrol edilir
