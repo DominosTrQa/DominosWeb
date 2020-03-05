@@ -19,7 +19,6 @@ Tags:tumPizzalar_anaSayfa_cazipPizzalarSayfaKontrolu
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Cazip Pizzalar sayfasının elementlerinin geldiği kontrol edilir
-* Sipariş Ver butonlarının geldiği kontrol edilir 3
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
@@ -30,7 +29,6 @@ Tags:tumPizzalar_anaSayfa_ozelPizzalarSayfaKontrolu
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Özel Pizzalar sayfasının elementlerinin geldiği kontrol edilir
-* Sipariş Ver butonlarının geldiği kontrol edilir 4
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
@@ -41,7 +39,6 @@ Tags:tumPizzalar_anaSayfa_bolMalzemePizzalarSayfaKontrolu
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
-* Sipariş Ver butonlarının geldiği kontrol edilir 6
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
@@ -52,7 +49,6 @@ Tags:tumPizzalar_anaSayfa_gurmePizzalarSayfaKontrolu
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Gurme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
-* Sipariş Ver butonlarının geldiği kontrol edilir 6
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 
 
@@ -100,11 +96,11 @@ Tags:tumPizzalar_anaSayfa_herTabdaSiparisVerButonKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
-* Sipariş Ver butonlarının geldiği kontrol edilir 3
+* Cazip Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * Sağ ok butonuna tıklanır
-* Sipariş Ver butonlarının geldiği kontrol edilir 4
+* Özel Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * Sağ ok butonuna tıklanır
-* Sipariş Ver butonlarının geldiği kontrol edilir 6
+* Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * Sağ ok butonuna tıklanır
-* Sipariş Ver butonlarının geldiği kontrol edilir 6
+* Gurme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir

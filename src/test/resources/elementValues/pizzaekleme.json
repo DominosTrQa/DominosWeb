@@ -45,11 +45,6 @@
     "type": "id"
   },
   {
-    "key": "tümpizzalarilkpizzakategorisi",
-    "value":"DPE_TR_PIZZAS_TAB0",
-    "type": "id"
-  },
-  {
     "key": "ilkpizza",
     "value":"DPE_TR_PIZZAS_TAB0_CARD0",
     "type": "id"

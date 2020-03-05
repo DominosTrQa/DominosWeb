@@ -5,28 +5,38 @@
     "type": "id"
   },
   {
+    "key": "HaftaninKampanyalariButon1",
+    "value":"DPE_TR_CAMPAIGNS_TAB1_CARD0",
+    "type": "id"
+  },
+  {
     "key": "TekKisilikKampanyalar",
     "value":"DPE_TR_CAMPAIGNS_TAB2",
     "type": "id"
   },
   {
-    "key": "TekKisilikKampanyalar2",
+    "key": "TekKisilikKampanyalarButon1",
+    "value":"DPE_TR_CAMPAIGNS_TAB2_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "2-3kisilikKampanyalar",
     "value":"DPE_TR_CAMPAIGNS_TAB3",
     "type": "id"
   },
   {
-    "key": "4KisiveÜzeriKampanyalar",
-    "value":"DPE_TR_CAMPAIGNS_TAB5",
+    "key": "2-3kisilikKampanyalarButon1",
+    "value":"DPE_TR_CAMPAIGNS_TAB3_CARD0",
     "type": "id"
   },
   {
-    "key": "4KisiveÜzeriKampanyalar2",
-    "value":"/html//div[@id='root']//h1[.=' 4 Kişi ve Üzeri Kampanyalar ']",
-    "type": "xpath"
+    "key": "4KisiveÜzeriKampanyalar",
+    "value":"DPE_TR_CAMPAIGNS_TAB4",
+    "type": "id"
   },
   {
-    "key": "2-3-KisilikKampanyalar",
-    "value":"DPE_TR_CAMPAIGNS_TAB4",
+    "key": "4KisiveÜzeriKampanyalarButon1",
+    "value":"DPE_TR_CAMPAIGNS_TAB4_CARD0",
     "type": "id"
   },
   {
@@ -40,32 +50,17 @@
     "type": "xpath"
   },
   {
-    "key": "SiparisVer",
-    "value":"//div[@class='react-swipeable-view-container']/div[1]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
-    "type": "xpath"
-  },
-  {
-    "key": "SiparisVer2",
-    "value":"/html//div[@id='root']/div/div[4]//div[@class='react-swipeable-view-container']/div[5]/div/div/div/div[2]/div//div[.='Sipariş Ver']",
-    "type": "xpath"
-  },
-  {
-    "key": "okİsareti",
-    "value":"//html//div[@id='root']/div/div[4]/div[3]/div[2]/div[3]/i",
-    "type": "xpath"
-  },
-  {
-    "key": "tümkampanyalar2",
+    "key": "headerMenuTümKampanyalar",
     "value":"/html//div[@id='root']/div/div[2]//a[@href='/kampanyalar']",
     "type": "xpath"
   },
   {
-    "key": "tümpizzalar",
+    "key": "headerMenuTümPizzalar",
     "value":"/html//div[@id='root']/div//a[@href='/pizzalar']",
     "type": "xpath"
   },
   {
-    "key": "ekstralaricecekler",
+    "key": "headerMenuEkstralarIcecekler",
     "value":"/html//div[@id='root']/div//a[@href='/yanurunler']",
     "type": "xpath"
   },
@@ -80,7 +75,7 @@
     "type": "xpath"
   },
   {
-    "key": "HaftaninKampanyalariSiparisKontrol",
+    "key": "headerMenuEkstralarIcecekler",
     "value":"//html//div[@id='root']/div/div[4]/div[3]//div[@class='react-swipeable-view-container']/div[1]/div/div/div/div[1]/div/div[2]/div[.='Sipariş Ver']",
     "type": "xpath"
   },
