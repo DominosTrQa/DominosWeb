@@ -13,7 +13,7 @@
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
@@ -29,7 +29,7 @@
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Yeni adres ekle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
@@ -49,7 +49,7 @@
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * Telefon noyu "adresSayfasiTelefonTextbox" elementine yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No Manuel)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
@@ -64,7 +64,7 @@
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
@@ -79,11 +79,11 @@
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
-# Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No dropdown)/Adres tarifi olmadan
+# Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Elementi bekle ve sonra tıkla "CaddeSokak"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelectAyısıgıSokak"
 * "3" saniye bekle
 * "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
 * Elementi bekle ve sonra tıkla "daireTextbox"
@@ -93,7 +93,8 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adres bilgileri tamamlanır(Liste - üye)
 * "3" saniye bekle
@@ -160,7 +161,7 @@
 * "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "3" saniye bekle
  Elementi bekle ve sonra tıkla "adresEkleButon"
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adresin seçili geldiği sayfada devam et butonuna tıkla
 * Elementi bekle ve sonra tıkla "adresEkleDevamButon"
@@ -251,7 +252,7 @@
 * "2" saniye bekle
 
 # İlk adres düzenleye tıklanır
-* Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Buton"
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
 
 # Seçili adres silinir
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"

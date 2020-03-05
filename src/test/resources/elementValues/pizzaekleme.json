@@ -1,12 +1,12 @@
 [
   {
-    "key": "pizzaboyututekkisilik",
+    "key": "pizzaBoyutuIlkSecim",
     "value":"DPE_TR_PIZZADETAIL_BUTTON_PIZZA_SIZE8",
     "type": "id"
   },
   {
-    "key": "pizzakenarısarımsakkenar",
-    "value":"DPE_TR_PIZZADETAIL_BUTTON_SIDE_TYPE_SK",
+    "key": "pizzaKenarıIlkSecim",
+    "value":"DPE_TR_PIZZADETAIL_BUTTON_SIDE_TYPENONE",
     "type": "id"
   },
   {

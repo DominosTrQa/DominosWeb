@@ -95,5 +95,3 @@ Tags:checkoutSüreci_Onlineödeme_Kredikartıile_Kayıtlıadresseçerek
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir - Online ödeme
 * Sipariş notu eklenir
-
-

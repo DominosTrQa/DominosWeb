@@ -80,8 +80,8 @@
     "type": "xpath"
   },
   {
-    "key": "CaddeSokakSelectAkatSokak",
-    "value":"((//*[@class='dropdown__MenuWrapper-wa0gtc-12 gaNPcZ'])[4]/div/div/div)[4]",
+    "key": "CaddeSokakSelectAyısıgıSokak",
+    "value":"//div[text()='Ayışığı Sk.']",
     "type": "xpath"
   },
   {

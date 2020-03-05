@@ -31,7 +31,8 @@
 * "5" saniye bekle
 
 # Üye olmadan devam edilir
-* Elementin yüklenmesini bekle ve tıkla "uyeOlmadanDevamEtButon"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "uyeOlmadanDevamEtButon"
 
 # Ad Soyad Random mail telefon ve sifre girilir
 * "Test" textini "uyeOlAdTextbox" elemente yaz
@@ -252,6 +253,7 @@
 * "AdresTarifi" li elementi bul, temizle ve "test2" değerini yaz
 
 # Güncelle butonuna tıklanır
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Üye ol butonuna tıklanır(sepet üzerinden)

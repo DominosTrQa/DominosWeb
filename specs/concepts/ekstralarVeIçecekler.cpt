@@ -12,6 +12,7 @@
 * Element var mı kontrol et "EkmekArasi_Buton4"
 * Element var mı kontrol et "EkmekArasi_Buton5"
 * Element var mı kontrol et "EkmekArasi_Buton6"
+* Element var mı kontrol et "EkmekArasi_Buton7"
 * "2" saniye bekle
 
 # Tavuklar ekranı kontrol edilir
@@ -20,19 +21,17 @@
 * Element var mı kontrol et "Tavuklar_Buton3"
 * Element var mı kontrol et "Tavuklar_Buton4"
 * Element var mı kontrol et "Tavuklar_Buton5"
-* "5" saniye bekle
 * Element var mı kontrol et "Tavuklar_Buton6"
 * Element var mı kontrol et "Tavuklar_Buton7"
 * Element var mı kontrol et "Tavuklar_Buton8"
 * Element var mı kontrol et "Tavuklar_Buton9"
 * Element var mı kontrol et "Tavuklar_Buton10"
-* Element var mı kontrol et "Tavuklar_Buton11"
-* Element var mı kontrol et "Tavuklar_Buton12"
 * "2" saniye bekle
 
 # Tatlılar ekranı kontrol edilir
 * Element var mı kontrol et "Tatlilar_Buton1"
 * Element var mı kontrol et "Tatlilar_Buton2"
+* Element var mı kontrol et "Tatlilar_Buton3"
 * "2" saniye bekle
 
 # Ekmekler ekranı kontrol edilir
@@ -66,16 +65,12 @@
 * Element var mı kontrol et "Icecekler_Buton19"
 * Element var mı kontrol et "Icecekler_Buton20"
 * Element var mı kontrol et "Icecekler_Buton21"
-* Element var mı kontrol et "Icecekler_Buton22"
-* Element var mı kontrol et "Icecekler_Buton23"
 * "2" saniye bekle
 
 # Soslar ekranı kontrol edilir
 * Element var mı kontrol et "Soslar_Buton1"
 * Element var mı kontrol et "Soslar_Buton2"
 * Element var mı kontrol et "Soslar_Buton3"
-* Element var mı kontrol et "Soslar_Buton4"
-* Element var mı kontrol et "Soslar_Buton5"
 * "2" saniye bekle
 
 # İçecekler tabına tıklanır

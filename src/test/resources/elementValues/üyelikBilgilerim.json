@@ -245,8 +245,8 @@
     "type": "xpath"
   },
   {
-    "key": "adreslerim_Adres_Düzenle_Buton",
-    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSEDIT0",
+    "key": "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton",
+    "value":"DPE_TR_ADDRESSADDMODAL_BUTTON_SAVE",
     "type": "id"
   },
   {
@@ -394,12 +394,4 @@
     "value":"(//div[@class='modalDialog__CloseButton-sc-1wmoa97-2 bCJEoT'])",
     "type": "xpath"
   }
-
-
-
-
-
-
-
-
 ]

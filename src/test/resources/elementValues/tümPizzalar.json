@@ -5,7 +5,7 @@
     "type": "xpath"
   },
   {
-    "key": "cazipPizzalarButon",
+    "key": "pizzalarIlkButon",
     "value":"DPE_TR_PIZZAS_TAB0",
     "type": "id"
   },
@@ -35,7 +35,7 @@
     "type": "id"
   },
   {
-    "key": "tumPizzalarCazipSuperos",
+    "key": "tumPizzalarIlkKategoriIlkPizza",
     "value":"DPE_TR_PIZZAS_TAB0_CARD0",
     "type": "id"
   },
