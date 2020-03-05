@@ -1,10 +1,10 @@
 
 
-# Pizza boyutu tek kişilik seçilir
-* Elementi bekle ve sonra tıkla "pizzaboyututekkisilik"
+# Pizza boyutunda ilk boyut seçilir
+* Elementi bekle ve sonra tıkla "pizzaBoyutuIlkSecim"
 
-# Kenar tipi sarımsak kenar seçilir
-* Elementi bekle ve sonra tıkla "pizzakenarısarımsakkenar"
+# Kenar tipinde ilk kenar kenar seçilir
+* Elementi bekle ve sonra tıkla "pizzaKenarıIlkSecim"
 
 # Acılı istiyorum seçeneğine tıklanır
 * Elementi bekle ve sonra tıkla "acılıistiyorumbutonu"
@@ -29,5 +29,5 @@
 # Sos tercihi acı sos seçilir
 * Elementi bekle ve sonra tıkla "acısosTercihi"
 
-# pizza sepete eklenir
+# Pizza sepete eklenir
 * Elementi bekle ve sonra tıkla "pizzasepeteekle"

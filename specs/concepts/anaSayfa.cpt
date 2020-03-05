@@ -68,20 +68,6 @@
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "4" saniye bekle
 
-# Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Elementi bekle ve sonra tıkla "ilDropdown"
-* Elementi bekle ve sonra tıkla "ilİstanbul"
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "ilceDropdown"
-* Elementi bekle ve sonra tıkla "ilceadalar"
-* "4" saniye bekle
-* Elementi bekle ve sonra tıkla "mahalleDropdown"
-* "4" saniye bekle
-* Elementi bekle ve sonra tıkla "mahalleburgazadaMahallesi"
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
-* "4" saniye bekle
-
 # Adrese Teslim servis tipi için Eyüp / Topçular adresi eklenir
 * Elementin yüklenmesini bekle ve tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"
@@ -149,7 +135,7 @@
 
 # Tüm Kampanyalar Butonuna tıklanır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "TümKampanyalar"
+* Elementi bekle ve sonra tıkla "tümKampanyalarButon"
 
 # Tüm pizzalar alanına kaydırılır
 * "anasayfaTümPizzalarButon" alanına kaydır
@@ -384,3 +370,7 @@
 
 # Anasayfaya gidilir
 * Elementi bekle ve sonra tıkla "Anasayfa_Button"
+
+# Adrese Teslim / Secili Adres kontrol edilir
+* "2" saniye bekle
+* Element var mı kontrol et "profilimPopupAdreslerimIlIlceDüzenleButon"

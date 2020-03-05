@@ -201,7 +201,7 @@
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon2"
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
 
 # Kullanıcıdan eklenen adres silinir
