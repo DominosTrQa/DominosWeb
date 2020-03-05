@@ -149,8 +149,9 @@
 * Elementi bekle ve sonra tıkla "sepeteGitButon"
 * "2" saniye bekle
 
-# Sepetim başarılı açılıyor mu kontrol edilir
+# Sepetim başarılı bir şekilde görüntüleniyor mu kontrol edilir
 * Element var mı kontrol et "Sepetim"
+* Elementi bekle ve sonra tıkla "Sepetim"
 
 # Sepetteki ürün iki kez arttırılır
 * Elementi bekle ve sonra tıkla "SepeteEkleArtı"
@@ -161,8 +162,9 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * "2" saniye bekle
 
-# Profilim başarılı açılıyor mu kontrol edilir
+# Profilim başarılı bir şekilde görüntüleniyor mu kontrol edilir
 * Element var mı kontrol et "Profilim"
+* Elementi bekle ve sonra tıkla "Profilim"
 
 # Adres eklerken kalem ikonuna tıklanılır, düzenlenir, konum paylaşılır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"

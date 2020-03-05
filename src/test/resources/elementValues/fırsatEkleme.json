@@ -120,11 +120,6 @@
     "type": "id"
   },
   {
-    "key": "adreseteslimHaftaninKampanyalari",
-    "value":"DPE_TR_CAMPAIGNS_TAB1",
-    "type": "id"
-  },
-  {
     "key": "ucuncuUrunseciniz",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2",
     "type": "id"

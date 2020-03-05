@@ -16,48 +16,51 @@
 * Elementin yüklenmesini bekle ve tıkla "dropdownSuperos"
 
 # Tüm Kampanyalar sayfasındaki elementler kontrol edilir
-* Element var mı kontrol et "tümkampanyalar2"
+* Element var mı kontrol et "headerMenuTümKampanyalar"
 * Element var mı kontrol et "HaftaninKampanyalari"
 * Element var mı kontrol et "TekKisilikKampanyalar"
-* Element var mı kontrol et "2-3-KisilikKampanyalar"
+* Element var mı kontrol et "2-3kisilikKampanyalar"
 * Element var mı kontrol et "4KisiveÜzeriKampanyalar"
-* Element var mı kontrol et "GelAlHaftaninKampanyalari"
-* Element var mı kontrol et "SiparisVer"
-* Elementin yüklenmesini bekle ve tıkla "okİsareti"
-* Element var mı kontrol et "tümkampanyalar2"
+* Element var mı kontrol et "headerMenuTümKampanyalar"
+* Element var mı kontrol et "kampanyalarSagOkButon"
+* Element var mı kontrol et "kampanyalarSolOkButon"
 
 # Haftanın Kampanyaları sayfasındaki elementler kontrol edilir
 * Wait "2" seconds
 * Element var mı kontrol et "HaftaninKampanyalari"
-* Elementin yüklenmesini bekle ve tıkla "okİsareti"
-* Wait "3" seconds
-* Element var mı kontrol et "TekKisilikKampanyalar2"
+* Elementi bekle ve sonra tıkla "HaftaninKampanyalari"
+* Element var mı kontrol et "HaftaninKampanyalariButon1"
 
 # Tek Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
+* Wait "2" seconds
+* Element var mı kontrol et "TekKisilikKampanyalar"
 * Elementin yüklenmesini bekle ve tıkla "TekKisilikKampanyalar"
-* Element var mı kontrol et "TekKisilikKampanyalar2"
+* Element var mı kontrol et "TekKisilikKampanyalarButon1"
 
 # 2-3 Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
-* Elementi bekle ve sonra tıkla "2-3-KisilikKampanyalar"
-* Element var mı kontrol et "SiparisVer2"
-* "2-3-KisilikKampanyalar" elementi "2-3 Kişilik Kampanyalar" değerini içeriyor mu kontrol et
-* Elementin yüklenmesini bekle ve tıkla "okİsareti"
+* Wait "2" seconds
+* Element var mı kontrol et "2-3kisilikKampanyalar"
+* Elementi bekle ve sonra tıkla "2-3kisilikKampanyalar"
+* Element var mı kontrol et "2-3kisilikKampanyalarButon1"
 
 # 4 Kişi ve Üzeri Kampanyalar sayfasındaki elementler kontrol edilir
+* Wait "2" seconds
+* Element var mı kontrol et "4KisiveÜzeriKampanyalar"
 * Elementin yüklenmesini bekle ve tıkla "4KisiveÜzeriKampanyalar"
-* Element var mı kontrol et "4KisiveÜzeriKampanyalar2"
+* Element var mı kontrol et "4KisiveÜzeriKampanyalarButon1"
+
 
 # Gel Al Haftanın  Kampanyaları sayfasındaki elementler kontrol edilir
 * Elementin yüklenmesini bekle ve tıkla "GelAlHaftaninKampanyalari"
 * Element var mı kontrol et "GelAlHaftaninKampanyalari2"
 
 # Tüm Kampanyalar sayfasındayken üst bar sayfalar arası geçiş kontrolü yapılır
-* "tümkampanyalar2" elementi "Tüm Kampanyalar" değerini içeriyor mu kontrol et
-* "tümpizzalar" elementi "Tüm Pizzalar" değerini içeriyor mu kontrol et
-* "ekstralaricecekler" elementi "Ekstralar & İçecekler" değerini içeriyor mu kontrol et
+* "headerMenuTümKampanyalar" elementi "Tüm Kampanyalar" değerini içeriyor mu kontrol et
+* "headerMenuTümPizzalar" elementi "Tüm Pizzalar" değerini içeriyor mu kontrol et
+* "headerMenuEkstralarIcecekler" elementi "Ekstralar & İçecekler" değerini içeriyor mu kontrol et
 
 # Tüm Kampanyalar sayfasında her tabde sipariş ver butonlarının olduğu kontrol edilir
-* Element var mı kontrol et "HaftaninKampanyalariSiparisKontrol"
+* Element var mı kontrol et "headerMenuEkstralarIcecekler"
 * Element var mı kontrol et "TekKisilikKampanyalarSiparisKontrol"
 * Element var mı kontrol et "2-3KisilikKampanyalarSiparisKontrol"
 * "2" saniye bekle

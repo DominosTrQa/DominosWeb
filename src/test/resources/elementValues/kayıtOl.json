@@ -225,16 +225,6 @@
     "type": "xpath"
   },
   {
-    "key": "ilceadalar",
-    "value":"//div[text()='Adalar']",
-    "type": "xpath"
-  },
-  {
-    "key": "mahalleburgazadaMahallesi",
-    "value":"//div[text()='Burgazada Mh.']",
-    "type": "xpath"
-  },
-  {
     "key": "uyarıüzerindenüyeol",
     "value":"//a[contains(text(),'Üye Ol')]",
     "type": "xpath"

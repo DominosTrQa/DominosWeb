@@ -10,21 +10,6 @@
     "type": "id"
   },
   {
-    "key": "ozelPizzalarButon",
-    "value":"DPE_TR_PIZZAS_TAB1",
-    "type": "id"
-  },
-  {
-    "key": "bolMalzemePizzalarButon",
-    "value":"DPE_TR_PIZZAS_TAB2",
-    "type": "id"
-  },
-  {
-    "key": "gurmePizzalarButon",
-    "value":"DPE_TR_PIZZAS_TAB3",
-    "type": "id"
-  },
-  {
     "key": "pizzalarSagOkButon",
     "value":"DPE_TR_PIZZAS_TABRIGHT",
     "type": "id"
@@ -35,133 +20,62 @@
     "type": "id"
   },
   {
+    "key": "kampanyalarSagOkButon",
+    "value":"DPE_TR_CAMPAIGNS_TABRIGHT",
+    "type": "id"
+  },
+  {
+    "key": "kampanyalarSolOkButon",
+    "value":"DPE_TR_CAMPAIGNS_TABLEFT",
+    "type": "id"
+  },
+  {
     "key": "tumPizzalarIlkKategoriIlkPizza",
     "value":"DPE_TR_PIZZAS_TAB0_CARD0",
     "type": "id"
   },
   {
-    "key": "tumPizzalarCazipSucuksever",
-    "value":"DPE_TR_PIZZAS_TAB0_CARD1",
+    "key": "cazipPizzalar",
+    "value":"DPE_TR_PIZZAS_TAB0",
+    "type": "id"
+  }
+,
+  {
+    "key": "cazipPizzalarButon1",
+    "value":"DPE_TR_PIZZAS_TAB0_CARD0",
     "type": "id"
   },
   {
-    "key": "tumPizzalarCazipClassic",
-    "value":"DPE_TR_PIZZAS_TAB0_CARD2",
+    "key": "ozelPizzalar",
+    "value":"DPE_TR_PIZZAS_TAB1",
     "type": "id"
-  },
+  }
+,
   {
-    "key": "tumPizzalarÖzelFit",
+    "key": "ozelPizzalarButon1",
     "value":"DPE_TR_PIZZAS_TAB1_CARD0",
     "type": "id"
   },
   {
-    "key": "tumPizzalarÖzelVegi",
-    "value":"DPE_TR_PIZZAS_TAB1_CARD1",
+    "key": "bolMalzemePizzalar",
+    "value":"DPE_TR_PIZZAS_TAB2",
     "type": "id"
-  },
+  }
+,
   {
-    "key": "tumPizzalarÖzelSosyal",
-    "value":"DPE_TR_PIZZAS_TAB1_CARD2",
-    "type": "id"
-  },
-  {
-    "key": "tumPizzalarOzelTavuklu",
-    "value":"DPE_TR_PIZZAS_TAB1_CARD3",
-    "type": "id"
-  },
-  {
-    "key": "tumPizzalarOzelTavukluyaKaydır",
-    "value":"(//div)[@class='productCard__AllPizzaContent-sc-1qfpiga-8 heCHlM'][4]",
-    "type": "xpath"
-  },
-  {
-    "key": "tumPizzalarBolMalzemeDevMalzeemos",
+    "key": "bolMalzemePizzalarButon1",
     "value":"DPE_TR_PIZZAS_TAB2_CARD0",
     "type": "id"
   },
   {
-    "key": "tumPizzalarBolMalzemeDopdoluExtra",
-    "value":"DPE_TR_PIZZAS_TAB2_CARD1",
+    "key": "gurmePizzalar",
+    "value":"DPE_TR_PIZZAS_TAB3",
     "type": "id"
-  },
+  }
+,
   {
-    "key": "tumPizzalarBolMalzemeExtravaganzza",
-    "value":"DPE_TR_PIZZAS_TAB2_CARD2",
-    "type": "id"
-  },
-  {
-    "key": "tumPizzalarBolMalzemeBolMalzemos",
-    "value":"//h4[contains(text(),'Bol Malzemos')]",
-    "type": "xpath"
-  },
-  {
-    "key": "tumPizzalarBolMalzemeKarışık",
-    "value":"DPE_TR_PIZZAS_TAB2_CARD4",
-    "type": "id"
-  },
-  {
-    "key": "tumPizzalarBolMalzemeItaliano",
-    "value":"DPE_TR_PIZZAS_TAB2_CARD5",
-    "type": "id"
-  },
-  {
-    "key": "tumPizzalarGurmeDortPeynirli",
+    "key": "gurmePizzalarButon1",
     "value":"DPE_TR_PIZZAS_TAB3_CARD0",
     "type": "id"
-  },
-  {
-    "key": "tumPizzalarGurmePastırmaSucuk",
-    "value":"DPE_TR_PIZZAS_TAB3_CARD1",
-    "type": "id"
-  },
-  {
-    "key": "tumPizzalarGurmeNewYork",
-    "value":"DPE_TR_PIZZAS_TAB3_CARD2",
-    "type": "id"
-  },
-  {
-    "key": "tumPizzalarGurmeKonyalım",
-    "value":"DPE_TR_PIZZAS_TAB3_CARD3",
-    "type": "id"
-  },
-  {
-    "key": "tumPizzalarGurmeMangalSucuklu",
-    "value":"DPE_TR_PIZZAS_TAB3_CARD4",
-    "type": "id"
-  },
-  {
-    "key": "tumPizzalarGurmeCallypso",
-    "value":"DPE_TR_PIZZAS_TAB3_CARD5",
-    "type": "id"
-  },
-  {
-    "key": "siparisVerIkinciButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
-    "type": "xpath"
-  },
-  {
-    "key": "siparisVerBirinciButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "siparisVerUcuncuButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[3]",
-    "type": "xpath"
-  },
-  {
-    "key": "siparisVerDorduncuButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[4]",
-    "type": "xpath"
-  },
-  {
-    "key": "siparisVerBesinciButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[5]",
-    "type": "xpath"
-  },
-  {
-    "key": "siparisVerAltinciButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[6]",
-    "type": "xpath"
   }
 ]

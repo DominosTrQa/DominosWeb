@@ -25,11 +25,6 @@
     "type": "xpath"
   },
   {
-    "key": "ilAnkara",
-    "value":"//div[text()='Ankara'][1]",
-    "type": "xpath"
-  },
-  {
     "key": "ilceDropdown",
     "value":"DPE_TR_STOREFILTERFORMDELIVERY_DROPDOWN_COUNTY",
     "type": "id"
@@ -40,18 +35,8 @@
     "type": "xpath"
   },
   {
-    "key": "ilceSariyer",
-    "value":"//div[text()='Sarıyer']",
-    "type": "xpath"
-  },
-  {
     "key": "ilceAdalar",
     "value":"//div[text()='Adalar']",
-    "type": "xpath"
-  },
-  {
-    "key": "ilceAltindag",
-    "value":"//div[text()='Altındağ'][1]",
     "type": "xpath"
   },
   {
@@ -80,11 +65,6 @@
     "type": "xpath"
   },
   {
-    "key": "mahalleBattalgaziMahallesi",
-    "value":"//div[text()='Battalgazi Mh.'][1]",
-    "type": "xpath"
-  },
-  {
     "key": "seciliAdresIleDevamEtButon",
     "value":"DPE_TR_STOREFILTERFORMDELIVERY_BUTTON_ADDRESSSELECT",
     "type": "id"
@@ -97,11 +77,6 @@
   {
     "key": "seciliSubeIleDevamEtButon",
     "value":"//a[contains(text(),'le Devam Et')]",
-    "type": "xpath"
-  },
-  {
-    "key": "loginButonLoginOlmadan",
-    "value":"//span[@class='styled__LoginButtonText-sc-126ws66-43 jrBoap']",
     "type": "xpath"
   },
   {
@@ -140,19 +115,9 @@
     "type": "xpath"
   },
   {
-    "key": "sepetimButonLoginOlmadan",
-    "value":"//i[@class='icon-angle-up']",
-    "type": "xpath"
-  },
-  {
     "key": "sepeteGitButon",
     "value":"//a[contains(text(),'Sepete Git')]",
     "type": "xpath"
-  },
-  {
-    "key": "AdreseTeslimKonumPaylas",
-    "value":"DPE_TR_NEARSTORELISTDELIVERY_BUTTON_LOCATIONSHARE",
-    "type": "id"
   },
   {
     "key": "GelAlKonumPaylas",
@@ -247,11 +212,6 @@
   {
     "key": "Anasayfa_Promosyon_Promosyon_Kodu_Textbox",
     "value":"DPE_TR_HOME_DROPDOWN_PROMOTIONCODE",
-    "type": "id"
-  },
-  {
-    "key": "Anasayfa_Promosyon_Promosyon_Kullan_Buton",
-    "value":"DPE_TR_HOME_DROPDOWN_PROMOTIONUSE",
     "type": "id"
   },
   {

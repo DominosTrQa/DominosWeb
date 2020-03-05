@@ -20,15 +20,6 @@ Tags:subeyeOzel_anaSayfa_tumKampanyalarButonuKontrolu
 * Şubeye Özel sayfasındaki Tüm Kampanyalar butonunun çalıştığı kontrol edilir
 
 
-Şubeye Özel - Anasayfa - Şubeyi Değiştir Sayfası Kontrolü
-----------------
-Tags:subeyeOzel_anaSayfa_subeyiDegistirSayfaKontrolu
-
-* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
-* Şubeye Özel butonuna tıklanır
-* Şubeye Özel sayfasından gidilen Şubeyi Değişitir sayfasındaki elementler kontrol edilir
-
-
 Şubeye Özel - Anasayfa - Şubeyi Değiştir Sayfası Şube Ara Kontrolü
 ----------------
 Tags:subeyeOzel_anaSayfa_subeyiDegistirSubeAraKontrolu
