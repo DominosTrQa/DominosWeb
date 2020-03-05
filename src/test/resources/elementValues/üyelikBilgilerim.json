@@ -250,11 +250,6 @@
     "type": "id"
   },
   {
-    "key": "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton",
-    "value":"DPE_TR_ADDRESSADDMODAL_BUTTON_SAVE",
-    "type": "id"
-  },
-  {
     "key": "adreslerim_Adres_Düzenle_Sil_Buton",
     "value":"DPE_TR_ADDRESSADDMODAL_BUTTON_DELETE",
     "type": "id"

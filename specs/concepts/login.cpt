@@ -252,7 +252,7 @@
 * "AdresTarifi" li elementi bul, temizle ve "test2" değerini yaz
 
 # Güncelle butonuna tıklanır
-* Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Üye ol butonuna tıklanır(sepet üzerinden)
 * Elementi bekle ve sonra tıkla "uyarıüzerindenüyeol"
