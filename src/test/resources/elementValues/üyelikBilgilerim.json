@@ -230,11 +230,6 @@
     "type": "xpath"
   },
   {
-    "key": "Notlarım_Not_Düzenle_Sil_Buton",
-    "value":"//button[contains(text(),'Sil')]",
-    "type": "xpath"
-  },
-  {
     "key": "Notlarım_Not_Birinci_Basligi_Text",
     "value":"//h4[@class='notes__NoteTitle-x7fyts-3 cpNPRp']",
     "type": "xpath"
@@ -350,8 +345,8 @@
     "type": "xpath"
   },
   {
-    "key": "notlarimYeniNotEkleYeniNotEkleButon",
-    "value":"(//button[contains(text(),'Yeni Not Ekle')])",
+    "key": "notlarimYeniNotEkleKaydetButon",
+    "value":"(//button[contains(text(),'EKLE')])",
     "type": "xpath"
   },
   {
@@ -376,7 +371,7 @@
   },
   {
     "key": "notlarimSilButon",
-    "value":"(//button[contains(text(),'Sil')])",
+    "value":"(//button[contains(text(),'SİL')])",
     "type": "xpath"
   },
   {

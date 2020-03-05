@@ -28,24 +28,6 @@ Tags:profilimSayfası_pizzaTakipSayfaKontrolu
 * Üyelik bilgilerimden gidilen Pizza Takip sayfası kontrol edilir
 
 
-Profilim Sayfası - Notlarım sayfa kontrolü
----------------------------------------------------------
-Tags:profilimSayfası_notlarimSayfaKontrolu
-
-* Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
-* Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
-* Yeni not ekle sil kontrol et
-
-
-Profilim Sayfası - Adreslerim sayfa kontrolü (Bitmedi)
----------------------------------------------------------
-Tags:profilimSayfası_adreslerimSayfaKontrolu
-
-* Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
-* Üyelik bilgilerim sayfasındaki Adreslerim butonuna tıklanır
-* Üyelik bilgilerimden gidilen Adreslerim sayfası kontrol edilir
-
-
 Profilim Sayfası - Kredi Kartlarım sayfa kontrolü
 ---------------------------------------------------------
 Tags:profilimSayfası_krediKartlarimSayfaKontrolu
@@ -64,14 +46,6 @@ Tags:profilimSayfası_sifreDegistirSayfaKontrolu
 * Üyelik bilgilerimden gidilen Şifre Değiştir sayfası kontrol edilir
 
 
-Profilim Sayfası - Üyelik Bilgilerim - Değiştirilebilir alanların kontrolü
--------------------------------------------------------------
-Tags:profilimSayfası_uyelikBilgilerim_degistirilebilirAlanlarinKontrolu
-
-* Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
-* Üyelik bilgilerimdeki değiştirilebilir alanlar kontrol edilir
-
-
 Profilim Sayfası - Üyelik Bilgilerim - Zorunlu alanların kontrolü
 ------------------------------------------------
 Tags:profilimSayfası_uyelikBilgilerim_zorunluAlanlarinKontrolu
@@ -79,15 +53,6 @@ Tags:profilimSayfası_uyelikBilgilerim_zorunluAlanlarinKontrolu
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Eposta_Adresi_Textbox"
 * Element var mı kontrol et "üyelik_Bilgilerim_Telefon_Textbox"
-
-
-Profilim Sayfası - Üyelik Bilgilerim - Değişikliklerin başarılı bir şekilde yapıldığının kontrolü (Bitmedi)
--------------------------------------------------------------------------------------
-Tags:profilimSayfası_uyelikBilgilerim_degisikliklerinBasariliBirSekildeYapildigininKontroluB
-
-* Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
-* Üyelik bilgilerimde değişiklik yapılabildiği kontrol edilir
-
 
 
 Profilim Sayfası - Üyelik Bilgilerim - Üyelikten ayrılmak için tıklayın kontrolü
@@ -168,16 +133,6 @@ Tags:profilimSayfası_pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 * Element var mı kontrol et "pizzaTakipDijitalPizzaTakipSistemiAlani"
 
 
-Profilim Sayfası - Notlarım - Yeni Not Ekleme Kontrolü
------------------------------------------
-Tags:profilimSayfası_notlarim_yeniNotEklemeKontrolu
-
-* Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
-* Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
-* Notlarım sayfasındaki Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
-* Random yeni not eklenir
-
-
 Profilim Sayfası - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
 -------------------------------------------------------
 Tags:profilimSayfası_notlarim_eklenenNotuDuzenlemePopupKontrolu
@@ -217,7 +172,6 @@ Tags:profilimSayfası_notlarim_varOlanNotuSilmeKontrolu
 * Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
 * Yeni not ekle
 * Varolan not silinir
-* Varolan not kontrolü yapılır
 
 
 Profilim Sayfası - Kredi Kartlarım - Başarılı Bir Şekilde Kredi Kartı Eklemek

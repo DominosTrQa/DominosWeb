@@ -1,6 +1,6 @@
 
 # Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No Manuel)
-* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
@@ -16,7 +16,7 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
-* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
@@ -35,7 +35,7 @@
 * Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
 
 # Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
-* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
@@ -52,7 +52,7 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No Manuel)
-* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
 * "3" saniye bekle
 * "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
@@ -67,7 +67,7 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
-* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
 * "3" saniye bekle
 * "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
@@ -82,7 +82,7 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
-* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelectAyısıgıSokak"
 * "3" saniye bekle
 * "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
@@ -99,13 +99,13 @@
 # Adres bilgileri tamamlanır(Liste - üye)
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "sokakKelebekSokak"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelectAyısıgıSokak"
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * Element var mı kontrol et "alanlariBosBirakamazsinizText"
 * "2" saniye bekle
-* "6A" textini "kapiNoTextbox" elemente yaz
+* "3" textini "kapiNoTextbox" elemente yaz
 * "1" textini "daireTextbox" elemente yaz
 * "2" saniye bekle
 * "ofis" textini "adresAdiTextbox" elemente yaz
@@ -120,7 +120,7 @@
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 
 # Sarıyer - Pınar adres bilgileri tamamlanır
-* Elementi bekle ve sonra tıkla "CaddeSokak"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "sokakKelebekSokak"
 * "245" textini "kapiNoTextbox" elemente yaz
 * "1" textini "daireTextbox" elemente yaz
@@ -215,7 +215,7 @@
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Yeni_Not_Ekle_Button"
 * Element var mı kontrol et "Notlarım_Not_Düzenle_Buton"
 * Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Buton"
-* Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Sil_Buton"
+* Elementi bekle ve sonra tıkla "notlarimSilButon"
 
 # Yeni not ekle
 * Element var mı kontrol et "Notlarım_Yeni_Not_Ekle_Buton"
@@ -229,7 +229,7 @@
 # Varolan not silinir
 * Element var mı kontrol et "Notlarım_Not_Düzenle_Buton"
 * Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Buton"
-* Elementi bekle ve sonra tıkla "Notlarım_Not_Düzenle_Sil_Buton"
+* Elementi bekle ve sonra tıkla "notlarimSilButon"
 
 # Varolan not kontrolü yapılır
 * Element var mı kontrol et "notlarimYeniNotEklePopUpText"

@@ -27,6 +27,8 @@
 # Profilim popup Üyelik bilgilerim değişiklik yapıldığı kontrol edilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
 * "üyelik_Bilgilerim_Ad_Textbox" elementine random isim yaz
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Soyad_Textbox"
+* "üyelik_Bilgilerim_Soyad_Textbox" elementine random isim yaz
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
 
 # Profilim popup Üyelik bilgilerim KVKK Aydınlatma Metni kontrol edilir
@@ -91,14 +93,13 @@
 
 # Profilim popup Yeni Not Ekle butonuna tıklanır ve gerekli textin geldiği kontrol edilir
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
-* Element var mı kontrol et "notlarimYeniNotEklePopUpText"
 
 # Profilim popup random not oluşturulup, notun oluştuğu kontrol edilir
 * "5" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
 * "3" saniye bekle
 * "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
-* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
+* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleKaydetButon"
 * "3" saniye bekle
 * "notlarimBirinciNotBasligi" li elementi bul ve değerini "randomKelime" saklanan değeri içeriyor mu kontrol et
 
@@ -111,7 +112,7 @@
 * "3" saniye bekle
 * "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime5" saklanan degeri yazdir
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime5" saklanan degeri yazdir
-* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleYeniNotEkleButon"
+* Elementi bekle ve sonra tıkla "notlarimYeniNotEkleKaydetButon"
 * "3" saniye bekle
 * "notlarimBirinciNotBasligi" li elementi bul ve değerini "randomKelime5" saklanan değeri içeriyor mu kontrol et
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
