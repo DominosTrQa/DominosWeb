@@ -355,18 +355,8 @@
     "type": "xpath"
   },
   {
-    "key": "notlarimIkinciNotBasligi",
-    "value":"(//*[(@class='notes__NoteTitle-x7fyts-3 cpNPRp')])[2]",
-    "type": "xpath"
-  },
-  {
     "key": "notlarimIlkNotDuzenleButon",
     "value":"(//*[(@class='notes__EditButton-x7fyts-7 iqvMpM')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "notlarimIkinciNotDuzenleButon",
-    "value":"(//*[(@class='notes__EditButton-x7fyts-7 iqvMpM')])[2]",
     "type": "xpath"
   },
   {
