@@ -131,3 +131,23 @@
 # Üyelik bilgilerim butonuna tıklanır
 * "2" saniye bekle
 * Element var mı kontrol et "üyelik_Bilgilerim_Buton"
+
+# Tüm pizzalarda ilk pizza kategorisi seçilir
+* Elementi bekle ve sonra tıkla "tümpizzalarilkpizzakategorisi"
+
+# Pizza kategorisindeki ilk pizza seçilir
+* Elementi bekle ve sonra tıkla "ilkpizza"
+
+# Seçilen pizza için sipariş oluşturulur
+* Pizza boyutu seçilir
+* Hamur tipi seçilir
+* Kenar tipi seçilir
+
+# Pizza boyutu seçilir
+* Elementi bekle ve sonra tıkla "ilkboyut"
+
+# Hamur tipi seçilir
+* Elementi bekle ve sonra tıkla "ilkhamurtipi"
+
+# Kenar tipi seçilir
+* Elementi bekle ve sonra tıkla "ilkkenartipi"

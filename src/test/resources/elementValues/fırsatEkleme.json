@@ -30,12 +30,12 @@
     "type": "id"
   },
   {
-    "key": "fırsatSepetEkle",
+    "key": "ürünsepetekle",
     "value":"DPE_TR_COUPONDETAIL_BUTTON_ADDTOBASKET",
     "type": "id"
   },
   {
-    "key": "fırsatSepetEkleGelAl",
+    "key": "ürünsepetekleGelAl",
     "value":"(//a[@class='couponDetail__Button-sc-1vcdi7n-0 bDbfCJ'][contains(text(),'Sepete Ekle')])[2]",
     "type": "xpath"
   },
@@ -157,6 +157,11 @@
   {
     "key": "sebzelipeynirlidürümos",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "ilkKampanya",
+    "value":"DPE_TR_CAMPAIGNS_TAB1_CARD0",
     "type": "id"
   }
 ]

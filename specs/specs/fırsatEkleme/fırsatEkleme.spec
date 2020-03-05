@@ -9,7 +9,7 @@ Tags:fırsatEkleme_AdreseTeslimAnasayfadakiFirsatiSecme
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfadaki 2 orta boy pizza fırsatına tıklanır
 * 2 orta boy kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir/ Gel Al
+* Ürün seçildikten sonra sepete eklenir/ Gel Al
 * Sepetim ikonuna tıklanır
 * Sepetimde ürün var mı kontrol edilir
 
@@ -24,7 +24,7 @@ Tags:fırsatEkleme_AdreseTeslimTumKampanyalarKismindan
 * Haftanın kampanyalarına tıklanır/ Adrese teslim
 * 3 al 1 öde kampanyası seçilir/ Adrese teslim
 * 3 al 1 öde kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir
+* Ürün seçildikten sonra sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepetimde ürün var mı kontrol edilir
 
@@ -39,7 +39,7 @@ Tags:fırsatEkleme_AdreseTeslimTumKampanyalarKismindanPizzaniDuzenle
 * Haftanın kampanyalarına tıklanır/ Adrese teslim
 * 3 al 1 öde kampanyası seçilir/ Adrese teslim
 * 3 al 1 öde kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir
+* Ürün seçildikten sonra sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepetimde ürün var mı kontrol edilir
 
@@ -62,7 +62,7 @@ Tags:fırsatEkleme_AdreseTeslimSubeyeOzelKismindan
 * Şubeye özel fırsatlara tıklanır
 * 3 al 1 öde kampanyası seçilir / Adrese teslim(tüm kampanyalardan girilir)
 * 3 al 1 öde kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir
+* Ürün seçildikten sonra sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepetimde ürün var mı kontrol edilir
 
@@ -77,7 +77,7 @@ Tags:fırsatEkleme_GelAlTumKampanyalarKismindan
 * Haftanın kampanyalarına gidilir/Gel Al
 * Orta boy pizzalar kampanyası seçilir/ Gel Al
 * Orta boy pizzalar kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir/ Gel Al
+* Ürün seçildikten sonra sepete eklenir/ Gel Al
 * Sepetim ikonuna tıklanır
 * Sepetimde ürün var mı kontrol edilir
 
@@ -92,7 +92,7 @@ Tags:fırsatEkleme_GelAlTumKampanyalarKismindanPizzaniDuzenle
 * Haftanın kampanyalarına gidilir/Gel Al
 * Orta boy pizzalar kampanyası seçilir/ Gel Al
 * Orta boy pizzalar kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir/ Gel Al
+* Ürün seçildikten sonra sepete eklenir/ Gel Al
 * Sepetim ikonuna tıklanır
 * Sepetimde ürün var mı kontrol edilir
 
@@ -106,7 +106,7 @@ Tags:fırsatEkleme_GelAlSubeyeOzelKismindanPizzaniDuzenle
 * Şubeye özel fırsatlara tıklanır/ Gel Al
 * Gel al dürümos kampanyası seçilir/ Gel Al
 * Gel al dürümos kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir/ Gel Al
+* Ürün seçildikten sonra sepete eklenir/ Gel Al
 * Sepetim ikonuna tıklanır
 * Sepetimde ürün var mı kontrol edilir
 
@@ -120,6 +120,6 @@ Tags:fırsatEkleme_GelAlSubeyeOzelKismindan
 * Şubeye özel fırsatlara tıklanır/ Gel Al
 * Gel al dürümos kampanyası seçilir/ Gel Al
 * Gel al dürümos kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir/ Gel Al
+* Ürün seçildikten sonra sepete eklenir/ Gel Al
 * Sepetim ikonuna tıklanır
 * Sepetimde ürün var mı kontrol edilir

@@ -13,11 +13,11 @@ tags:Promosyonkoduile_Sepeteekleme
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 * Tüm pizzalar alanına kaydırılır
-* Tüm Kampanyalar Butonuna tıklanır
-* Haftanın kampanyalarına tıklanır/ Adrese teslim
-* 3 al 1 öde kampanyası seçilir/ Adrese teslim
-* 3 al 1 öde kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Tüm pizzalarda ilk pizza kategorisi seçilir
+* Pizza kategorisindeki ilk pizza seçilir
+* Seçilen pizza için sipariş oluşturulur
+* Ürün seçildikten sonra sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Promosyon koduna tıklanır
@@ -38,11 +38,11 @@ tags:Promosyonkoduile_Sepeteekleme_OlumsuzSenaryo
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
 * Tüm pizzalar alanına kaydırılır
-* Tüm Kampanyalar Butonuna tıklanır
-* Haftanın kampanyalarına tıklanır/ Adrese teslim
-* 3 al 1 öde kampanyası seçilir/ Adrese teslim
-* 3 al 1 öde kampanyası için sipariş oluşturulur
-* Fırsat ürünleri seçildikten sonra sepete eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Tüm pizzalarda ilk pizza kategorisi seçilir
+* Pizza kategorisindeki ilk pizza seçilir
+* Seçilen pizza için sipariş oluşturulur
+* Ürün seçildikten sonra sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Promosyon koduna tıklanır
