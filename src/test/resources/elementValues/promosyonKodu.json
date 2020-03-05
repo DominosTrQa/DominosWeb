@@ -1,0 +1,32 @@
+[
+  {
+    "key": "promosyonkodu",
+    "value":"DPE_TR_BASKET_DROPDOWN",
+    "type": "id"
+  },
+  {
+    "key": "kampanyakodu",
+    "value":"DPE_TR_BASKET_DROPDOWN_PROMOTIONCODE",
+    "type": "id"
+  },
+  {
+    "key": "promosyonAdı",
+    "value":"DPE_TR_BASKET_DROPDOWN_PROMOTIONNAME",
+    "type": "id"
+  },
+  {
+    "key": "promosyonAdıGnctrkcll",
+    "value":"(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "promosyonkullan",
+    "value":"DPE_TR_BASKET_DROPDOWN_PROMOTIONUSE",
+    "type": "id"
+  },
+  {
+    "key": "yanliskampanyauyari",
+    "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk'][contains(text(),'geçersiz')]",
+    "type": "xpath"
+  }
+]

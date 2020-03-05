@@ -11,19 +11,19 @@
   },
   {
     "key": "dropdownSuperos",
-    "value":"(//div[contains(text(),'Süperos')])[1]",
-    "type": "xpath"
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM1",
+    "type": "id"
   },
 
   {
     "key": "dropdownSucuksever",
-    "value":"(//div[contains(text(),'Sucuksever Pizza')])[2]",
-    "type": "xpath"
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1_ITEM2",
+    "type": "id"
   },
   {
     "key": "dropdownVegi",
-    "value":"(//div[contains(text(),'Vegi')])[3]",
-    "type": "xpath"
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2_ITEM7",
+    "type": "id"
   },
   {
     "key": "SepeteEkleButon",

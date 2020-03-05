@@ -43,5 +43,30 @@
     "key": "pizzasepeteekle",
     "value":"DPE_TR_PIZZADETAIL_BUTTON_ADDTOBASKET",
     "type": "id"
+  },
+  {
+    "key": "tümpizzalarilkpizzakategorisi",
+    "value":"DPE_TR_PIZZAS_TAB0",
+    "type": "id"
+  },
+  {
+    "key": "ilkpizza",
+    "value":"DPE_TR_PIZZAS_TAB0_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "ilkboyut",
+    "value":"DPE_TR_PIZZADETAIL_BUTTON_PIZZA_SIZE8",
+    "type": "id"
+  },
+  {
+    "key": "ilkhamurtipi",
+    "value":"DPE_TR_PIZZADETAIL_BUTTON_DOUGH_TYPE_KLSKHMR",
+    "type": "id"
+  },
+  {
+    "key": "ilkkenartipi",
+    "value":"DPE_TR_PIZZADETAIL_BUTTON_SIDE_TYPENONE",
+    "type": "id"
   }
 ]

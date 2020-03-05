@@ -11,11 +11,12 @@
 * Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
 * Elementi bekle ve sonra tıkla "patsoEkmekArasiButon"
 
-# Fırsat ürünleri seçildikten sonra sepete eklenir
-* Elementi bekle ve sonra tıkla "fırsatSepetEkle"
+# Ürün seçildikten sonra sepete eklenir
+* Elementi bekle ve sonra tıkla "pizzasepeteekle"
 
-# Fırsat ürünleri seçildikten sonra sepete eklenir/ Gel Al
-* Elementi bekle ve sonra tıkla "fırsatSepetEkleGelAl"
+
+# Ürün seçildikten sonra sepete eklenir/ Gel Al
+* Elementi bekle ve sonra tıkla "ürünsepetekleGelAl"
 
 # Sepetimde ürün var mı kontrol edilir
 * "3" saniye bekle

@@ -1,0 +1,28 @@
+
+
+
+# Promosyon koduna tıklanır
+* Elementi bekle ve sonra tıkla "promosyonkodu"
+
+# Promosyon adına tıklanır
+* Elementi bekle ve sonra tıkla "promosyonAdı"
+
+# Promosyon adı seçilir
+* Elementi bekle ve sonra tıkla "promosyonAdıGnctrkcll"
+
+# Kampanya kodu girilir
+* Elementi bekle ve sonra tıkla "kampanyakodu"
+* "WATSONS" textini "kampanyakodu" elemente yaz
+
+# Promosyon kullanılır
+* Elementi bekle ve sonra tıkla "promosyonkullan"
+
+# Promosyon kodu alanına kaydırılır
+* "kampanyakodu" alanına kaydır
+
+# Yanlış kampanya kodu girilir
+* Elementi bekle ve sonra tıkla "kampanyakodu"
+* "WATSONSS" textini "kampanyakodu" elemente yaz
+
+# Girdiğiniz kampanya kodu geçersiz yazısının geldiği kontrol edilir
+* Element var mı kontrol et "yanliskampanyauyari"

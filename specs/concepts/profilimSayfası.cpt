@@ -30,8 +30,8 @@
 
 # Üyelik bilgilerimden gidilen Adreslerim sayfası kontrol edilir
 * Element var mı kontrol et "adreslerim_Adres_Ekle_Buton"
-* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
-* Element var mı kontrol et "adreslerim_Adres_Düzenle_Değişiklikleri_Kaydet_Buton"
+* Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Buton"
+* Element var mı kontrol et "adresKaydetButon"
 * Element var mı kontrol et "adreslerim_Adres_Düzenle_Sil_Buton"
 
 # Üyelik bilgilerim sayfasındaki Pizza Takip butonuna tıklanır

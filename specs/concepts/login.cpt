@@ -255,3 +255,6 @@
 # Güncelle butonuna tıklanır
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
+
+# Üye ol butonuna tıklanır(sepet üzerinden)
+* Elementi bekle ve sonra tıkla "uyarıüzerindenüyeol"

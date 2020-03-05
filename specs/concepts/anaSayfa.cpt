@@ -40,20 +40,6 @@
 * Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
 * "5" saniye bekle
 
-# Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Elementi bekle ve sonra tıkla "ilDropdown"
-* Elementi bekle ve sonra tıkla "ilİstanbul"
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "ilceDropdown"
-* Elementi bekle ve sonra tıkla "ilceAdalar"
-* "4" saniye bekle
-* Elementi bekle ve sonra tıkla "mahalleDropdown"
-* "4" saniye bekle
-* Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
-* "4" saniye bekle
-
 # Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"
@@ -184,7 +170,7 @@
 * Elementi bekle ve sonra tıkla "KonumpaylasOkisareti"
 
 # Ekstra Lezzetlere gidilir
-* "4" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
 * "3" saniye bekle
 
