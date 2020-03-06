@@ -24,17 +24,13 @@ tags:Ortaboybarbeküsoslusucuklupizza
 * Tüm Kampanyalar Butonuna tıklanır
 * Haftanın kampanyalarına gidilir
 * Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
-* "2" saniye bekle
-* "birinciUrunSeciniz" alanına kaydır
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
-* "2" saniye bekle
+* İlk ürün düzenlemeye tıklanır
 * Kalp şeklinde hamura tıklanır
-* Elementi bekle ve sonra tıkla "sucukMalzeme"
-* Elementi bekle ve sonra tıkla "misirMalzeme"
+* Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir
 * Ekstra Malzeme Ekle butonuna tıklanır
-* Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
+* Güncelle butonuna tıklanır(özel kampanyalar için)
 * Kampanya sepete eklenir
 
 
@@ -47,19 +43,16 @@ tags:Dilediğinbüyükboypizzakampanyasıseçilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Haftanın kampanyalarına gidilir
 * Dilediğin büyük boy pizza kampanyası seçilir
-* "3" saniye bekle
 * "birinciUrunSeciniz" alanına kaydır
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
 * Barbekü pizza çeşidi seçilir
 * Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
-* "2" saniye bekle
 * Kalp şeklinde hamura tıklanır
-* Elementi bekle ve sonra tıkla "sucukMalzeme"
-* Elementi bekle ve sonra tıkla "misirMalzeme"
+* Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir
 * Ekstra Malzeme Ekle butonuna tıklanır
-* Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
+* Güncelle butonuna tıklanır(özel kampanyalar için)
 * Kampanya sepete eklenir
 
 
@@ -75,14 +68,12 @@ tags:Ortaboyballıhardalsoslutavuklupizza
 * "2" saniye bekle
 * "birinciUrunSeciniz" alanına kaydır
 * Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
-* "2" saniye bekle
 * Kalp şeklinde hamura tıklanır
-* Elementi bekle ve sonra tıkla "sucukMalzeme"
-* Elementi bekle ve sonra tıkla "misirMalzeme"
+* Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir
 * Ekstra Malzeme Ekle butonuna tıklanır
-* Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
+* Güncelle butonuna tıklanır(özel kampanyalar için)
 * Kampanya sepete eklenir
 
 
