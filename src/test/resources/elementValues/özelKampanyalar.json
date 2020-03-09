@@ -58,10 +58,5 @@
     "key": "domatestext",
     "value":"//button[@class='selectbutton__Container-sc-7t8tj6-0 jUfaNk'][contains(text(),'Domates')]",
     "type": "xpath"
-  },
-  {
-    "key": "dublexcheddarkenar",
-    "value":"//div[@class='styled__DescriptionText-sc-1n00qk4-6 gIbyIz'][contains(text(),'Dublex Cheddar')]",
-    "type": "xpath"
   }
 ]
