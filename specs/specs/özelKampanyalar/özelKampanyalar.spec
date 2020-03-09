@@ -2,9 +2,9 @@
 =====================
 
      
-3 Al 1 öde Kampanyası
----------------------
-tags:3Al1ödeKampanyasısepeteeklenir
+Özel kampanyalar - 3 Al 1 öde kampanyası
+----------------------------------------
+tags:özelKampanyalar_3al1ödeKampanyası
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -15,9 +15,27 @@ tags:3Al1ödeKampanyasısepeteeklenir
 * Kampanya sepete eklenir
 
 
-Orta boy barbekü soslu sucuklu pizza seçilir
---------------------------------------------
-tags:Ortaboybarbeküsoslusucuklupizza
+Özel Kampanyalar - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası
+------------------------------------------------------------------
+tags:özelKampanyalar_Ortaboybarbeküsoslu_sucuklu_pizzakampanyası
+
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Tüm pizzalar alanına kaydırılır
+* Tüm Kampanyalar Butonuna tıklanır
+* Haftanın kampanyalarına gidilir
+* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
+* İlk ürün düzenlemeye tıklanır
+* Sucuk ve mısır malzemeleri çıkarılır
+* Ekstra Malzeme Ekle butonuna tıklanır
+* Cheddar ve Mozarella eklenir
+* Ekstra Malzeme Ekle butonuna tıklanır
+* Güncelle butonuna tıklanır(özel kampanyalar için)
+* Kampanya sepete eklenir
+
+
+Özel Kampanyalar - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası - Kalp şeklinde hamur seçilir
+-------------------------------------------------------------------------------------------------
+tags:özelKampanyalar_Ortaboy_barbeküsoslu_Sucuklupizza_Kalpşeklinde_Hamur_Seçilir
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -34,9 +52,9 @@ tags:Ortaboybarbeküsoslusucuklupizza
 * Kampanya sepete eklenir
 
 
-Dilediğin büyük boy pizza kampanyası seçilir
---------------------------------------------
-tags:Dilediğinbüyükboypizzakampanyasıseçilir
+Özel Kampanyalar - Dilediğin büyük boy pizza kampanyası
+-------------------------------------------------------
+tags:özelKampanyalar_Dilediğinbüyükboy_pizzakampanyası
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -47,7 +65,6 @@ tags:Dilediğinbüyükboypizzakampanyasıseçilir
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
 * Barbekü pizza çeşidi seçilir
 * Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
-* Kalp şeklinde hamura tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir
@@ -56,9 +73,9 @@ tags:Dilediğinbüyükboypizzakampanyasıseçilir
 * Kampanya sepete eklenir
 
 
-Orta boy ballı hardal soslu tavuklu pizza seçilir
--------------------------------------------------
-tags:Ortaboyballıhardalsoslutavuklupizza
+Özel Kampanyalar - Orta boy ballı hardal soslu tavuklu pizza kampanyası
+-----------------------------------------------------------------------
+tags:özelKampanyalar_Ortaboy_ballıhardalsoslu_tavuklu_pizzakampanyası
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -68,7 +85,6 @@ tags:Ortaboyballıhardalsoslutavuklupizza
 * "2" saniye bekle
 * "birinciUrunSeciniz" alanına kaydır
 * Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
-* Kalp şeklinde hamura tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir
@@ -79,7 +95,7 @@ tags:Ortaboyballıhardalsoslutavuklupizza
 
 Özel pizzalar - Sosyal pizza
 -----------------------------
-tags:ÖzelpizzalarSosyalpizza
+tags:Özelpizzalar_Sosyalpizza
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -91,7 +107,7 @@ tags:ÖzelpizzalarSosyalpizza
 
 Özel pizzalar - Sosyal pizza - Acılı istiyorum
 -----------------------------------------------
-tags:ÖzelpizzalarSosyalpizzaAcılıistiyorum
+tags:Özelpizzalar_Sosyalpizza_Acılıistiyorum
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
