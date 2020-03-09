@@ -35,7 +35,7 @@ tags:özelKampanyalar_ortaBoyBarbeküSosluSucukluPizzaKampanyası
 
 Özel Kampanyalar - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası - Kalp şeklinde hamur seçimi
 -------------------------------------------------------------------------------------------------
-tags:özelKampanyalar_ortaBoyBarbeküSosluSucukluPizza_kalpŞeklindeHamurSeçilir
+tags:özelKampanyalar_ortaBoyBarbeküSosluSucukluPizza_kalpŞeklindeHamurSeçimi
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır

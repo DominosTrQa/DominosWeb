@@ -27,21 +27,11 @@
 * Elementi bekle ve sonra tıkla "misirMalzeme"
 * Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
 
-
 # Italiano pizza çeşidi seçilir
 * Elementi bekle ve sonra tıkla "italianopizza"
 
-# Süperos pizza çeşidi seçilir
-* Elementi bekle ve sonra tıkla "süperospizza"
-
 # Barbekü pizza çeşidi seçilir
 * Elementi bekle ve sonra tıkla "barbeküpizza"
-
-# Klasik pizza çeşidi seçilir
-* Elementi bekle ve sonra tıkla "klasikpizza"
-
-# Konyalım pizza çeşidi seçilir
-* Elementi bekle ve sonra tıkla "konyalımpizza"
 
 # Sucuksever pizza çeşidi seçilir
 * Elementi bekle ve sonra tıkla "sucukseverpizza"
@@ -65,9 +55,6 @@
 # Sosyal pizza çeşidine tıklanır
 * Elementi bekle ve sonra tıkla "sosyalpizzatext"
 * "4" saniye bekle
-
-# Dublex cheddar hamur tipi seçilir
-* Elementi bekle ve sonra tıkla "dublexcheddarkenar"
 
 # Acılı istiyorum seçeneği işaretlenir
 * Elementi bekle ve sonra tıkla "acılıistiyorum"

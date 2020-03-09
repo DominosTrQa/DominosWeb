@@ -10,23 +10,8 @@
     "type": "xpath"
   },
   {
-    "key": "süperospizza",
-    "value":"//div[@class='styled__OptionProductTitle-kipobh-5 dSzahP'][contains(text(),'Süperos')]",
-    "type": "xpath"
-  },
-  {
     "key": "barbeküpizza",
     "value":"//div[@class='styled__OptionProductTitle-kipobh-5 dSzahP'][contains(text(),'Barbekü Soslu Sucuklu Pizza')]",
-    "type": "xpath"
-  },
-  {
-    "key": "klasikpizza",
-    "value":"//div[@class='styled__OptionProductTitle-kipobh-5 dSzahP'][contains(text(),'Klasik')]",
-    "type": "xpath"
-  },
-  {
-    "key": "konyalımpizza",
-    "value":"(//div[contains(text(),'Konyalım')])[1]",
     "type": "xpath"
   },
   {
