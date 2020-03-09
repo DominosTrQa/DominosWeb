@@ -99,8 +99,8 @@
 
 # Fırsat ekranına giriş yapıldığı kontrol edilir
 * "5" saniye bekle
-* Element var mı kontrol et "FırsatIlkTab"
-* Element var mı kontrol et "FırsatIkinciTab"
+* Element var mı kontrol et "dominosLogo"
+* Element var mı kontrol et "profil_Menu_Buton"
 
 # Fırsat içeriğindeki pizzanın geldiği kontrol edilir
 * "5" saniye bekle
