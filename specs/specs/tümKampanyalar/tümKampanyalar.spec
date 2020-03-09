@@ -82,7 +82,6 @@ tags:tumKampanyalar_ÜstBarSayfalararasigeciskontrolu
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
-* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Tüm Kampanyalar sayfasındayken üst bar sayfalar arası geçiş kontrolü yapılır
 
