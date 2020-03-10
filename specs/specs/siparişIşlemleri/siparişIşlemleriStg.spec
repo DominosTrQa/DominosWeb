@@ -4,7 +4,7 @@ Sipariş İşlemleri
 
 Sipariş İşlemleri - Test adresi - Manuel
 ----------------------------------------
-Tags:siparisIslemleriCanlı_TestAdresi_Manuel
+Tags:siparisIslemleri_TestAdresi_Manuel
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -28,7 +28,7 @@ Tags:siparisIslemleriCanlı_TestAdresi_Manuel
 
 Sipariş İşlemleri - Test adresi - Dropdown
 ------------------------------------------
-Tags:siparisIslemleriCanlı_TestAdresi_Dropdown
+Tags:siparisIslemleri_TestAdresi_Dropdown
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir

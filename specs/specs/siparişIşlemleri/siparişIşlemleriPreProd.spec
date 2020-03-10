@@ -2,7 +2,7 @@ Sipariş İşlemleri Canlı
 =======================
 
 
-Sipariş İşlemleri - Test adresi - Manuel
+Sipariş İşlemleri(Canlı) - Test adresi - Manuel
 ----------------------------------------
 Tags:siparisIslemleriCanlı_TestAdresi_Manuel
 
@@ -24,7 +24,7 @@ Tags:siparisIslemleriCanlı_TestAdresi_Manuel
 * Ödeme şekli seçilir
 
 
-Sipariş İşlemleri - Test adresi - Dropdown
+Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 ------------------------------------------
 Tags:siparisIslemleriCanlı_TestAdresi_Dropdown
 
