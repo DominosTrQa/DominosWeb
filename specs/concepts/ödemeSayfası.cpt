@@ -31,6 +31,23 @@
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
+# Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Elementi bekle ve sonra tıkla "caddeDropdown"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
+* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+
 # Yeni adres ekle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
 
@@ -69,21 +86,6 @@
 # Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
-* "3" saniye bekle
-* "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
-* Elementi bekle ve sonra tıkla "daireTextbox"
-* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
-* Elementi bekle ve sonra tıkla "adresAdiTextbox"
-* "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
-* Elementi bekle ve sonra tıkla "adresKaydetButon"
-
-# Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
-* Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelectAyısıgıSokak"
 * "3" saniye bekle
 * "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
 * Elementi bekle ve sonra tıkla "daireTextbox"

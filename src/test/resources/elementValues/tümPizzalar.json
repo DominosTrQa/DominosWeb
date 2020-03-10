@@ -57,6 +57,11 @@
     "type": "id"
   },
   {
+    "key": "ozelPizzalarButon",
+    "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Özel Pizzalar')]",
+    "type": "xpath"
+  },
+  {
     "key": "bolMalzemePizzalar",
     "value":"DPE_TR_PIZZAS_TAB2",
     "type": "id"
