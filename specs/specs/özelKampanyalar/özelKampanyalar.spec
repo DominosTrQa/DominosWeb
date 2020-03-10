@@ -102,7 +102,7 @@ tags:özelpizzalar_sosyalPizza
 * Tüm Pizzalar butonuna tıklanır
 * Özel pizzalar butonuna tıklanır
 * Sosyal pizza çeşidine tıklanır
-* Kampanya sepete eklenir
+* Pizza sepete eklenir
 
 
 Özel pizzalar - Sosyal pizza - Acılı istiyorum
@@ -116,4 +116,4 @@ tags:özelpizzalar_sosyalPizza_acılıİstiyorum
 * Sosyal pizza çeşidine tıklanır
 * Acılı istiyorum seçeneği işaretlenir
 * Çıkarmak istenilen malzemeler seçilir(Özel pizzalar için)
-* Kampanya sepete eklenir
+* Pizza sepete eklenir
