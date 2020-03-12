@@ -30,3 +30,6 @@
 
 # Ye Kazan Sıkça Sorulan Sorulardan biri kontrol edilir
 * Element var mı kontrol et "Ye_Kazan_Sikca_Sorulan_Sorulardan_Biri_Linktext"
+
+# Ye kazan uyarı butonundan çıkılır
+* Elementi bekle ve sonra tıkla "YeKazanuyariCikisButonu"

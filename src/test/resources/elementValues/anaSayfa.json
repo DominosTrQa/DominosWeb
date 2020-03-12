@@ -363,5 +363,25 @@
     "key": "KonumpaylasOkisareti",
     "value":"//*[@class='styled__LocationIcon-sc-7lrbup-4 ljHEoq']",
     "type": "xpath"
+  },
+  {
+    "key": "ikincikayıtlıadres",
+    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSITEM1",
+    "type": "id"
+  },
+  {
+    "key": "FırsatIlkTabsosyalpizza",
+    "value":"(//*[@class='styled__CampaignCardImageContainer-sc-1n4y3hk-0 libFqc'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "AdresSecmeGelalilkadres",
+    "value":"DPE_TR_STORELISTCARRYOUT_BUTTON_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "Secilisubeiledevamet",
+    "value":"DPE_TR_STORELISTCARRYOUT_BUTTON_SELECTEDADDRESS",
+    "type": "id"
   }
 ]

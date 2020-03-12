@@ -376,3 +376,6 @@
 # Adrese Teslim / Secili Adres kontrol edilir
 * "2" saniye bekle
 * Element var mı kontrol et "profilimPopupAdreslerimIlIlceDüzenleButon"
+
+# Anasayfada adres teslim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "Anasayfa_Adrese_Teslim_Button"

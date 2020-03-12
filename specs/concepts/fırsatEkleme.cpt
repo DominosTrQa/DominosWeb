@@ -84,6 +84,9 @@
 * Elementi bekle ve sonra tıkla "FırsatIlkTab"
 * Element var mı kontrol et "ilkKampanyaIlkPizza"
 
+# Şubeye özel fırsatlar ilk fırsata tıklanır
+*Elementi bekle ve sonra tıkla "FırsatIlkTabsosyalpizza"
+
 # Orta boy pizzalar kampanyası için sipariş oluşturulur
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
