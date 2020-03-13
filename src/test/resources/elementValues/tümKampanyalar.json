@@ -1,18 +1,18 @@
 [
   {
     "key": "HaftaninKampanyalari",
-    "value":"DPE_TR_CAMPAIGNS_TAB1",
-    "type": "id"
+    "value":"//span[contains(text(),'Haftanın Kampanyaları')]",
+    "type": "xpath"
   },
   {
     "key": "HaftaninKampanyalariButon1",
-    "value":"DPE_TR_CAMPAIGNS_TAB1_CARD0",
+    "value":"DPE_TR_CAMPAIGNS_TAB2_CARD0",
     "type": "id"
   },
   {
     "key": "TekKisilikKampanyalar",
-    "value":"DPE_TR_CAMPAIGNS_TAB2",
-    "type": "id"
+    "value":"//span[contains(text(),'Tek Kişilik Kampanyalar')]",
+    "type": "xpath"
   },
   {
     "key": "TekKisilikKampanyalarButon1",
@@ -21,22 +21,22 @@
   },
   {
     "key": "2-3kisilikKampanyalar",
-    "value":"DPE_TR_CAMPAIGNS_TAB3",
-    "type": "id"
+    "value":"//span[contains(text(),'2-3 Kişilik Kampanyalar')]",
+    "type": "xpath"
   },
   {
     "key": "2-3kisilikKampanyalarButon1",
-    "value":"DPE_TR_CAMPAIGNS_TAB3_CARD0",
+    "value":"DPE_TR_CAMPAIGNS_TAB4_CARD0",
     "type": "id"
   },
   {
     "key": "4KisiveÜzeriKampanyalar",
-    "value":"DPE_TR_CAMPAIGNS_TAB4",
-    "type": "id"
+    "value":"//span[contains(text(),'4 Kişi ve Üzeri Kampanyalar')]",
+    "type": "xpath"
   },
   {
     "key": "4KisiveÜzeriKampanyalarButon1",
-    "value":"DPE_TR_CAMPAIGNS_TAB4_CARD0",
+    "value":"DPE_TR_CAMPAIGNS_TAB5_CARD0",
     "type": "id"
   },
   {

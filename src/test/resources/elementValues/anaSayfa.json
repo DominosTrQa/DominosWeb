@@ -383,5 +383,20 @@
     "key": "Secilisubeiledevamet",
     "value":"DPE_TR_STORELISTCARRYOUT_BUTTON_SELECTEDADDRESS",
     "type": "id"
-  }
+  },
+  {
+    "key": "aciksubelerigöster",
+    "value":"DPE_TR_STOREFILTERFORM_CHECKBOX_ISACTIVESTOREFILTER",
+    "type": "id"
+  },
+  {
+    "key": "ilksubesecimi",
+    "value":"//*[@class='styled__StoreAddress-uqfvsm-4 eUfwTU']",
+    "type": "xpath"
+  },
+  {
+  "key": "gelaladreseklemedüzenle",
+  "value":"//div[@class='styled__EditButton-trnti1-4 ePaPPb'][contains(text(),'Düzenle')]",
+  "type": "xpath"
+}
 ]

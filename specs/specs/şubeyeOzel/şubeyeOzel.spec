@@ -36,3 +36,4 @@ Tags:subeyeOzel_anaSayfa_subeyiDegistirSanaEnYakinDominosuBulKontrolu
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Şubeye Özel butonuna tıklanır
 * Şubeyi Değiştir sayfasındaki En Yakın Dominosu Bul çalıştığı kontrol edilir
+
