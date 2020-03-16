@@ -4,7 +4,7 @@ Happy Path
      
 Kullanıcı ilk kez geliyor - Adrese Teslim
 -----------------------------------------------
-tags:kullanıcıİlkkezGeliyor_adreseTeslim
+tags:happyPath_kullanıcıİlkkezGeliyor_adreseTeslim
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -15,6 +15,7 @@ tags:kullanıcıİlkkezGeliyor_adreseTeslim
 * Tüm Kampanyalar Butonuna tıklanır
 * Şubeye özel fırsatlar ilk fırsata tıklanır
 * Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -25,7 +26,7 @@ tags:kullanıcıİlkkezGeliyor_adreseTeslim
 
 Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
 --------------------------------------------------------------------
-tags:kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis_üstMenü
+tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis_üstMenü
 
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -34,16 +35,17 @@ tags:kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis_üstMenü
 * İçecekler tabına tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Sepete coca cola eklenir
-* Sepetim ikonuna tıklanır
-* Sepetteki ürün iki kez arttırılır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
-* "2" saniye bekle
-* Seçili adres ile devam edilir
-* Ödeme şekli seçilir
-* Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
+* Sepetimde ürün var mı kontrol edilir
+ Sepetim ikonuna tıklanır
+ Sepetteki ürün iki kez arttırılır
+ Sepete git butonuna tıklanır
+ Sipariş ver butonuna tıklanır
+ Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
+ "2" saniye bekle
+ Seçili adres ile devam edilir
+ Ödeme şekli seçilir
+ Sipariş tamamlanır
+ Ye kazan uyarı butonundan çıkılır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -63,7 +65,7 @@ tags:kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis_üstMenü
 
 Kullanıcı ilk kez geliyor - Gel Al
 -----------------------------------
-tags:kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
+tags:happyPath_kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -73,6 +75,7 @@ tags:kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
 * Tüm Kampanyalar Butonuna tıklanır
 * Gel Al domisoslu kampanyalara tıklanır
 * Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -81,7 +84,7 @@ tags:kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
 
 Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 --------------------------------------------------------------
-tags:kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
+tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
 
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
@@ -94,13 +97,14 @@ tags:kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
 * İçecekler tabına tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Sepete coca cola eklenir
-* Sepetim ikonuna tıklanır
-* Sepetteki ürün iki kez arttırılır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
-* Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
+* Sepetimde ürün var mı kontrol edilir
+ Sepetim ikonuna tıklanır
+ Sepetteki ürün iki kez arttırılır
+ Sepete git butonuna tıklanır
+ Sipariş ver butonuna tıklanır
+ Ödeme şekli seçilir
+ Sipariş tamamlanır
+ Ye kazan uyarı butonundan çıkılır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -120,7 +124,7 @@ tags:kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
 
 Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
 ----------------------------------------------------------------------
-tags:servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
+tags:happyPath_servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
 
 * "testdominos1@test.co" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -135,6 +139,7 @@ tags:servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
 * Tüm Kampanyalar Butonuna tıklanır
 * Gel Al domisoslu kampanyalara tıklanır
 * Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -143,7 +148,7 @@ tags:servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
 
 Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
 -----------------------------------------------------------------------
-tags:servisTipiDeğiştirenKullanıcı_gelAl_adreseTeslim(üstMenü)
+tags:happyPath_servisTipiDeğiştirenKullanıcı_gelAl_adreseTeslim(üstMenü)
 
 * "testdominos2@test.co" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
@@ -155,6 +160,7 @@ tags:servisTipiDeğiştirenKullanıcı_gelAl_adreseTeslim(üstMenü)
 * Tüm Kampanyalar Butonuna tıklanır
 * Şubeye özel fırsatlar ilk fırsata tıklanır
 * Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
