@@ -35,7 +35,7 @@ Tags:adresEkleme_Profilimsekmesindengirilerek
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 
 
 Adres Ekleme - Profilim sekmesinden girilerek/Adres tarifi olmadan
@@ -46,7 +46,7 @@ Tags:adresEkleme_ProfilimsekmesindengirilerekAdrestarifiolmadan
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 
 
 Adres Ekleme - Üye olunur - Kalem ikonuna tiklanir/Secili adres ile devam edilir
@@ -67,7 +67,7 @@ Tags:adresEkleme_KayıtlıAdresGüncelle
 * Profilim butonuna tıklanır
 * Adreslerim butonuna tıklanır
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 
 Adres Ekleme - Kontrol
 ---------------------
@@ -90,6 +90,6 @@ Tags:adresEkleme_KayıtlıAdresSil
 * Profilim butonuna tıklanır
 * Adreslerim butonuna tıklanır
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No dropdown)
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * İlk adres düzenleye tıklanır
 * Seçili adres silinir
