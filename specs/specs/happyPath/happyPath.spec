@@ -89,13 +89,8 @@ tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Sadece açık şubeleri göster (Gel al)
-* Gel Al da Şubeleri Göster butonuna tıklanır
-* Gel Al çıkan ilk şube seçilir
-* Seçili Şube ile Devam Et butonuna basılır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Sepete coca cola eklenir
 * Sepetimde ürün var mı kontrol edilir
  Sepetim ikonuna tıklanır
@@ -108,18 +103,15 @@ tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adres eklerken kalem ikonuna tıklanır
-* Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
-* Yeni adres eklenir(Adalar-Burgazada-Kapıno farklı)
-* Seçili adres ile devam edilir
-* Anasayfadaki Ekmek Arası fırsatına tıklanır
-* Sepete eklenir
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+* Adres seçilirken ilk adres seçilir(Gel Al)
+* Seçili şube ile devam edilir
 * Sepetim ikonuna tıklanır
+* Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
-* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
+ Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
 Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)

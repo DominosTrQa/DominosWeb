@@ -242,3 +242,6 @@
 
 # Seçili şube ile devam edilir
 * Elementi bekle ve sonra tıkla "Secilisubeiledevamet"
+
+# Ödemeyi tamamla butonu geldiği kontrol edilir
+* Element var mı kontrol et "OdemeyiTamamla"
