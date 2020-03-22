@@ -68,5 +68,10 @@
     "key": "subeyeözelkampanyalar",
     "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Şubeye Özel Fırsatlar')]",
     "type": "xpath"
+  },
+  {
+    "key": "gelaldomisoslukampanyalar",
+    "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Gel Al Domisos')]",
+    "type": "xpath"
   }
 ]

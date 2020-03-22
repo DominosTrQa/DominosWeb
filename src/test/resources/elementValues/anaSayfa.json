@@ -371,8 +371,8 @@
   },
   {
     "key": "FırsatIlkTabsosyalpizza",
-    "value":"(//*[@class='styled__CampaignCardImageContainer-sc-1n4y3hk-0 libFqc'])[1]",
-    "type": "xpath"
+    "value":"DPE_TR_CAMPAIGNS_TAB0_CARD0",
+    "type": "id"
   },
   {
     "key": "AdresSecmeGelalilkadres",

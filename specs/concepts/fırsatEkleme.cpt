@@ -63,7 +63,7 @@
 * Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
 
 # Şubeye özel fırsatlara tıklanır
-* Elementi bekle ve sonra tıkla "FırsatIlkTab"
+* Elementi bekle ve sonra tıkla "subeyeözelkampanyalar"
 * "3" saniye bekle
 
 # Şubeye özel fırsatlara tıklanır/ Gel Al
@@ -88,7 +88,7 @@
 *Elementi bekle ve sonra tıkla "FırsatIlkTabsosyalpizza"
 
 # Gel Al domisoslu kampanyalara tıklanır
-* Elementi bekle ve sonra tıkla "FırsatIlkTabsosyalpizza"
+* Elementi bekle ve sonra tıkla "gelaldomisoslukampanyalar"
 
 # Orta boy pizzalar kampanyası için sipariş oluşturulur
 * "5" saniye bekle

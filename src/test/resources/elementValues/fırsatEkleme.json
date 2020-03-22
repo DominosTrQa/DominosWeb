@@ -135,11 +135,6 @@
     "type": "id"
   },
   {
-    "key": "FırsatIlkTab",
-    "value":"//span[contains(text(),'Şubeye Özel Fırsatlar')]",
-    "type": "xpath"
-  },
-  {
     "key": "FırsatIkinciTab",
     "value":"DPE_TR_CAMPAIGNS_TAB1",
     "type": "id"

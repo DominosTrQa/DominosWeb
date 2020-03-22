@@ -22,6 +22,7 @@ tags:happyPath_kullanıcıİlkkezGeliyor_adreseTeslim
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
+Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
 Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
@@ -49,8 +50,8 @@ tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adres eklerken kalem ikonuna tıklanır
-* Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+* Yeni adres ekle butonuna tıklanır
 * Yeni adres eklenir(Adalar-Burgazada-Kapıno farklı)
 * Seçili adres ile devam edilir
 * Anasayfadaki Ekmek Arası fırsatına tıklanır
@@ -61,6 +62,7 @@ tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
+Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
 Kullanıcı ilk kez geliyor - Gel Al
@@ -80,6 +82,7 @@ tags:happyPath_kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
+Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
 Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
@@ -136,6 +139,7 @@ tags:happyPath_servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
+Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
 Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
@@ -159,3 +163,4 @@ tags:happyPath_servisTipiDeğiştirenKullanıcı_gelAl_adreseTeslim(üstMenü)
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
+Ödemeyi tamamla butonu geldiği kontrol edilir
