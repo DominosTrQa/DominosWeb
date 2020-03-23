@@ -1,7 +1,6 @@
 Adres Ekleme
 =============
 
-
 Adres Ekleme - Üye Olunarak - Siparis tamamlanir
 ---------------------------------------------------
 Tags:adresEkleme_SenaryoÜyeOlunarakSiparistamamlanir
@@ -21,6 +20,7 @@ Tags:adresEkleme_GirisYapılmadan
 * Cookie onaylıyorum butonuna tıklanır
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır

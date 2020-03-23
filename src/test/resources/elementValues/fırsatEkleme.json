@@ -41,7 +41,7 @@
   },
   {
     "key": "Sepettekiürünkontrol",
-    "value":"//*[@class='counter__Display-uj55e1-3 ewpVev']",
+    "value":"//*[@class='styled__CartItemCountBadge-sc-126ws66-16 kjBZuU']",
     "type": "xpath"
   },
   {
@@ -132,11 +132,6 @@
   {
     "key": "sebzelipeynirlidürümos",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM0",
-    "type": "id"
-  },
-  {
-    "key": "FırsatIlkTab",
-    "value":"DPE_TR_CAMPAIGNS_TAB0",
     "type": "id"
   },
   {

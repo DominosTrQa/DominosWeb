@@ -15,6 +15,7 @@ Tags:checkoutSüreci_Kapıdaödeme_Kredikartıile
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -38,6 +39,7 @@ Tags:checkoutSüreci_Kapıdaödeme_Kredikartıile_Ileritarihzamanlı
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -62,6 +64,7 @@ Tags:checkoutSüreci_Onlineödeme_Kredikartıile
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
@@ -89,6 +92,7 @@ Tags:checkoutSüreci_Onlineödeme_Kredikartıile_Kayıtlıadresseçerek
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır

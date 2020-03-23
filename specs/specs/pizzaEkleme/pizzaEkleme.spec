@@ -11,8 +11,9 @@ tags:pizzaEkleme_gelAl
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar kenar seçilir
+* Kenar tipinde ilk kenar seçilir
 * Pizza sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
 
 
 Pizza Ekleme - Adrese Teslim
@@ -24,5 +25,6 @@ tags:pizzaEkleme_adreseTeslim
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar kenar seçilir
+* Kenar tipinde ilk kenar seçilir
 * Pizza sepete eklenir
+* Sepetimde ürün var mı kontrol edilir

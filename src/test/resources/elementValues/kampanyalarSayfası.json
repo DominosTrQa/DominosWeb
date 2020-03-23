@@ -39,8 +39,10 @@
     "key": "büyükBoyPizzalarGelAlKampanyasi",
     "value":"(//div[contains(text(),'Büyük Boy Pizzalar')])",
     "type": "xpath"
+  },
+  {
+    "key": "FırsatIlkTab",
+    "value":"DPE_TR_CAMPAIGNS_TAB0",
+    "type": "id"
   }
-
-
-
 ]

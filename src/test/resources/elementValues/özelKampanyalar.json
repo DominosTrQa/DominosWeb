@@ -11,7 +11,7 @@
   },
   {
     "key": "barbeküpizza",
-    "value":"//div[@class='styled__OptionProductTitle-kipobh-5 dSzahP'][contains(text(),'Barbekü Soslu Sucuklu Pizza')]",
+    "value":"//div[contains(text(),'Barbekü Soslu Sucuklu')]",
     "type": "xpath"
   },
   {
@@ -57,6 +57,21 @@
   {
     "key": "domatestext",
     "value":"//button[@class='selectbutton__Container-sc-7t8tj6-0 jUfaNk'][contains(text(),'Domates')]",
+    "type": "xpath"
+  },
+  {
+    "key": "domisoslukampanyalar",
+    "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Domisos')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeözelkampanyalar",
+    "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Şubeye Özel Fırsatlar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "gelaldomisoslukampanyalar",
+    "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Gel Al Domisos')]",
     "type": "xpath"
   }
 ]

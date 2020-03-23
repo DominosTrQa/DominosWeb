@@ -54,6 +54,25 @@
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "4" saniye bekle
 
+# Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Elementi bekle ve sonra tıkla "ilDropdownGelAl"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
+* Elementi bekle ve sonra tıkla "ilceAdalar"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdownGelAl"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
+* "2" saniye bekle
+* Sadece açık şubeleri göster (Gel al)
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+
+# Sadece açık şubeleri göster (Gel al)
+* Elementi bekle ve sonra tıkla "aciksubelerigöster"
+
 # Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"
@@ -110,6 +129,9 @@
 #Gel Al da Şubeleri Göster butonuna tıklanır
 * "1" saniye bekle
 * Elementi bekle ve sonra tıkla "subeleriGosterButon"
+
+# Gel Al çıkan ilk şube seçilir
+* Elementi bekle ve sonra tıkla "ilksubesecimi"
 
 #Gel Al da listelenen ilk şube seçilir
 * "1" saniye bekle
@@ -376,3 +398,12 @@
 # Adrese Teslim / Secili Adres kontrol edilir
 * "2" saniye bekle
 * Element var mı kontrol et "profilimPopupAdreslerimIlIlceDüzenleButon"
+
+# Anasayfadaki adres teslim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "Anasayfa_Adrese_Teslim_Button"
+
+# Anasayfadaki gel al butonuna tıklanır
+* Elementi bekle ve sonra tıkla "Anasayfa_Adrese_Teslim_Button"
+
+# Gel al adres ekleme ekranında düzenle butonuna tıklanır
+* Elementi bekle ve sonra tıkla "gelaladreseklemedüzenle"

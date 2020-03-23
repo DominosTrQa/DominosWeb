@@ -203,7 +203,27 @@
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* Elementi bekle ve sonra tıkla "ikincikayıtlıadres"
+
+# Yeni adres eklenir(Adalar-Burgazada-Kapıno farklı)
+* Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
+* Elementi bekle ve sonra tıkla "popupilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* Elementi bekle ve sonra tıkla "popupilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceSariyer"
+* Elementi bekle ve sonra tıkla "popupmahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
+* Elementi bekle ve sonra tıkla "sokakKelebekSokak"
+* "246" textini "kapiNoTextbox" elemente yaz
+* "1" textini "daireTextbox" elemente yaz
+* "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Kullanıcıdan eklenen adres silinir
 * "5" saniye bekle
@@ -213,3 +233,15 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Sil_Buton"
 * Element yok mu kontrol et "üyelik_Bilgilerim_Adreslerim_ilkadres"
+
+# Anasayfa adres değişikliği butonuna tıklanır
+* Elementi bekle ve sonra tıkla "Anasayfa_Adres_Degisikligi_Button"
+
+# Adres seçilirken ilk adres seçilir(Gel Al)
+* Elementi bekle ve sonra tıkla "AdresSecmeGelalilkadres"
+
+# Seçili şube ile devam edilir
+* Elementi bekle ve sonra tıkla "Secilisubeiledevamet"
+
+# Ödemeyi tamamla butonu geldiği kontrol edilir
+* Element var mı kontrol et "OdemeyiTamamla"

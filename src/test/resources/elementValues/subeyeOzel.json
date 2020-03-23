@@ -66,7 +66,7 @@
   },
   {
     "key": "subeyeOzelAcikKapaliBilgisi",
-    "value":"(//*[(@class='storeDetail__StoreOpenStatus-d50sx7-20 burTmA')])[1]",
+    "value":"//*[@class='pageHeader__Container-uo3je7-0 bumabh']",
     "type": "xpath"
   },
   {

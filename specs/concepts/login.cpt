@@ -124,13 +124,9 @@
 # Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
-* Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Gel Al servis tipi seçilir
-* İl ilçe mahalle seçilir(Gel Al)
-* Gel Al da Şubeleri Göster butonuna tıklanır
-* Gel Al da listelenen ilk şube seçilir
-* Seçili Şube ile Devam Et butonuna basılır
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 
 # Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Üye ol butonuna tıklanır
@@ -163,7 +159,7 @@
 
 # Cookie onaylıyorum butonuna tıklanır
 * Elementi bekle ve sonra tıkla "CookieAccept"
-* "3" saniye bekle
+* "4" saniye bekle
 
 # Üye olunur
 * Üye ol butonuna tıklanır

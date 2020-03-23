@@ -34,6 +34,11 @@
     "key": "Profilim_Popup_Uyelik_Bilgilerim_Ye_Kazan_Telefon_Checkbox",
     "value":"/html//div[@id='root']/div/div[4]/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']//p[.='Telefon']",
     "type": "xpath"
+  },
+  {
+    "key": "YeKazanuyariCikisButonu",
+    "value":"DPE_TR_MODALDIALOG_BUTTON_CLOSE",
+    "type": "id"
   }
 
 
