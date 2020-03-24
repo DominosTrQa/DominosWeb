@@ -192,7 +192,7 @@
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenleKonumPaylas"
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenleHaritadanEkle"
 
 # Adres eklerken kalem ikonuna tıklanır
 * "4" saniye bekle
@@ -326,10 +326,11 @@
 
 # Şubeye Özel butonuna tıklanır
 * Elementi bekle ve sonra tıkla "Anasayfa_Subeye_Ozel_Button"
+* "5" saniye bekle
 
 # Anasayfadan gidilen Şubeye Özel sayfasındaki elementler kontrol edilir
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
-* Element var mı kontrol et "subeyeOzelAdresBilgileriText"
+* Element var mı kontrol et "subeyeOzelYolTarifiAlText"
 * Element var mı kontrol et "subeyeOzelSubeyiDegistirButon"
 * Element var mı kontrol et "subeyeOzelCalismaSaatleriText"
 * Element var mı kontrol et "subeyeOzelSubeGonderimBolgeleriText"
@@ -338,17 +339,16 @@
 * Element var mı kontrol et "subeyeOzelEveServisBilgiAlani"
 * Element var mı kontrol et "subeyeOzelGelAlBilgiAlani"
 * Element var mı kontrol et "subeyeOzelMesafeBilgisiAlani"
-* Element var mı kontrol et "subeyeOzelSubeBilgileriText"
-* Element var mı kontrol et "subeyeOzelTumKampanyalarButon"
+* Element var mı kontrol et "subeyeOzelSubeIstatistikleriText"
+* Element var mı kontrol et "subeyeOzelTümkampanyalariInceleButon"
 * Element var mı kontrol et "subeyeOzelAcikKapaliBilgisi"
 * Element var mı kontrol et "subeyeOzelYolTarifiAlButon"
 
 # Şubeye Özel sayfasındaki Tüm Kampanyalar butonunun çalıştığı kontrol edilir
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
-* "subeyeOzelTumKampanyalarButon" alanına js ile kaydır
+* "subeyeOzelTümkampanyalariInceleButon" alanına js ile kaydır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "subeyeOzelTumKampanyalarButon"
-* "sayfaBasligi" elementi "Tüm Kampanyalar" değerini içeriyor mu kontrol et
+* Elementi bekle ve sonra tıkla "subeyeOzelTümkampanyalariInceleButon"
 
 # Şubeye Özel sayfasından gidilen Şubeyi Değişitir sayfasındaki elementler kontrol edilir
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et

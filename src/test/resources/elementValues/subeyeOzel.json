@@ -1,12 +1,12 @@
 [
   {
-    "key": "subeyeOzelAdresBilgileriText",
-    "value":"//div[contains(text(),'Adres Bilgileri')]",
+    "key": "subeyeOzelYolTarifiAlText",
+    "value":"//span[contains(text(),'Yol Tarifi Al')]",
     "type": "xpath"
   },
   {
     "key": "subeyeOzelSubeyiDegistirButon",
-    "value":"//a[contains(text(),'Şubeyi Değiştir')]",
+    "value":"//span[contains(text(),'Şubeyi Değiştir')]",
     "type": "xpath"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "key": "subeyeOzelGonderimSuresiText",
-    "value":"//h2[contains(text(),'Gönderim Süresi')]",
+    "value":"//*[@class='storeDetailDescription__Text-sc-95lke7-4 eIJsCo']/strong[contains(text(),'30')]",
     "type": "xpath"
   },
   {
@@ -31,22 +31,22 @@
   },
   {
     "key": "subeyeOzelEveServisBilgiAlani",
-    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-15 gOZGzq storeDetail__ColumnNonPadding-d50sx7-11 cKixMG column__NewColumn-sc-1s5q7bb-0 gNbNNr')])[1]",
+    "value":"//div[contains(text(),'Eve Servis')]",
     "type": "xpath"
   },
   {
     "key": "subeyeOzelGelAlBilgiAlani",
-    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-15 gOZGzq storeDetail__ColumnNonPadding-d50sx7-11 cKixMG column__NewColumn-sc-1s5q7bb-0 gNbNNr')])[2]",
+    "value":"//div[contains(text(),'Gel Al')]",
     "type": "xpath"
   },
   {
     "key": "subeyeOzelMesafeBilgisiAlani",
-    "value":"(//div[(@class='storeDetail__IconContainer-d50sx7-15 ejeQug storeDetail__ColumnNonPadding-d50sx7-11 cKixMG column__NewColumn-sc-1s5q7bb-0 gNbNNr')])",
+    "value":"//div[contains(text(),'Mesafe Bilgisi')]",
     "type": "xpath"
   },
   {
-    "key": "subeyeOzelSubeBilgileriText",
-    "value":"//div[contains(text(),'Şube Bilgileri')]",
+    "key": "subeyeOzelSubeIstatistikleriText",
+    "value":"//h1[contains(text(),'ŞUBE İSTATİSTİKLERİ')]",
     "type": "xpath"
   },
   {
@@ -60,13 +60,13 @@
     "type": "xpath"
   },
   {
-    "key": "subeyeOzelTumKampanyalarButon",
-    "value":"//button[contains(text(),'Tüm Kampanyalar')]",
-    "type": "xpath"
+    "key": "subeyeOzelTümkampanyalariInceleButon",
+    "value":"DPE_TR_STOREDETAIL_BUTTON_ALLCAMPAIGN",
+    "type": "id"
   },
   {
     "key": "subeyeOzelAcikKapaliBilgisi",
-    "value":"//*[@class='pageHeader__Container-uo3je7-0 bumabh']",
+    "value":"//*[@class='styled__StoreOpenStatus-sc-18oyjv3-16 eAbRxF']",
     "type": "xpath"
   },
   {
