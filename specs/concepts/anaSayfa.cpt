@@ -188,7 +188,7 @@
 * Element var mı kontrol et "Profilim"
 * Elementi bekle ve sonra tıkla "Profilim"
 
-# Adres eklerken kalem ikonuna tıklanılır, düzenlenir, konum paylaşılır
+# Adres eklerken kalem ikonuna tıklanılır, düzenlenir, haritadan ekleye tıklanır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
@@ -200,7 +200,7 @@
 * "2" saniye bekle
 * Cookie onaylıyorum butonuna tıklanır
 
-# Mevcut konum seçildikten sonra kontrol edilir
+# Mevcut konumunuz elementi kontrolü yapılır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "mevcutKonumunuz"
 
@@ -407,3 +407,14 @@
 
 # Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "gelaladreseklemedüzenle"
+
+# Adıyaman ili seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilAdıyaman"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+* "4" saniye bekle
+
+# Düzce ili seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilDüzce"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"

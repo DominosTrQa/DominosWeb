@@ -29,7 +29,7 @@ Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
 --------------------------------------------------------------------
 tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis_üstMenü
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Ekstra Lezzetlere gidilir
@@ -49,7 +49,7 @@ tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis
  Ye kazan uyarı butonundan çıkılır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * Yeni adres ekle butonuna tıklanır
 * Yeni adres eklenir(Adalar-Burgazada-Kapıno farklı)
@@ -89,7 +89,7 @@ Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 --------------------------------------------------------------
 tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
 
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Ekstra Lezzetlere gidilir
@@ -105,7 +105,7 @@ tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
  Ye kazan uyarı butonundan çıkılır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * Adres seçilirken ilk adres seçilir(Gel Al)
 * Seçili şube ile devam edilir

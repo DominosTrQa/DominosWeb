@@ -138,5 +138,30 @@
     "key": "FırsatIkinciTab",
     "value":"DPE_TR_CAMPAIGNS_TAB1",
     "type": "id"
+  },
+  {
+    "key": "kullaniciyaözelfirsateklemedüzenle",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_V2",
+    "type": "id"
+  },
+  {
+    "key": "kullaniciyaözelfirsateklemedüzenleSelect",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_V2_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "kullaniciyaözelpromosyonluürünler",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PROMOTIONLIST_V2",
+    "type": "id"
+  },
+  {
+    "key": "kullaniciyaözelpromosyonluürünlerSelect",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PROMOTIONLIST_V2_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "kullaniciyaözelsepeteekle",
+    "value":"DPE_TR_COUPONDETAILV2_BUTTON_GOTOCART",
+    "type": "id"
   }
 ]

@@ -398,5 +398,15 @@
   "key": "gelaladreseklemedüzenle",
   "value":"//div[@class='styled__EditButton-trnti1-4 ePaPPb'][contains(text(),'Düzenle')]",
   "type": "xpath"
-}
+  },
+  {
+    "key": "ilAdıyaman",
+    "value":"//div[text()='Adıyaman'][1]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilDüzce",
+    "value":"//div[text()='Düzce'][1]",
+    "type": "xpath"
+  }
 ]

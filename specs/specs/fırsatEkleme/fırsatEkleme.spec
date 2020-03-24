@@ -48,3 +48,50 @@ Tags:fırsatEkleme_GelAlSubeyeOzelKismindan
 * Tüm Kampanyalar Butonuna tıklanır
 * Şubeye özel fırsatlara tıklanır
 * Fırsat içeriğindeki pizzanın geldiği kontrol edilir
+
+
+Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Adrese Teslim
+-----------------------------------------------------------------
+Tags:FırsatEkleme_istanilenUrleGidilir_fırsat_adreseTeslim
+* Go to "https://www.dominos.com.tr/diledigin-ekmek-arasi-gel-al/_T943/firsat" address
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+
+
+
+Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Yeni - Adrese Teslim
+------------------------------------------------------------------------
+Tags:FırsatEkleme_istanilenUrleGidilir_fırsat_yeni_adreseTeslim
+* Go to "https://www.dominos.com.tr/diledigin-ekmek-arasi-gel-al/_T943/firsat-yeni" address
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+
+
+Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Gel Al
+-----------------------------------------------------------------
+Tags:FırsatEkleme_istanilenUrleGidilir_fırsat_gelAl
+* Go to "https://www.dominos.com.tr/diledigin-ekmek-arasi-gel-al/_T943/firsat" address
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+
+
+
+Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Yeni - Gel Al
+------------------------------------------------------------------------
+Tags:FırsatEkleme_istanilenUrleGidilir_fırsat_yeni_gelAl
+* Go to "https://www.dominos.com.tr/diledigin-ekmek-arasi-gel-al/_T943/firsat-yeni" address
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Birinci ürün seçilir
+* Promosyonlu ürünlerden promosyon istemiyorum seçilir
+* Kullanıcı bazlı fırsat sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
