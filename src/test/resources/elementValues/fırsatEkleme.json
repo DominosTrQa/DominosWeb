@@ -163,5 +163,15 @@
     "key": "kullaniciyaözelsepeteekle",
     "value":"DPE_TR_COUPONDETAILV2_BUTTON_GOTOCART",
     "type": "id"
+  },
+  {
+    "key": "kullaniciyaözeltonbalıklıekmekarası",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM5",
+    "type": "id"
+  },
+  {
+    "key": "evetsecilir",
+    "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO gAinbq'][contains(text(),'Evet')]",
+    "type": "xpath"
   }
 ]

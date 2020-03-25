@@ -417,4 +417,38 @@
 # Düzce ili seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilDüzce"
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceAkcakoca"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+
+# İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceBesiktas"
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleEtilermah"
+* Elementi bekle ve sonra tıkla "caddeDropdownid"
+* Elementi bekle ve sonra tıkla "sokakAhularsk"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+
+# İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceBesiktas"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleEtilermah"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "caddeDropdownid"
+* Elementi bekle ve sonra tıkla "sokakBahtiyarsk"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "apartmanNoid"
+* Elementi bekle ve sonra tıkla "apartmanNoiki"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+

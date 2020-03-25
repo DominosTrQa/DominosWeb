@@ -123,3 +123,6 @@
 
 # Kullanıcı bazlı fırsat sepete eklenir
 * Elementi bekle ve sonra tıkla "kullaniciyaözelsepeteekle"
+
+# Servis tipi güncellensin mi uyarısı çıkar, evet seçilir
+* Elementi bekle ve sonra tıkla "evetsecilir"
