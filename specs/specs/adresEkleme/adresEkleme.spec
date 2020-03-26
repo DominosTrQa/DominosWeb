@@ -3,7 +3,7 @@ Adres Ekleme
 
 Adres Ekleme - Üye Olunarak - Mevcut Konum Kontrolü
 ---------------------------------------------------
-Tags:adresEkleme_SenaryoÜyeOlunarakSiparistamamlanir
+tags:adresEkleme_SenaryoÜyeOlunarakSiparistamamlanir
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Adres eklerken kalem ikonuna tıklanılır, düzenlenir, haritadan ekleye tıklanır
@@ -12,7 +12,7 @@ Tags:adresEkleme_SenaryoÜyeOlunarakSiparistamamlanir
 
 Adres Ekleme - Giris Yapılmadan
 -----------------------------
-Tags:adresEkleme_GirisYapılmadan
+tags:adresEkleme_GirisYapılmadan
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -32,7 +32,7 @@ Tags:adresEkleme_GirisYapılmadan
 
 Adres Ekleme - Profilim sekmesinden girilerek
 ----------------------------------------------
-Tags:adresEkleme_Profilimsekmesindengirilerek
+tags:adresEkleme_Profilimsekmesindengirilerek
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
@@ -43,7 +43,7 @@ Tags:adresEkleme_Profilimsekmesindengirilerek
 
 Adres Ekleme - Profilim sekmesinden girilerek/Adres tarifi olmadan
 -------------------------------------------------------------------
-Tags:adresEkleme_ProfilimsekmesindengirilerekAdrestarifiolmadan
+tags:adresEkleme_ProfilimsekmesindengirilerekAdrestarifiolmadan
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
@@ -54,7 +54,7 @@ Tags:adresEkleme_ProfilimsekmesindengirilerekAdrestarifiolmadan
 
 Adres Ekleme - Üye olunur - Kalem ikonuna tiklanir/Secili adres ile devam edilir
 ---------------------------------------------------------------------------------
-Tags:adresEkleme_ÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
+tags:adresEkleme_ÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
@@ -64,7 +64,7 @@ Tags:adresEkleme_ÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 
 Adres Ekleme - Kayıtlı Adres - Güncelle
 ----------------------------------------
-Tags:adresEkleme_KayıtlıAdresGüncelle
+tags:adresEkleme_KayıtlıAdresGüncelle
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
@@ -74,7 +74,7 @@ Tags:adresEkleme_KayıtlıAdresGüncelle
 
 Adres Ekleme - Kontrol
 -----------------------
-Tags:adresEkleme_AdresEkleme/Kontrol
+tags:adresEkleme_AdresEkleme/Kontrol
 
 * "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -87,7 +87,7 @@ Tags:adresEkleme_AdresEkleme/Kontrol
 
 Adres Ekleme - Kayıtlı Adres Sil
 ---------------------------------
-Tags:adresEkleme_KayıtlıAdresSil
+tags:adresEkleme_KayıtlıAdresSil
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır

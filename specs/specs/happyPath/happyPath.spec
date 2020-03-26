@@ -2,8 +2,8 @@ Happy Path
 ===========
 
      
-Kullanıcı ilk kez geliyor - Adrese Teslim
------------------------------------------------
+HappyPath - Kullanıcı ilk kez geliyor - Adrese Teslim
+-------------------------------------------------------
 tags:happyPath_kullanıcıİlkkezGeliyor_adreseTeslim
 
 * Üye ol butonuna tıklanır
@@ -25,8 +25,8 @@ tags:happyPath_kullanıcıİlkkezGeliyor_adreseTeslim
 Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
-Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
---------------------------------------------------------------------
+HappyPath - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
+---------------------------------------------------------------------------------
 tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis_üstMenü
 
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -65,8 +65,8 @@ tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis
 Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
-Kullanıcı ilk kez geliyor - Gel Al
------------------------------------
+HappyPath - Kullanıcı ilk kez geliyor - Gel Al
+------------------------------------------------
 tags:happyPath_kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
 
 * Üye ol butonuna tıklanır
@@ -76,6 +76,7 @@ tags:happyPath_kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Gel Al domisoslu kampanyalara tıklanır
+* Fırsat içeriğindeki pizzaya tıklanır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -85,7 +86,7 @@ tags:happyPath_kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
 Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
-Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
+HappyPath - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 --------------------------------------------------------------
 tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
 
@@ -117,7 +118,7 @@ tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
  Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
-Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
+HappyPath - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
 ----------------------------------------------------------------------
 tags:happyPath_servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
 
@@ -142,7 +143,7 @@ tags:happyPath_servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
 Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
-Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
+HappyPath - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
 -----------------------------------------------------------------------
 tags:happyPath_servisTipiDeğiştirenKullanıcı_gelAl_adreseTeslim(üstMenü)
 

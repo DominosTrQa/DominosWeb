@@ -4,7 +4,7 @@ AnaSayfa
      
 Anasayfa Kontrolü - Üye Değilken - Butonların kontrolü
 ------------------------------------------------------------
- Tags:anasayfa_uyeDegilkenButonlarinkontrolu
+tags:anasayfa_uyeDegilkenButonlarinkontrolu
 
 * Üye olmadan anasayfaya devam edilir
 * Üye değilken anasayfadaki butonların geldiği kontrol edilir
@@ -12,7 +12,7 @@ Anasayfa Kontrolü - Üye Değilken - Butonların kontrolü
 
 Anasayfa Kontrolü - Üye Değilken - Yazıların kontrolü
 ----------------------------------------------
- Tags:anasayfa_UyeDegilkenyazilarinKontrolu
+tags:anasayfa_UyeDegilkenyazilarinKontrolu
 
 * Üye olmadan anasayfaya devam edilir
 * Üye değilken anasayfadaki yazıların geldiği kontrol edilir
@@ -20,7 +20,7 @@ Anasayfa Kontrolü - Üye Değilken - Yazıların kontrolü
 
 Anasayfa Kontrolü - Üye Değilken  -Promosyon Kodu açılır popup kontrolü
 ------------------------------------------------------------------------------
- Tags:anasayfa_uyeDegilkenPromosyonKoduAcilirPopupKontrolu
+tags:anasayfa_uyeDegilkenPromosyonKoduAcilirPopupKontrolu
 
 * Üye olmadan anasayfaya devam edilir
 * Promosyon Kodu butonuna tıklanır
@@ -29,7 +29,7 @@ Anasayfa Kontrolü - Üye Değilken  -Promosyon Kodu açılır popup kontrolü
 
 Anasayfa Kontrolü - Üye Değilken - Pizza Takip açılır popup kontrolü
 --------------------------------------------------------------------------
- Tags:anasayfa_uyeDegilkenPizzaTakipAcilirPopupKontrolu
+tags:anasayfa_uyeDegilkenPizzaTakipAcilirPopupKontrolu
 
 * Üye olmadan anasayfaya devam edilir
 * Pizza Takip butonuna tıklanır
@@ -38,7 +38,7 @@ Anasayfa Kontrolü - Üye Değilken - Pizza Takip açılır popup kontrolü
 
 Anasayfa Kontrolü - Üye - Butonların kontrolü
 -----------------------------------------------------
- Tags:anasayfa_uyeButonlarinKontrolu
+tags:anasayfa_uyeButonlarinKontrolu
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Üye iken anasayfadaki butonların geldiği kontrol edilir
@@ -46,7 +46,7 @@ Anasayfa Kontrolü - Üye - Butonların kontrolü
 
 Anasayfa Kontrolü - Üye -  Yazıların kontrolü
 -----------------------------------------------------
- Tags:anasayfa_uyeYazilarinKontrolu
+tags:anasayfa_uyeYazilarinKontrolu
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Üye iken anasayfadaki yazıların geldiği kontrol edilir
@@ -54,7 +54,7 @@ Anasayfa Kontrolü - Üye -  Yazıların kontrolü
 
 Anasayfa Kontrolü - Üye - Popup Barın kontrolü
 ----------------------------------------------------
- Tags:anasayfa_uyePopupBarinKontrolu
+tags:anasayfa_uyePopupBarinKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Üye iken popup bar kontrol edilir
@@ -62,7 +62,7 @@ Anasayfa Kontrolü - Üye - Popup Barın kontrolü
 
 Anasayfa Kontrolü - Üye -  Promosyon Kodu açılır popup kontrolü
 --------------------------------------------------------------------
- Tags:anasayfa_uyePromosyonAcilirPopupKontrolu
+tags:anasayfa_uyePromosyonAcilirPopupKontrolu
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Promosyon Kodu butonuna tıklanır
@@ -71,7 +71,7 @@ Anasayfa Kontrolü - Üye -  Promosyon Kodu açılır popup kontrolü
 
 Anasayfa Kontrolü - Üye - Pizza Takip açılır popup kontrolü
 ------------------------------------------------------------------
-Tags:anasayfa_uyePizzaTakipAcilirPopupKontrolu
+tags:anasayfa_uyePizzaTakipAcilirPopupKontrolu
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Pizza Takip butonuna tıklanır

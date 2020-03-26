@@ -4,7 +4,7 @@ Ekstralar ve İçecekler
      
 Anasayfa - Ekstralar ve İçecekler - Sayfa Kontrolü
 ---------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -13,7 +13,7 @@ Anasayfa - Ekstralar ve İçecekler - Sayfa Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Dürümler Sayfa Kontrolü
 ------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerDurumlerSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerDurumlerSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -23,7 +23,7 @@ Anasayfa - Ekstralar ve İçecekler - Dürümler Sayfa Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Ekmek Arası Sayfa Kontrolü
 -----------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerEkmekArasiSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerEkmekArasiSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -33,7 +33,7 @@ Anasayfa - Ekstralar ve İçecekler - Ekmek Arası Sayfa Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Tavuklar Sayfa Kontrolü
 -----------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerTavuklarSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerTavuklarSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -43,7 +43,7 @@ Anasayfa - Ekstralar ve İçecekler - Tavuklar Sayfa Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Tatlılar Sayfa Kontrolü
 -----------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerTatlilarSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerTatlilarSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -53,7 +53,7 @@ Anasayfa - Ekstralar ve İçecekler - Tatlılar Sayfa Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Ekmekler Sayfa Kontrolü
 -----------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerEkmeklerSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerEkmeklerSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -63,7 +63,7 @@ Anasayfa - Ekstralar ve İçecekler - Ekmekler Sayfa Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Salatalar Sayfa Kontrolü
 -----------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerSalatalarSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerSalatalarSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -73,7 +73,7 @@ Anasayfa - Ekstralar ve İçecekler - Salatalar Sayfa Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - İçecekler Sayfa Kontrolü
 -----------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklericeceklerSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklericeceklerSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -83,7 +83,7 @@ Anasayfa - Ekstralar ve İçecekler - İçecekler Sayfa Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Soslar Sayfa Kontrolü
 -----------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerSoslarSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerSoslarSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -94,7 +94,7 @@ Anasayfa - Ekstralar ve İçecekler - Soslar Sayfa Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Üst Barlar Arası Geçiş Kontrolü
 --------------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUstBarlarArasiGecisSayfaKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUstBarlarArasiGecisSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -103,7 +103,7 @@ Anasayfa - Ekstralar ve İçecekler - Üst Barlar Arası Geçiş Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Üst Bar Profilim Popup Kontrolü
 -----------------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUstBarProfilimPopupKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUstBarProfilimPopupKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -112,7 +112,7 @@ Anasayfa - Ekstralar ve İçecekler - Üst Bar Profilim Popup Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Üst Bar Sepetim Popup Kontrolü
 -----------------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUstBarSepetimPopupKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUstBarSepetimPopupKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -122,7 +122,7 @@ Anasayfa - Ekstralar ve İçecekler - Üst Bar Sepetim Popup Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Alt Bar Yazıların Kontrolü
 -----------------------------------------------------------------------
- Tags:ekstralarVeIçecekler__anasayfaEkstralarveiceceklerUAltBarYazilarinKontrolü
+tags:ekstralarVeIçecekler__anasayfaEkstralarveiceceklerUAltBarYazilarinKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
@@ -132,7 +132,7 @@ Anasayfa - Ekstralar ve İçecekler - Alt Bar Yazıların Kontrolü
 
 Anasayfa - Ekstralar ve İçecekler - Her Tabda Sepete Ekle Buton Kontrolü
 ------------------------------------------------------------------------------
- Tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUHerTabdaEkleButonKontrolü
+tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUHerTabdaEkleButonKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir

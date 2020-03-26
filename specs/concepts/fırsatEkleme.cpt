@@ -113,6 +113,15 @@
 * "5" saniye bekle
 * Element var mı kontrol et "ilkKampanyaIlkPizza"
 
+# Fırsat içeriğindeki pizzaya tıklanır
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "ilkKampanyaIlkPizza"
+* "3" saniye bekle
+
+# Fırsat içeriğindeki pizzanın geldiği kontrol edilir(Gel Al)
+* "5" saniye bekle
+* Element var mı kontrol et "4KisiveÜzeriKampanyalarButon1"
+
 # Birinci ürün seçilir
 * Elementi bekle ve sonra tıkla "kullaniciyaözelfirsateklemedüzenle"
 * Elementi bekle ve sonra tıkla "kullaniciyaözelfirsateklemedüzenleSelect"

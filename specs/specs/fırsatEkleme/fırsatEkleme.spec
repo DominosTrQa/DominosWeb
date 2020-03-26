@@ -4,7 +4,7 @@ Fırsat Ekleme
 
 Fırsat Ekleme - Adrese Teslim - Anasayfadaki Fırsatı Seçme
 -----------------------------------------------------------
-Tags:fırsatEkleme_AdreseTeslimAnasayfadakiFirsatiSecme
+tags:fırsatEkleme_AdreseTeslimAnasayfadakiFirsatiSecme
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfadaki ilk fırsata tıklanır
@@ -12,7 +12,7 @@ Tags:fırsatEkleme_AdreseTeslimAnasayfadakiFirsatiSecme
 
 Fırsat Ekleme - Adrese Teslim - Tüm Kampanyalar
 ----------------------------------------------------------
-Tags:fırsatEkleme_AdreseTeslimTumKampanyalar
+tags:fırsatEkleme_AdreseTeslimTumKampanyalar
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
@@ -22,7 +22,7 @@ Tags:fırsatEkleme_AdreseTeslimTumKampanyalar
 
 Fırsat Ekleme - Adrese Teslim - Şubeye Özel Kısmından
 ------------------------------------------------------
-Tags:fırsatEkleme_AdreseTeslimSubeyeOzelKismindan
+tags:fırsatEkleme_AdreseTeslimSubeyeOzelKismindan
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
@@ -32,7 +32,7 @@ Tags:fırsatEkleme_AdreseTeslimSubeyeOzelKismindan
 
 Fırsat Ekleme - Gel Al - Tüm Kampanyalar
 ---------------------------------------------------
-Tags:fırsatEkleme_GelAlTumKampanyalar
+tags:fırsatEkleme_GelAlTumKampanyalar
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
@@ -42,17 +42,17 @@ Tags:fırsatEkleme_GelAlTumKampanyalar
 
 Fırsat Ekleme - Gel Al- Şubeye Özel Kısmından
 ----------------------------------------------
-Tags:fırsatEkleme_GelAlSubeyeOzelKismindan
+tags:fırsatEkleme_GelAlSubeyeOzelKismindan
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Şubeye özel fırsatlara tıklanır
-* Fırsat içeriğindeki pizzanın geldiği kontrol edilir
+* Fırsat içeriğindeki pizzanın geldiği kontrol edilir(Gel Al)
 
 
 Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Adrese Teslim
 -----------------------------------------------------------------
-Tags:fırsatEkleme_istenilenUrleGidilir_fırsat_adreseTeslim
+tags:fırsatEkleme_istenilenUrleGidilir_fırsat_adreseTeslim
 
 * Go to "https://www.dominos.com.tr/diledigin-ekmek-arasi-gel-al/_T943/firsat" address
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -68,7 +68,7 @@ Tags:fırsatEkleme_istenilenUrleGidilir_fırsat_adreseTeslim
 
 Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Yeni - Adrese Teslim
 ------------------------------------------------------------------------
-Tags:fırsatEkleme_istenilenUrleGidilir_fırsat_yeni_adreseTeslim
+tags:fırsatEkleme_istenilenUrleGidilir_fırsat_yeni_adreseTeslim
 
 * Go to "https://www.dominos.com.tr/diledigin-ekmek-arasi-gel-al/_T943/firsat-yeni" address
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -84,7 +84,7 @@ Tags:fırsatEkleme_istenilenUrleGidilir_fırsat_yeni_adreseTeslim
 
 Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Gel Al
 -----------------------------------------------------------------
-Tags:fırsatEkleme_istenilenUrleGidilir_fırsat_gelAl
+tags:fırsatEkleme_istenilenUrleGidilir_fırsat_gelAl
 
 * Go to "https://www.dominos.com.tr/diledigin-ekmek-arasi-gel-al/_T943/firsat" address
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -98,7 +98,7 @@ Tags:fırsatEkleme_istenilenUrleGidilir_fırsat_gelAl
 
 Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Yeni - Gel Al
 ------------------------------------------------------------------------
-Tags:fırsatEkleme_istenilenUrleGidilir_fırsat_yeni_gelAl
+tags:fırsatEkleme_istenilenUrleGidilir_fırsat_yeni_gelAl
 
 * Go to "https://www.dominos.com.tr/diledigin-ekmek-arasi-gel-al/_T943/firsat-yeni" address
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır

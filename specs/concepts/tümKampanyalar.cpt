@@ -32,7 +32,7 @@
 # Tek Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 * Wait "2" seconds
 * Element var mı kontrol et "TekKisilikKampanyalar"
-* Elementin yüklenmesini bekle ve tıkla "TekKisilikKampanyalar"
+* Elementi bekle ve sonra tıkla "TekKisilikKampanyalar"
 * Element var mı kontrol et "TekKisilikKampanyalarButon1"
 
 # 2-3 Kişilik Kampanyalar sayfasındaki elementler kontrol edilir

@@ -4,7 +4,7 @@ yeKazan
      
 Ye Kazan Kontrolü - Sayfa Kontrolü
 -------------------------------------------------
-Tags:yeKazan_SayfaKontrolu
+tags:yeKazan_SayfaKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazan sayfası kontrol edilir
@@ -13,7 +13,7 @@ Tags:yeKazan_SayfaKontrolu
 
 Ye Kazan Kontrolü - Üyelik Koşulları Kontrolü
 ------------------------------------------------------------
-Tags:yeKazan_UyelikKosullariKontrolu
+tags:yeKazan_UyelikKosullariKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazan sayfası üyelik koşulları kontrol edilir
@@ -22,7 +22,7 @@ Tags:yeKazan_UyelikKosullariKontrolu
 
 Ye Kazan Kontrolü - Onay CheckBox Kontrolü
 -----------------------------------------------------------
-Tags:yeKazan_OnayCheckBoxKontrolu
+tags:yeKazan_OnayCheckBoxKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazan Onay Checkbox  kontrol edilir
@@ -31,7 +31,7 @@ Tags:yeKazan_OnayCheckBoxKontrolu
 
 Ye Kazan Kontrolü - Katıl Buton Kontrolü
 ----------------------------------------------------------
- Tags:yeKazan_KatilButonKontrolu
+tags:yeKazan_KatilButonKontrolu
  
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazana katıl butonu kontrol edilir
@@ -40,7 +40,7 @@ Ye Kazan Kontrolü - Katıl Buton Kontrolü
 
 Ye Kazan Kontrolü - SMS CheckBox Kontrolü
 --------------------------------------------------------
- Tags:yeKazan_SmsCheckBoxKontrolu
+tags:yeKazan_SmsCheckBoxKontrolu
  
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazan SMS Checkbox kontrol edilir
@@ -49,7 +49,7 @@ Ye Kazan Kontrolü - SMS CheckBox Kontrolü
 
 Ye Kazan Kontrolü - E Posta Checkbox Kontrolü
 ------------------------------------------------------------
- Tags:yeKazan_EpostaCheckBoxKontrolu
+tags:yeKazan_EpostaCheckBoxKontrolu
  
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazan E-Posta Checkbox kontrol edilir
@@ -58,7 +58,7 @@ Ye Kazan Kontrolü - E Posta Checkbox Kontrolü
 
 Ye Kazan Kontrolü - Telefon Checkbox Kontrolü
 --------------------------------------------------------------------
- Tags:yeKazan_TelefonCheckBoxKontrolu
+tags:yeKazan_TelefonCheckBoxKontrolu
  
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazan Telefon Checkbox kontrol edilir
@@ -67,7 +67,7 @@ Ye Kazan Kontrolü - Telefon Checkbox Kontrolü
 
 Ye Kazan Kontrolü - Sıkça Sorulan Sorular Kontrolü
 ------------------------------------------------------------------
- Tags:yeKazan_SikcaSorulanSorularkBoxKontrolu
+tags:yeKazan_SikcaSorulanSorularkBoxKontrolu
  
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazan Sıkça Sorulan Sorular kontrol edilir
@@ -76,7 +76,7 @@ Ye Kazan Kontrolü - Sıkça Sorulan Sorular Kontrolü
 
 Ye Kazan Kontrolü - Sıkça Sorulan Sorulardan Birinin Kontrolü
 ---------------------------------------------------------------------------
- Tags:yeKazan_SikcaSorulanSorulardanBirininKontrolu
+tags:yeKazan_SikcaSorulanSorulardanBirininKontrolu
  
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazan Sıkça Sorulan Sorulardan biri kontrol edilir
