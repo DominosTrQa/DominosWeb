@@ -168,6 +168,7 @@
 * "1" saniye bekle
 
 # Sepete git butonuna tıklanır
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "sepeteGitButon"
 * "2" saniye bekle
 
@@ -188,7 +189,7 @@
 * Element var mı kontrol et "Profilim"
 * Elementi bekle ve sonra tıkla "Profilim"
 
-# Adres eklerken kalem ikonuna tıklanılır, düzenlenir, konum paylaşılır
+# Adres eklerken kalem ikonuna tıklanılır, düzenlenir, haritadan ekleye tıklanır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
@@ -200,7 +201,7 @@
 * "2" saniye bekle
 * Cookie onaylıyorum butonuna tıklanır
 
-# Mevcut konum seçildikten sonra kontrol edilir
+# Mevcut konumunuz elementi kontrolü yapılır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "mevcutKonumunuz"
 
@@ -407,3 +408,48 @@
 
 # Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "gelaladreseklemedüzenle"
+
+# Adıyaman ili seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilAdıyaman"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+* "4" saniye bekle
+
+# Düzce ili seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilDüzce"
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceAkcakoca"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+
+# İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceBesiktas"
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleEtilermah"
+* Elementi bekle ve sonra tıkla "caddeDropdownid"
+* Elementi bekle ve sonra tıkla "sokakAhularsk"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+
+# İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceBesiktas"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleEtilermah"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "caddeDropdownid"
+* Elementi bekle ve sonra tıkla "sokakBahtiyarsk"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "apartmanNoid"
+* Elementi bekle ve sonra tıkla "apartmanNoiki"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+

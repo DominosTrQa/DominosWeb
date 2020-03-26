@@ -112,3 +112,26 @@
 # Fırsat içeriğindeki pizzanın geldiği kontrol edilir
 * "5" saniye bekle
 * Element var mı kontrol et "ilkKampanyaIlkPizza"
+
+# Fırsat içeriğindeki pizzaya tıklanır
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "ilkKampanyaIlkPizza"
+* "3" saniye bekle
+
+# Fırsat içeriğindeki pizzanın geldiği kontrol edilir(Gel Al)
+* "5" saniye bekle
+* Element var mı kontrol et "4KisiveÜzeriKampanyalarButon1"
+
+# Birinci ürün seçilir
+* Elementi bekle ve sonra tıkla "kullaniciyaözelfirsateklemedüzenle"
+* Elementi bekle ve sonra tıkla "kullaniciyaözelfirsateklemedüzenleSelect"
+
+# Promosyonlu ürünlerden promosyon istemiyorum seçilir
+* Elementi bekle ve sonra tıkla "kullaniciyaözelpromosyonluürünler"
+* Elementi bekle ve sonra tıkla "kullaniciyaözelpromosyonluürünlerSelect"
+
+# Kullanıcı bazlı fırsat sepete eklenir
+* Elementi bekle ve sonra tıkla "kullaniciyaözelsepeteekle"
+
+# Servis tipi güncellensin mi uyarısı çıkar, evet seçilir
+* Elementi bekle ve sonra tıkla "evetsecilir"

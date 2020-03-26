@@ -4,7 +4,7 @@ Tüm Pizzalar
 
 Tüm Pizzalar - Anasayfa - Sayfa Kontrolü
 ----------------
-Tags:tumPizzalar_anaSayfa_sayfaKontrolu
+tags:tumPizzalar_anaSayfa_sayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -14,7 +14,7 @@ Tags:tumPizzalar_anaSayfa_sayfaKontrolu
 
 Tüm Pizzalar - Anasayfa - Cazip Pizzalar sayfa kontrolü
 ----------------
-Tags:tumPizzalar_anaSayfa_cazipPizzalarSayfaKontrolu
+tags:tumPizzalar_anaSayfa_cazipPizzalarSayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -24,7 +24,7 @@ Tags:tumPizzalar_anaSayfa_cazipPizzalarSayfaKontrolu
 
 Tüm Pizzalar - Anasayfa - Özel Pizzalar sayfa kontrolü
 ----------------
-Tags:tumPizzalar_anaSayfa_ozelPizzalarSayfaKontrolu
+tags:tumPizzalar_anaSayfa_ozelPizzalarSayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -34,7 +34,7 @@ Tags:tumPizzalar_anaSayfa_ozelPizzalarSayfaKontrolu
 
 Tüm Pizzalar - Anasayfa - Bol Malzeme Pizzalar sayfa kontrolü
 ----------------
-Tags:tumPizzalar_anaSayfa_bolMalzemePizzalarSayfaKontrolu
+tags:tumPizzalar_anaSayfa_bolMalzemePizzalarSayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -44,7 +44,7 @@ Tags:tumPizzalar_anaSayfa_bolMalzemePizzalarSayfaKontrolu
 
 Tüm Pizzalar - Anasayfa - Gurme Pizzalar sayfa kontrolü
 ----------------
-Tags:tumPizzalar_anaSayfa_gurmePizzalarSayfaKontrolu
+tags:tumPizzalar_anaSayfa_gurmePizzalarSayfaKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -54,7 +54,7 @@ Tags:tumPizzalar_anaSayfa_gurmePizzalarSayfaKontrolu
 
 Tüm Pizzalar - Anasayfa - Üst Bar Sayfalar Arası Geçiş Kontrolü
 ----------------
-Tags:tumPizzalar_anaSayfa_ustBarSayfalarArasiGecisKontrolu
+tags:tumPizzalar_anaSayfa_ustBarSayfalarArasiGecisKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -64,7 +64,7 @@ Tags:tumPizzalar_anaSayfa_ustBarSayfalarArasiGecisKontrolu
 
 Tüm Pizzalar - Anasayfa - Üst Bar Profilim Popup Başarılı Açılıyor mu Kontrolü
 ----------------
-Tags:tumPizzalar_anaSayfa_ustBarProfilimPopupBasariliAciliyormuKontrol
+tags:tumPizzalar_anaSayfa_ustBarProfilimPopupBasariliAciliyormuKontrol
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -74,7 +74,7 @@ Tags:tumPizzalar_anaSayfa_ustBarProfilimPopupBasariliAciliyormuKontrol
 
 Tüm Pizzalar - Anasayfa - Üst Bar Sepetim Popup Başarılı Açılıyor mu Kontrolü
 ----------------
-Tags:tumPizzalar_anaSayfa_ustBarSepetimPopupBasariliAciliyormuKontrol
+tags:tumPizzalar_anaSayfa_ustBarSepetimPopupBasariliAciliyormuKontrol
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -83,7 +83,7 @@ Tags:tumPizzalar_anaSayfa_ustBarSepetimPopupBasariliAciliyormuKontrol
 
 Tüm Pizzalar - Anasayfa - Alt Bar Yazıları Doğru Geliyor Mu Kontrolü
 ----------------
-Tags:tumPizzalar_anaSayfa_altBarYazilariDogruGeliyormuKontrolu
+tags:tumPizzalar_anaSayfa_altBarYazilariDogruGeliyormuKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
@@ -92,7 +92,7 @@ Tags:tumPizzalar_anaSayfa_altBarYazilariDogruGeliyormuKontrolu
 
 Tüm Pizzalar - Anasayfa -  Her tab da Sipariş Ver Buton Kontrolü
 ---------------------------------------------------------------------
-Tags:tumPizzalar_anaSayfa_herTabdaSiparisVerButonKontrolu
+tags:tumPizzalar_anaSayfa_herTabdaSiparisVerButonKontrolu
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır

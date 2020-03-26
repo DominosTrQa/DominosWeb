@@ -1,7 +1,7 @@
 [
   {
     "key": "sayfaBasligi",
-    "value":"//*[@class='styled__StoreName-sc-18oyjv3-1 jzrwUO']",
+    "value":"//*[@class='pageHeader__Title-uo3je7-1 gMRowo']",
     "type": "xpath"
   },
   {

@@ -254,3 +254,6 @@
 
 # Üye ol butonuna tıklanır(sepet üzerinden)
 * Elementi bekle ve sonra tıkla "uyarıüzerindenüyeol"
+
+# Üye olmadan devam edilir butonuna tıklanır
+* Elementi bekle ve sonra tıkla "uyeOlmadandevamedilirbuton"

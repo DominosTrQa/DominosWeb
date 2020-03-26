@@ -4,7 +4,7 @@ Profilim Popup
 
 Profilim Popup - Ye-Kazan - Sayfa Kontrolü
 -----------------------------------------------------
-Tags:profilimPopup_yeKazanSayfaKontrolu
+tags:profilimPopup_yeKazanSayfaKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Ye Kazan butonuna tıklanır
@@ -13,7 +13,7 @@ Tags:profilimPopup_yeKazanSayfaKontrolu
 
 Profilim Popup - Üyelik Koşulları Sayfa Kontrolü
 ---------------------------------------------------
-Tags:profilimPopup_uyelikKosullariSayfaKontrolu
+tags:profilimPopup_uyelikKosullariSayfaKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Ye Kazan butonuna tıklanır
@@ -22,7 +22,7 @@ Tags:profilimPopup_uyelikKosullariSayfaKontrolu
 
 Profilim Popup - Üyelik Bilgilerim - Zorunlu alanların kontrolü
 ------------------------------------------------------------------
-Tags:profilimPopup_uyelikBilgilerimZorunluAlanKontrolu
+tags:profilimPopup_uyelikBilgilerimZorunluAlanKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelik bilgilerim zorunlu alanlar kontrol edilir
@@ -30,7 +30,7 @@ Tags:profilimPopup_uyelikBilgilerimZorunluAlanKontrolu
 
 Profilim Popup - Üyelik Bilgilerim - Değiştirilebilir alanların kontrolü
 -------------------------------------------------------------------------
-Tags:profilimPopup_uyelikBilgilerimDegistirebilirimAlanKontrolu
+tags:profilimPopup_uyelikBilgilerimDegistirebilirimAlanKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelik bilgilerim sayfasının değiştirilebilir alanları kontrol edilir
@@ -38,21 +38,24 @@ Tags:profilimPopup_uyelikBilgilerimDegistirebilirimAlanKontrolu
 
 Profilim Popup - Üyelik Bilgilerim - Değişikliklerin başarılı bir şekilde yapıldığının kontrolü
 ----------------------------------------------------------------------------------------------------
-Tags:profilimPopup_uyelikBilgilerimDegisikliklerinBasariliBirSekildeYapidigininKontrolu
+tags:profilimPopup_uyelikBilgilerimDegisikliklerinBasariliBirSekildeYapidigininKontrolu
+
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelik bilgilerim değişiklik yapıldığı kontrol edilir
 
 
 Profilim Popup - Üyelik Bilgilerim - Üyelikten ayrılmak için tıklayın kontrolü
 ----------------------------------------------------------------------------------
-Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmakicinTiklayinKontrolu
+tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmakicinTiklayinKontrolu
+
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelikten Ayrılma butonu ve gelen texti kontrol edilir
 
 
 Profilim Popup - Üyelik Bilgilerim - Üyelikten ayrılmanın başarılı bir şekilde yapılması kontrolü
 ---------------------------------------------------------------------------------------------------
-Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmasiKontrolu
+tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmasiKontrolu
+
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelikten Ayrılma butonuna tıklanır
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
@@ -61,7 +64,8 @@ Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmas
 
 Profilim Popup - Üyelik Bilgilerim - Üyelikten ayrılmadan vazgeçme kontrolü
 -------------------------------------------------------------------------------
-Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmadanVazgecmeKontrolu
+tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmadanVazgecmeKontrolu
+
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelikten Ayrılma butonuna tıklanır
 * Profilim popup Üyelikten Ayrılma popup kabul edilmez
@@ -69,28 +73,31 @@ Tags:profilimPopup_uyelikBilgilerimUyeliktenAyrilmadanVazgecmeKontrolu
 
 Profilim Popup - Üyelik Bilgilerim - KVKK Aydınlatma Metni kontrolü
 ----------------------------------------------------------------------
-Tags:profilimPopup_uyelikBilgilerimKvkkAydinlatmaMetniKontrolu
+tags:profilimPopup_uyelikBilgilerimKvkkAydinlatmaMetniKontrolu
+
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelik bilgilerim KVKK Aydınlatma Metni kontrol edilir
 
 
 Profilim Popup - Üyelik Bilgilerim - Açık Rıza Metni kontrolü
 ---------------------------------------------------------------
-Tags:profilimPopup_uyelikBilgilerimAcikRizaMetniKontrolu
+tags:profilimPopup_uyelikBilgilerimAcikRizaMetniKontrolu
+
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelik bilgilerim Açık Rıza Metni kontrol edilir
 
 
 Profilim Popup - Üyelik Bilgilerim - Ye-Kazan Sadakat Programı Üyelik Koşulları Metni kontrolü
 --------------------------------------------------------------------------------------------------
-Tags:profilimPopup_uyelikBilgilerimYeKazanSadakatProgramiUyelikKosullariMetniKontrolu
+tags:profilimPopup_uyelikBilgilerimYeKazanSadakatProgramiUyelikKosullariMetniKontrolu
+
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Profilim popup Üyelik bilgilerim Ye Kazan Üyelik Koşulları Metni kontrol edilir
 
 
 Profilim Popup - Siparişlerim - Sipariş Alanları Kontrolü
 --------------------------------------------------------------
-Tags:profilimPopup_SiparislerimSiparisAlanlariKontrolu
+tags:profilimPopup_SiparislerimSiparisAlanlariKontrolu
 
 * Üye olunur giriş yapılır, adrese Teslim servis tipi seçilir ve siparislerime gidilir
 * Profilim popup Siparişlerim sayfasındaki alanların geldiği kontrol edilir
@@ -98,7 +105,7 @@ Tags:profilimPopup_SiparislerimSiparisAlanlariKontrolu
 
 Profilim Popup - Pizza Takip - Zorunlu Alan Kontrolü
 ----------------
-Tags:profilimPopup_pizzaTakipZorunluAlanKontrolu
+tags:profilimPopup_pizzaTakipZorunluAlanKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -113,7 +120,7 @@ Tags:profilimPopup_pizzaTakipZorunluAlanKontrolu
 
 Profilim Popup - Pizza Takip - Sipariş Numarası Girilerek Görüntüle Butonuna Tıklanınca Çıkan Ekran Kontrolü
 ----------------
-Tags:profilimPopup_PizzaTakipSiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
+tags:profilimPopup_PizzaTakipSiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -128,7 +135,7 @@ Tags:profilimPopup_PizzaTakipSiparisNumarasiGirilerekGoruntuleButonunaTiklaninca
 
 Profilim Popup - Pizza Takip - Dijital Pizza Takip Sistemi Yazısının Kontrolü
 ----------------
-Tags:profilimPopup_pizzaTakipDijitalPizzaTakipSistemiYazisininKontrolu
+tags:profilimPopup_pizzaTakipDijitalPizzaTakipSistemiYazisininKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -143,7 +150,7 @@ Tags:profilimPopup_pizzaTakipDijitalPizzaTakipSistemiYazisininKontrolu
 
 Profilim Popup -  Notlarım - Yeni Not Ekle Popup Kontrolü
 ----------------
-Tags:profilimPopup_notlarimYeniNotEklePopupKontrolu
+tags:profilimPopup_notlarimYeniNotEklePopupKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -158,7 +165,7 @@ Tags:profilimPopup_notlarimYeniNotEklePopupKontrolu
 
 Profilim Popup -  Notlarım - Yeni Not Ekleme Kontrolü
 ----------------
-Tags:profilimPopup_notlarimYeniNotEklemeKontrolu
+tags:profilimPopup_notlarimYeniNotEklemeKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -174,7 +181,7 @@ Tags:profilimPopup_notlarimYeniNotEklemeKontrolu
 
 Profilim Popup -  Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
 ----------------
-Tags:profilimPopup_notlarimEklenenNotuDuzenlemePopupKontrolu
+tags:profilimPopup_notlarimEklenenNotuDuzenlemePopupKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -191,7 +198,7 @@ Tags:profilimPopup_notlarimEklenenNotuDuzenlemePopupKontrolu
 
 Profilim Popup -  Notlarım - Var Olan Notu Değiştirme Kontrolü
 ----------------
-Tags:profilimPopup_notlarimVarOlanNotuDegistirmeKontrolu
+tags:profilimPopup_notlarimVarOlanNotuDegistirmeKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -207,7 +214,7 @@ Tags:profilimPopup_notlarimVarOlanNotuDegistirmeKontrolu
 
 Profilim Popup -  Notlarım - Var Olan Notu Değiştirmekten Vazgeçme Kontrolü
 ----------------
-Tags:profilimPopup_notlarimVarOlanNotuDegistirmektenVazgecmeKontrolu
+tags:profilimPopup_notlarimVarOlanNotuDegistirmektenVazgecmeKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -224,7 +231,7 @@ Tags:profilimPopup_notlarimVarOlanNotuDegistirmektenVazgecmeKontrolu
 
 Profilim Popup -  Notlarım - Var Olan Notu Silme Kontrolü
 ----------------
-Tags:profilimPopup_notlarimVarOlanNotuSilmeKontrolu
+tags:profilimPopup_notlarimVarOlanNotuSilmeKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -241,7 +248,7 @@ Tags:profilimPopup_notlarimVarOlanNotuSilmeKontrolu
 
 Profilim Popup - Çıkış Yap - Var Olan Kullanıcı ile Çıkış Kontrolü
 ----------------------------------------------------------------------
-Tags:profilimPopup_notlarimVikisYapVarOlanKullaniciileCikisKontrolu
+tags:profilimPopup_notlarimVikisYapVarOlanKullaniciileCikisKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
@@ -249,7 +256,7 @@ Tags:profilimPopup_notlarimVikisYapVarOlanKullaniciileCikisKontrolu
 
 Profilim Popup - Çıkış Yap - Yeni Kullanıcı ile Çıkış Kontrolü
 ----------------------------------------------------------------
-Tags:profilimPopup_cikisYapYeniKullaniciileCikisKontrolu
+tags:profilimPopup_cikisYapYeniKullaniciileCikisKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
@@ -257,7 +264,7 @@ Tags:profilimPopup_cikisYapYeniKullaniciileCikisKontrolu
 
 Profilim Popup - Adreslerim - Popup Kontrolü
 -------------------------------------------------
-Tags:profilimPopup_adreslerimPopupKontrolu
+tags:profilimPopup_adreslerimPopupKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
@@ -265,7 +272,7 @@ Tags:profilimPopup_adreslerimPopupKontrolu
 
 Profilim Popup - Adreslerim - Manuel Yeni Adres Ekleme kontrolü
 ----------------
-Tags:profilimPopup_adreslerimManuelYeniAdresEklemeKontrolu
+tags:profilimPopup_adreslerimManuelYeniAdresEklemeKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
@@ -276,7 +283,7 @@ Tags:profilimPopup_adreslerimManuelYeniAdresEklemeKontrolu
 
 Profilim Popup - Adreslerim - İl İlçe Mahalle Değiştirme Kontrolü
 ----------------
-Tags:profilimPopup_adreslerimIlIlceMahalleDegistirmeKontrolu
+tags:profilimPopup_adreslerimIlIlceMahalleDegistirmeKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
@@ -285,7 +292,7 @@ Tags:profilimPopup_adreslerimIlIlceMahalleDegistirmeKontrolu
 
 Profilim Popup - Adreslerim - Kayıtlı Adresi Düzenle Kontrolü
 ----------------
-Tags:profilimPopup_adreslerimKayitliAdresiDuzenleKontrolu
+tags:profilimPopup_adreslerimKayitliAdresiDuzenleKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
@@ -296,7 +303,7 @@ Tags:profilimPopup_adreslerimKayitliAdresiDuzenleKontrolu
 
 Profilim Popup - Adreslerim - Kayıtlı Adresi Sil Kontrolü
 ----------------
-Tags:profilimPopup_adreslerimKayitliAdresiSilKontrolu
+tags:profilimPopup_adreslerimKayitliAdresiSilKontrolu
 
 * Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir

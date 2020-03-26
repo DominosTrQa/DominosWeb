@@ -256,6 +256,9 @@
 # İlk adres düzenleye tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
 
+# Adresin silindiği kontrol edilir
+* Element yok mu kontrol et "profilimPopupAdreslerimSecilenAdresDuzenleButon"
+
 # Seçili adres silinir
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
 

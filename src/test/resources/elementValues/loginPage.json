@@ -208,5 +208,10 @@
     "key": "UyeOlgoogleIleGirisButon",
     "value":"DPE_TR_SIGNUP_BUTTON_GOOGLESIGNUP",
     "type": "id"
+  },
+  {
+    "key": "uyeOlmadandevamedilirbuton",
+    "value":"//*[@class='guestModal__Button-sc-12wwd2w-6 heKcHP sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO wpGps']",
+    "type": "xpath"
   }
 ]
