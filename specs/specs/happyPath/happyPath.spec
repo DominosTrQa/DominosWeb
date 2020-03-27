@@ -52,15 +52,12 @@ tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * Yeni adres ekle butonuna tıklanır
-* Yeni adres eklenir(Adalar-Burgazada-Kapıno farklı)
+* Yeni adres eklenir(Sariyer-Pınarmah-Kelebeksok)
 * Seçili adres ile devam edilir
-* Anasayfadaki Ekmek Arası fırsatına tıklanır
-* Sepete eklenir
 * Sepetim ikonuna tıklanır
+* Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
-* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
 Ödemeyi tamamla butonu geldiği kontrol edilir
 
@@ -122,7 +119,7 @@ HappyPath - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üs
 ----------------------------------------------------------------------
 tags:happyPath_servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
 
-* "testdominos1@test.co" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki adres teslim butonuna tıklanır
@@ -147,7 +144,7 @@ HappyPath - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üs
 -----------------------------------------------------------------------
 tags:happyPath_servisTipiDeğiştirenKullanıcı_gelAl_adreseTeslim(üstMenü)
 
-* "testdominos2@test.co" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki gel al butonuna tıklanır
