@@ -148,7 +148,7 @@ tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUHerTabdaEkleButonKontrol
 * Ekmekler ekranı kontrol edilir
 * Tatlılar tabına tıklanır
 * Tatlılar ekranı kontrol edilir
-* Salatalar tabına tıklanır
-* Salatalar ekranı kontrol edilir
+ Salatalar tabına tıklanır
+ Salatalar ekranı kontrol edilir
 * Soslar tabına tıklanır
 * Soslar ekranı kontrol edilir
