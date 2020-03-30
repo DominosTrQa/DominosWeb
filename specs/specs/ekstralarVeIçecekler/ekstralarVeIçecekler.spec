@@ -67,7 +67,7 @@ tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerSalatalarSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
-* Salatalar tabına tıklanır
+ Salatalar tabına tıklanır
 * Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
 
 
