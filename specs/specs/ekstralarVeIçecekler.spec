@@ -67,7 +67,7 @@ tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerSalatalarSayfaKontrolü
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
-* Salatalar tabına tıklanır
+ Salatalar tabına tıklanır
 * Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
 
 
@@ -148,7 +148,7 @@ tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUHerTabdaEkleButonKontrol
 * Ekmekler ekranı kontrol edilir
 * Tatlılar tabına tıklanır
 * Tatlılar ekranı kontrol edilir
-* Salatalar tabına tıklanır
-* Salatalar ekranı kontrol edilir
+ Salatalar tabına tıklanır
+ Salatalar ekranı kontrol edilir
 * Soslar tabına tıklanır
 * Soslar ekranı kontrol edilir

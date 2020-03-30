@@ -131,6 +131,7 @@
 * Elementi bekle ve sonra tıkla "subeleriGosterButon"
 
 # Gel Al çıkan ilk şube seçilir
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "ilksubesecimi"
 
 #Gel Al da listelenen ilk şube seçilir
@@ -330,6 +331,7 @@
 * "5" saniye bekle
 
 # Anasayfadan gidilen Şubeye Özel sayfasındaki elementler kontrol edilir
+* "3" saniye bekle
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
 * Element var mı kontrol et "subeyeOzelYolTarifiAlText"
 * Element var mı kontrol et "subeyeOzelSubeyiDegistirButon"
@@ -346,6 +348,7 @@
 * Element var mı kontrol et "subeyeOzelYolTarifiAlButon"
 
 # Şubeye Özel sayfasındaki Tüm Kampanyalar butonunun çalıştığı kontrol edilir
+* "3" saniye bekle
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
 * "subeyeOzelTümkampanyalariInceleButon" alanına js ile kaydır
 * "3" saniye bekle
@@ -364,6 +367,7 @@
 * Element var mı kontrol et "subeyeOzelSubeyiDegistirIlSecimiYapinText"
 
 # Şubeyi Değiştir sayfasındaki şube aramanın çalıştığı kontrol edilir
+* "3" saniye bekle
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirButon"
@@ -379,6 +383,7 @@
 * "sayfaBasligi" elementi "Ayazağa" değerini içeriyor mu kontrol et
 
 # Şubeyi Değiştir sayfasındaki En Yakın Dominosu Bul çalıştığı kontrol edilir
+* "3" saniye bekle
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirButon"

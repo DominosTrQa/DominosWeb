@@ -21,6 +21,7 @@
 * Element var mı kontrol et "googleIleGirisButon"
 
 # <email> kullanıcısı ve <password> şifresi ile üye girişi yapılır
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "loginButton"
 * "5" saniye bekle
 * <email> textini "loginEmailTextbox" elemente yaz

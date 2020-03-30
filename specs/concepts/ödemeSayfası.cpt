@@ -48,6 +48,21 @@
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
+# Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
+* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+
 # Yeni adres ekle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
 
