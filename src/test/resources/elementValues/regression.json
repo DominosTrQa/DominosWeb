@@ -1,0 +1,32 @@
+[
+  {
+    "key": "adresEkleIlDropdown",
+    "value":"DPE_TR_ADDRESSADDMODAL_DROPDOWN_CITY",
+    "type": "id"
+  },
+  {
+    "key": "adresEkleIlDropdownIstanbul",
+    "value":"//div[@id='DPE_TR_ADDRESSADDMODAL_DROPDOWN_CITY']//div[@class='dropdown__Menu-wa0gtc-14 bOKzwU']//div[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "adresEkleIlceDropdown",
+    "value":"DPE_TR_ADDRESSADDMODAL_DROPDOWN_DISTRICT",
+    "type": "id"
+  },
+  {
+    "key": "adresEkleIlceDropdownAdalar",
+    "value":"//div[text()='Adalar']",
+    "type": "xpath"
+  },
+  {
+    "key": "adresEkleMahalleDropdown",
+    "value":"DPE_TR_ADDRESSADDMODAL_DROPDOWN_COUNTIES",
+    "type": "id"
+  },
+  {
+    "key": "adresEkleMahalleDropdownBurgazada",
+    "value":"//div[text()='Burgazada Mh.']",
+    "type": "xpath"
+  }
+]

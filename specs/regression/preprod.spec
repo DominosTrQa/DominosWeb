@@ -21,9 +21,21 @@ Preprod
 * KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
 
 
-Üye Adres Ekleme
-----------------------------------------------
- tags:regressionPreprod_uyeAdresEkleme
+Üye Adres Ekleme - Adrese Teslim - Üye
+-----------------------------------------------------
+ tags:regressionPreprod_uyeAdresEklemeAdreseTeslimUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
+* Profilim popup Yeni Adres Ekle butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+
+
+Üye Adres Ekleme - Adrese Teslim - Yeni Üye
+----------------------------------------------------------
+ tags:regressionPreprod_uyeAdresEklemeAdreseTeslimYeniUye
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -31,6 +43,30 @@ Preprod
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+
+
+Üye Adres Ekleme - Gel Al - Üye
+-------------------------------------------------------------
+ tags:regressionPreprod_uyeAdresEklemeGelAlUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
+* Profilim popup Yeni Adres Ekle butonuna tıklanır
+* Yeni adres ekle (Gel Al)
+
+
+Üye Adres Ekleme - Gel Al - Yeni Üye
+-------------------------------------------------------------
+ tags:regressionPreprod_uyeAdresEklemeGelAlYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
+* Profilim popup Yeni Adres Ekle butonuna tıklanır
+* Yeni adres ekle (Gel Al)
 
 
 Üye Adres Düzenleme
@@ -45,9 +81,9 @@ Preprod
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üyelik -  3 Al 1 Öde
+Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  3 Al 1 Öde
 --------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUyelik3Al1Ode
+ tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUye3Al1Ode
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
