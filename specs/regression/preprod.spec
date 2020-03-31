@@ -234,12 +234,87 @@ Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  3 Al 1 Öde
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Pizza Ekleme - Gel Al - Üyelikli
+Sepete Pizza Ekleme - Adrese Teslim - Üye
 ------------------------------------------------
- tags:regressionPreprod_pizzaEklemeGelAlUyelikli
+ tags:regressionPreprod_pizzaEklemeAdreseTeslimUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Tüm Pizzalar butonuna tıklanır
+* Tüm pizzalarda ilk pizza kategorisi seçilir
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza boyutunda ilk boyut seçilir
+* Kenar tipinde ilk kenar seçilir
+* Pizza sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+
+
+Sepete Pizza Ekleme - Adrese Teslim - Yeni Üye
+------------------------------------------------
+ tags:regressionPreprod_pizzaEklemeAdreseTeslimYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Tüm Pizzalar butonuna tıklanır
+* Tüm pizzalarda ilk pizza kategorisi seçilir
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza boyutunda ilk boyut seçilir
+* Kenar tipinde ilk kenar seçilir
+* Pizza sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+
+
+Sepete Pizza Ekleme - Adrese Teslim - Üyeliksiz
+------------------------------------------------
+ tags:regressionPreprod_pizzaEklemeAdreseTeslimUyeliksiz
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
+* Tüm Pizzalar butonuna tıklanır
+* Tüm pizzalarda ilk pizza kategorisi seçilir
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza boyutunda ilk boyut seçilir
+* Kenar tipinde ilk kenar seçilir
+* Pizza sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+
+
+Sepete Pizza Ekleme - Gel Al - Üye
+------------------------------------------------
+ tags:regressionPreprod_pizzaEklemeGelAlUye
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Tüm Pizzalar butonuna tıklanır
+* Tüm pizzalarda ilk pizza kategorisi seçilir
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza boyutunda ilk boyut seçilir
+* Kenar tipinde ilk kenar seçilir
+* Pizza sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+
+
+Sepete Pizza Ekleme - Gel Al - Yeni Üye
+------------------------------------------------
+ tags:regressionPreprod_pizzaEklemeGelAlYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Tüm Pizzalar butonuna tıklanır
+* Tüm pizzalarda ilk pizza kategorisi seçilir
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza boyutunda ilk boyut seçilir
+* Kenar tipinde ilk kenar seçilir
+* Pizza sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+
+
+Sepete Pizza Ekleme - Gel Al - Üyeliksiz
+------------------------------------------------
+ tags:regressionPreprod_pizzaEklemeGelAlUyeliksiz
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
