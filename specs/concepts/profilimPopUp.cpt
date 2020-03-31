@@ -178,9 +178,9 @@
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimEklenenAdres"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
-* Element var mı kontrol et "profilimPopupAdreslerimSecilenAdresSilButon"
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimEklenenAdres"
+* Element var mı kontrol et "profilimPopupAdreslerimEklenenAdres"
 * "3" saniye bekle
 
 # Profilim popup eklenen adres silinir
