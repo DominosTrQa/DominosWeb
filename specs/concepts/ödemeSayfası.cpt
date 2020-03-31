@@ -322,4 +322,79 @@
 # Ye kazan popupında giriş yap butonuna tıklanır
 * Elementi bekle ve sonra tıkla "yekazanpopupgirisyap"
 
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Element var mı kontrol et "key"
+
+# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "key"
+
+# Kapıda ödeme kredi kartı seçeneği ile devam edilir(guest)
+* Elementi bekle ve sonra tıkla "kredikartıguest"
+
+# Kapıda ödeme smart sodexo kart seçeneği ile devam edilir(guest)
+* Elementi bekle ve sonra tıkla "smartSodexoKartguest"
+
+# Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir(guest)
+* Elementi bekle ve sonra tıkla "sodexoYemekCekiguest"
+
+# Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
+* Elementi bekle ve sonra tıkla "smartTicketKartguest"
+
+# Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
+* Elementi bekle ve sonra tıkla "smartTicketYemekÇekiguest"
+
+# Kapıda ödeme multinet seçeneği ile devam edilir(guest)
+* Elementi bekle ve sonra tıkla "multinetguest"
+
+# Kapıda ödeme setCard seçeneği ile devam edilir(guest)
+* Elementi bekle ve sonra tıkla "setCardguest"
+
+# Kapıda ödeme paye kart seçeneği ile devam edilir(guest)
+* Elementi bekle ve sonra tıkla "payeKartguest"
+
+# Kapıda ödeme online seçeneği ile devam edilir(guest)
+* Elementi bekle ve sonra tıkla "onlineOdemeguest"
+
 

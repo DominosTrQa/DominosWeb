@@ -233,6 +233,51 @@
     "key": "yekazanpopupgirisyap",
     "value":"//a[@class='guestModal__Button-sc-12wwd2w-6 heKcHP sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo'][contains(text(),'Giriş Yap')]",
     "type": "xpath"
+  },
+  {
+    "key": "kredikartıguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST2",
+    "type": "id"
+  },
+  {
+    "key": "smartSodexoKartguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST3",
+    "type": "id"
+  },
+  {
+    "key": "sodexoYemekCekiguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST4",
+    "type": "id"
+  },
+  {
+    "key": "smartTicketKartguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST5",
+    "type": "id"
+  },
+  {
+    "key": "smartTicketYemekÇekiguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST6",
+    "type": "id"
+  },
+  {
+    "key": "multinetguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST7",
+    "type": "id"
+  },
+  {
+    "key": "setCardguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST8",
+    "type": "id"
+  },
+  {
+    "key": "payeKartguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST22",
+    "type": "id"
+  },
+  {
+    "key": "onlineOdemeguest",
+    "value":"DPE_TR_PAYMENTCARDTYPE_BUTTON_TYPEG1",
+    "type": "id"
   }
 
 ]
