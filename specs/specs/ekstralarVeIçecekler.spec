@@ -152,3 +152,75 @@ tags:ekstralarVeIçecekler_anasayfaEkstralarveiceceklerUHerTabdaEkleButonKontrol
  Salatalar ekranı kontrol edilir
 * Soslar tabına tıklanır
 * Soslar ekranı kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Adrese Teslim - Üye
+----------------------------------------------
+ tags:ekstralarVeIcecekler_sepeteYanUrunEklemeAdreseTeslimUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
+--------------------------------------------------
+ tags:ekstralarVeIcecekler_sepeteYanUrunEklemeAdreseTeslimYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
+--------------------------------------------------
+ tags:ekstralarVeIcecekler_sepeteYanUrunEklemeAdreseTeslimYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Üye
+----------------------------------------------
+ tags:ekstralarVeIcecekler_sepeteYanUrunEklemeGelAlUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
+----------------------------------------------
+ tags:ekstralarVeIcecekler_sepeteYanUrunEklemeGelAlYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
+---------------------------------------------
+ tags:ekstralarVeIcecekler_sepeteYanUrunEklemeGelAlUyeliksiz
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir

@@ -333,6 +333,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Üye
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
@@ -344,6 +345,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
@@ -355,7 +357,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
-
+* Sepette coca cola var mı kontrol edilir
 
 Sepete Yan Ürün Ekleme - Gel Al - Üye
 ----------------------------------------------
@@ -366,6 +368,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Üye
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
@@ -377,6 +380,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
@@ -388,6 +392,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
+* Sepette coca cola var mı kontrol edilir
 
 
 Sepetten Upsell Ekleme - Adrese Teslim - Üye

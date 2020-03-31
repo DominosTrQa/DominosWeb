@@ -106,6 +106,9 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteEkleCocaCola"
 
+# Sepette coca cola var mı kontrol edilir
+* Element var mı kontrol et "SepeteEkleCocaColaControl"
+
 # Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sol_Ok_Buton"
