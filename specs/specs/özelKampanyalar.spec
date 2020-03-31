@@ -64,9 +64,6 @@ tags:özelKampanyalar_ortaBoyBallıHardalSosluTavukluPizzaKampanyası
 * Tüm Kampanyalar Butonuna tıklanır
 * Domisoslu kampanyalara tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir
-* "2" saniye bekle
-* "birinciUrunSeciniz" alanına kaydır
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir

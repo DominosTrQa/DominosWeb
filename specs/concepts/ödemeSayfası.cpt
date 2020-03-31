@@ -323,3 +323,26 @@
 * Elementi bekle ve sonra tıkla "yekazanpopupgirisyap"
 
 
+
+# Yeni adres ekle (Gel Al)
+* Elementi bekle ve sonra tıkla "adresEkleIlDropdown"
+* Elementi bekle ve sonra tıkla "adresEkleIlDropdownIstanbul"
+* Elementi bekle ve sonra tıkla "adresEkleIlceDropdown"
+* Elementi bekle ve sonra tıkla "adresEkleIlceDropdownAdalar"
+* Elementi bekle ve sonra tıkla "adresEkleMahalleDropdown"
+* Elementi bekle ve sonra tıkla "adresEkleMahalleDropdownBurgazada"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
+* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"

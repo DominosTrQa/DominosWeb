@@ -180,7 +180,13 @@
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
 * Element var mı kontrol et "profilimPopupAdreslerimSecilenAdresSilButon"
 * "3" saniye bekle
-* Element yok mu kontrol et "profilimPopupAdreslerimEklenenAdres"
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimEklenenAdres"
+* "3" saniye bekle
+
+# Profilim popup eklenen adres silinir
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
 * "3" saniye bekle
 
 # Kullanıcıya yeni adres eklenir
