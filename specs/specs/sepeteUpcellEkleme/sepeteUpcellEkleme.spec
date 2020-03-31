@@ -74,7 +74,7 @@ tags:sepeteUpcellEkle_gelAl_yeniUye
 * Sepetteki suflenin eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ye kazan popubında üye ol butonuna tıklanır
+* Ye kazan popupında üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Sipariş ver butonuna tıklanır
@@ -98,7 +98,7 @@ tags:sepeteUpcellEkle_gelAl_varolanUye
 * Sepetteki suflenin eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ye kazan popubında giriş yap butonuna tıklanır
+* Ye kazan popupında giriş yap butonuna tıklanır
 * E-posta "dominostest5@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir

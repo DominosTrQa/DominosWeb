@@ -87,7 +87,7 @@ HappyPath - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 --------------------------------------------------------------
 tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
 
-* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Ekstra Lezzetlere gidilir
@@ -103,7 +103,7 @@ tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
  Ye kazan uyarı butonundan çıkılır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
-* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 * Adres seçilirken ilk adres seçilir(Gel Al)
 * Seçili şube ile devam edilir
@@ -144,7 +144,7 @@ HappyPath - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üs
 -----------------------------------------------------------------------
 tags:happyPath_servisTipiDeğiştirenKullanıcı_gelAl_adreseTeslim(üstMenü)
 
-* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki gel al butonuna tıklanır

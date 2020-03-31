@@ -316,10 +316,10 @@
 # Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
 * Element var mı kontrol et "onaysayfasındacikolatalısufle"
 
-# Ye kazan popubında üye ol butonuna tıklanır
+# Ye kazan popupında üye ol butonuna tıklanır
 * Elementi bekle ve sonra tıkla "yekazanpopupüyeolButon"
 
-# Ye kazan popubında giriş yap butonuna tıklanır
+# Ye kazan popupında giriş yap butonuna tıklanır
 * Elementi bekle ve sonra tıkla "yekazanpopupgirisyap"
 
 
