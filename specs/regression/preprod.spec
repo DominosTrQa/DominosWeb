@@ -31,6 +31,7 @@ Preprod
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Profilim popup eklenen adres silinir
 
 
 Üye Adres Ekleme - Adrese Teslim - Yeni Üye
@@ -55,7 +56,7 @@ Preprod
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
 * Yeni adres ekle (Gel Al)
-
+* Profilim popup eklenen adres silinir
 
 Üye Adres Ekleme - Gel Al - Yeni Üye
 -------------------------------------------------------------
@@ -69,16 +70,59 @@ Preprod
 * Yeni adres ekle (Gel Al)
 
 
-Üye Adres Düzenleme
+Üye Adres Düzenleme - Adrese Teslim - Üye
 ------------------------------------------
- tags:regressionPreprod_uyeAdresDuzenleme
+ tags:regressionPreprod_uyeAdresDuzenlemeAdreseTeslimUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
+* Profilim popup Yeni Adres Ekle butonuna tıklanır
+* Adres bilgileri tamamlanır(Liste - üye)
+* Profilim popup eklenen  adres düzenlenir ve eski adresin değiştiği doğrulanır
+* Profilim popup eklenen adres silinir
+
+
+Üye Adres Düzenleme - Adrese Teslim - Yeni Üye
+------------------------------------------
+ tags:regressionPreprod_uyeAdresDuzenlemeAdreseTeslimYeniUye
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
-* Adreslerim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Adres bilgileri tamamlanır(Liste - üye)
+* Profilim popup eklenen  adres düzenlenir ve eski adresin değiştiği doğrulanır
+
+
+Üye Adres Düzenleme - Gel Al - Üye
+------------------------------------------
+ tags:regressionPreprod_uyeAdresDuzenlemeGelAlUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
+* Profilim popup Yeni Adres Ekle butonuna tıklanır
+* Yeni adres ekle (Gel Al)
+* Profilim popup eklenen  adres düzenlenir ve eski adresin değiştiği doğrulanır
+* Profilim popup eklenen adres silinir
+
+
+Üye Adres Düzenleme - Gel Al - Yeni Üye
+------------------------------------------
+ tags:regressionPreprod_uyeAdresDuzenlemeGelAlYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
+* Profilim popup Yeni Adres Ekle butonuna tıklanır
+* Yeni adres ekle (Gel Al)
+* Profilim popup eklenen  adres düzenlenir ve eski adresin değiştiği doğrulanır
+* Profilim popup eklenen adres silinir
 
 
 Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  3 Al 1 Öde
@@ -137,7 +181,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Orta Boy Barbekü Soslu Su
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal oslu tavuklu
+Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal soslu tavuklu
 --------------------------------------------------------------------------------
  tags:regressionPreprod_sepeteKampanyaEklemeGelAlOrtaBoyBalliHardalSosluTavuklu
 
