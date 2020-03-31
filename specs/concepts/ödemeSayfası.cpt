@@ -48,6 +48,21 @@
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
+# Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
+* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+
 # Yeni adres ekle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
 
@@ -282,6 +297,32 @@
 * "123" textini "kartbilgisiCVC" elemente yaz
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+
+# Kapıda ödeme nakit seçeneği ile devam edilir(guest)
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "kapıdaÖdemenakitguest"
+* "5" saniye bekle
+* "odemeDevamButonGuest" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
+
+# Kapıda ödeme nakit seçeneği ile devam edilir
+* Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
+
+# Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "onaysayfasındacikolatalısufleguest"
+
+# Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Element var mı kontrol et "onaysayfasındacikolatalısufle"
+
+# Ye kazan popupında üye ol butonuna tıklanır
+* Elementi bekle ve sonra tıkla "yekazanpopupüyeolButon"
+
+# Ye kazan popupında giriş yap butonuna tıklanır
+* Elementi bekle ve sonra tıkla "yekazanpopupgirisyap"
+
+
 
 # Yeni adres ekle (Gel Al)
 * Elementi bekle ve sonra tıkla "adresEkleIlDropdown"

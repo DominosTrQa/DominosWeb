@@ -122,3 +122,10 @@
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Buton"
+
+# Sepete sufle eklenir
+* Elementi bekle ve sonra tıkla "sufleEkle"
+
+# Sepetteki suflenin eklendiği kontrol edilir
+* Element var mı kontrol et "sepettekisufle"
+

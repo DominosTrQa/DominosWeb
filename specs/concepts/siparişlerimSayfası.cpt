@@ -4,3 +4,6 @@
 * "siparişVerButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "siparişVerButon"
 * "5" saniye bekle
+
+# Siparis ver butonuna tıklanır(Uye olmadan-Adrese teslim)
+* Elementi bekle ve sonra tıkla "uyeOlmayanodemeSiparisVerButonid"

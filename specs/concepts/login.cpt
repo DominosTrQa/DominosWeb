@@ -26,6 +26,14 @@
 * <password> textini "loginPasswordTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "girisYapButon"
 
+# E-posta <email> ve <password> şifre girilir
+* <email> textini "loginEmailTextbox" elemente yaz
+* "3" saniye bekle
+* <password> textini "loginPasswordTextbox" elemente yaz
+* "9" saniye bekle
+* Elementi bekle ve sonra tıkla "girisYapButon"
+* "5" saniye bekle
+
 # Üye olmadan devam edilir
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlmadanDevamEtButon"
