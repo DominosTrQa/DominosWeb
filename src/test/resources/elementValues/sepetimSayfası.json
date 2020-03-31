@@ -3,6 +3,26 @@
     "key": "siparişVerButon",
     "value":"//a[@class='styled__Button-sc-1lvff6m-0 fakEki']",
     "type": "xpath"
+  },
+  {
+    "key": "secilikonumileDevametbuton",
+    "value":"DPE_TR_STOREMAPLISTDELIVERY_BUTTON_SELECTLOCATION",
+    "type": "id"
+  },
+  {
+    "key": "sufleEkle",
+    "value":"DPE_TR_BASKET_BUTTON_SIDE_PRODUCT0",
+    "type": "id"
+  },
+  {
+    "key": "sepettekisufle",
+    "value":"//h4[@class='styled__CartItemTitle-sc-126ws66-25 dvCIQg'][contains(text(),'Çikolatalı Sufle')]",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlmayanodemeSiparisVerButonid",
+    "value":"DPE_TR_BASKET_BUTTON_ORDER",
+    "type": "id"
   }
 
 ]
