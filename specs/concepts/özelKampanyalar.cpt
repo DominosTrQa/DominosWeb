@@ -45,6 +45,12 @@
 # Domisoslu kampanyalara tıklanır
 * Elementi bekle ve sonra tıkla "domisoslukampanyalar"
 
+# Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
+* Elementi bekle ve sonra tıkla "ortaboytavuklupizza"
+* "2" saniye bekle
+* "birinciUrunSeciniz" alanına kaydır
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir
 * Elementi bekle ve sonra tıkla "ortaboytavuklupizza"
 
