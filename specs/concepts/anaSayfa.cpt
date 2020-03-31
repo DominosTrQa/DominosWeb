@@ -196,6 +196,10 @@
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenleHaritadanEkle"
 
+# Haritadan ekle butonuna tıklanır
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenleHaritadanEkle"
+* "5" saniye bekle
+
 # Adres eklerken kalem ikonuna tıklanır
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
@@ -457,4 +461,7 @@
 * Elementi bekle ve sonra tıkla "apartmanNoid"
 * Elementi bekle ve sonra tıkla "apartmanNoiki"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+
+# Secili konum ile devam edilir
+* Elementi bekle ve sonra tıkla "secilikonumileDevametbuton"
 

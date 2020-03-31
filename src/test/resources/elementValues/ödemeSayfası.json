@@ -70,6 +70,11 @@
     "type": "id"
   },
   {
+    "key": "odemeDevamButonGuest",
+    "value":"DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUEGUEST-D",
+    "type": "id"
+  },
+  {
     "key": "odemeMesafeliSatisSozelesmesiCheckbox",
     "value":"DPE_TR_ORDERCONFIRM_CHECKBOX_SALESCONTRACT",
     "type": "id"
@@ -202,6 +207,31 @@
   {
     "key": "saatSecSelect",
     "value":"(//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kapıdaÖdemenakitguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST1",
+    "type": "id"
+  },
+  {
+    "key": "onaysayfasındacikolatalısufleguest",
+    "value":"//div[@class='orderConfirm__ProductTitle-sc-9bijzy-6 hcifRP'][contains(text(),'Çikolatalı Sufle')]",
+    "type": "xpath"
+  },
+  {
+    "key": "onaysayfasındacikolatalısufle",
+    "value":"//div[@class='orderConfirm__ProductTitle-x0pcid-6 iYecst'][contains(text(),'Çikolatalı Sufle')]",
+    "type": "xpath"
+  },
+  {
+    "key": "yekazanpopupüyeolButon",
+    "value":"//a[@class='guestModal__Button-sc-12wwd2w-6 heKcHP sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO leUiDi'][contains(text(),'Üye Ol')]",
+    "type": "xpath"
+  },
+  {
+    "key": "yekazanpopupgirisyap",
+    "value":"//a[@class='guestModal__Button-sc-12wwd2w-6 heKcHP sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo'][contains(text(),'Giriş Yap')]",
     "type": "xpath"
   }
 
