@@ -324,8 +324,63 @@ Sepete Pizza Ekleme - Gel Al - Üyeliksiz
 * Sepetimde ürün var mı kontrol edilir
 
 
+Sepete Yan Ürün Ekleme - Adrese Teslim - Üye
+----------------------------------------------
+ tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+
+
+Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
+--------------------------------------------------
+ tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+
+
+Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
+--------------------------------------------------
+ tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Üye
+----------------------------------------------
+ tags:regressionPreprod_sepeteYanUrunEklemeGelAlUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
+----------------------------------------------
+ tags:regressionPreprod_sepeteYanUrunEklemeGelAlYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+
+
 Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
--------------------------------------------
+---------------------------------------------
  tags:regressionPreprod_sepeteYanUrunEklemeGelAlUyeliksiz
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
@@ -335,5 +390,128 @@ Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
 * Sepete coca cola eklenir
 
 
+Sepetten Upsell Ekleme - Adrese Teslim - Üye
+---------------------------------------------
+ tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUye
 
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sepete sufle eklenir
+* Sepetim ikonuna tıklanır
+* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetim ikonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme nakit seçeneği ile devam edilir
+* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+
+
+Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
+---------------------------------------------
+ tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimYeniUye
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sepete sufle eklenir
+* Sepetim ikonuna tıklanır
+* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetim ikonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme nakit seçeneği ile devam edilir
+* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+
+
+Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
+--------------------------------------------------
+ tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUyeliksiz
+
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sepete sufle eklenir
+* Sepetim ikonuna tıklanır
+* Sepetteki suflenin eklendiği kontrol edilir
+
+
+Sepetten Upcell Ekleme - Gel Al - Üye
+------------------------------------------
+ tags:regressionPreprod_sepettenUpsellEklemeGelAlUye
+
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sepete sufle eklenir
+* Sepetim ikonuna tıklanır
+* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetim ikonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Ye kazan popupında giriş yap butonuna tıklanır
+* E-posta "dominostest5@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* Kapıda ödeme nakit seçeneği ile devam edilir
+* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+
+
+Sepetten Upcell Ekleme - Gel Al - Yeni Üye
+---------------------------------------
+ tags:regressionPreprod_sepettenUpsellEklemeGelAlYeniUye
+
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sepete sufle eklenir
+* Sepetim ikonuna tıklanır
+* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetim ikonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Ye kazan popupında üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Sipariş ver butonuna tıklanır
+* Kapıda ödeme nakit seçeneği ile devam edilir
+* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+
+
+Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
+--------------------------------------------------
+ tags:regressionPreprod_sepettenUpsellEklemeGelAlUyeliksiz
+
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sepete sufle eklenir
+* Sepetim ikonuna tıklanır
+* Sepetteki suflenin eklendiği kontrol edilir
 
