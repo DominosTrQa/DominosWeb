@@ -233,6 +233,216 @@
     "key": "yekazanpopupgirisyap",
     "value":"//a[@class='guestModal__Button-sc-12wwd2w-6 heKcHP sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo'][contains(text(),'Giriş Yap')]",
     "type": "xpath"
+  },
+  {
+    "key": "kredikartıguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST2",
+    "type": "id"
+  },
+  {
+    "key": "smartSodexoKartguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST3",
+    "type": "id"
+  },
+  {
+    "key": "sodexoYemekCekiguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST4",
+    "type": "id"
+  },
+  {
+    "key": "smartTicketKartguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST5",
+    "type": "id"
+  },
+  {
+    "key": "smartTicketYemekÇekiguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST6",
+    "type": "id"
+  },
+  {
+    "key": "multinetguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST7",
+    "type": "id"
+  },
+  {
+    "key": "setCardguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST8",
+    "type": "id"
+  },
+  {
+    "key": "payeKartguest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST22",
+    "type": "id"
+  },
+  {
+    "key": "onlineOdemeguest",
+    "value":"DPE_TR_PAYMENTCARDTYPE_BUTTON_TYPEG1",
+    "type": "id"
+  },
+  {
+    "key": "nakitödemekontrolguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Nakit')]",
+    "type": "xpath"
+  },
+  {
+    "key": "kredikartıkontrolguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Kredi Kartı')]",
+    "type": "xpath"
+  },
+  {
+    "key": "smartsodexokartkontrolguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Smart Sodexho Kart')]",
+    "type": "xpath"
+  },
+  {
+    "key": "sodexhoyemekcekikontrolguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Sodexho Yemek Çeki')]",
+    "type": "xpath"
+  },
+  {
+    "key": "smartticketkartkontrolguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'SmartTicket Kart')]",
+    "type": "xpath"
+  },
+  {
+    "key": "smartticketyemekcekikontrolguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'SmartTicket Yemek Çeki')]",
+    "type": "xpath"
+  },
+  {
+    "key": "multinetkontrolguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Multinet')]",
+    "type": "xpath"
+  },
+  {
+    "key": "setcardkontrolguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'SetCard')]",
+    "type": "xpath"
+  },
+  {
+    "key": "payekartkontrolguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Paye Kart')]",
+    "type": "xpath"
+  },
+  {
+    "key": "nakitödemekontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Nakit')]",
+    "type": "xpath"
+  },
+  {
+    "key": "kredikartıkontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Kredi Kartı')]",
+    "type": "xpath"
+  },
+  {
+    "key": "smartsodexokartkontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Smart Sodexho Kart')]",
+    "type": "xpath"
+  },
+  {
+    "key": "sodexoyemekcekikontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Sodexho Yemek Çeki')]",
+    "type": "xpath"
+  },
+  {
+    "key": "smartticketkartkontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'SmartTicket Kart')]",
+    "type": "xpath"
+  },
+  {
+    "key": "smartticketyemekcekikontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'SmartTicket Yemek Çeki')]",
+    "type": "xpath"
+  },
+  {
+    "key": "multinetkontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Multinet')]",
+    "type": "xpath"
+  },
+  {
+    "key": "setcardkontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'SetCard')]",
+    "type": "xpath"
+  },
+  {
+    "key": "payekartkontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Paye Kart')]",
+    "type": "xpath"
+  },
+  {
+    "key": "onlineödemekontrol",
+    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Online Kredi / Banka Kartı')]",
+    "type": "xpath"
+  },
+  {
+    "key": "ÖdemeSekliNakitButonu",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE1",
+    "type": "id"
+  },
+  {
+    "key": "ÖdemeSeklikredikartı",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE2",
+    "type": "id"
+  },
+  {
+    "key": "ÖdemeSeklismartsodexokart",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE3",
+    "type": "id"
+  },
+  {
+    "key": "ÖdemeSeklisodexoyemekceki",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE4",
+    "type": "id"
+  },
+  {
+    "key": "ÖdemeSeklismartticketkart",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE5",
+    "type": "id"
+  },
+  {
+    "key": "ÖdemeSeklismartticketyemekceki",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE6",
+    "type": "id"
+  },
+  {
+    "key": "ÖdemeSeklimultinet",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE7",
+    "type": "id"
+  },
+  {
+    "key": "ÖdemeSeklisetcard",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE8",
+    "type": "id"
+  },
+  {
+    "key": "ÖdemeSeklipayekart",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE22",
+    "type": "id"
+  },
+  {
+    "key": "misafirtelefonNo",
+    "value":"//*[@class='input__Control-wbeopl-2 iQtoeP']",
+    "type": "xpath"
+  },
+  {
+    "key": "misafirtelefonNoOnay",
+    "value":"//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "ÖdemeSeklionlineguest",
+    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Online Kredi / Banka Kartı')]",
+    "type": "xpath"
+  },
+  {
+    "key": "gecerliTelgirkontrol",
+    "value":"//div[@class='input__ErrorText-wbeopl-4 bcanhF'][contains(text(),'Geçerli bir telefon numarası giriniz.')]",
+    "type": "xpath"
+  },
+  {
+    "key": "carpıisareti",
+    "value":"DPE_TR_MODALDIALOG_BUTTON_CLOSE",
+    "type": "id"
   }
 
 ]

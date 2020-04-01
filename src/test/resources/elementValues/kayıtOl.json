@@ -125,11 +125,6 @@
     "type": "xpath"
   },
   {
-    "key": "ÖdemeSekliNakitButonu",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE1",
-    "type": "id"
-  },
-  {
     "key": "CookieAccept",
     "value":"//button[contains(text(),'Onaylıyorum')]",
     "type": "xpath"
