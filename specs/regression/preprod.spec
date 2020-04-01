@@ -450,6 +450,7 @@ Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
 --------------------------------------------------
  tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUyeliksiz
 
+* "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -467,6 +468,7 @@ Sepetten Upcell Ekleme - Gel Al - Üye
 ------------------------------------------
  tags:regressionPreprod_sepettenUpsellEklemeGelAlUye
 
+* "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -489,6 +491,7 @@ Sepetten Upcell Ekleme - Gel Al - Yeni Üye
 ---------------------------------------
  tags:regressionPreprod_sepettenUpsellEklemeGelAlYeniUye
 
+* "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -513,6 +516,7 @@ Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
 --------------------------------------------------
  tags:regressionPreprod_sepettenUpsellEklemeGelAlUyeliksiz
 
+* "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
