@@ -24,8 +24,7 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_nakit
 ----------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_nakit
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -49,6 +48,9 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_nakit
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
 
@@ -65,10 +67,9 @@ tags:odemeTipiSecimi_varolanUye_gelAl_nakit
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
-
-
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Nakit
@@ -102,6 +103,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_nakit
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
@@ -121,23 +123,23 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_krediKartı
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-
+* Kapıda ödeme kredi kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Kredi Kartı
 ----------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_krediKartı
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme kredi kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Kredi Kartı
@@ -153,6 +155,11 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_krediKartı
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme kredi kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Kredi Kartı
@@ -167,6 +174,8 @@ tags:odemeTipiSecimi_varolanUye_gelAl_krediKartı
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Kapıda ödeme kredi kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Kredi Kartı
@@ -185,6 +194,9 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_krediKartı
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Kapıda ödeme kredi kartı seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir(guest)
+
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Kredi Kartı
 ------------------------------------------------------
@@ -197,11 +209,10 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_krediKartı
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-
-
-
-
+* Kapıda ödeme kredi kartı seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Sodexo Kart
@@ -218,21 +229,24 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartSodexoKart
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
+* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
+
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Sodexo Kart
 -----------------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_smartSodexoKart
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
+
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Sodexo Kart
 -------------------------------------------------------------------
@@ -247,6 +261,11 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartSodexoKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Sodexo Kart
@@ -261,7 +280,8 @@ tags:odemeTipiSecimi_varolanUye_gelAl_smartSodexoKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-
+* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Sodexo Kart
@@ -280,6 +300,8 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_smartSodexoKart
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Sodexo Kart
@@ -293,9 +315,10 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_smartSodexoKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-
-
+* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Sodexo Yemek Çeki
@@ -312,21 +335,23 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_sodexoYemekCeki
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
+* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_sodexoYemekCeki
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
+
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Sodexo Yemek Çeki
 -------------------------------------------------------------------
@@ -341,7 +366,11 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_sodexoYemekCeki
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Sodexo Yemek Çeki
@@ -356,7 +385,8 @@ tags:odemeTipiSecimi_varolanUye_gelAl_sodexoYemekCeki
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-
+* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Sodexo Yemek Çeki
@@ -375,7 +405,8 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_sodexoYemekCeki
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-
+* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Sodexo Yemek Çeki
@@ -389,10 +420,10 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_sodexoYemekCeki
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-
-
-
+* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Kart
@@ -409,22 +440,23 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartTicketKart
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
+* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Ticket Kart
 ----------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_smartTicketKart
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Kart
@@ -440,7 +472,11 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Kart
@@ -455,6 +491,8 @@ tags:odemeTipiSecimi_varolanUye_gelAl_smartTicketKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Kart
@@ -473,6 +511,8 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_smartTicketKart
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Kart
@@ -486,13 +526,10 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_smartTicketKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-
-
-
-
-
-
+* Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Yemek Çeki
@@ -509,26 +546,23 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartTicketYemekÇeki
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-
+* Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Ticket Yemek Çeki
 -----------------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_smartTicketYemekÇeki
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
-
-
-
+* Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Yemek Çeki
@@ -544,9 +578,11 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketYemekÇeki
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-
-
-
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Yemek Çeki
@@ -561,6 +597,9 @@ tags:odemeTipiSecimi_varolanUye_gelAl_smartTicketYemekÇeki
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
+
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Yemek Çeki
 ------------------------------------------------------------------------
@@ -578,6 +617,8 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_smartTicketYemekÇeki
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Yemek Çeki
@@ -591,12 +632,10 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_smartTicketYemekÇeki
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-
-
-
-
-
+* Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Multinet
@@ -613,23 +652,23 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_multinet
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
+* Kapıda ödeme multinet seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
+
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Multinet
 -------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_multinet
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
-
-
+* Kapıda ödeme multinet seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Multinet
@@ -645,9 +684,11 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_multinet
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-
-
-
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme multinet seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Multinet
@@ -662,7 +703,8 @@ tags:odemeTipiSecimi_varolanUye_gelAl_multinet
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-
+* Kapıda ödeme multinet seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Multinet
@@ -681,6 +723,9 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_multinet
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Kapıda ödeme multinet seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
+
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Multinet
 --------------------------------------------------
@@ -693,11 +738,10 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_multinet
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-
-
-
-
+* Kapıda ödeme multinet seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Setcard
@@ -714,24 +758,24 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_setCard
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-
-
+* Kapıda ödeme setCard seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Setcard
 ------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_setCard
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme setCard seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
+
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Setcard
 ---------------------------------------------------------
@@ -746,6 +790,11 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_setCard
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme setCard seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Setcard
@@ -760,6 +809,8 @@ tags:odemeTipiSecimi_varolanUye_gelAl_setCard
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Kapıda ödeme setCard seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Setcard
@@ -778,6 +829,8 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_setCard
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Kapıda ödeme setCard seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Setcard
@@ -791,11 +844,10 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_setCard
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-
-
-
-
+* Kapıda ödeme setCard seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Paye Kart
@@ -812,21 +864,23 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_payeKart
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
+* Kapıda ödeme paye kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
+
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Paye Kart
 ---------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_payeKart
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme paye kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Paye Kart
@@ -842,7 +896,11 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_payeKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Kapıda ödeme paye kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Paye Kart
@@ -857,6 +915,8 @@ tags:odemeTipiSecimi_varolanUye_gelAl_payeKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Kapıda ödeme paye kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Paye Kart
@@ -875,6 +935,9 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_payeKart
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Kapıda ödeme paye kart seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
+
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Paye Kart
 ------------------------------------------------------
@@ -887,10 +950,10 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_payeKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-
-
-
+* Kapıda ödeme paye kart seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Online Ödeme
@@ -907,21 +970,25 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_onlineOdeme
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
+* Online ödeme seçeneği ile devam edilir
+* Geçerli bir telefon giriniz hatası görülür
+* Çarpıya basılıp çıkılır
+
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Online Ödeme
 ------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_gelAl_onlineOdeme
 
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Online ödeme seçeneği ile devam edilir
+* Geçerli bir telefon giriniz hatası görülür
+* Çarpıya basılıp çıkılır
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Online Ödeme
@@ -937,6 +1004,12 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_onlineOdeme
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili adres ile devam edilir
+* Online ödeme seçeneği ile devam edilir
+* Geçerli bir telefon giriniz hatası görülür
+* Çarpıya basılıp çıkılır
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Online Ödeme
@@ -951,7 +1024,9 @@ tags:odemeTipiSecimi_varolanUye_gelAl_onlineOdeme
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-
+* Online ödeme seçeneği ile devam edilir
+* Geçerli bir telefon giriniz hatası görülür
+* Çarpıya basılıp çıkılır
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Online Ödeme
@@ -970,7 +1045,9 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_onlineOdeme
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-
+* Online ödeme seçeneği ile devam edilir(guest)
+* Geçerli bir telefon giriniz hatası görülür
+* Çarpıya basılıp çıkılır
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel AL - Online Ödeme
@@ -984,4 +1061,8 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_onlineOdeme
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
+* Online ödeme seçeneği ile devam edilir(guest)
+* Geçerli bir telefon giriniz hatası görülür
+* Çarpıya basılıp çıkılır
