@@ -7,7 +7,7 @@ Preprod
  tags:regressionPreprod_uyeGirisi
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
 
