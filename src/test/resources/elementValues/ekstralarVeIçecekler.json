@@ -323,5 +323,10 @@
     "key": "SepeteEkleCocaCola",
     "value": "DPE_TR_SIDEPRODUCTS_TAB1_CARD0",
     "type": "id"
+  },
+  {
+    "key": "SepeteEkleCocaColaControl",
+    "value": "//div[@id='DPE_TR_HOME_BUTTON_BASKET']/div//h4[.='Coca-Cola Kutu 330 ml']",
+    "type": "xpath"
   }
 ]
