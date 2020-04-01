@@ -219,17 +219,21 @@ Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal soslu tavuk
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  3 Al 1 Öde
---------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeliksiz3Al1Ode
+Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Orta boy ballı hardal soslu tavuklu
+----------------------------------------------------------------------------------------
+ tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeliksizOrtaBoyBalliHardalSosluTavuklu
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Haftanın kampanyalarına gidilir
-* 3 Al 1 öde kampanyası seçilir
-* 3 Al 1 öde kampanyası için sipariş oluşturulur
+* Domisoslu kampanyalara tıklanır
+* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
+* Sucuk ve mısır malzemeleri çıkarılır
+* Ekstra Malzeme Ekle butonuna tıklanır
+* Cheddar ve Mozarella eklenir
+* Ekstra Malzeme Ekle butonuna tıklanır
+* Güncelle butonuna tıklanır(özel kampanyalar için)
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
