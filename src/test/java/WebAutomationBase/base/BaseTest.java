@@ -47,6 +47,7 @@ public class BaseTest {
       options.addArguments("disable-translate");
       options.addArguments("--start-maximized");
       options.addArguments("--no-sandbox");
+      options.addArguments("--window-size=1920,1080");
       // options.addArguments("incognito");
 
       capabilities.setCapability(ChromeOptions.CAPABILITY, options);
