@@ -443,6 +443,76 @@
     "key": "carpıisareti",
     "value":"DPE_TR_MODALDIALOG_BUTTON_CLOSE",
     "type": "id"
+  },
+  {
+    "key": "temassızteslimat",
+    "value":"contactlessDelivery",
+    "type": "id"
+  },
+  {
+    "key": "lütfenzilebasmayınız",
+    "value":"isdonotpressthebell",
+    "type": "id"
+  },
+  {
+    "key": "lütfenzilebasmayınızKontrol",
+    "value":"//p[@class='styled__InfoDesc-td9pux-8 ehnKxs'][contains(text(),' Lütfen zile basmayınız')]",
+    "type": "xpath"
+  },
+  {
+    "key": "temassızteslimatKontrol",
+    "value":"//p[@class='styled__InfoDesc-td9pux-8 ehnKxs'][contains(text(),'Temassız Teslimat ')]",
+    "type": "xpath"
+  },
+  {
+    "key": "covidankettencikilir",
+    "value":"close-button-1502352480979",
+    "type": "id"
+  },
+  {
+    "key": "siparisversayfasiad",
+    "value":"//div[@class='input__Placeholder-wbeopl-0 kwynwW'][contains(text(),'Adınızı giriniz')]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisversayfasiadsoyad",
+    "value":"//div[@class='input__Placeholder-wbeopl-0 kwynwW'][contains(text(),'Soyadınızı giriniz')]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisversayfasieposta",
+    "value":"//div[@class='input__Placeholder-wbeopl-0 kwynwW'][contains(text(),'E-Posta adresinizi giriniz')]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisversayfasitelefon",
+    "value":"//div[@class='input__Placeholder-wbeopl-0 kwynwW'][contains(text(),'(5XX) XXX XX XX')]",
+    "type": "xpath"
+  },
+  {
+    "key": "temassızteslimatKontrolguest",
+    "value":"//p[@class='styled__InfoDesc-td9pux-8 ehnKxs'][contains(text(),' Temassız Teslimat')]",
+    "type": "xpath"
+  },
+  {
+    "key": "noteklecomboboxacilir",
+    "value":"//*[@class='icon-chevron-down dropdown__Button2IndicatorIcon-wa0gtc-11 ikCYbm']",
+    "type": "xpath"
+  },
+  {
+    "key": "varolannotSecilir",
+    "value":"//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv']",
+    "type": "xpath"
+  },
+  {
+    "key": "testnoticerigiKontrol",
+    "value":"//p[@class='styled__InfoDesc-td9pux-8 ehnKxs'][contains(text(),'Test Not İçeriği')]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisIcerigi",
+    "value":"//h4[@class='styled__InfoTitle-td9pux-7 fIVeKT'][contains(text(),'Sipariş İçeriği')]",
+    "type": "xpath"
   }
 
 ]

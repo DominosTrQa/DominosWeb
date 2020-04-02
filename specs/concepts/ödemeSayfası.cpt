@@ -485,9 +485,6 @@
 # Çarpıya basılıp çıkılır
 * Elementi bekle ve sonra tıkla "carpıisareti"
 
-
-
-
 # Yeni adres ekle (Gel Al)
 * Elementi bekle ve sonra tıkla "adresEkleIlDropdown"
 * Elementi bekle ve sonra tıkla "adresEkleIlDropdownIstanbul"
@@ -510,3 +507,33 @@
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
+
+# Temassız teslimat seçeneği seçilir
+* Elementi bekle ve sonra tıkla "temassızteslimat"
+
+# Lütfen zile basmayınız seçilir
+* Elementi bekle ve sonra tıkla "lütfenzilebasmayınız"
+
+# Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
+* Element var mı kontrol et "lütfenzilebasmayınızKontrol"
+
+# Not alanında temassız teslimat yazısının geldiği kontrol edilir
+* Element var mı kontrol et "temassızteslimatKontrol"
+
+# Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+* Elementi bekle ve sonra tıkla "covidankettencikilir"
+
+# Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* "test" textini "siparisversayfasiad" elemente yaz
+* "test" textini "siparisversayfasiadsoyad" elemente yaz
+* "dominostest5@hotmail.com" textini "siparisversayfasieposta" elemente yaz
+* "5000000000" textini "siparisversayfasitelefon" elemente yaz
+
+# Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "temassızteslimatKontrolguest"
+
+# Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+ "2" saniye bekle
+ "siparisIcerigi" alanına kaydır
+* "2" saniye bekle
+* Element var mı kontrol et "testnoticerigiKontrol"

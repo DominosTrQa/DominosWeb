@@ -250,3 +250,28 @@
 
 # Ödemeyi tamamla butonu geldiği kontrol edilir
 * Element var mı kontrol et "OdemeyiTamamla"
+
+# Not ekle butonuna tıklanır
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "noteklebuton"
+
+# Not eklenir
+* "Test Not Başlığı" textini "notbasligi" elemente yaz
+* "Test Not İçeriği" textini "not" elemente yaz
+* Elementi bekle ve sonra tıkla "noteklenir"
+* "3" saniye bekle
+
+# Notlarım alanında Test Not Başlığı yazısının geldiği görülür
+* "2" saniye bekle
+* "noteklemeKontrol" li elementin değeri "Test Not Başlığı" e eşitliğini kontrol et
+
+# Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
+* Elementi bekle ve sonra tıkla "noteklecomboboxacilir"
+
+# Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
+* Element var mı kontrol et "siparisNotu"
+
+# Varolan notum silinir
+* Elementi bekle ve sonra tıkla "notlarımDüzenleButon"
+* Elementi bekle ve sonra tıkla "notlarımSilButon"
+
