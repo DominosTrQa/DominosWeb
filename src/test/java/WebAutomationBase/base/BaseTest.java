@@ -47,7 +47,6 @@ public class BaseTest {
       options.addArguments("disable-translate");
       options.addArguments("--start-maximized");
       options.addArguments("--no-sandbox");
-      options.addArguments("--window-size=550,1000");
       // options.addArguments("incognito");
 
       capabilities.setCapability(ChromeOptions.CAPABILITY, options);
@@ -67,7 +66,7 @@ public class BaseTest {
       //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
       //options.addArguments("incognito");
       driver = new ChromeDriver(options);
-      driver.manage().window().setSize(new Dimension(500,1000));
+      driver.manage().window().maximize();
     }
     webDriverWait = new WebDriverWait(driver, 45, 150);
     driver.get(baseUrl);
