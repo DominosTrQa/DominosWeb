@@ -186,6 +186,7 @@ Sepete Kampanya Ekleme - Gel Al - Üye - Orta Boy Barbekü Soslu Sucuklu pizza k
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Kampanyalar Butonuna tıklanır
+* Şubeye özel fırsatlara tıklanır
 * Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * İlk ürün düzenlemeye tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
@@ -205,7 +206,6 @@ Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal soslu tavuk
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
@@ -224,7 +224,6 @@ Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Orta boy ballı hardal soslu tav
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
@@ -332,9 +331,9 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Üye
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
-* Sepete coca cola eklenir
-* Sepette coca cola var mı kontrol edilir
+* İçecekler tabına tıklanır (Stg)
+* Sepete coca cola eklenir (Stg)
+* Sepette coca cola var mı kontrol edilir (Stg)
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
@@ -344,21 +343,21 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
-* Sepete coca cola eklenir
-* Sepette coca cola var mı kontrol edilir
+* İçecekler tabına tıklanır (Stg)
+* Sepete coca cola eklenir (Stg)
+* Sepette coca cola var mı kontrol edilir (Stg)
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
 --------------------------------------------------
- tags:regressionStaging_sepeteYanUrunEklemeAdreseTeslimYeniUye
+ tags:regressionStaging_sepeteYanUrunEklemeAdreseTeslimUyeliksiz
 
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
-* Sepete coca cola eklenir
-* Sepette coca cola var mı kontrol edilir
+* İçecekler tabına tıklanır (Stg)
+* Sepete coca cola eklenir (Stg)
+* Sepette coca cola var mı kontrol edilir (Stg)
 
 Sepete Yan Ürün Ekleme - Gel Al - Üye
 ----------------------------------------------
@@ -367,9 +366,9 @@ Sepete Yan Ürün Ekleme - Gel Al - Üye
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
-* Sepete coca cola eklenir
-* Sepette coca cola var mı kontrol edilir
+* İçecekler tabına tıklanır (Stg)
+* Sepete coca cola eklenir (Stg)
+* Sepette coca cola var mı kontrol edilir (Stg)
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
@@ -379,9 +378,9 @@ Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
-* Sepete coca cola eklenir
-* Sepette coca cola var mı kontrol edilir
+* İçecekler tabına tıklanır (Stg)
+* Sepete coca cola eklenir (Stg)
+* Sepette coca cola var mı kontrol edilir (Stg)
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
@@ -391,9 +390,9 @@ Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
-* Sepete coca cola eklenir
-* Sepette coca cola var mı kontrol edilir
+* İçecekler tabına tıklanır (Stg)
+* Sepete coca cola eklenir (Stg)
+* Sepette coca cola var mı kontrol edilir (Stg)
 
 
 Sepetten Upsell Ekleme - Adrese Teslim - Üye

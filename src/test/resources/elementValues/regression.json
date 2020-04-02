@@ -28,5 +28,35 @@
     "key": "adresEkleMahalleDropdownBurgazada",
     "value":"//div[text()='Burgazada Mh.']",
     "type": "xpath"
+  },
+  {
+    "key": "subeyeözelkampanyalarStg",
+    "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'ubene Özel Kampanyalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "barbeküpizzaStg",
+    "value":"(//div[contains(text(),'Barbekü Soslu Sucuklu')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "birinciUrunSecinizStg",
+    "value":"//div[@id=\"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "extra_Lezzetler_Tab_Icecekler_Buton_Stg",
+    "value": "DPE_TR_SIDEPRODUCT_TAB6",
+    "type": "id"
+  },
+  {
+    "key": "SepeteEkleCocaColaStg",
+    "value": "//div[@id='DPE_TR_SIDEPRODUCTS_TAB6_CARD0']//a[contains(text(),'SEPETE EKLE')]",
+    "type": "xpath"
+  },
+  {
+    "key": "SepeteEkleCocaColaControlStg",
+    "value": "//div[@id='DPE_TR_HOME_BUTTON_BASKET']/div//h4[.='450 Ml Coca-Cola']",
+    "type": "xpath"
   }
 ]

@@ -76,6 +76,9 @@
 # İçecekler tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
 
+# İçecekler tabına tıklanır (Stg)
+* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton_Stg"
+
 # Dürümler tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Dürümler_Buton"
 
@@ -106,8 +109,16 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "SepeteEkleCocaCola"
 
+# Sepete coca cola eklenir (Stg)
+*"SepeteEkleCocaColaStg" alanına kaydır
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "SepeteEkleCocaColaStg"
+
 # Sepette coca cola var mı kontrol edilir
 * Element var mı kontrol et "SepeteEkleCocaColaControl"
+
+# Sepette coca cola var mı kontrol edilir (Stg)
+* Element var mı kontrol et "SepeteEkleCocaColaControlStg"
 
 # Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sağ_Ok_Buton"
