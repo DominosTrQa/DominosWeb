@@ -513,6 +513,11 @@
     "key": "siparisIcerigi",
     "value":"//h4[@class='styled__InfoTitle-td9pux-7 fIVeKT'][contains(text(),'Sipariş İçeriği')]",
     "type": "xpath"
+  },
+  {
+    "key": "siparisNotuguest",
+    "value":"DPE_TR_ORDERCONFIRM_INPUT_NOTES_GUEST",
+    "type": "id"
   }
 
 ]

@@ -448,5 +448,25 @@
     "key": "apartmanNoiki",
     "value":"//div[text()='2']",
     "type": "xpath"
+  },
+  {
+    "key": "GelAlTextKontrol",
+    "value":"//span[contains(text(),'Gel Al')]",
+    "type": "xpath"
+  },
+  {
+    "key": "AnasayfaLogo",
+    "value":"DPE_TR_HOME_BUTTON_LOGO",
+    "type": "id"
+  },
+  {
+    "key": "teslimatdegisecekuyarisi",
+    "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk'][contains(text(),'Sepetinizde ürün varken teslimat tipini değiştirmek sepetinizdeki ürünlerin')]",
+    "type": "xpath"
+  },
+  {
+    "key": "teslimattipidegistirürünSilinirEvet",
+    "value":"DPE_TR_ALERT_BUTTON_LEFT",
+    "type": "id"
   }
 ]

@@ -145,7 +145,11 @@
 # Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
-* Element var mı kontrol et "profilimPopupAdreslerimPopupText"
+* Element var mı kontrol et "AdreseTeslimTextKontrol"
+
+# Profilim popup Adreslerim butonuna tıklanır
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
 
 # Profilim popup Yeni Adres Ekle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"
@@ -274,4 +278,10 @@
 # Varolan notum silinir
 * Elementi bekle ve sonra tıkla "notlarımDüzenleButon"
 * Elementi bekle ve sonra tıkla "notlarımSilButon"
+
+# Profilimden adreslerime giderek kayıtlı adres silinir
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Sil_Buton"
 

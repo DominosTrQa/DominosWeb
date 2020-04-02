@@ -190,7 +190,12 @@
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Sipariş notu eklenir
+* "3" saniye bekle
 * "testnot" textini "siparisNotu" elemente yaz
+
+# Sipariş notu eklenir(guest)
+* "3" saniye bekle
+* "testnot" textini "siparisNotuguest" elemente yaz
 
 # Gönderim zamanı ileri bir tarih seçilir
 * Elementi bekle ve sonra tıkla "gönderimzamaniIcon"
