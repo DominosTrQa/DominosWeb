@@ -133,7 +133,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Üye - Orta Boy Barbekü Soslu Sucuklu 
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
+* Tek kişilik kampanyalara tıklanır
 * Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * İlk ürün düzenlemeye tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
@@ -168,7 +168,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Orta Boy Barbekü Soslu Su
 * Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
+* Tek kişilik kampanyalara tıklanır
 * Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * İlk ürün düzenlemeye tıklanır
 * Kalp şeklinde hamura tıklanır
@@ -188,7 +188,7 @@ Sepete Kampanya Ekleme - Gel Al - Üye - Orta Boy Barbekü Soslu Sucuklu pizza k
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
+* Tek kişilik kampanyalara tıklanır
 * Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * İlk ürün düzenlemeye tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
@@ -208,7 +208,7 @@ Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal soslu tavuk
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
+* Tek kişilik kampanyalara tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
@@ -227,7 +227,7 @@ Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Orta boy ballı hardal soslu tav
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
+* Tek kişilik kampanyalara tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
