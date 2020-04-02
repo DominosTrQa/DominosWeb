@@ -148,5 +148,45 @@
     "key": "üyelik_Bilgilerim_Adreslerim_ilkadres",
     "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSITEM0",
     "type": "id"
+  },
+  {
+    "key": "noteklebuton",
+    "value":"DPE_TR_NOTES_BUTTON_ADD",
+    "type": "id"
+  },
+  {
+    "key": "notbasligi",
+    "value":"DPE_TR_NOTEFORM_INPUT_TITLE",
+    "type": "id"
+  },
+  {
+    "key": "not",
+    "value":"DPE_TR_NOTEFORM_INPUT_NOTE",
+    "type": "id"
+  },
+  {
+    "key": "noteklenir",
+    "value":"DPE_TR_NOTEFORM_BUTTON_ADD",
+    "type": "id"
+  },
+  {
+    "key": "noteklemeKontrol",
+    "value":"//h4[@class='notes__NoteTitle-x7fyts-3 cpNPRp'][contains(text(),'Test Not Başlığı')]",
+    "type": "xpath"
+  },
+  {
+    "key": "tümpizzalarHeader",
+    "value":"DPE_TR_HOME_BUTTON_HEADERITEM1",
+    "type": "id"
+  },
+  {
+    "key": "notlarımDüzenleButon",
+    "value":"DPE_TR_NOTES_BUTTON_EDIT",
+    "type": "id"
+  },
+  {
+    "key": "notlarımSilButon",
+    "value":"DPE_TR_NOTEFORM_BUTTON_DELETE",
+    "type": "id"
   }
 ]

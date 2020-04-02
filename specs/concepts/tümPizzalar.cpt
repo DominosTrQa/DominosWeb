@@ -77,3 +77,6 @@
 
 # Kenar tipi seçilir
 * Elementi bekle ve sonra tıkla "ilkkenartipi"
+
+# Header tabından tüm pizzalara tıklanır
+* Elementi bekle ve sonra tıkla "tümpizzalarHeader"
