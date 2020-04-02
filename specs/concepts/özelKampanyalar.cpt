@@ -45,6 +45,9 @@
 # Domisoslu kampanyalara tıklanır
 * Elementi bekle ve sonra tıkla "domisoslukampanyalar"
 
+# Tek kişilik kampanyalara tıklanır
+* Elementi bekle ve sonra tıkla "TekKisilikKampanyalar"
+
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
 * Elementi bekle ve sonra tıkla "ortaboytavuklupizza"
 * "2" saniye bekle
