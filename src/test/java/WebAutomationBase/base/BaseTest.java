@@ -12,6 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -51,6 +52,7 @@ public class BaseTest {
       capabilities.setCapability(ChromeOptions.CAPABILITY, options);
       capabilities.setCapability("key", System.getenv("key"));
 
+
       driver = new RemoteWebDriver(new URL("http://hub.testinium.io/wd/hub"), capabilities);
       ((RemoteWebDriver) driver).setFileDetector(new LocalFileDetector());
     } else {
@@ -64,7 +66,7 @@ public class BaseTest {
       //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
       //options.addArguments("incognito");
       driver = new ChromeDriver(options);
-      driver.manage().window().maximize();
+      driver.manage().window().setSize(new Dimension(500,1000));
     }
     webDriverWait = new WebDriverWait(driver, 45, 150);
     driver.get(baseUrl);
