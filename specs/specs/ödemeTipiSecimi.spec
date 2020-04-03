@@ -1006,8 +1006,8 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_onlineOdeme
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Online ödeme seçeneği ile devam edilir
-* Geçerli bir telefon giriniz hatası görülür
-* Çarpıya basılıp çıkılır
+* Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
+* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Online Ödeme
@@ -1022,8 +1022,8 @@ tags:odemeTipiSecimi_yeniUye_gelAl_onlineOdeme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Online ödeme seçeneği ile devam edilir
-* Geçerli bir telefon giriniz hatası görülür
-* Çarpıya basılıp çıkılır
+* Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
+* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Online Ödeme
@@ -1043,8 +1043,8 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_onlineOdeme
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Online ödeme seçeneği ile devam edilir
-* Geçerli bir telefon giriniz hatası görülür
-* Çarpıya basılıp çıkılır
+* Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
+* Tamam butonuna tıklanır
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -1063,9 +1063,10 @@ tags:odemeTipiSecimi_varolanUye_gelAl_onlineOdeme
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Online ödeme seçeneği ile devam edilir
-* Geçerli bir telefon giriniz hatası görülür
-* Çarpıya basılıp çıkılır
+* Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
+* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Online Ödeme

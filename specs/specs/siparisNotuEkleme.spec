@@ -72,7 +72,9 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassızTeslimat
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Sipariş tamamlanır
+* Tekrar sipariş ver butonuna tıklanır
+* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+* Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 
 
@@ -143,6 +145,9 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_lütfenZileBasmayınız
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
 * Lütfen zile basmayınız seçilir
 * Sipariş tamamlanır
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Tekrar sipariş ver butonuna tıklanır
+* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
 

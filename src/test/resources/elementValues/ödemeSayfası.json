@@ -518,6 +518,11 @@
     "key": "siparisNotuguest",
     "value":"DPE_TR_ORDERCONFIRM_INPUT_NOTES_GUEST",
     "type": "id"
+  },
+  {
+    "key": "onlineödemedevamdanSonraKontrol",
+    "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk'][contains(text(),'Online ödeme seçiminde kayıtlı ')]",
+    "type": "xpath"
   }
 
 ]

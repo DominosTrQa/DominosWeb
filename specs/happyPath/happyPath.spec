@@ -60,6 +60,10 @@ tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
 Ödemeyi tamamla butonu geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 HappyPath - Kullanıcı ilk kez geliyor - Gel Al
