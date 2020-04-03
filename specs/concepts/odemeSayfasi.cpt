@@ -190,7 +190,12 @@
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Sipariş notu eklenir
+* "3" saniye bekle
 * "testnot" textini "siparisNotu" elemente yaz
+
+# Sipariş notu eklenir(guest)
+* "3" saniye bekle
+* "testnot" textini "siparisNotuguest" elemente yaz
 
 # Gönderim zamanı ileri bir tarih seçilir
 * Elementi bekle ve sonra tıkla "gönderimzamaniIcon"
@@ -252,7 +257,11 @@
 * Element var mı kontrol et "notlarimYeniNotEklePopUpText"
 
 # Sipariş tamamlanır
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
+* Elementi bekle ve sonra tıkla "OdemeyiTamamla"
+
+# Tekrar sipariş ver butonuna tıklanır
 * Elementi bekle ve sonra tıkla "OdemeyiTamamla"
 
 # Adres düzenle butonuna tıklanır
@@ -346,6 +355,8 @@
 # Online ödeme seçeneği ile devam edilir
 * Elementi bekle ve sonra tıkla "SiparisVerOnlineOdeme"
 * "5" saniye bekle
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir(guest)
 * Element var mı kontrol et "onaysayfasındacikolatalısufleguest"
@@ -537,3 +548,9 @@
  "siparisIcerigi" alanına kaydır
 * "2" saniye bekle
 * Element var mı kontrol et "testnoticerigiKontrol"
+
+# Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
+* Element var mı kontrol et "onlineödemedevamdanSonraKontrol"
+
+# Tamam butonuna tıklanır
+* Elementi bekle ve sonra tıkla "teslimattipidegistirürünSilinirEvet"

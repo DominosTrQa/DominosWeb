@@ -464,3 +464,24 @@
 # Secili konum ile devam edilir
 * Elementi bekle ve sonra tıkla "secilikonumileDevametbuton"
 
+# Anasayfa gel al yazısının geldiği kontrol edilir
+* Elementi bekle ve sonra tıkla "GelAlTextKontrol"
+
+# Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+* Element var mı kontrol et "AdreseTeslimTextKontrol"
+
+# Adrese teslim butonuna tıklanamadığı görülür
+* Element yok mu kontrol et "Anasayfa_Adrese_Teslim_Button"
+
+# Gel al butonuna tıklanamadığı görülür
+* Element yok mu kontrol et "Anasayfa_Adrese_Teslim_Button"
+
+# Anasayfadaki dominos logosuna tıklanır
+* Elementi bekle ve sonra tıkla "AnasayfaLogo"
+
+# Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
+* Element var mı kontrol et "teslimatdegisecekuyarisi"
+
+# Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
+* Elementi bekle ve sonra tıkla "teslimattipidegistirürünSilinirEvet"
+

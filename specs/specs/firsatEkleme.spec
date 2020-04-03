@@ -50,7 +50,7 @@ tags:fırsatEkleme_GelAlSubeyeOzelKismindan
 * Fırsat içeriğindeki pizzanın geldiği kontrol edilir(Gel Al)
 
 
-Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Adrese Teslim
+Fırsat Ekleme - İstenilen Url'e gidilir - Fırsat - Adrese Teslim
 -----------------------------------------------------------------
 tags:fırsatEkleme_istenilenUrleGidilir_fırsat_adreseTeslim
 
@@ -66,7 +66,7 @@ tags:fırsatEkleme_istenilenUrleGidilir_fırsat_adreseTeslim
 * Sepetimde ürün var mı kontrol edilir
 
 
-Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Yeni - Adrese Teslim
+Fırsat Ekleme - İstenilen Url'e gidilir - Fırsat - Yeni - Adrese Teslim
 ------------------------------------------------------------------------
 tags:fırsatEkleme_istenilenUrleGidilir_fırsat_yeni_adreseTeslim
 
@@ -82,7 +82,7 @@ tags:fırsatEkleme_istenilenUrleGidilir_fırsat_yeni_adreseTeslim
 * Sepetimde ürün var mı kontrol edilir
 
 
-Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Gel Al
+Fırsat Ekleme - İstenilen Url'e gidilir - Fırsat - Gel Al
 -----------------------------------------------------------------
 tags:fırsatEkleme_istenilenUrleGidilir_fırsat_gelAl
 
@@ -96,7 +96,7 @@ tags:fırsatEkleme_istenilenUrleGidilir_fırsat_gelAl
 * Sepetimde ürün var mı kontrol edilir
 
 
-Fırsat Ekleme - İstanilen Url'e gidilir - Fırsat - Yeni - Gel Al
+Fırsat Ekleme - İstenilen Url'e gidilir - Fırsat - Yeni - Gel Al
 ------------------------------------------------------------------------
 tags:fırsatEkleme_istenilenUrleGidilir_fırsat_yeni_gelAl
 

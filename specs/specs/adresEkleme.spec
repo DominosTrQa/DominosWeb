@@ -76,7 +76,7 @@ Adres Ekleme - Kontrol
 -----------------------
 tags:adresEkleme_AdresEkleme/Kontrol
 
-* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır

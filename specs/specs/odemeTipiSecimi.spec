@@ -53,7 +53,10 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_nakit
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
-
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Nakit
 -------------------------------------------------
@@ -160,6 +163,10 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_krediKartı
 * Seçili adres ile devam edilir
 * Kapıda ödeme kredi kartı seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Kredi Kartı
@@ -266,6 +273,10 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartSodexoKart
 * Seçili adres ile devam edilir
 * Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Sodexo Kart
@@ -371,6 +382,10 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_sodexoYemekCeki
 * Seçili adres ile devam edilir
 * Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Sodexo Yemek Çeki
@@ -477,6 +492,10 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketKart
 * Seçili adres ile devam edilir
 * Kapıda ödeme smart ticket kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Kart
@@ -583,6 +602,10 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketYemekÇeki
 * Seçili adres ile devam edilir
 * Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Yemek Çeki
@@ -689,6 +712,10 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_multinet
 * Seçili adres ile devam edilir
 * Kapıda ödeme multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Multinet
@@ -795,6 +822,10 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_setCard
 * Seçili adres ile devam edilir
 * Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Setcard
@@ -901,6 +932,10 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_payeKart
 * Seçili adres ile devam edilir
 * Kapıda ödeme paye kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Paye Kart
@@ -971,8 +1006,8 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_onlineOdeme
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Online ödeme seçeneği ile devam edilir
-* Geçerli bir telefon giriniz hatası görülür
-* Çarpıya basılıp çıkılır
+* Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
+* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Online Ödeme
@@ -987,8 +1022,8 @@ tags:odemeTipiSecimi_yeniUye_gelAl_onlineOdeme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Online ödeme seçeneği ile devam edilir
-* Geçerli bir telefon giriniz hatası görülür
-* Çarpıya basılıp çıkılır
+* Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
+* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Online Ödeme
@@ -1008,8 +1043,12 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_onlineOdeme
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Online ödeme seçeneği ile devam edilir
-* Geçerli bir telefon giriniz hatası görülür
-* Çarpıya basılıp çıkılır
+* Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
+* Tamam butonuna tıklanır
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Online Ödeme
@@ -1024,9 +1063,10 @@ tags:odemeTipiSecimi_varolanUye_gelAl_onlineOdeme
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Online ödeme seçeneği ile devam edilir
-* Geçerli bir telefon giriniz hatası görülür
-* Çarpıya basılıp çıkılır
+* Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
+* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Online Ödeme

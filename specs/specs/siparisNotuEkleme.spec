@@ -46,6 +46,10 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_temassızTeslimat
 * Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
@@ -68,7 +72,9 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassızTeslimat
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Sipariş tamamlanır
+* Tekrar sipariş ver butonuna tıklanır
+* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+* Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 
 
@@ -114,6 +120,10 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_lütfenZileBasmayınız
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
@@ -135,6 +145,9 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_lütfenZileBasmayınız
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
 * Lütfen zile basmayınız seçilir
 * Sipariş tamamlanır
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Tekrar sipariş ver butonuna tıklanır
+* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
 
@@ -202,6 +215,10 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_notEkleme
 * Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
@@ -242,7 +259,7 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_notEkleme
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
-* Sipariş notu eklenir
+* Sipariş notu eklenir(guest)
 * Sipariş tamamlanır
 * Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
@@ -263,7 +280,7 @@ tags:siparisNotuEkleme_uyeliksiz_gelAl_notEkleme
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
-* Sipariş notu eklenir
+* Sipariş notu eklenir(guest)
 * Sipariş tamamlanır
 * Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
@@ -361,6 +378,11 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_varolanNotuEkleme
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
+
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 -----------------------------------------------------------------

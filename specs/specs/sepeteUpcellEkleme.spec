@@ -126,6 +126,10 @@ tags:sepeteUpcellEkle_varOlanKullanıcıGirisYap_adreseTeslim
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Sepete Upcell Ekle - Varolan kullanıcı Giris Yap - Gel Al

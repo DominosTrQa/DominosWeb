@@ -80,7 +80,7 @@
     "type": "xpath"
   },
   {
-    "key": "profilimPopupAdreslerimPopupText",
+    "key": "AdreseTeslimTextKontrol",
     "value":"//span[contains(text(),'Adrese Teslim')]",
     "type": "xpath"
   },
