@@ -28,7 +28,7 @@ tags:happyPath_kullanıcıİlkkezGeliyor_adreseTeslim
 
 HappyPath - Kullanıcı ilk kez geliyor - Gel Al
 ------------------------------------------------
-tags:happyPath_kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
+tags:happyPath_kullaniciIlkKezGeliyor_gelAlServisTipiSecti
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir

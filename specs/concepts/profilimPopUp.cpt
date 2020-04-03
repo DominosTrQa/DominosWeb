@@ -26,14 +26,12 @@
 
 # Profilim popup Üyelik bilgilerim değişiklik yapıldığı kontrol edilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
- "4" uzunlugunda random bir kelime üret ve "üyelik_Bilgilerim_Ad_Textbox" olarak sakla
 * "üyelik_Bilgilerim_Ad_Textbox" elementine random isim yaz
- Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Soyad_Textbox"
- "4" uzunlugunda random bir kelime üret ve "üyelik_Bilgilerim_Soyad_Textbox" olarak sakla
 * "üyelik_Bilgilerim_Soyad_Textbox" elementine random isim yaz
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
- Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
- Element var mı kontrol et "üyelik_Bilgilerim_Soyad_Textbox"
+
+# Profilde verilen isim başarılı bir şekilde değiştimi kontrol et 
+
 
 # Profilim popup Üyelik bilgilerim KVKK Aydınlatma Metni kontrol edilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Linktext"
