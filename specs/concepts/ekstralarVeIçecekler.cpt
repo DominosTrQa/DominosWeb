@@ -31,7 +31,7 @@
 # Tatlılar ekranı kontrol edilir
 * Element var mı kontrol et "Tatlilar_Buton1"
 * Element var mı kontrol et "Tatlilar_Buton2"
-* Element var mı kontrol et "Tatlilar_Buton3"
+ Element var mı kontrol et "Tatlilar_Buton3"
 * "2" saniye bekle
 
 # Ekmekler ekranı kontrol edilir

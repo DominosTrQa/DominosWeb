@@ -13,6 +13,7 @@ tags:happyPath_kullanıcıİlkkezGeliyor_adreseTeslim
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
+* Şubeye özel fırsatlara tıklanır
 * Şubeye özel fırsatlar ilk fırsata tıklanır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
@@ -22,7 +23,28 @@ tags:happyPath_kullanıcıİlkkezGeliyor_adreseTeslim
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
-Ödemeyi tamamla butonu geldiği kontrol edilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
+
+
+HappyPath - Kullanıcı ilk kez geliyor - Gel Al
+------------------------------------------------
+tags:happyPath_kullaniciIlkKezGeliyor_gelAlServisTipiSecti
+
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* Gel Al Haftanın kampanyalarına gidilir
+* Şubeye özel fırsatlar ilk fırsata tıklanır
+* İlk ürün seçilir ve sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Ödeme şekli seçilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
 HappyPath - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
@@ -64,27 +86,6 @@ tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Profilimden adreslerime giderek kayıtlı adres silinir
-
-
-HappyPath - Kullanıcı ilk kez geliyor - Gel Al
-------------------------------------------------
-tags:happyPath_kullanıcıİlkKezGeliyor_gelAlServisTipiSeçti
-
-* Üye ol butonuna tıklanır
-* Ad Soyad Random mail telefon ve sifre girilir
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Kampanyalar Butonuna tıklanır
-* Gel Al domisoslu kampanyalara tıklanır
-* Fırsat içeriğindeki pizzaya tıklanır
-* Kampanya sepete eklenir
-* Sepetimde ürün var mı kontrol edilir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
-Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
 HappyPath - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)

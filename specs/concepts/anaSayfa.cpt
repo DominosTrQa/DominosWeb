@@ -347,6 +347,7 @@
 * Element var mı kontrol et "subeyeOzelMesafeBilgisiAlani"
 * Element var mı kontrol et "subeyeOzelSubeIstatistikleriText"
 * Element var mı kontrol et "subeyeOzelTümkampanyalariInceleButon"
+* "1" saniye bekle
 * Element var mı kontrol et "subeyeOzelAcikKapaliBilgisi"
 * Element var mı kontrol et "subeyeOzelYolTarifiAlButon"
 

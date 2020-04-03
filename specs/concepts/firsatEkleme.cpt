@@ -120,7 +120,8 @@
 
 # Fırsat içeriğindeki pizzanın geldiği kontrol edilir(Gel Al)
 * "5" saniye bekle
-* Element var mı kontrol et "4KisiveÜzeriKampanyalarButon1"
+* Element var mı kontrol et "2-3kisilikKampanyalarButon1"
+* Element var mı kontrol et "ortaboypizzalarGelAlŞubeyeözel"
 
 # Birinci ürün seçilir
 * Elementi bekle ve sonra tıkla "kullaniciyaözelfirsateklemedüzenle"

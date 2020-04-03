@@ -44,5 +44,10 @@
     "key": "FırsatIlkTab",
     "value":"DPE_TR_CAMPAIGNS_TAB0",
     "type": "id"
+  },
+  {
+    "key": "gelAlHaftaninkampanyalari",
+    "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Gel Al Haftanın Kampanyaları')]",
+    "type": "xpath"
   }
 ]
