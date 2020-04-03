@@ -82,6 +82,11 @@
 * Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
 * "2" saniye bekle
 
+# İlk ürün seçilir ve sepete eklenir
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla "sebzelipeynirlidürümos"
+* Kampanya sepete eklenir
+
 # Sucuk ve mısır malzemeleri çıkarılır
 * Elementi bekle ve sonra tıkla "sucukMalzeme"
 * Elementi bekle ve sonra tıkla "misirMalzeme"

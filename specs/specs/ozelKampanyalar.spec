@@ -23,7 +23,7 @@ tags:özelKampanyalar_ortaBoyBarbeküSosluSucukluPizzaKampanyası
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
+* Tek kişilik kampanyalara tıklanır
 * Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * İlk ürün düzenlemeye tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
@@ -42,7 +42,7 @@ tags:özelKampanyalar_ortaBoyBarbeküSosluSucukluPizza_kalpŞeklindeHamurSeçimi
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
+* Tek kişilik kampanyalara tıklanır
 * Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * İlk ürün düzenlemeye tıklanır
 * Kalp şeklinde hamura tıklanır
@@ -62,7 +62,7 @@ tags:özelKampanyalar_ortaBoyBallıHardalSosluTavukluPizzaKampanyası
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Domisoslu kampanyalara tıklanır
+* Tek kişilik kampanyalara tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır

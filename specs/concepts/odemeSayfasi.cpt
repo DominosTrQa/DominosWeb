@@ -535,8 +535,8 @@
 * Elementi bekle ve sonra tıkla "covidankettencikilir"
 
 # Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* "test" textini "siparisversayfasiad" elemente yaz
-* "test" textini "siparisversayfasiadsoyad" elemente yaz
+* "siparisversayfasiad" elementine random isim yaz
+* "siparisversayfasiadsoyad" elementine random isim yaz
 * "dominostest5@hotmail.com" textini "siparisversayfasieposta" elemente yaz
 * "5000000000" textini "siparisversayfasitelefon" elemente yaz
 

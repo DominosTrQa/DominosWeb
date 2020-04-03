@@ -24,25 +24,25 @@
 * Element var mı kontrol et "kampanyalarSolOkButon"
 
 # Haftanın Kampanyaları sayfasındaki elementler kontrol edilir
-* Wait "2" seconds
+* "2" saniye bekle
 * Element var mı kontrol et "HaftaninKampanyalari"
 * Elementi bekle ve sonra tıkla "HaftaninKampanyalari"
 * Element var mı kontrol et "HaftaninKampanyalariButon1"
 
 # Tek Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
-* Wait "2" seconds
+* "2" saniye bekle
 * Element var mı kontrol et "TekKisilikKampanyalar"
 * Elementi bekle ve sonra tıkla "TekKisilikKampanyalar"
 * Element var mı kontrol et "TekKisilikKampanyalarButon1"
 
 # 2-3 Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
-* Wait "2" seconds
+* "2" saniye bekle
 * Element var mı kontrol et "2-3kisilikKampanyalar"
 * Elementi bekle ve sonra tıkla "2-3kisilikKampanyalar"
 * Element var mı kontrol et "2-3kisilikKampanyalarButon1"
 
 # 4 Kişi ve Üzeri Kampanyalar sayfasındaki elementler kontrol edilir
-* Wait "2" seconds
+* "2" saniye bekle
 * Element var mı kontrol et "4KisiveÜzeriKampanyalar"
 * Elementin yüklenmesini bekle ve tıkla "4KisiveÜzeriKampanyalar"
 * Element var mı kontrol et "4KisiveÜzeriKampanyalarButon1"
@@ -64,3 +64,6 @@
 * "2" saniye bekle
 * Element var mı kontrol et "4KisilikKampanyalarSiparisKontrol"
 * Element var mı kontrol et "GelAlHaftaninKampanyalariSiparisKontrol"
+
+# Gel Al Haftanın kampanyalarına gidilir
+* Elementi bekle ve sonra tıkla "gelAlHaftaninkampanyalari"
