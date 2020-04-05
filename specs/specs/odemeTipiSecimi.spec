@@ -6,7 +6,7 @@
 -----------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_nakit
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -116,7 +116,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_nakit
 -----------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_krediKartı
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -226,7 +226,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_krediKartı
 -----------------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartSodexoKart
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -336,7 +336,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_smartSodexoKart
 ----------------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_sodexoYemekCeki
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -445,7 +445,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_sodexoYemekCeki
 -----------------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartTicketKart
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -555,7 +555,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_smartTicketKart
 -----------------------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartTicketYemekÇeki
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -665,7 +665,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_smartTicketYemekÇeki
 --------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_multinet
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -775,7 +775,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_multinet
 -------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_setCard
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -885,7 +885,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_setCard
 ---------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_payeKart
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -995,7 +995,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_payeKart
 ------------------------------------------------------------
 tags:odemeTipiSecimi_yeniUye_adreseTeslim_onlineOdeme
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir

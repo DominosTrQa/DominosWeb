@@ -32,6 +32,7 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
 * "3" saniye bekle

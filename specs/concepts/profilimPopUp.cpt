@@ -25,13 +25,26 @@
 * Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox"
 
 # Profilim popup Üyelik bilgilerim değişiklik yapıldığı kontrol edilir
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
-* "üyelik_Bilgilerim_Ad_Textbox" elementine random isim yaz
-* "üyelik_Bilgilerim_Soyad_Textbox" elementine random isim yaz
+* "3" saniye bekle
+*  Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
+* "üyelik_Bilgilerim_Ad_Textbox" li Textbox'ı temizle ve text değerini "yeniTestismi" yaz
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Soyad_Textbox"
+* "üyelik_Bilgilerim_Soyad_Textbox" li Textbox'ı temizle ve text değerini "yeniTestsoyismi" yaz
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Degisiklikleri_Kaydet_Buton"
-
-# Profilde verilen isim başarılı bir şekilde değiştimi kontrol et 
-
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* "üyelik_Bilgilerim_Ad_Textbox" li elementi bul ve değerini "saklanandegerAd" olarak sakla
+* "üyelik_Bilgilerim_Soyad_Textbox" li elementi bul ve değerini "saklanandegersoyAd" olarak sakla
+* "üyelik_Bilgilerim_Ad_Textbox" li elementi bul ve değerini "saklanandegerAd" saklanan değeri içeriyor mu kontrol et
+* "üyelik_Bilgilerim_Soyad_Textbox" li elementi bul ve değerini "saklanandegersoyAd" saklanan değeri içeriyor mu kontrol et
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ad_Textbox"
+* "üyelik_Bilgilerim_Ad_Textbox" li Textbox'ı temizle ve text değerini "Test" yaz
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Soyad_Textbox"
+* "üyelik_Bilgilerim_Soyad_Textbox" li Textbox'ı temizle ve text değerini "Test" yaz
+* "üyelik_Bilgilerim_Ad_Textbox" li elementi bul ve değerini "saklanandegerAd2" olarak sakla
+* "üyelik_Bilgilerim_Soyad_Textbox" li elementi bul ve değerini "saklanandegersoyAd2" olarak sakla
+* "üyelik_Bilgilerim_Ad_Textbox" li elementi bul ve değerini "saklanandegerAd2" saklanan değeri içeriyor mu kontrol et
+* "üyelik_Bilgilerim_Soyad_Textbox" li elementi bul ve değerini "saklanandegersoyAd2" saklanan değeri içeriyor mu kontrol et
 
 # Profilim popup Üyelik bilgilerim KVKK Aydınlatma Metni kontrol edilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Linktext"
@@ -195,15 +208,14 @@
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
 * "5" saniye bekle
 
-# Kullanıcıya yeni adres eklenir
-* Cookie onaylıyorum butonuna tıklanır
+# Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)
 * Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
 * Elementi bekle ve sonra tıkla "popupilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"
 * Elementi bekle ve sonra tıkla "popupilceDropdown"
 * Elementi bekle ve sonra tıkla "ilceSariyer"
 * Elementi bekle ve sonra tıkla "popupmahalleDropdown"
-* Elementi bekle ve sonra tıkla "mahallePinarMahallesi"
+* Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
 * Elementi bekle ve sonra tıkla "sokakKelebekSokak"

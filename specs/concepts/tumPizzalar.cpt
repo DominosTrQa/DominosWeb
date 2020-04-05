@@ -61,7 +61,7 @@
 * Elementi bekle ve sonra tıkla "pizzalarSagOkButon"
 
 # Üyelik bilgilerim butonuna tıklanır
-* "2" saniye bekle
+* "3" saniye bekle
 * Element var mı kontrol et "üyelik_Bilgilerim_Buton"
 
 # Seçilen pizza için sipariş oluşturulur

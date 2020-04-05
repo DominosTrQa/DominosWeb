@@ -167,7 +167,7 @@
 * Elementi bekle ve sonra tıkla "CookieAccept"
 * "4" saniye bekle
 
-# Üye olunur
+# Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
