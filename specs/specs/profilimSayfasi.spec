@@ -4,7 +4,7 @@ Profilim Sayfası
      
 Profilim Sayfası - Üyelik Bilgilerim sayfa kontrolü
 ------------------------------------------------
-tags:profilimSayfası_uyelikBilgilerimSayfaKontrolu
+tags:profilimSayfasi_uyelikBilgilerimSayfaKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki elementler kontrol edilir
@@ -12,7 +12,7 @@ tags:profilimSayfası_uyelikBilgilerimSayfaKontrolu
 
 Profilim Sayfası - Siparişlerim sayfa kontrolü
 ------------------------------------------------
-tags:profilimSayfası_siparislerimSayfaKontrolu
+tags:profilimSayfasi_siparislerimSayfaKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Siparişlerim butonuna tıklanır
@@ -21,7 +21,7 @@ tags:profilimSayfası_siparislerimSayfaKontrolu
 
 Profilim Sayfası - Pizza Takip sayfa kontrolü
 ------------------------------------------------
-tags:profilimSayfası_pizzaTakipSayfaKontrolu
+tags:profilimSayfasi_pizzaTakipSayfaKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Pizza Takip butonuna tıklanır
@@ -30,7 +30,7 @@ tags:profilimSayfası_pizzaTakipSayfaKontrolu
 
 Profilim Sayfası - Kredi Kartlarım sayfa kontrolü
 ---------------------------------------------------------
-tags:profilimSayfası_krediKartlarimSayfaKontrolu
+tags:profilimSayfasi_krediKartlarimSayfaKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Kredi Kartlarım butonuna tıklanır
@@ -39,7 +39,7 @@ tags:profilimSayfası_krediKartlarimSayfaKontrolu
 
 Profilim Sayfası - Şifre Değiştir sayfa kontrolü
 ---------------------------------------------------------
-tags:profilimSayfası_sifreDegistirSayfaKontrolu
+tags:profilimSayfasi_sifreDegistirSayfaKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
@@ -48,7 +48,7 @@ tags:profilimSayfası_sifreDegistirSayfaKontrolu
 
 Profilim Sayfası - Üyelik Bilgilerim - Zorunlu alanların kontrolü
 ------------------------------------------------
-tags:profilimSayfası_uyelikBilgilerim_zorunluAlanlarinKontrolu
+tags:profilimSayfasi_uyelikBilgilerim_zorunluAlanlarinKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Eposta_Adresi_Textbox"
@@ -57,7 +57,7 @@ tags:profilimSayfası_uyelikBilgilerim_zorunluAlanlarinKontrolu
 
 Profilim Sayfası - Üyelik Bilgilerim - Üyelikten ayrılmak için tıklayın kontrolü
 -------------------------------------------------------------
-tags:profilimSayfası_uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
+tags:profilimSayfasi_uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelikten Ayrıl butonuna basılır ve popup geldiği kontrol edilir
@@ -65,7 +65,7 @@ tags:profilimSayfası_uyelikBilgilerim_uyelintenAyrilmakicinTiklayinKontrolu
 
 Profilim Sayfası - Üyelik Bilgilerim - Üyelikten ayrılmanın başarılı bir şekilde yapılması kontrolü
 -------------------------------------------------------------
-tags:profilimSayfası_uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilmasiKontrolu
+tags:profilimSayfasi_uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilmasiKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelikten Ayrıl butonuna basılır, popup kabul edilir ve anasayfaya yönlendirdiği kontrol edilir
@@ -73,7 +73,7 @@ tags:profilimSayfası_uyelikBilgilerim_uyelintenAyrilmaninBariliBirSekildeYapilm
 
 Profilim Sayfası - Üyelik Bilgilerim - Üyelikten ayrılmadan vazgeçme kontrolü
 -------------------------------------------------------------
-tags:profilimSayfası_uyelikBilgilerim_uyelintenAyrilmadanVazgecmeKontrolu
+tags:profilimSayfasi_uyelikBilgilerim_uyelintenAyrilmadanVazgecmeKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelikten Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
@@ -81,7 +81,7 @@ tags:profilimSayfası_uyelikBilgilerim_uyelintenAyrilmadanVazgecmeKontrolu
 
 Profilim Sayfası - Üyelik Bilgilerim - KVKK Aydınlatma Metni kontrolü
 --------------------------------------------------------
-tags:profilimSayfası_uyelikBilgilerim_KVKKAydinlatmaMetniKontrolu
+tags:profilimSayfasi_uyelikBilgilerim_KVKKAydinlatmaMetniKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_KVKK_Aydınlatma_Metni_Linktext"
@@ -90,7 +90,7 @@ tags:profilimSayfası_uyelikBilgilerim_KVKKAydinlatmaMetniKontrolu
 
 Profilim Sayfası - Üyelik Bilgilerim - Açık Rıza Metni kontrolü
 ----------------------------------------------------
-tags:profilimSayfası_uyelikBilgilerim_AcikRizaMetniKontrolu
+tags:profilimSayfasi_uyelikBilgilerim_AcikRizaMetniKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Acık_Rıza_Metni_Linktext"
@@ -99,7 +99,7 @@ tags:profilimSayfası_uyelikBilgilerim_AcikRizaMetniKontrolu
 
 Profilim Sayfası - Üyelik Bilgilerim - Ye-Kazan Sadakat Programı Üyelik Koşulları Metni kontrolü
 --------------------------------------------------------------------------------
-tags:profilimSayfası_uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetniKontrolu
+tags:profilimSayfasi_uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ye_Kazan_Linktext"
@@ -108,7 +108,7 @@ tags:profilimSayfası_uyelikBilgilerim_yeKazanSadakatProgramiUyelikKosullariMetn
 
 Profilim Sayfası - Pizza Takip - Zorunlu Alan Kontrolü
 ----------------
-tags:profilimSayfası_pizzaTakip_zorunluAlanKontrolu
+tags:profilimSayfasi_pizzaTakip_zorunluAlanKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Pizza Takip butonuna tıklanır
@@ -117,7 +117,7 @@ tags:profilimSayfası_pizzaTakip_zorunluAlanKontrolu
 
 Profilim Sayfası - Pizza Takip - Sipariş Numarası Girilerek Görüntüle Butonuna Tıklanınca Çıkan Ekran Kontrolü
 ----------------
-tags:profilimSayfası_pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
+tags:profilimSayfasi_pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklanincaCikanEkranKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Pizza Takip butonuna tıklanır
@@ -126,7 +126,7 @@ tags:profilimSayfası_pizzaTakip_SiparisNumarasiGirilerekGoruntuleButonunaTiklan
 
 Profilim Sayfası - Pizza Takip - Dijital Pizza Takip Sistemi Yazısının Kontrolü
 ----------------
-tags:profilimSayfası_pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
+tags:profilimSayfasi_pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Pizza Takip butonuna tıklanır
@@ -135,7 +135,7 @@ tags:profilimSayfası_pizzaTakip_DijitalPizzaTakipSistemiYazisininKontrolu
 
 Profilim Sayfası - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
 -------------------------------------------------------
-tags:profilimSayfası_notlarim_eklenenNotuDuzenlemePopupKontrolu
+tags:profilimSayfasi_notlarim_eklenenNotuDuzenlemePopupKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
@@ -146,7 +146,7 @@ tags:profilimSayfası_notlarim_eklenenNotuDuzenlemePopupKontrolu
 
 Profilim Sayfası - Notlarım - Var Olan Notu Değiştirme Kontrolü
 ---------------------------------------------------
-tags:profilimSayfası_notlarim_varOlanNotuDegistirmeKontrolu
+tags:profilimSayfasi_notlarim_varOlanNotuDegistirmeKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
@@ -156,7 +156,7 @@ tags:profilimSayfası_notlarim_varOlanNotuDegistirmeKontrolu
 
 Profilim Sayfası - Notlarım - Var Olan Notu Değiştirmekten Vazgeçme Kontrolü
 ----------------------------------------------------------------
-tags:profilimSayfası_notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
+tags:profilimSayfasi_notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
@@ -166,7 +166,7 @@ tags:profilimSayfası_notlarim_varOlanNotuDegistirmektenVazgecmeKontrolu
 
 Profilim Sayfası - Notlarım - Var olan notu silme kontrolü
 -----------------------------------------------
-tags:profilimSayfası_notlarim_varOlanNotuSilmeKontrolu
+tags:profilimSayfasi_notlarim_varOlanNotuSilmeKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Notlarım butonuna tıklanır
@@ -176,7 +176,7 @@ tags:profilimSayfası_notlarim_varOlanNotuSilmeKontrolu
 
 Profilim Sayfası - Kredi Kartlarım - Kredi Kartı Ekleme adımına gelme
 -----------------------------------------------------------------------
-tags:profilimSayfası_krediKartlarim_basariliBirSekildeKrediKartiEklemek
+tags:profilimSayfasi_krediKartlarim_basariliBirSekildeKrediKartiEklemek
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Kredi Kartlarım butonuna tıklanır
@@ -185,7 +185,7 @@ tags:profilimSayfası_krediKartlarim_basariliBirSekildeKrediKartiEklemek
 
 Profilim Sayfası - Kredi Kartlarım - Hatalı Kart Kontrolü
 ----------------------------------------------------------
-tags:profilimSayfası_krediKartlarim_hataliKartKontrolu
+tags:profilimSayfasi_krediKartlarim_hataliKartKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Kredi Kartlarım butonuna tıklanır
@@ -194,7 +194,7 @@ tags:profilimSayfası_krediKartlarim_hataliKartKontrolu
 
 Profilim Sayfası - Şifre Değiştir - Zorunlu alan kontrolü
 --------------------------------------------------------------------------------
-tags:profilimSayfası_sifreDegistir_ZorunluAlanKontrolu
+tags:profilimSayfasi_sifreDegistir_ZorunluAlanKontrolu
 
 * Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
@@ -203,7 +203,7 @@ tags:profilimSayfası_sifreDegistir_ZorunluAlanKontrolu
 
 Profilim Sayfası - Şifre Değiştir - Hatalı şifrelere verilen hata kontrolü(eski şifre hatalı)
 --------------------------------------------------------------------------------
-tags:profilimSayfası_sifreDegistir_HataliSifrelereVerilenHataKontroluEskiSifreHatali
+tags:profilimSayfasi_sifreDegistir_HataliSifrelereVerilenHataKontroluEskiSifreHatali
 
 * Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
@@ -212,7 +212,7 @@ tags:profilimSayfası_sifreDegistir_HataliSifrelereVerilenHataKontroluEskiSifreH
 
 Profilim Sayfası - Şifre Değiştir - Hatalı şifrelere verilen hata kontrolü(yeni şifreler farklı)
 --------------------------------------------------------------------------------
-tags:profilimSayfası_sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
+tags:profilimSayfasi_sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrelerFarkli
 
 * Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır
@@ -221,7 +221,7 @@ tags:profilimSayfası_sifreDegistir_HataliSifrelereVerilenHataKontroluYeniSifrel
 
 Profilim Sayfası - Şifre Değiştir - Başarılı şekilde şifre değiştirme kontrolü
 --------------------------------------------------------------------------------
-tags:profilimSayfası_sifreDegistir_BasariliSekildeSifreDegistirmeKontrolu
+tags:profilimSayfasi_sifreDegistir_BasariliSekildeSifreDegistirmeKontrolu
 
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üyelik bilgilerim sayfasındaki Şifre Değiştir butonuna tıklanır

@@ -4,7 +4,7 @@ Tüm Kampanyalar
 
 Tüm Kampanyalar - Sayfa Kontrolü
 ------------------------
-tags:tumKampanyalar_sayfaKontrolü
+tags:tumKampanyalar_sayfaKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -74,7 +74,7 @@ tags:tumKampanyalar_4Kisiveuzerikampanyalarsayfakontrolu
 
 Tüm Kampanyalar - Üst Bar Sayfalar arası geçiş kontrolü
 --------------------------------------
-tags:tumKampanyalar_ÜstBarSayfalararasigeciskontrolu
+tags:tumKampanyalar_UstBarSayfalararasigeciskontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -99,9 +99,9 @@ tags:tumKampanyalar_UstBarProfilimpopupbasariliaciliyormukontrolu
 * Profilim başarılı bir şekilde görüntüleniyor mu kontrol edilir
 
 
-Tüm Kampanyalar - Üst Bar Sepetim popup başarılı açılıyor mı kontrolü
+Tüm Kampanyalar - Üst Bar Sepetim popup başarılı açılıyor mu kontrolü
 --------------------------------------------------
-tags:tumKampanyalar_UstBarSepetimpopupbaşarılı çılıyormıkontrolu
+tags:tumKampanyalar_UstBarSepetimpopupbasariliAciliyormukontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir

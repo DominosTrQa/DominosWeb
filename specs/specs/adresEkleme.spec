@@ -3,7 +3,7 @@ Adres Ekleme
 
 Adres Ekleme - Üye Olunarak - Mevcut Konum Kontrolü
 ---------------------------------------------------
-tags:adresEkleme_SenaryoÜyeOlunarakSiparistamamlanir
+tags:adresEkleme_uyeOlunarak_mevcutKonumKontrolu
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Adres eklerken kalem ikonuna tıklanılır, düzenlenir, haritadan ekleye tıklanır
@@ -12,7 +12,7 @@ tags:adresEkleme_SenaryoÜyeOlunarakSiparistamamlanir
 
 Adres Ekleme - Giris Yapılmadan
 -----------------------------
-tags:adresEkleme_GirisYapılmadan
+tags:adresEkleme_GirisYapilmadan
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -54,7 +54,7 @@ tags:adresEkleme_ProfilimsekmesindengirilerekAdrestarifiolmadan
 
 Adres Ekleme - Üye olunur - Kalem ikonuna tiklanir/Secili adres ile devam edilir
 ---------------------------------------------------------------------------------
-tags:adresEkleme_ÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
+tags:adresEkleme_UyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
@@ -64,7 +64,7 @@ tags:adresEkleme_ÜyeolunurKalemikonunatiklanirSeciliadresiledevamedilir
 
 Adres Ekleme - Kayıtlı Adres - Güncelle
 ----------------------------------------
-tags:adresEkleme_KayıtlıAdresGüncelle
+tags:adresEkleme_KayitliAdresGuncelle
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
@@ -87,7 +87,7 @@ tags:adresEkleme_AdresEkleme/Kontrol
 
 Adres Ekleme - Kayıtlı Adres Sil
 ---------------------------------
-tags:adresEkleme_KayıtlıAdresSil
+tags:adresEkleme_KayitliAdresSil
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
