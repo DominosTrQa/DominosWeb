@@ -80,7 +80,7 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassızTeslimat
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 -------------------------------------------------------------------------
-tags:siparisNotuEkleme_yeniUye_adreseTeslim_lütfenZileBasmayınız
+tags:siparisNotuEkleme_yeniUye_adreseTeslim_lutfenZileBasmayiniz
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
@@ -101,7 +101,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_lütfenZileBasmayınız
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
 ---------------------------------------------------------------------------
-tags:siparisNotuEkleme_varolanUye_adreseTeslim_lütfenZileBasmayınız
+tags:siparisNotuEkleme_varolanUye_adreseTeslim_lutfenZileBasmayiniz
 
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -128,7 +128,7 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_lütfenZileBasmayınız
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
 ---------------------------------------------------------------------------
-tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_lütfenZileBasmayınız
+tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_lutfenZileBasmayiniz
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
