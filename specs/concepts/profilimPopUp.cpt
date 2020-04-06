@@ -203,6 +203,7 @@
 * "3" saniye bekle
 
 # Profilim popup eklenen adres silinir
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
