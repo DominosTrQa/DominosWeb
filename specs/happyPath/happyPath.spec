@@ -4,7 +4,7 @@ Happy Path
      
 HappyPath - Kullanıcı ilk kez geliyor - Adrese Teslim
 -------------------------------------------------------
-tags:happyPath_kullanıcıİlkkezGeliyor_adreseTeslim
+tags:happyPath_kullaniciIlkkezGeliyor_adreseTeslim
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -49,7 +49,7 @@ tags:happyPath_kullaniciIlkKezGeliyor_gelAlServisTipiSecti
 
 HappyPath - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
 ---------------------------------------------------------------------------------
-tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis_üstMenü
+tags:happyPath_kullaniciIkincikezGeliyor_adreseTeslim_adresiVar
 
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -81,7 +81,7 @@ tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
-Ödemeyi tamamla butonu geldiği kontrol edilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -90,7 +90,7 @@ tags:happyPath_kullanıcıİkincikezGeliyor_adreseTeslimVeAdresiVar_evlereServis
 
 HappyPath - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 --------------------------------------------------------------
-tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
+tags:happyPath_kullaniciIkinciKezGeliyor_gelAl_adresiVar
 
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
@@ -117,12 +117,12 @@ tags:happyPath_kullanıcıİkinciKezGeliyor_gelAl_adresiVar(üst menü)
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
- Ödemeyi tamamla butonu geldiği kontrol edilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
 HappyPath - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
 ----------------------------------------------------------------------
-tags:happyPath_servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
+tags:happyPath_servisTipiDegistirenKullanici_adresimeTeslim_gelAl
 
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -142,12 +142,12 @@ tags:happyPath_servisTipiDeğiştirenKullanıcı_adresimeTeslim_gelAl(üstMenü)
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
-Ödemeyi tamamla butonu geldiği kontrol edilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
 HappyPath - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
 -----------------------------------------------------------------------
-tags:happyPath_servisTipiDeğiştirenKullanıcı_gelAl_adreseTeslim(üstMenü)
+tags:happyPath_servisTipiDegistirenKullanici_gelAl_adreseTeslim
 
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
@@ -166,4 +166,8 @@ tags:happyPath_servisTipiDeğiştirenKullanıcı_gelAl_adreseTeslim(üstMenü)
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
-Ödemeyi tamamla butonu geldiği kontrol edilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir

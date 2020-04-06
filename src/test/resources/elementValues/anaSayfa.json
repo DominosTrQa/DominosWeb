@@ -396,7 +396,7 @@
   },
   {
   "key": "gelaladreseklemedüzenle",
-  "value":"//div[@class='styled__EditButton-trnti1-4 ePaPPb'][contains(text(),'Düzenle')]",
+  "value":"//div[contains(text(),'Düzenle')]",
   "type": "xpath"
   },
   {
@@ -468,5 +468,20 @@
     "key": "teslimattipidegistirürünSilinirEvet",
     "value":"DPE_TR_ALERT_BUTTON_LEFT",
     "type": "id"
+  },
+  {
+    "key": "IstanbulAdalarBurgazadatextKontrol",
+    "value":"//span[contains(text(),'İstanbul Adalar Burgazada Mh.')]",
+    "type": "xpath"
+  },
+  {
+    "key": "SipariseKapaliSubesitextKontrol",
+    "value":"//span[contains(text(),'99362 - Siparişe Kapalı Şubesi')]",
+    "type": "xpath"
+  },
+  {
+    "key": "IstanbulSariyerAyazagatextKontrol",
+    "value":"//span[contains(text(),'İstanbul Sarıyer Ayazağa Mh.')]",
+    "type": "xpath"
   }
 ]

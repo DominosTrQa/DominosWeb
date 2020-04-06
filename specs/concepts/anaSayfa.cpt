@@ -24,7 +24,7 @@
 * Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
 * "5" saniye bekle
 
-# İl ilçe mahalle seçilir(Gel Al)
+# Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ilDropdownGelAl"
 * "5" saniye bekle
@@ -38,6 +38,27 @@
 * "6" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
 * "5" saniye bekle
+* Sadece açık şubeleri göster (Gel al)
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+
+# Adrese teslim servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceSariyer"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* "6" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+* "4" saniye bekle
 
 # Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdown"
@@ -416,6 +437,7 @@
 * Elementi bekle ve sonra tıkla "Anasayfa_Adrese_Teslim_Button"
 
 # Gel al adres ekleme ekranında düzenle butonuna tıklanır
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "gelaladreseklemedüzenle"
 
 # Adıyaman ili seçilir
@@ -485,4 +507,46 @@
 
 # Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
 * Elementi bekle ve sonra tıkla "teslimattipidegistirürünSilinirEvet"
+
+# Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Element var mı kontrol et "IstanbulAdalarBurgazadatextKontrol"
+
+# Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Element var mı kontrol et "SipariseKapaliSubesitextKontrol"
+
+# Adrese teslim adres düzenleye tıklanır
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
+
+# Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Elementi bekle ve sonra tıkla "IstanbulSariyerAyazagatextKontrol"
+
+# Gel al olarak devam edilip adreslerime girilerek adrese teslim için İstanbul/Adalar/Burgazada eklenir
+* Elementi bekle ve sonra tıkla "popupilDropdown"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "popupilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdalar"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "popupmahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
+* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
+* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
+* Elementi bekle ve sonra tıkla "adresAdiTextbox"
+* "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+
+# Kalem ikonuna tıklanır
+* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+
 

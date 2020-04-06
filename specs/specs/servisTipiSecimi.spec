@@ -109,7 +109,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Servis Tipinin Değişti
 ------------------------------------------------------------------------------------
 tags:servisTipiSecimi_adreseTeslim_yeniUyeSepetteServisTipininDegistirilememesi
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -208,7 +208,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Ürün varken Servis Tip
 -------------------------------------------------------------------------------------------------
 tags:servisTipiSecimi_adreseTeslim_yeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir

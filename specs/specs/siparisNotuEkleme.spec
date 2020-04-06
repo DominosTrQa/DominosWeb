@@ -6,7 +6,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
 tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassızTeslimat
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -82,7 +82,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 -------------------------------------------------------------------------
 tags:siparisNotuEkleme_yeniUye_adreseTeslim_lütfenZileBasmayınız
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -156,7 +156,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 ------------------------------------------------------------
 tags:siparisNotuEkleme_yeniUye_adreseTeslim_notEkleme
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -291,7 +291,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 ---------------------------------------------------------------------
 tags:siparisNotuEkleme_yeniUye_adreseTeslim_varolanNotuEkleme
 
-* Üye olunur
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır

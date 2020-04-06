@@ -22,6 +22,8 @@ import java.util.Vector;
 import org.slf4j.LoggerFactory;
 import org.slf4j.impl.Log4jLoggerAdapter;
 
+import static org.openqa.selenium.Keys.BACK_SPACE;
+
 public class BaseSteps extends BaseTest {
 
 
@@ -363,7 +365,7 @@ public class BaseSteps extends BaseTest {
   @Step({"Send BACKSPACE key to element <key>",
           "Elemente BACKSPACE keyi yolla <key>"})
   public void sendKeyToElementBACKSPACE(String key){
-    findElement(key).sendKeys(Keys.BACK_SPACE);
+    findElement(key).sendKeys(BACK_SPACE);
     logger.info(key + " elementine BACKSPACE keyi yollandı.");
   }
 
@@ -474,7 +476,7 @@ public class BaseSteps extends BaseTest {
     WebElement element = findElement(key);
     element.clear();
     element.sendKeys("a");
-    actions.sendKeys(Keys.BACK_SPACE).build().perform();
+    actions.sendKeys(BACK_SPACE).build().perform();
   }
 
   @Step({"Save attribute <attribute> value of element <key>",
@@ -751,8 +753,6 @@ public class BaseSteps extends BaseTest {
     Assert.assertEquals(text, findElementWithKey(key).getText());
   }
 
-
-
   @Step({"Elementin yüklenmesini bekle ve tıkla <key>"})
   public WebElement getElementWithKeyIfExists2(String key){
     WebElement webElement;
@@ -800,6 +800,17 @@ public class BaseSteps extends BaseTest {
     }
     Assert.fail("Element: '" + key + "' doesn't exist.");
     return null;
+  }
+
+  @Step("<key> li Textbox'ı temizle ve text değerini <text> yaz")
+  public void Temizle(String key, String text) throws InterruptedException {
+    for(int i=0;i<15;i++){
+
+      findElementWithKey(key).sendKeys(BACK_SPACE);
+
+    }
+    waitBySeconds(1);
+    sendKeysByKey(key, text);
   }
 
 
