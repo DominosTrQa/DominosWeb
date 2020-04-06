@@ -483,5 +483,45 @@
     "key": "IstanbulSariyerAyazagatextKontrol",
     "value":"//span[contains(text(),'İstanbul Sarıyer Ayazağa Mh.')]",
     "type": "xpath"
+  },
+  {
+    "key": "AdıyamantextKontrol",
+    "value":"//span[contains(text(),'Adıyaman')]",
+    "type": "xpath"
+  },
+  {
+    "key": "AdıyamanIlksubetextKontrol",
+    "value":"//div[contains(text(),'Hoca Ömer Mah. Atatürk Bulvarı. No: 206/A Merkez')]",
+    "type": "xpath"
+  },
+  {
+    "key": "AdıyamanIlksube",
+    "value":"//div[@class='styled__StoreName-uqfvsm-3 jqHjUg'][contains(text(),'Adıyaman')]",
+    "type": "xpath"
+  },
+  {
+    "key": "AdıyamanIlksube",
+    "value":"//div[@class='styled__StoreName-uqfvsm-3 jqHjUg'][contains(text(),'Adıyaman')]",
+    "type": "xpath"
+  },
+  {
+    "key": "secilisubeiledevamedilirGelal",
+    "value":"//*[@class='styled__ButtonContainer-uqfvsm-13 fvdMaP']",
+    "type": "xpath"
+  },
+  {
+    "key": "duzceAkcakocatextKontrol",
+    "value":"//span[contains(text(),'Düzce Akçakoca ')]",
+    "type": "xpath"
+  },
+  {
+    "key": "DuzceAkcakocaIlksube",
+    "value":"//div[contains(text(),'Osmaniye Mah. Atatürk Cad. No:112/A Akçakoca / Düzce')]",
+    "type": "xpath"
+  },
+  {
+    "key": "IstanbulBesiktasEtilertextKontrol",
+    "value":"//span[contains(text(),'İstanbul Beşiktaş Etiler Mh.')]",
+    "type": "xpath"
   }
 ]
