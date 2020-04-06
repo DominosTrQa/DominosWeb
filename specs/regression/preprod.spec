@@ -528,3 +528,255 @@ Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
 * Sepetim ikonuna tıklanır
 * Sepetteki suflenin eklendiği kontrol edilir
 
+
+Servis Tipi Seçimi - Adrese Teslim
+-----------------------------------
+ tags:regressionPreprod_servisTipiSecimiAdreseTeslim
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+
+
+Servis Tipi Seçimi - Gel Al
+----------------------------
+ tags:regressionPreprod_servisTipiSecimiGelAl
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa gel al yazısının geldiği kontrol edilir
+
+
+Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
+----------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+* Anasayfadaki adres teslim butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Anasayfa gel al yazısının geldiği kontrol edilir
+
+
+Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
+----------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa gel al yazısının geldiği kontrol edilir
+* Anasayfadaki adres teslim butonuna tıklanır
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+
+
+Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Servis Tipinin Değiştirilememesi
+-----------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Adrese teslim butonuna tıklanamadığı görülür
+
+
+Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Servis Tipinin Değiştirilememesi
+----------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Gel al butonuna tıklanamadığı görülür
+
+
+Servis Tipi Seçimi - Adrese Teslim - Varolan Üye Sepette Servis Tipinin Değiştirilememesi
+----------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteServisTipininDegistirilememesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Adrese teslim butonuna tıklanamadığı görülür
+
+
+Servis Tipi Seçimi - Gel Al - Varolan Üye Sepette Servis Tipinin Değiştirilememesi
+------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistirilememesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Gel al butonuna tıklanamadığı görülür
+
+
+Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Servis Tipinin Değiştirilememesi
+------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Tüm Pizzalar butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Adrese teslim butonuna tıklanamadığı görülür
+
+
+Servis Tipi Seçimi - Gel Al - Yeni Üye Sepette Servis Tipinin Değiştirilememesi
+------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Gel al butonuna tıklanamadığı görülür
+
+
+Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Ürün varken Servis Tipinin Değiştirilmesi
+-------------------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Anasayfadaki dominos logosuna tıklanır
+* Anasayfadaki adres teslim butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
+* Anasayfa gel al yazısının geldiği kontrol edilir
+
+
+Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Ürün varken Servis Tipinin Değiştirilmesi
+-------------------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Anasayfadaki dominos logosuna tıklanır
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
+* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+
+
+Servis Tipi Seçimi - Adrese Teslim - Varolan Sepette Ürün varken Servis Tipinin Değiştirilmesi
+-------------------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Anasayfadaki dominos logosuna tıklanır
+* Anasayfadaki adres teslim butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
+* Anasayfa gel al yazısının geldiği kontrol edilir
+
+
+Servis Tipi Seçimi - Gel Al - Varolan Sepette Ürün varken Servis Tipinin Değiştirilmesi
+----------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Anasayfadaki dominos logosuna tıklanır
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
+* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+
+
+Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Ürün varken Servis Tipinin Değiştirilmesi
+-------------------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Tüm Pizzalar butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Anasayfadaki dominos logosuna tıklanır
+* Anasayfadaki adres teslim butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
+* Anasayfa gel al yazısının geldiği kontrol edilir
+
+
+Servis Tipi Seçimi - Gel Al - Yeni üye Sepette Ürün varken Servis Tipinin Değiştirilmesi
+----------------------------------------------------------------------------------------
+ tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Anasayfadaki dominos logosuna tıklanır
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
+* Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
+* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+
+
