@@ -67,7 +67,7 @@ tags:yeKazan_TelefonCheckBoxKontrolu
 
 Ye Kazan Kontrolü - Sıkça Sorulan Sorular Kontrolü
 ------------------------------------------------------------------
-tags:yeKazan_SikcaSorulanSorularkBoxKontrolu
+tags:yeKazan_SikcaSorulanSorularKontrolu
  
 * Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve ye kazana gidilir
 * Ye Kazan Sıkça Sorulan Sorular kontrol edilir

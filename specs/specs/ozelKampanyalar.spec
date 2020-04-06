@@ -4,7 +4,7 @@
      
 Özel kampanyalar - 3 Al 1 öde kampanyası
 ----------------------------------------
-tags:özelKampanyalar_3al1ödeKampanyası
+tags:ozelKampanyalar_3al1odeKampanyasi
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -18,7 +18,7 @@ tags:özelKampanyalar_3al1ödeKampanyası
 
 Özel Kampanyalar - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası
 ------------------------------------------------------------------
-tags:özelKampanyalar_ortaBoyBarbeküSosluSucukluPizzaKampanyası
+tags:ozelKampanyalar_ortaBoyBarbekuSosluSucukluPizzaKampanyasi
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -37,7 +37,7 @@ tags:özelKampanyalar_ortaBoyBarbeküSosluSucukluPizzaKampanyası
 
 Özel Kampanyalar - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası - Kalp şeklinde hamur seçimi
 -------------------------------------------------------------------------------------------------
-tags:özelKampanyalar_ortaBoyBarbeküSosluSucukluPizza_kalpŞeklindeHamurSeçimi
+tags:ozelKampanyalar_ortaBoyBarbekuSosluSucukluPizza_kalpSeklindeHamurSecimi
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -57,7 +57,7 @@ tags:özelKampanyalar_ortaBoyBarbeküSosluSucukluPizza_kalpŞeklindeHamurSeçimi
 
 Özel Kampanyalar - Orta boy ballı hardal soslu tavuklu pizza kampanyası
 -----------------------------------------------------------------------
-tags:özelKampanyalar_ortaBoyBallıHardalSosluTavukluPizzaKampanyası
+tags:ozelKampanyalar_ortaBoyBalliHardalSosluTavukluPizzaKampanyasi
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -75,7 +75,7 @@ tags:özelKampanyalar_ortaBoyBallıHardalSosluTavukluPizzaKampanyası
 
 Özel pizzalar - Sosyal pizza
 -----------------------------
-tags:özelpizzalar_sosyalPizza
+tags:ozelpizzalar_sosyalPizza
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
@@ -88,7 +88,7 @@ tags:özelpizzalar_sosyalPizza
 
 Özel pizzalar - Sosyal pizza - Acılı istiyorum
 -----------------------------------------------
-tags:özelpizzalar_sosyalPizza_acılıİstiyorum
+tags:ozelpizzalar_sosyalPizza_aciliIstiyorum
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır

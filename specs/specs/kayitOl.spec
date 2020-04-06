@@ -4,7 +4,7 @@ Kayıt Ol
 
 KayıtOl - Eposta ile üye olunur
 -------------------------------
-tags:kayıtOl_Eposta
+tags:kayitOl_epostaIleUyeolunur
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -13,7 +13,7 @@ tags:kayıtOl_Eposta
 
 KayıtOl - SMS ile üye olunur
 ----------------------------
-tags:kayıtOl_SMS
+tags:kayitOl_sMSIleUyeolunur
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -22,7 +22,7 @@ tags:kayıtOl_SMS
 
 KayıtOl - Telefon ile üye olunur
 --------------------------------
-tags:kayıtOl_Telefon
+tags:kayitOl_telefonIleUyeolunur
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -31,7 +31,7 @@ tags:kayıtOl_Telefon
 
 KayıtOl - SadeceMesafeliSatisSözlesmesiIsaretlenir
 -------------------------------------------------
-tags:kayıtOl_SadeceMesafeliSatisSözlesmesiIsaretlenir
+tags:kayitOl_sadeceMesafeliSatisSozlesmesiIsaretlenir
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -40,7 +40,7 @@ tags:kayıtOl_SadeceMesafeliSatisSözlesmesiIsaretlenir
 
 KayıtOl - SadeceYeKazanSözlesmesiIsaretlenmez
 ---------------------------------------------
-tags:kayıtOl_SadeceYeKazanSözlesmesiIsaretlenmez
+tags:kayitOl_sadeceYeKazanSozlesmesiIsaretlenmez
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -51,7 +51,7 @@ tags:kayıtOl_SadeceYeKazanSözlesmesiIsaretlenmez
 
 KayıtOl - SadeceKVKKSözlesmesiIsaretlenmez
 ------------------------------------------
-tags:kayıtOl_SadeceKVKKSözlesmesiIsaretlenmez
+tags:kayitOl_sadeceKVKKSozlesmesiIsaretlenmez
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -62,7 +62,7 @@ tags:kayıtOl_SadeceKVKKSözlesmesiIsaretlenmez
 
 KayıtOl - Sepete gidilerek üye olma
 -------------------------------------
-tags:kayıtOl_Sepetegidilerek_Uyeolma
+tags:kayitOl_sepeteGidilerek_Uyeolma
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -87,7 +87,7 @@ tags:kayıtOl_Sepetegidilerek_Uyeolma
 
 KayıtOl - Sepete gidilerek üye olma(KVKK sözleşmesi kabul edilmez)
 -------------------------------------------------------------------
-tags:kayıtOl_Sepetegidilerek_üyeolma(KVKKsözleşmesikabuledilmez)
+tags:kayitOl_sepeteGidilerek_uyeolma(KVKKsozlesmesikabuledilmez)
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -110,7 +110,7 @@ tags:kayıtOl_Sepetegidilerek_üyeolma(KVKKsözleşmesikabuledilmez)
 
 KayıtOl - Sepete gidilerek üye olma(Sadece mesafeli satış sözleşmesi işaretlenir)
 ----------------------------------------------------------------------------------
-tags:kayıtOl_Sepetegidilerek_üyeolma(Sadecemesafelisatışsözleşmesiişaretlenir)
+tags:kayitOl_sepeteGidilerek_uyeolma(SadecemesafelisatissozlesmesiIsaretlenir)
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -131,7 +131,7 @@ tags:kayıtOl_Sepetegidilerek_üyeolma(Sadecemesafelisatışsözleşmesiişaretl
 
 KayıtOl - Sepete gidilerek üye olma(Sadece ye kazan sözleşmesi işaretlenmez)
 -----------------------------------------------------------------------------
-tags:kayıtOl_Sepetegidilerek_üyeolma(Sadeceyekazansözleşmesiişaretlenmez)
+tags:kayitOl_sepeteGidilerek_uyeolma(SadeceyekazansozlesmesiIsaretlenmez)
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
