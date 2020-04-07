@@ -7,6 +7,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassızTeslimat
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -18,6 +19,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassızTeslimat
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
 * Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
@@ -28,9 +30,10 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
 tags:siparisNotuEkleme_varolanUye_adreseTeslim_temassızTeslimat
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -42,8 +45,9 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_temassızTeslimat
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -58,6 +62,7 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassızTeslimat
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -70,11 +75,11 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassızTeslimat
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
 * Temassız teslimat seçeneği seçilir
-* Sipariş tamamlanır
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
+* Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Tekrar sipariş ver butonuna tıklanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
-* Ye kazan uyarı butonundan çıkılır
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 
 
@@ -83,6 +88,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 tags:siparisNotuEkleme_yeniUye_adreseTeslim_lütfenZileBasmayınız
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -94,6 +100,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_lütfenZileBasmayınız
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Lütfen zile basmayınız seçilir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
@@ -103,9 +110,10 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
 ---------------------------------------------------------------------------
 tags:siparisNotuEkleme_varolanUye_adreseTeslim_lütfenZileBasmayınız
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -117,6 +125,7 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_lütfenZileBasmayınız
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Lütfen zile basmayınız seçilir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
@@ -132,6 +141,7 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_lütfenZileBasmayınız
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -144,11 +154,11 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_lütfenZileBasmayınız
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
 * Lütfen zile basmayınız seçilir
-* Sipariş tamamlanır
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
+* Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Tekrar sipariş ver butonuna tıklanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
-* Ye kazan uyarı butonundan çıkılır
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
 
 
@@ -157,6 +167,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 tags:siparisNotuEkleme_yeniUye_adreseTeslim_notEkleme
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -168,6 +179,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_notEkleme
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
 * Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
@@ -179,6 +191,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 tags:siparisNotuEkleme_yeniUye_gelAl_notEkleme
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -187,6 +200,7 @@ tags:siparisNotuEkleme_yeniUye_gelAl_notEkleme
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
 * Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
@@ -197,9 +211,10 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 ------------------------------------------------------------
 tags:siparisNotuEkleme_varolanUye_adreseTeslim_notEkleme
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -211,8 +226,9 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_notEkleme
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 * Anasayfadaki dominos logosuna tıklanır
@@ -225,9 +241,10 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 --------------------------------------------------------
 tags:siparisNotuEkleme_varolanUye_gelAl_notEkleme
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -236,8 +253,9 @@ tags:siparisNotuEkleme_varolanUye_gelAl_notEkleme
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 
@@ -248,6 +266,7 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_notEkleme
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -260,9 +279,11 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_notEkleme
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
-* Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
-* Ye kazan uyarı butonundan çıkılır
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
+* Sipariş tamamlanır(guest)
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Tekrar sipariş ver butonuna tıklanır
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 
 
@@ -272,6 +293,7 @@ tags:siparisNotuEkleme_uyeliksiz_gelAl_notEkleme
 
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -281,6 +303,7 @@ tags:siparisNotuEkleme_uyeliksiz_gelAl_notEkleme
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
 * Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
@@ -292,6 +315,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 tags:siparisNotuEkleme_yeniUye_adreseTeslim_varolanNotuEkleme
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -310,6 +334,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_varolanNotuEkleme
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
  Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
@@ -324,6 +349,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
 tags:siparisNotuEkleme_yeniUye_gelAl_varolanNotuEkleme
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -338,6 +364,7 @@ tags:siparisNotuEkleme_yeniUye_gelAl_varolanNotuEkleme
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
  Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
@@ -351,9 +378,10 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Varolan Notu Ekleme
 -------------------------------------------------------------------------
 tags:siparisNotuEkleme_varolanUye_adreseTeslim_varolanNotuEkleme
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
@@ -371,6 +399,7 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_varolanNotuEkleme
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
  Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
@@ -388,9 +417,10 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 -----------------------------------------------------------------
 tags:siparisNotuEkleme_varolanUye_gelAl_varolanNotuEkleme
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -405,6 +435,7 @@ tags:siparisNotuEkleme_varolanUye_gelAl_varolanNotuEkleme
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
+* Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
  Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır

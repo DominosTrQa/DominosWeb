@@ -262,8 +262,13 @@
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "OdemeyiTamamla"
 
+# Sipariş tamamlanır(guest)
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mesafelisatisSozlesmesibutonGuest"
+* Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
+
 # Tekrar sipariş ver butonuna tıklanır
-* Elementi bekle ve sonra tıkla "OdemeyiTamamla"
+* Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
 
 # Adres düzenle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "AdresDüzenleButon"
@@ -536,10 +541,15 @@
 * Elementi bekle ve sonra tıkla "covidankettencikilir"
 
 # Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* "siparisversayfasiad" elementine random isim yaz
-* "siparisversayfasiadsoyad" elementine random isim yaz
-* "dominostest5@hotmail.com" textini "siparisversayfasieposta" elemente yaz
-* "5000000000" textini "siparisversayfasitelefon" elemente yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeyiTamamlaGuestad"
+* "Test" textini "odemeyiTamamlaGuestad" elemente yaz
+* Elementi bekle ve sonra tıkla "odemeyiTamamlaGuestsoyad"
+* "Test" textini "odemeyiTamamlaGuestsoyad" elemente yaz
+* "dominostest7@hotmail.com" textini "odemeyiTamamlaGuesteposta" elemente yaz
+* Rastgele telefon no üret
+* Elementi bekle ve sonra tıkla "odemeyiTamamlaGuesttelefon"
+* Telefon noyu "odemeyiTamamlaGuesttelefon" elementine yaz
 
 # Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 * Element var mı kontrol et "temassızteslimatKontrolguest"
@@ -548,10 +558,13 @@
  "2" saniye bekle
  "siparisIcerigi" alanına kaydır
 * "2" saniye bekle
-* Element var mı kontrol et "testnoticerigiKontrol"
+* Element var mı kontrol et "siparisnotuTextKontrol"
 
 # Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
 * Element var mı kontrol et "onlineödemedevamdanSonraKontrol"
 
 # Tamam butonuna tıklanır
 * Elementi bekle ve sonra tıkla "teslimattipidegistirürünSilinirEvet"
+
+# Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
+* Element var mı kontrol et "sipariseKapalitextKontrol"

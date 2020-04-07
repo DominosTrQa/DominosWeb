@@ -35,7 +35,7 @@ Ozel Adresler - Giris yapılarak - Adıyaman
 ----------------------------------------------
 tags:ozelAdresler_girisYapilarak_adiyaman
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adıyaman ili seçilir
 * Ekstra Lezzetlere gidilir
@@ -78,7 +78,7 @@ Ozel Adresler - Giris yapılarak - Düzce - Akçakoca
 ---------------------------------------------------
 tags:ozelAdresler_girisYapilarak_duzce_akcakoca
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Düzce ili seçilir
 * Ekstra Lezzetlere gidilir
@@ -121,7 +121,7 @@ Ozel Adresler - Giris yapılarak - İstanbul - Adalar - Burgazada
 ----------------------------------------------------------------
 tags:ozelAdresler_girisYapilarak_istanbul_adalar_burgazada
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Ekstra Lezzetlere gidilir
@@ -164,7 +164,7 @@ Ozel Adresler - Giris yapılarak - İstanbul - Beşiktaş - Etiler Mh. - Ahular 
 --------------------------------------------------------------------------------
 tags:ozelAdresler_girisYapilarak_istanbul_besiktas_etilerMh_ahularSk
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
 * Ekstra Lezzetlere gidilir
@@ -207,7 +207,7 @@ Ozel Adresler - Giris yapılarak - İstanbul - Beşiktaş - Etiler Mh. - Bahtiya
 --------------------------------------------------------------------------------------------------
 tags:ozelAdresler_girisYapilarak_istanbul_besiktas_etilerMh_bahtiyarSk_apartmanNo2
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
 * Ekstra Lezzetlere gidilir
