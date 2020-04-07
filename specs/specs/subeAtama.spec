@@ -4,7 +4,7 @@
      
 Şube atama - Varolan Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
-tags:subeAtama_varolanUye_adreseTeslimYalnızcaIl
+tags:subeAtama_varolanUye_adreseTeslimYalnizcaIl
 
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -14,7 +14,7 @@ tags:subeAtama_varolanUye_adreseTeslimYalnızcaIl
 
 Şube atama - Varolan Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
-tags:subeAtama_varolanUye_gelAlYalnızcaIl
+tags:subeAtama_varolanUye_gelAlYalnizcaIl
 
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
@@ -28,7 +28,7 @@ tags:subeAtama_varolanUye_gelAlYalnızcaIl
 
 Şube atama - Yeni Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
-tags:subeAtama_yeniUye_adreseTeslimYalnızcaIl
+tags:subeAtama_yeniUye_adreseTeslimYalnizcaIl
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -40,7 +40,7 @@ tags:subeAtama_yeniUye_adreseTeslimYalnızcaIl
 
 Şube atama - Yeni Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
-tags:subeAtama_yeniUye_gelAlYalnızcaIl
+tags:subeAtama_yeniUye_gelAlYalnizcaIl
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -56,7 +56,7 @@ tags:subeAtama_yeniUye_gelAlYalnızcaIl
 
 Şube atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
 ----------------------------------------------------
-tags:subeAtama_uyeliksiz_adreseTeslimYalnızcaIl
+tags:subeAtama_uyeliksiz_adreseTeslimYalnizcaIl
 
 * Adrese Teslim servis tipi seçilir
 * Adıyaman ili seçilir
@@ -65,7 +65,7 @@ tags:subeAtama_uyeliksiz_adreseTeslimYalnızcaIl
 
 Şube atama - Üyeliksiz - Gel Al - Yalnızca İl
 ----------------------------------------------
-tags:subeAtama_uyeliksiz_gelAlYalnızcaIl
+tags:subeAtama_uyeliksiz_gelAlYalnizcaIl
 
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
@@ -240,7 +240,7 @@ tags:subeAtama_uyeliksiz_adreseTeslimIlIlceMahalleSokak
 
 Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
-tags:subeAtama_varolanUye_adreseTeslimIlIlceMahalleSokakKapıNo
+tags:subeAtama_varolanUye_adreseTeslimIlIlceMahalleSokakKapiNo
 
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
@@ -249,7 +249,7 @@ tags:subeAtama_varolanUye_adreseTeslimIlIlceMahalleSokakKapıNo
 
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
-tags:subeAtama_yeniUye_adreseTeslimIlIlceMahalleSokakKapıNo
+tags:subeAtama_yeniUye_adreseTeslimIlIlceMahalleSokakKapiNo
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -261,7 +261,7 @@ tags:subeAtama_yeniUye_adreseTeslimIlIlceMahalleSokakKapıNo
 
 Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
-tags:subeAtama_uyeliksiz_adreseTeslimIlIlceMahalleSokakKapıNo
+tags:subeAtama_uyeliksiz_adreseTeslimIlIlceMahalleSokakKapiNo
 
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
