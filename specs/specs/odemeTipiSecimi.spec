@@ -8,7 +8,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_nakit
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -39,7 +38,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_nakit
 ----------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_nakit
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -50,6 +49,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_nakit
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
@@ -58,11 +58,12 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_nakit
 * Profilim popup Adreslerim butonuna tıklanır
 * Profilimden adreslerime giderek kayıtlı adres silinir
 
+
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Nakit
 -------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_nakit
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -118,7 +119,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_krediKartı
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -149,7 +149,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_krediKartı
 --------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_krediKartı
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -160,6 +160,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_krediKartı
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Kapıda ödeme kredi kartı seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
@@ -173,7 +174,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_krediKartı
 -------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_krediKartı
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -181,6 +182,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_krediKartı
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme kredi kartı seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
 
@@ -228,7 +230,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartSodexoKart
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -259,7 +260,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_smartSodexoKart
 -------------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartSodexoKart
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -270,6 +271,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartSodexoKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
@@ -283,7 +285,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartSodexoKart
 --------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_smartSodexoKart
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -291,6 +293,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_smartSodexoKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 
@@ -338,7 +341,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_sodexoYemekCeki
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -368,7 +370,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_sodexoYemekCeki
 -------------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_sodexoYemekCeki
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -379,6 +381,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_sodexoYemekCeki
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
@@ -392,7 +395,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_sodexoYemekCeki
 -------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_sodexoYemekCeki
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -400,6 +403,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_sodexoYemekCeki
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
@@ -447,7 +451,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartTicketKart
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -478,7 +481,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_smartTicketKart
 -----------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketKart
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -489,6 +492,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Kapıda ödeme smart ticket kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
@@ -502,7 +506,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketKart
 -----------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_smartTicketKart
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -510,6 +514,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_smartTicketKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme smart ticket kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
@@ -557,7 +562,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartTicketYemekÇeki
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -588,7 +592,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_smartTicketYemekÇeki
 --------------------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketYemekÇeki
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -599,6 +603,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketYemekÇeki
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
@@ -612,7 +617,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketYemekÇeki
 -------------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_smartTicketYemekÇeki
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -620,6 +625,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_smartTicketYemekÇeki
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 
@@ -667,7 +673,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_multinet
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -698,7 +703,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_multinet
 -----------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_multinet
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -709,6 +714,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_multinet
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Kapıda ödeme multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
@@ -722,7 +728,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_multinet
 ----------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_multinet
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -730,6 +736,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_multinet
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
@@ -777,7 +784,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_setCard
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -808,7 +814,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_setCard
 ---------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_setCard
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -819,6 +825,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_setCard
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
@@ -832,7 +839,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_setCard
 ----------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_setCard
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -840,6 +847,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_setCard
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
 
@@ -887,7 +895,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_payeKart
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -918,7 +925,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_payeKart
 ------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_payeKart
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -929,6 +936,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_payeKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Kapıda ödeme paye kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
@@ -942,7 +950,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_payeKart
 ------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_payeKart
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -950,6 +958,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_payeKart
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme paye kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
 
@@ -997,7 +1006,6 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_onlineOdeme
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1030,7 +1038,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_onlineOdeme
 ------------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_adreseTeslim_onlineOdeme
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -1041,6 +1049,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_onlineOdeme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Online ödeme seçeneği ile devam edilir
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
@@ -1055,7 +1064,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_onlineOdeme
 --------------------------------------------------------
 tags:odemeTipiSecimi_varolanUye_gelAl_onlineOdeme
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır

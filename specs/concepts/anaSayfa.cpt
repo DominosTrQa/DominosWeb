@@ -453,16 +453,17 @@
 # Adıyaman ili seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilAdıyaman"
-* Adıyaman için ilçenin gelmediği kontrol edilir
+ Adıyaman için ilçenin gelmediği kontrol edilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "4" saniye bekle
 
 # Düzce ili seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilDüzce"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
-* Düzce/Akcakoca için mahallenin gelmediği kontrol edilir
+ Düzce/Akcakoca için mahallenin gelmediği kontrol edilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 
 # İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
@@ -475,7 +476,7 @@
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleEtilermah"
-* Seçili adres ile devam edilir butonuna tıklanamadığı görülür
+ Seçili adres ile devam edilir butonuna tıklanamadığı görülür
 * Elementi bekle ve sonra tıkla "caddeDropdownid"
 * Elementi bekle ve sonra tıkla "sokakAhularsk"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
@@ -493,7 +494,7 @@
 * Elementi bekle ve sonra tıkla "caddeDropdownid"
 * Elementi bekle ve sonra tıkla "sokakBahtiyarsk"
 * "4" saniye bekle
-* Seçili adres ile devam edilir butonuna tıklanamadığı görülür
+ Seçili adres ile devam edilir butonuna tıklanamadığı görülür
 * Elementi bekle ve sonra tıkla "apartmanNoid"
 * Elementi bekle ve sonra tıkla "apartmanNoiki"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
