@@ -90,6 +90,16 @@
 * Gel Al çıkan ilk şube seçilir
 * Seçili Şube ile Devam Et butonuna basılır
 
+# Gel al servis tipi için Adıyaman adresi eklenir
+* Elementi bekle ve sonra tıkla "ilDropdownGelAl"
+* Elementi bekle ve sonra tıkla "ilAdıyaman"
+
+# Gel al servis tipi için Düzce/Akcakoca eklenir
+* Elementi bekle ve sonra tıkla "ilDropdownGelAl"
+* Elementi bekle ve sonra tıkla "ilDüzce"
+* Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
+* Elementi bekle ve sonra tıkla "ilceAkcakoca"
+
 # Sadece açık şubeleri göster (Gel al)
 * Elementi bekle ve sonra tıkla "aciksubelerigöster"
 
@@ -443,6 +453,7 @@
 # Adıyaman ili seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilAdıyaman"
+* Adıyaman için ilçenin gelmediği kontrol edilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "4" saniye bekle
 
@@ -451,6 +462,7 @@
 * Elementi bekle ve sonra tıkla "ilDüzce"
 * Elementi bekle ve sonra tıkla "ilceDropdown"
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
+* Düzce/Akcakoca için mahallenin gelmediği kontrol edilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 
 # İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
@@ -463,6 +475,7 @@
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleEtilermah"
+* Seçili adres ile devam edilir butonuna tıklanamadığı görülür
 * Elementi bekle ve sonra tıkla "caddeDropdownid"
 * Elementi bekle ve sonra tıkla "sokakAhularsk"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
@@ -480,6 +493,7 @@
 * Elementi bekle ve sonra tıkla "caddeDropdownid"
 * Elementi bekle ve sonra tıkla "sokakBahtiyarsk"
 * "4" saniye bekle
+* Seçili adres ile devam edilir butonuna tıklanamadığı görülür
 * Elementi bekle ve sonra tıkla "apartmanNoid"
 * Elementi bekle ve sonra tıkla "apartmanNoiki"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
@@ -549,4 +563,29 @@
 # Kalem ikonuna tıklanır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 
+# Adıyaman için ilçenin gelmediği kontrol edilir
+* Element yok mu kontrol et "ilceDropdown"
 
+# Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* Element var mı kontrol et "AdıyamantextKontrol"
+
+# Adıyaman adresi için ilk şubenin geldiği kontrol edilir
+* Element var mı kontrol et "AdıyamanIlksubetextKontrol"
+
+# Adıyaman adresi için ilk şube seçilir
+* Elementi bekle ve sonra tıkla "AdıyamanIlksube"
+
+# Düzce/Akcakoca adresi için ilk şube seçilir
+* Elementi bekle ve sonra tıkla "DuzceAkcakocaIlksube"
+
+# Düzce/Akcakoca için mahallenin gelmediği kontrol edilir
+* Element yok mu kontrol et "mahalleDropdown"
+
+# Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Element var mı kontrol et "duzceAkcakocatextKontrol"
+
+# Seçili adres ile devam edilir butonuna tıklanamadığı görülür
+* Element yok mu kontrol et "seciliAdresIleDevamEtButon"
+
+# Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
+* Element var mı kontrol et "IstanbulBesiktasEtilertextKontrol"

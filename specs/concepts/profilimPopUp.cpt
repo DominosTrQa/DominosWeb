@@ -267,6 +267,9 @@
 # Seçili şube ile devam edilir
 * Elementi bekle ve sonra tıkla "Secilisubeiledevamet"
 
+# Seçili şube ile devam edilir(Gel Al)
+* Elementi bekle ve sonra tıkla "secilisubeiledevamedilirGelal"
+
 # Ödemeyi tamamla butonu geldiği kontrol edilir
 * Element var mı kontrol et "OdemeyiTamamla"
 
