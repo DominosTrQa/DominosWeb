@@ -2569,3 +2569,293 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
+
+
+Şube atama - Varolan Üye - Adrese Teslim - Yalnızca İl
+------------------------------------------------------
+ tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adıyaman ili seçilir
+* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+
+
+Şube atama - Varolan Üye - Gel Al - Yalnızca İl
+------------------------------------------------
+ tags:regressionPreprod_subeAtamaVarolanUyeGelAlYalnizcaIl
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adıyaman adresi eklenir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Adıyaman adresi için ilk şube seçilir
+* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
+* Seçili şube ile devam edilir(Gel Al)
+* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+
+
+Şube atama - Yeni Üye - Adrese Teslim - Yalnızca İl
+------------------------------------------------------
+ tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimYalnizcaIl
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Adrese Teslim servis tipi seçilir
+* Adıyaman ili seçilir
+* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+
+
+Şube atama - Yeni Üye - Gel Al - Yalnızca İl
+------------------------------------------------
+ tags:regressionPreprod_subeAtamaYeniUye_gelAlYalnizcaIl
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adıyaman adresi eklenir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Adıyaman adresi için ilk şube seçilir
+* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
+* Seçili şube ile devam edilir(Gel Al)
+* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+
+
+Şube atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
+----------------------------------------------------
+ tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimYalnizcaIl
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* Adıyaman ili seçilir
+* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+
+
+Şube atama - Üyeliksiz - Gel Al - Yalnızca İl
+----------------------------------------------
+ tags:regressionPreprod_subeAtamaUyeliksizGelAlYalnizcaIl
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adıyaman adresi eklenir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Adıyaman adresi için ilk şube seçilir
+* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
+* Seçili şube ile devam edilir(Gel Al)
+* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+
+
+Şube atama - Varolan Üye - Adrese Teslim - İl İlçe
+----------------------------------------------------
+ tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlce
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Düzce ili seçilir
+* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+
+Şube atama - Varolan Üye - Gel Al - İl İlçe
+---------------------------------------------
+ tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlce
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Düzce/Akcakoca eklenir
+* Düzce/Akcakoca adresi için ilk şube seçilir
+* Seçili şube ile devam edilir(Gel Al)
+* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+
+
+Şube atama - Yeni Üye - Adrese Teslim - İl İlçe
+-------------------------------------------------
+ tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlce
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Adrese Teslim servis tipi seçilir
+* Düzce ili seçilir
+* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+
+
+Şube atama - Yeni Üye - Gel Al - İl İlçe
+------------------------------------------
+ tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlce
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Düzce/Akcakoca eklenir
+* Düzce/Akcakoca adresi için ilk şube seçilir
+* Seçili şube ile devam edilir(Gel Al)
+* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+
+
+Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe
+-------------------------------------------------
+ tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlce
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* Düzce ili seçilir
+* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+
+
+Şube atama - Üyeliksiz - Gel Al - İl İlçe
+----------------------------------------------
+ tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlce
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Düzce/Akcakoca eklenir
+* Düzce/Akcakoca adresi için ilk şube seçilir
+* Seçili şube ile devam edilir(Gel Al)
+* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+
+
+Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle
+-----------------------------------------------------------
+ tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+
+
+Şube atama - Varolan Üye - Gel Al - İl İlçe Mahalle
+----------------------------------------------------
+ tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlceMahalle
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+
+
+Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
+--------------------------------------------------------
+ tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalle
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+
+
+Şube atama - Yeni Üye - Gel Al - İl İlçe Mahalle
+--------------------------------------------------------
+ tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlceMahalle
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+
+
+Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
+--------------------------------------------------------
+ tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalle
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+
+
+Şube atama - Üyeliksiz - Gel Al - İl İlçe Mahalle
+--------------------------------------------------
+ tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlceMahalle
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+
+
+Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
+-----------------------------------------------------------------
+ tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
+* Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
+
+
+Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak
+----------------------------------------------------------
+ tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Adrese Teslim servis tipi seçilir
+* İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
+* Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
+
+
+Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak
+---------------------------------------------------------------
+ tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
+* Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
+
+
+Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
+-------------------------------------------------------------------------
+ tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
+* Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
+
+
+Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
+-------------------------------------------------------------------------
+ tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Adrese Teslim servis tipi seçilir
+* İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
+* Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
+
+
+Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
+-------------------------------------------------------------------------
+ tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
+
+* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Adrese Teslim servis tipi seçilir
+* İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
+* Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
