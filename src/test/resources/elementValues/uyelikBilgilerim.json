@@ -378,5 +378,30 @@
     "key": "notlarimDüzenlePopupKapatButonu",
     "value":"(//div[@class='modalDialog__CloseButton-sc-1wmoa97-2 bCJEoT'])",
     "type": "xpath"
+  },
+  {
+    "key": "kvkkSMSCheckbox",
+    "value":"IsSms",
+    "type": "id"
+  },
+  {
+    "key": "kvkkTelefonCheckbox",
+    "value":"IsPhoneSubscription",
+    "type": "id"
+  },
+  {
+    "key": "kvkkEmailCheckbox",
+    "value":"IsEmailSubscription",
+    "type": "id"
+  },
+  {
+    "key": "vazgecButonu",
+    "value":"//a[contains(text(),'Vazgeç')]",
+    "type": "xpath"
+  },
+  {
+    "key": "onayliyorumButonu",
+    "value":"//a[contains(text(),'Onaylıyorum')]",
+    "type": "xpath"
   }
 ]

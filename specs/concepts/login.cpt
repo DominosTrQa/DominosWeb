@@ -244,6 +244,9 @@
 # Ye Kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasisuccessYeKazanCheckbox"
 
+# Üye olurken KVKK sözleşmesi için eposta işaretlenir
+* Elementi bekle ve sonra tıkla "kvkkIcinEpostacheckbox"
+
 # Adres Güncellenir
 * Elementi bekle ve sonra tıkla "caddeDropdown2"
 * "2" saniye bekle

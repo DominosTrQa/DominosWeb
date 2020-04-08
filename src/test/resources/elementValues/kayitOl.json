@@ -213,5 +213,10 @@
     "key": "uyarıüzerindenüyeol",
     "value":"//a[contains(text(),'Üye Ol')]",
     "type": "xpath"
+  },
+  {
+    "key": "kvkkIcinEpostacheckbox",
+    "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS_IsEmailSubscription",
+    "type": "id"
   }
 ]

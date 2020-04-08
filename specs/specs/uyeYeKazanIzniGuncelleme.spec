@@ -48,8 +48,8 @@ tags:uyeYeKazanIzniGuncelleme_yeniUye_ayrilmaktanVazgecUyelikBilgilerim
 
 Üye Ye Kazan İzni Güncelleme - Varolan Üye - Ayrılmaktan Vazgeç - Üyelik Bilgilerim
 -------------------------------------------------------------------------------
-
 tags:uyeYeKazanIzniGuncelleme_varolanUye_ayrilmaktanVazgecUyelikBilgilerim
+
 //Bug OLOTR-1480 çözüldükten sonra Testinium suiteine eklenecek
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir

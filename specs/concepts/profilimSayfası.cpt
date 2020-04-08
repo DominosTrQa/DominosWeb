@@ -199,3 +199,14 @@
 
 # Adreslerim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "AdreslerimButonunaTıklanır"
+
+# Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox"
+
+# Kvkk checkboxının işaretli olmadığı gözlemlenir
+* Element yok mu kontrol et "kvkkEmailCheckbox"
+
+# Kvkk sözleşmesi için sms, telefon, eposta checkboxları işaretlenir
+* Elementi bekle ve sonra tıkla "kvkkSMSCheckbox"
+* Elementi bekle ve sonra tıkla "kvkkTelefonCheckbox"
+* Elementi bekle ve sonra tıkla "kvkkEmailCheckbox"
