@@ -39,7 +39,95 @@
     "key": "YeKazanuyariCikisButonu",
     "value":"DPE_TR_MODALDIALOG_BUTTON_CLOSE",
     "type": "id"
+  },
+  {
+    "key": "YeKazaniletisimKanaliText",
+    "value":"//div[contains(text(),'Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir.')]",
+    "type": "xpath"
+  },
+  {
+    "key": "YeKazanSmssecilir",
+    "value":"IsYeKazanSms",
+    "type": "id"
+  },
+  {
+    "key": "YeKazanEmailsecilir",
+    "value":"IsYeKazanEmail",
+    "type": "id"
+  },
+  {
+    "key": "YeKazanTelefonsecilir",
+    "value":"IsYeKazanPhone",
+    "type": "id"
+  },
+  {
+    "key": "YeKazandegisiklikleriKaydetbuton",
+    "value":"DPE_TR_ACCOUNT_BUTTON_SAVE",
+    "type": "id"
+  },
+  {
+    "key": "YeKazanbedavaPizzaText",
+    "value":"//span[contains(text(),'5')]",
+    "type": "xpath"
+  },
+  {
+    "key": "yekazanAyrilmaktanvazgec",
+    "value":"//a[contains(text(),'Ayrılmaktan Vazgeç')]",
+    "type": "xpath"
+  },
+  {
+    "key": "yekazanAyrilmayionayliyorum",
+    "value":"//a[contains(text(),'Ayrılmayı Onaylıyorum')]",
+    "type": "xpath"
+  },
+  {
+    "key": "sanaozelhediyeIcinyekazanbuton",
+    "value":"DPE_TR_HOME_BUTTON_PROFILEMENU_LOYALTY_FALSE",
+    "type": "id"
+  },
+  {
+    "key": "sanaozelhediyeIcinyekazancheckBox",
+    "value":"DPE_TR_LOYALTY_CHECKBOX_JOIN",
+    "type": "id"
+  },
+  {
+    "key": "yekazanakatilButon",
+    "value":"DPE_TR_LOYALTY_BUTTON_JOIN",
+    "type": "id"
+  },
+  {
+    "key": "yekazanuyelikicinSms",
+    "value":"DPE_TR_LOYALTY_CHECKBOX_SMS",
+    "type": "id"
+  },
+  {
+    "key": "yekazanuyelikicinTelefon",
+    "value":"DPE_TR_LOYALTY_CHECKBOX_PHONE",
+    "type": "id"
+  },
+  {
+    "key": "yekazanuyelikicinEmail",
+    "value":"DPE_TR_LOYALTY_CHECKBOX_EMAIL",
+    "type": "id"
+  },
+  {
+    "key": "yekazandanAyrilbuton",
+    "value":"//a[@class='styled__YeKazanLeaveButton-sc-1n69iee-10 kAXMye']",
+    "type": "xpath"
+  },
+  {
+    "key": "hediyepizzakazanTextkontrol",
+    "value":"//div[contains(text(),'Hediye Pizza kazanmana 5 dilimin kaldı')]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimYekazanagidilir",
+    "value":"//*[@class='styled__LoyaltyIndicatorContainer-sc-126ws66-13 eSJuYg']",
+    "type": "xpath"
+  },
+  {
+    "key": "tercihettginiziletisimkanaliniSecinText",
+    "value":"//div[contains(text(),'*Tercih ettiğiniz iletişim kanalını seçiniz.')]",
+    "type": "xpath"
   }
-
-
 ]
