@@ -2113,8 +2113,8 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2125,7 +2125,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
 
@@ -2138,8 +2138,8 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2150,7 +2150,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -2166,8 +2166,8 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2192,8 +2192,8 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2216,8 +2216,8 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2243,8 +2243,8 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2258,7 +2258,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
 * Sipariş tamamlanır
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Tekrar sipariş ver butonuna tıklanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
 
@@ -2269,8 +2269,8 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2281,7 +2281,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 
@@ -2301,7 +2301,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 
@@ -2314,8 +2314,8 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2326,7 +2326,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 * Anasayfadaki dominos logosuna tıklanır
@@ -2343,6 +2343,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2352,7 +2353,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 * Kapıda ödeme nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 
@@ -2364,8 +2365,8 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2377,7 +2378,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 
@@ -2389,6 +2390,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2399,7 +2401,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 * Kapıda ödeme nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 
@@ -2410,8 +2412,8 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -2512,6 +2514,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
