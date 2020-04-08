@@ -9,7 +9,6 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassızTeslimat
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -21,7 +20,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassızTeslimat
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
 
@@ -34,8 +33,8 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_temassızTeslimat
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -63,8 +62,8 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassızTeslimat
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -89,8 +88,8 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_lutfenZileBasmayiniz
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -114,8 +113,8 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_lutfenZileBasmayiniz
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -142,8 +141,8 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_lutfenZileBasmayiniz
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -169,7 +168,6 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_notEkleme
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -181,7 +179,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_notEkleme
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 
@@ -202,7 +200,7 @@ tags:siparisNotuEkleme_yeniUye_gelAl_notEkleme
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
+ Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
 
@@ -215,8 +213,8 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_notEkleme
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -245,6 +243,7 @@ tags:siparisNotuEkleme_varolanUye_gelAl_notEkleme
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -267,8 +266,8 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_notEkleme
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -294,6 +293,7 @@ tags:siparisNotuEkleme_uyeliksiz_gelAl_notEkleme
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -317,7 +317,6 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_varolanNotuEkleme
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -421,6 +420,7 @@ tags:siparisNotuEkleme_varolanUye_gelAl_varolanNotuEkleme
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
