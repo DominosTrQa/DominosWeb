@@ -938,7 +938,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -974,8 +973,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -998,6 +997,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1015,8 +1015,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1036,6 +1036,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1054,7 +1055,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1090,8 +1090,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1115,6 +1115,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1131,8 +1132,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1152,6 +1153,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1170,7 +1172,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1206,8 +1207,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1231,6 +1232,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1247,8 +1249,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1268,6 +1270,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1286,7 +1289,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1321,8 +1323,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1346,6 +1348,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1362,8 +1365,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1383,6 +1386,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1401,7 +1405,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1437,8 +1440,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1462,6 +1465,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1478,8 +1482,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1499,6 +1503,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1517,7 +1522,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1553,8 +1557,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1578,6 +1582,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1594,8 +1599,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1615,6 +1620,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1633,7 +1639,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1669,8 +1674,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1694,6 +1699,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1710,8 +1716,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1731,6 +1737,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1749,7 +1756,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1785,8 +1791,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1810,6 +1816,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1826,8 +1833,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1847,6 +1854,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1865,7 +1873,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1901,8 +1908,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1926,6 +1933,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1942,8 +1950,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1963,6 +1971,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1981,7 +1990,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2019,8 +2027,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2045,6 +2053,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2063,8 +2072,8 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -2085,6 +2094,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * "https://dpe-preprod.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
