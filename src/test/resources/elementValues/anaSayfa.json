@@ -151,8 +151,8 @@
   },
   {
     "key": "üyelik_Bilgilerim_Buton",
-    "value":"//div[@id='root']/div/div[2]/div/div[3]//ul/li[1]/a",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_BUTTON_PROFILEMENU_ITEM0",
+    "type": "id"
   },
   {
     "key": "siparislerim_Buton",

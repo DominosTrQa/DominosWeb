@@ -20,18 +20,8 @@
     "type": "xpath"
   },
   {
-    "key": "uyeOlSayfasiyeKazanEpostaCheckbox",
-    "value":"(//p[contains(text(),'E-posta')])[2]",
-    "type": "xpath"
-  },
-  {
     "key": "uyeOlSayfasiyeKazanEpostaCheckbox2",
     "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
-    "type": "xpath"
-  },
-  {
-    "key": "uyeOlSayfasiYeKazanTelefonCheckbox",
-    "value":"(//p[contains(text(),'Telefon')])[2]",
     "type": "xpath"
   },
   {

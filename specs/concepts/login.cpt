@@ -222,6 +222,9 @@
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
 
+# Üye olurken ye kazan seçildikten sonra eposta işaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox"
+
 # KVKK ve Ye Kazan Sms seçilir ve üye olunur
 * Açık rıza metni KVKK işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiSmsCheckbox"
