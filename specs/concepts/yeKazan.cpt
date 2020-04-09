@@ -49,6 +49,9 @@
 # Ye kazan checkboxı için değişikler kaydet butonuna basılır
 * Elementi bekle ve sonra tıkla "YeKazandegisiklikleriKaydetbuton"
 
+# KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Elementi bekle ve sonra tıkla "YeKazandegisiklikleriKaydetbuton"
+
 # Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
 * Element var mı kontrol et "YeKazanbedavaPizzaText"
 
@@ -89,3 +92,9 @@
 
 # Tercih ettiğiniz iletişim kanalını seçiniz yazısının geldiği görülür
 * Element var mı kontrol et "tercihettginiziletisimkanaliniSecinText"
+
+# Vazgeç butonuna tıklanır
+* Elementi bekle ve sonra tıkla "vazgecButonu"
+
+# Onaylıyorum butonuna tıklanır
+* Elementi bekle ve sonra tıkla "onayliyorumButonu"
