@@ -130,6 +130,10 @@ tags:sepeteUpcellEkle_varOlanKullanıcıGirisYap_adreseTeslim
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Profilimden adreslerime giderek kayıtlı adres silinir
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Sepete Upcell Ekle - Varolan kullanıcı Giris Yap - Gel Al

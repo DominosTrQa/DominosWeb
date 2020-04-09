@@ -186,7 +186,7 @@ Sepete Kampanya Ekleme - Gel Al - Üye - Orta Boy Barbekü Soslu Sucuklu pizza k
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Kampanyalar Butonuna tıklanır
-* Şubeye özel fırsatlara tıklanır
+* Şubene özel fırsatlar(Staging)
 * Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * İlk ürün düzenlemeye tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
@@ -400,7 +400,7 @@ Sepetten Upsell Ekleme - Adrese Teslim - Üye
  tags:regressionStaging_sepettenUpsellEklemeAdreseTeslimUye
 
 * "https://dpe-staging.dominos.com.tr/" adresine git
-* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -409,15 +409,19 @@ Sepetten Upsell Ekleme - Adrese Teslim - Üye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetteki dürümün eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
@@ -431,15 +435,15 @@ Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetteki dürümün eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
 
 
 Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
@@ -455,9 +459,9 @@ Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetteki dürümün eklendiği kontrol edilir
 
 
 Sepetten Upcell Ekleme - Gel Al - Üye
@@ -472,15 +476,15 @@ Sepetten Upcell Ekleme - Gel Al - Üye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetteki dürümün eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ye kazan popupında giriş yap butonuna tıklanır
-* E-posta "dominostest5@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest6@hotmail.com" ve "Testinium123" şifre girilir
 * Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
 
 
 Sepetten Upcell Ekleme - Gel Al - Yeni Üye
@@ -495,9 +499,9 @@ Sepetten Upcell Ekleme - Gel Al - Yeni Üye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetteki dürümün eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ye kazan popupında üye ol butonuna tıklanır
@@ -505,7 +509,7 @@ Sepetten Upcell Ekleme - Gel Al - Yeni Üye
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
 
 
 Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
@@ -520,16 +524,16 @@ Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepetteki dürümün eklendiği kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslim
 -----------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslim
+ tags:regressionStaging_servisTipiSecimiAdreseTeslim
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
@@ -537,9 +541,9 @@ Servis Tipi Seçimi - Adrese Teslim
 
 Servis Tipi Seçimi - Gel Al
 ----------------------------
- tags:regressionPreprod_servisTipiSecimiGelAl
+ tags:regressionStaging_servisTipiSecimiGelAl
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa gel al yazısının geldiği kontrol edilir
@@ -547,9 +551,9 @@ Servis Tipi Seçimi - Gel Al
 
 Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 ----------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
+ tags:regressionStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
@@ -560,9 +564,9 @@ Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 
 Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 ----------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
+ tags:regressionStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa gel al yazısının geldiği kontrol edilir
@@ -574,9 +578,9 @@ Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
+ tags:regressionStaging_servisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -590,9 +594,9 @@ Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Servis Tipinin Değişt
 
 Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Servis Tipinin Değiştirilememesi
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
+ tags:regressionStaging_servisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -605,10 +609,10 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Servis Tipinin Değiştirileme
 
 Servis Tipi Seçimi - Adrese Teslim - Varolan Üye Sepette Servis Tipinin Değiştirilememesi
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteServisTipininDegistirilememesi
+ tags:regressionStaging_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteServisTipininDegistirilememesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -622,10 +626,10 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Üye Sepette Servis Tipinin Deği�
 
 Servis Tipi Seçimi - Gel Al - Varolan Üye Sepette Servis Tipinin Değiştirilememesi
 ------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistirilememesi
+ tags:regressionStaging_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistirilememesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -638,12 +642,11 @@ Servis Tipi Seçimi - Gel Al - Varolan Üye Sepette Servis Tipinin Değiştirile
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Servis Tipinin Değiştirilememesi
 ------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
+ tags:regressionStaging_servisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -653,9 +656,9 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Servis Tipinin Değişti
 
 Servis Tipi Seçimi - Gel Al - Yeni Üye Sepette Servis Tipinin Değiştirilememesi
 ------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
+ tags:regressionStaging_servisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -667,9 +670,9 @@ Servis Tipi Seçimi - Gel Al - Yeni Üye Sepette Servis Tipinin Değiştirilemem
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Ürün varken Servis Tipinin Değiştirilmesi
 -------------------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+ tags:regressionStaging_servisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -686,9 +689,9 @@ Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Ürün varken Servis Ti
 
 Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Ürün varken Servis Tipinin Değiştirilmesi
 -------------------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+ tags:regressionStaging_servisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -704,10 +707,10 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Ürün varken Servis Tipinin D
 
 Servis Tipi Seçimi - Adrese Teslim - Varolan Sepette Ürün varken Servis Tipinin Değiştirilmesi
 -------------------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
+ tags:regressionStaging_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -724,10 +727,10 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Sepette Ürün varken Servis Tipin
 
 Servis Tipi Seçimi - Gel Al - Varolan Sepette Ürün varken Servis Tipinin Değiştirilmesi
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
+ tags:regressionStaging_servisTipiSecimiGelAlVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -743,12 +746,11 @@ Servis Tipi Seçimi - Gel Al - Varolan Sepette Ürün varken Servis Tipinin Değ
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Ürün varken Servis Tipinin Değiştirilmesi
 -------------------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+ tags:regressionStaging_servisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
@@ -761,9 +763,9 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Ürün varken Servis Tip
 
 Servis Tipi Seçimi - Gel Al - Yeni üye Sepette Ürün varken Servis Tipinin Değiştirilmesi
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+ tags:regressionStaging_servisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -778,96 +780,96 @@ Servis Tipi Seçimi - Gel Al - Yeni üye Sepette Ürün varken Servis Tipinin De
 
 Adres Seçimi - Varolan Üye - Adres Teslim - Manuel - Adres Seçimi
 ------------------------------------------------------------------
- tags:regressionPreprod_adresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
+ tags:regressionStaging_adresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Kalem ikonuna tıklanır
 * Adrese teslim adres düzenleye tıklanır
 * Adrese teslim servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Varolan Üye - Gel Al - Manuel - Adres Seçimi
 ------------------------------------------------------------
- tags:regressionPreprod_adresSecimiVarOlanUyeGelAlManuelAdresSecimi
+ tags:regressionStaging_adresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Manuel - Adres Seçimi
 ---------------------------------------------------------------
- tags:regressionPreprod_adresSecimiYeniUyeAdresTeslimManuelAdresSecimi
+ tags:regressionStaging_adresSecimiYeniUyeAdresTeslimManuelAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Kalem ikonuna tıklanır
 * Adrese teslim adres düzenleye tıklanır
 * Adrese teslim servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Yeni Üye - Gel Al - Manuel - Adres Seçimi
 ---------------------------------------------------------
- tags:regressionPreprod_adresSecimiYeniUyeGelAlManuelAdresSecimi
+ tags:regressionStaging_adresSecimiYeniUyeGelAlManuelAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Üyeliksiz - Adres Teslim - Manuel - Adres Seçimi
 ----------------------------------------------------------------
- tags:regressionPreprod_adresSecimiUyeliksizAdresTeslimManuelAdresSecimi
+ tags:regressionStaging_adresSecimiUyeliksizAdresTeslimManuelAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Kalem ikonuna tıklanır
 * Adrese teslim adres düzenleye tıklanır
 * Adrese teslim servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Üyeliksiz - Gel Al - Manuel - Adres Seçimi
 ---------------------------------------------------------
- tags:regressionPreprod_adresSecimiUyeliksizGelAlManuelAdresSecimi
+ tags:regressionStaging_adresSecimiUyeliksizGelAlManuelAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 ----------------------------------------------------------------------
- tags:regressionPreprod_adresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecimi
+ tags:regressionStaging_adresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest9@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -876,31 +878,31 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Profilim popup Adreslerim butonuna tıklanır
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 ----------------------------------------------------------------
- tags:regressionPreprod_adresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
+ tags:regressionStaging_adresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 * Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 -------------------------------------------------------------------
- tags:regressionPreprod_adresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
+ tags:regressionStaging_adresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
@@ -908,30 +910,29 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Yeni adres ekle butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 -------------------------------------------------------------
- tags:regressionPreprod_adresSecimiYeniUyeGelAlAdreslerimAdresSecimi
+ tags:regressionStaging_adresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Yeni adres ekle butonuna tıklanır
-* Gel al olarak devam edilip adreslerime girilerek adrese teslim için İstanbul/Adalar/Burgazada eklenir
-* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)(Stg)
 * Seçili adres ile devam edilir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Nakit
 -----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimNakit
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimNakit
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -947,9 +948,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Nakit
 ----------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlNakit
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlNakit
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -963,10 +964,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Nakit
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimNakit
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimNakit
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -985,15 +986,15 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Profilim popup Adreslerim butonuna tıklanır
 * Profilimden adreslerime giderek kayıtlı adres silinir
 
+
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Nakit
 -------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlNakit
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlNakit
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1006,9 +1007,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Nakit
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimNakit
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimNakit
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1027,12 +1028,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Nakit
 -----------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlNakit
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlNakit
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1046,9 +1046,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Kredi Kartı
 -----------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimKrediKartı
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimKrediKartı
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1064,9 +1064,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Kredi Kartı
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlKrediKartı
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlKrediKartı
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1080,10 +1080,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Kredi Kartı
 --------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimKrediKartı
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimKrediKartı
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1105,13 +1105,12 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Kredi Kartı
 -------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlKrediKartı
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlKrediKartı
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1123,9 +1122,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Kredi Kartı
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimKrediKartı
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimKrediKartı
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1144,12 +1143,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Kredi Kartı
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlKrediKartı
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlKrediKartı
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1163,9 +1161,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Sodexo Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1181,9 +1179,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Sodexo Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartSodexoKart
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1197,10 +1195,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Sodexo Kart
 -------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartSodexoKart
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartSodexoKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1222,13 +1220,12 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Sodexo Kart
 --------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartSodexoKart
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSmartSodexoKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1240,9 +1237,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Sodexo Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1261,12 +1258,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Sodexo Kart
 --------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartSodexoKart
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1280,9 +1276,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1297,9 +1293,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1313,10 +1309,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Sodexo Yemek Çeki
 -------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSodexoYemekCeki
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSodexoYemekCeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1338,13 +1334,12 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Sodexo Yemek Çeki
 -------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSodexoYemekCeki
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSodexoYemekCeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1356,9 +1351,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Sodexo Yemek Çeki
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1377,12 +1372,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Sodexo Yemek Çeki
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1396,9 +1390,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1414,9 +1408,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Ticket Kart
 ----------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartTicketKart
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlSmartTicketKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1430,10 +1424,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprododemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1455,13 +1449,12 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartTicketKart
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSmartTicketKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1473,9 +1466,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1494,12 +1487,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1513,9 +1505,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Yemek Çeki
 -----------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekÇeki
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekÇeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1531,9 +1523,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Ticket Yemek Çeki
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartTicketYemekÇeki
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlSmartTicketYemekÇeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1547,10 +1539,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Yemek Çeki
 --------------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1572,13 +1564,12 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Yemek Çeki
 -------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartTicketYemekÇeki
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSmartTicketYemekÇeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1590,9 +1581,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Yemek Çeki
 ------------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekÇeki
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekÇeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1611,12 +1602,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Yemek Çeki
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇeki
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇeki
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1630,9 +1620,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Multinet
 --------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimMultinet
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimMultinet
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1648,9 +1638,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Multinet
 -------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlMultinet
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlMultinet
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1664,10 +1654,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Multinet
 -----------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1689,13 +1679,12 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Multinet
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlMultinet
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlMultinet
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1707,9 +1696,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Multinet
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimMultinet
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimMultinet
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1728,12 +1717,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Multinet
 --------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlMultinet
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlMultinet
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1747,9 +1735,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Setcard
 -------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSetCard
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimSetCard
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1765,9 +1753,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Setcard
 ------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSetCard
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlSetCard
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1781,10 +1769,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Setcard
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSetCard
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSetCard
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1806,13 +1794,12 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Setcard
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSetCard
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSetCard
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1824,9 +1811,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Setcard
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1845,12 +1832,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Setcard
 --------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSetCard
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlSetCard
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1864,9 +1850,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Paye Kart
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimPayeKart
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimPayeKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1882,9 +1868,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Paye Kart
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlPayeKart
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlPayeKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1898,10 +1884,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Paye Kart
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimPayeKart
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimPayeKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1923,13 +1909,12 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Paye Kart
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlPayeKart
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlPayeKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1941,9 +1926,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Paye Kart
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1962,12 +1947,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Paye Kart
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlPayeKart
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlPayeKart
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1981,9 +1965,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Online Ödeme
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
+ tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -2000,9 +1984,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Online Ödeme
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlOnlineOdeme
+ tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlOnlineOdeme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -2017,10 +2001,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Online Ödeme
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2043,13 +2027,12 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Online Ödeme
 --------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlOnlineOdeme
+ tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlOnlineOdeme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2063,9 +2046,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Online Ödeme
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
+ tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2085,12 +2068,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel AL - Online Ödeme
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
+ tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2105,11 +2087,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimTemassızTeslimat
+ tags:regressionStaging_siparisNotuEklemeYeniUyeAdreseTeslimTemassızTeslimat
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2128,10 +2109,10 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimTemassızTeslimat
+ tags:regressionStaging_siparisNotuEklemeVarolanUyeAdreseTeslimTemassızTeslimat
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2157,9 +2138,9 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimTemassızTeslimat
+ tags:regressionStaging_siparisNotuEklemeUyeliksizAdreseTeslimTemassızTeslimat
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2184,11 +2165,10 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 -------------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimLutfenZileBasmayiniz
+ tags:regressionStaging_siparisNotuEklemeYeniUyeAdreseTeslimLutfenZileBasmayiniz
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2206,10 +2186,10 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
 ---------------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimLutfenZileBasmayiniz
+ tags:regressionStaging_siparisNotuEklemeVarolanUyeAdreseTeslimLutfenZileBasmayiniz
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2234,9 +2214,9 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
 ---------------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayiniz
+ tags:regressionStaging_siparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayiniz
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2261,11 +2241,10 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 ------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
+ tags:regressionStaging_siparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2284,9 +2263,9 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 -----------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeGelAlNotEkleme
+ tags:regressionStaging_siparisNotuEklemeYeniUyeGelAlNotEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -2304,10 +2283,10 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 ------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
+ tags:regressionStaging_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2333,13 +2312,12 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 --------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlNotEkleme
+ tags:regressionStaging_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2356,9 +2334,9 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 -------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
+ tags:regressionStaging_siparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2381,12 +2359,11 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 
 Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 ------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeUyeliksizGelAlNotEkleme
+ tags:regressionStaging_siparisNotuEklemeUyeliksizGelAlNotEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2404,11 +2381,10 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 -----------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimVarolanNotuEkleme
+ tags:regressionStaging_siparisNotuEklemeYeniUyeAdreseTeslimVarolanNotuEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
@@ -2437,9 +2413,9 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
 --------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeGelAlVarolanNotuEkleme
+ tags:regressionStaging_siparisNotuEklemeYeniUyeGelAlVarolanNotuEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
@@ -2466,10 +2442,10 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Varolan Notu Ekleme
 -------------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
+ tags:regressionStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2504,13 +2480,12 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Varolan Notu Ekleme
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 -----------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
+ tags:regressionStaging_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -2536,9 +2511,9 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 
 Sipariş İşlemleri(Canlı) - Test adresi - Manuel
 ------------------------------------------------
- tags:regressionPreprod_siparisIslemleriCanliTestAdresiManuel
+ tags:regressionstaging_siparisIslemleriCanliTestAdresiManuel
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2559,9 +2534,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Manuel
 
 Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 ------------------------------------------
- tags:regressionPreprod_siparisIslemleriCanliTestAdresiDropdown
+ tags:regressionStaging_siparisIslemleriCanliTestAdresiDropdown
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2582,10 +2557,10 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Varolan Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
+ tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
@@ -2593,10 +2568,10 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Varolan Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeGelAlYalnizcaIl
+ tags:regressionStaging_subeAtamaVarolanUyeGelAlYalnizcaIl
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
@@ -2608,9 +2583,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Yeni Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimYalnizcaIl
+ tags:regressionStaging_subeAtamaYeniUyeAdreseTeslimYalnizcaIl
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2621,9 +2596,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Yeni Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUye_gelAlYalnizcaIl
+ tags:regressionStaging_subeAtamaYeniUye_gelAlYalnizcaIl
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2638,9 +2613,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
 ----------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimYalnizcaIl
+ tags:regressionStaging_subeAtamaUyeliksizAdreseTeslimYalnizcaIl
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
@@ -2648,9 +2623,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Üyeliksiz - Gel Al - Yalnızca İl
 ----------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizGelAlYalnizcaIl
+ tags:regressionStaging_subeAtamaUyeliksizGelAlYalnizcaIl
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
@@ -2662,21 +2637,22 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Varolan Üye - Adrese Teslim - İl İlçe
 ----------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlce
+ tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlce
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Düzce ili seçilir
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
 * Gel Al da Şubeleri Göster butonuna tıklanır
 
+
 Şube atama - Varolan Üye - Gel Al - İl İlçe
 ---------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlce
+ tags:regressionStaging_subeAtamaVarolanUyeGelAlIlIlce
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
 * Düzce/Akcakoca adresi için ilk şube seçilir
@@ -2686,9 +2662,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe
 -------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlce
+ tags:regressionStaging_subeAtamaYeniUyeAdreseTeslimIlIlce
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2699,9 +2675,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Yeni Üye - Gel Al - İl İlçe
 ------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlce
+ tags:regressionStaging_subeAtamaYeniUyeGelAlIlIlce
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2714,9 +2690,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe
 -------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlce
+ tags:regressionStaging_subeAtamaUyeliksizAdreseTeslimIlIlce
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Düzce ili seçilir
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
@@ -2725,9 +2701,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Üyeliksiz - Gel Al - İl İlçe
 ----------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlce
+ tags:regressionStaging_subeAtamaUyeliksizGelAlIlIlce
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
 * Düzce/Akcakoca adresi için ilk şube seçilir
@@ -2737,10 +2713,10 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
+ tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2748,10 +2724,10 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Varolan Üye - Gel Al - İl İlçe Mahalle
 ----------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlceMahalle
+ tags:regressionStaging_subeAtamaVarolanUyeGelAlIlIlceMahalle
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
@@ -2759,9 +2735,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
 --------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalle
+ tags:regressionStaging_subeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2772,9 +2748,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Yeni Üye - Gel Al - İl İlçe Mahalle
 --------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlceMahalle
+ tags:regressionStaging_subeAtamaYeniUyeGelAlIlIlceMahalle
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2785,9 +2761,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
 --------------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalle
+ tags:regressionStaging_subeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2795,9 +2771,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Üyeliksiz - Gel Al - İl İlçe Mahalle
 --------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlceMahalle
+ tags:regressionStaging_subeAtamaUyeliksizGelAlIlIlceMahalle
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
@@ -2805,10 +2781,10 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 -----------------------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
+ tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
@@ -2816,9 +2792,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 ----------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
+ tags:regressionStaging_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2829,9 +2805,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak
 ---------------------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
+ tags:regressionStaging_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
@@ -2839,9 +2815,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+ tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
@@ -2849,9 +2825,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+ tags:regressionStaging_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -2862,9 +2838,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
+ tags:regressionStaging_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://dpe-staging.dominos.com.tr/" adresine git
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır

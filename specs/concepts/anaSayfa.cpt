@@ -213,6 +213,7 @@
 * Elementi bekle ve sonra tıkla "SepeteEkleArtı"
 
 # Profilim butonuna tıklanır
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * "2" saniye bekle
 
@@ -460,10 +461,9 @@
 # Düzce ili seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * Elementi bekle ve sonra tıkla "ilDüzce"
-* "3" saniye bekle
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
- Düzce/Akcakoca için mahallenin gelmediği kontrol edilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 
 # İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
@@ -509,10 +509,10 @@
 * Element var mı kontrol et "AdreseTeslimTextKontrol"
 
 # Adrese teslim butonuna tıklanamadığı görülür
-* Element yok mu kontrol et "Anasayfa_Adrese_Teslim_Button"
+* Element yok mu kontrol et "AnasayfaServisTipiIcon"
 
 # Gel al butonuna tıklanamadığı görülür
-* Element yok mu kontrol et "Anasayfa_Adrese_Teslim_Button"
+* Element yok mu kontrol et "AnasayfaServisTipiIcon"
 
 # Anasayfadaki dominos logosuna tıklanır
 * Elementi bekle ve sonra tıkla "AnasayfaLogo"
@@ -533,6 +533,7 @@
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
 
 # Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "IstanbulSariyerAyazagatextKontrol"
 
 # Gel al olarak devam edilip adreslerime girilerek adrese teslim için İstanbul/Adalar/Burgazada eklenir

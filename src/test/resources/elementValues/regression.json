@@ -58,5 +58,36 @@
     "key": "SepeteEkleCocaColaControlStg",
     "value": "//div[@id='DPE_TR_HOME_BUTTON_BASKET']/div//h4[.='450 Ml Coca-Cola']",
     "type": "xpath"
+  },
+  {
+    "key": "subeneozelkampanyalarStaging",
+    "value": "//span[contains(text(),'Şubene Özel Kampanyalar')]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepettedurumosekleStaging",
+    "value": "DPE_TR_BASKET_BUTTON_SIDE_PRODUCT0",
+    "type": "id"
+  },
+  {
+    "key": "sepettedurumosKontrolStaging",
+    "value": "//h4[contains(text(),'Bol Malzemeli Dürüm’os')]",
+    "type": "xpath"
+  },
+  {
+    "key": "onaySayfasiSepetteDurumosKontrolStaging",
+    "value": "//div[contains(text(),'Bol Malzemeli Dürüm’os')]",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaIstanbulSariyerAyazagaSubesi",
+    "value": "//span[contains(text(),'Ayazağa')]",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaTestPulseSubesistg",
+    "value": "//span[contains(text(),'Test Pulse Şubesi')]",
+    "type": "xpath"
   }
+
 ]

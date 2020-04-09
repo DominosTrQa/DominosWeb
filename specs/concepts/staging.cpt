@@ -1,0 +1,38 @@
+
+# Sepete dürüm eklenir(Stg)
+* Elementi bekle ve sonra tıkla "sepettedurumosekleStaging"
+
+# Sepetteki dürümün eklendiği kontrol edilir
+* Element var mı kontrol et "sepettedurumosKontrolStaging"
+
+# Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
+* Element var mı kontrol et "onaySayfasiSepetteDurumosKontrolStaging"
+
+# Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
+* Element var mı kontrol et "anasayfaIstanbulSariyerAyazagaSubesi"
+
+# Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
+* Elementi bekle ve sonra tıkla "anasayfaTestPulseSubesistg"
+
+# Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)(Stg)
+* Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
+* Elementi bekle ve sonra tıkla "popupilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* Elementi bekle ve sonra tıkla "popupilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceSariyer"
+* Elementi bekle ve sonra tıkla "popupmahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
+* Elementi bekle ve sonra tıkla "sokakKelebekSokak"
+* "245" textini "kapiNoTextbox" elemente yaz
+* "1" textini "daireTextbox" elemente yaz
+* "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+
+# Şubene özel fırsatlar(Staging)
+* Elementi bekle ve sonra tıkla "subeneozelkampanyalarStaging"

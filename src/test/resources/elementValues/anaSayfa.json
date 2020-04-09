@@ -491,12 +491,7 @@
   },
   {
     "key": "AdıyamanIlksubetextKontrol",
-    "value":"//div[contains(text(),'Hoca Ömer Mah. Atatürk Bulvarı. No: 206/A Merkez')]",
-    "type": "xpath"
-  },
-  {
-    "key": "AdıyamanIlksube",
-    "value":"//div[@class='styled__StoreName-uqfvsm-3 jqHjUg'][contains(text(),'Adıyaman')]",
+    "value":"//div[contains(text(),'Hoca Ömer Mh. Atatürk')]",
     "type": "xpath"
   },
   {
@@ -522,6 +517,11 @@
   {
     "key": "IstanbulBesiktasEtilertextKontrol",
     "value":"//span[contains(text(),'İstanbul Beşiktaş Etiler Mh.')]",
+    "type": "xpath"
+  },
+  {
+    "key": "AnasayfaServisTipiIcon",
+    "value":"(//*[@class='icon-chevron-right'])[8]",
     "type": "xpath"
   }
 ]
