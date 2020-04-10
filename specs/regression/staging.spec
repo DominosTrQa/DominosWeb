@@ -4,21 +4,118 @@ Staging
 
 Üye Girişi
 ---------------------------------
- tags:regressionStaging_uyeGirisi
+tags:regressionStaging_uyeGirisi
 
 * "https://dpe-staging.dominos.com.tr/" adresine git
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
+
+
+Üye Giriş - Başarısız giriş 2
+-------------------------------
+tags:regressionStaging_uyeGirisiBasarisizGiris
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "dominostest2@hotmail.com" kullanıcısı ve "test" şifresi ile üye girişi yapılır
+* Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
+
+
+Üye Girişi - Başarısız giriş 2
+------------------------------
+tags:regressionStaging_uyeGirisiBasarisizGiris2
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* "test@gmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
+
+
+Üye Girişi - Ekran kontrolü
+------------------------------
+tags:regressionStaging_uyeGirisiEkranKontrolu
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* Giriş Yap butonuna basılır
+* Giriş Yap sayfasındaki elementlerin geldiği kontrol edilir
+
+
+Üye Girişi - Parolamı Unuttum
+-------------------------------
+tags:regressionStaging_uyeGirisiParolamiUnuttum
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* Giriş Yap butonuna basılır
+* Parolamı Unuttum butonuna basılır ve textboxa mail adresi yazılır
+* Şifremi Hatırlat butonunun çalıştığı kontrol edilir
 
 
 Üye Olma
 -------------------------------
- tags:regressionStaging_uyeOlma
+tags:regressionStaging_uyeOlma
 
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
 * KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
+
+
+Üye Olma - Ekran Kontrolü
+----------------------------------------
+tags:regressionStaging_uyeOlmaEkrankontrolu
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Üye ol sayfasının elementlerinin geldiği kontrol edilir
+
+
+Üye Olma - Başarılı Üye Olma
+----------------------------------------------
+tags:regressionStaging_uyeOlmazBasariliUyeOlma
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Adrese teslim ve gel al butonlarının geldiği kontrol edilir
+
+
+Üye Olma - Başarısız Üye Olma
+-------------------------------
+tags:regressionStaging_uyeOlmazBasarisizUyeOlma
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Üye olurken bilgiler boş bırakıldığında uyarıların geldiği kontrol edilir
+
+
+Üye Olma - Başarılı Üye Olma 2
+---------------------------------
+tags:regressionStaging_uyeOlmazBasariliUyeOlma
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* Üye ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur ve iletişim kanalları seçilir
+* Adrese teslim ve gel al butonlarının geldiği kontrol edilir
+
+
+Üye Olmadan Devam Et - Button Kontrol
+-------------------------------------------------
+tags:regressionStaging_uyeOlmadanDevamEtButtonKontrol
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* Giriş Yap butonuna basılır
+* Element var mı kontrol et "uyeOlmadanDevamEtButon"
+
+
+Üye Olmadan Devam Et - Ekran Kontrolü
+-------------------------------------------
+tags:regressionStaging_uyeOlmadanDevamEtEkranKontrolu
+
+* "https://dpe-staging.dominos.com.tr/" adresine git
+* Giriş Yap butonuna basılır
+* Üye olmadan devam edilir
+* Adrese teslim ve gel al butonlarının geldiği kontrol edilir
+* Element var mı kontrol et "loginButton"
+* Element var mı kontrol et "uyeOlButon"
 
 
 Üye Adres Ekleme - Adrese Teslim - Üye
