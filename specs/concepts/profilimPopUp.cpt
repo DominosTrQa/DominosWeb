@@ -165,6 +165,7 @@
 # Profilim popup Adreslerim butonuna tıklanır
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
+* "4" saniye bekle
 
 # Profilim popup Yeni Adres Ekle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimYeniAdresEkleButton"

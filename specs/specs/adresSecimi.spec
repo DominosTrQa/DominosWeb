@@ -86,7 +86,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 ----------------------------------------------------------------------
 tags:adresSecimi_varOlanUye_adreseTeslimAdreslerimAdresSecimi
 
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
