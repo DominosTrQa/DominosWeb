@@ -87,7 +87,7 @@ tags:regressionPreprod_uyeOlmazBasarisizUyeOlma
 * Üye olurken bilgiler boş bırakıldığında uyarıların geldiği kontrol edilir
 
 
-Üye Olmaz - Başarılı Üye Olma 2
+Üye Olma - Başarılı Üye Olma 2
 ---------------------------------
 tags:regressionPreprod_uyeOlmazBasariliUyeOlma
 
