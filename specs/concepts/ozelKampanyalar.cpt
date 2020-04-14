@@ -4,8 +4,6 @@
 * Elementi bekle ve sonra tıkla "3Al1ödekampanyatext"
 
 # 3 Al 1 öde kampanyası için sipariş oluşturulur
-* "5" saniye bekle
-* "birinciUrunSeciniz" alanına kaydır
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
 * "2" saniye bekle
 * Barbekü pizza çeşidi seçilir
@@ -42,6 +40,9 @@
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * Elementi bekle ve sonra tıkla "ortaboybarbeküpizza"
 
+# Orta boy barbekü soslu sucuklu pizza kampanyası seçilir (Staging)
+* Elementi bekle ve sonra tıkla "ortaBoyBarbekuPizzaStg"
+
 # Domisoslu kampanyalara tıklanır
 * Elementi bekle ve sonra tıkla "domisoslukampanyalar"
 
@@ -52,6 +53,10 @@
 * Elementi bekle ve sonra tıkla "ortaboytavuklupizza"
 * "2" saniye bekle
 * "birinciUrunSeciniz" alanına kaydır
+* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+
+# Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
+* Elementi bekle ve sonra tıkla "ortaBoyTavukluPizzaStg"
 * Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir
@@ -77,8 +82,6 @@
 * Elementi bekle ve sonra tıkla "domatestext"
 
 # İlk ürün düzenlemeye tıklanır
-* "2" saniye bekle
-* "birinciUrunSeciniz" alanına kaydır
 * Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
 * "2" saniye bekle
 

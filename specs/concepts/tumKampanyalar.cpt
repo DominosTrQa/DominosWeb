@@ -3,7 +3,13 @@
 * Elementin yüklenmesini bekle ve tıkla "SepeteEkleButon"
 
 # Haftanın kampanyalarına gidilir
+* "10" saniye bekle
 * Elementin yüklenmesini bekle ve tıkla "HaftaninKampanyalari"
+* "3" saniye bekle
+
+# Haftanın kampanyalarına gidilir (Staging)
+* "10" saniye bekle
+* Elementin yüklenmesini bekle ve tıkla "HaftaninKampanyalariStg"
 * "3" saniye bekle
 
 # Büyük Boy Pizzalar Gel Al kampanyasını seç
