@@ -249,7 +249,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  3 Al 1 Öde
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Haftanın kampanyalarına gidilir
+* Haftanın kampanyalarına gidilir (Staging)
 * 3 Al 1 öde kampanyası seçilir
 * 3 Al 1 öde kampanyası için sipariş oluşturulur
 * Kampanya sepete eklenir
@@ -284,7 +284,7 @@ Sepete Kampanya Ekleme - Gel Al - Üye - Orta Boy Barbekü Soslu Sucuklu pizza k
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Kampanyalar Butonuna tıklanır
 * Şubene özel fırsatlar(Staging)
-* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
+* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir (Staging)
 * İlk ürün düzenlemeye tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
@@ -303,7 +303,7 @@ Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal soslu tavuk
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
+* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir
@@ -321,7 +321,7 @@ Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Orta boy ballı hardal soslu tav
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
+* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir

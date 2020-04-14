@@ -88,6 +88,21 @@
     "key": "anasayfaTestPulseSubesistg",
     "value": "//span[contains(text(),'Test Pulse Şubesi')]",
     "type": "xpath"
+  },
+  {
+    "key": "HaftaninKampanyalariStg",
+    "value":"DPE_TR_CAMPAIGNS_TAB2",
+    "type": "id"
+  },
+  {
+    "key": "ortaBoyBarbekuPizzaStg",
+    "value":"//div[@id='DPE_TR_CAMPAIGNS_TAB4_CARD2']//div[contains(text(),'Sipari')]",
+    "type": "xpath"
+  },
+  {
+    "key": "ortaBoyTavukluPizzaStg",
+    "value":"//div[@id='DPE_TR_CAMPAIGNS_TAB0_CARD18']//div[contains(text(),'Sipari')]",
+    "type": "xpath"
   }
 
 ]
