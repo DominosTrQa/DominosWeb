@@ -250,7 +250,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  3 Al 1 Öde
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Haftanın kampanyalarına gidilir (Staging)
-* 3 Al 1 öde kampanyası seçilir
+* 3 Al 1 öde kampanyası seçilir (Stg)
 * 3 Al 1 öde kampanyası için sipariş oluşturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
@@ -301,7 +301,6 @@ Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal soslu tavuk
 
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
 * Sucuk ve mısır malzemeleri çıkarılır
@@ -319,7 +318,6 @@ Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Orta boy ballı hardal soslu tav
 
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
-* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
 * Sucuk ve mısır malzemeleri çıkarılır
@@ -667,8 +665,6 @@ Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa gel al yazısının geldiği kontrol edilir
-* Anasayfadaki adres teslim butonuna tıklanır
-* Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
 
@@ -1213,6 +1209,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme kredi kartı seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
 
@@ -1328,6 +1325,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 
@@ -1442,6 +1440,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
@@ -1483,121 +1482,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
-
-
-Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
-* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Ticket Kart
-----------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlSmartTicketKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
-* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
-* Anasayfadaki dominos logosuna tıklanır
-* Profilim butonuna tıklanır
-* Profilim popup Adreslerim butonuna tıklanır
-* Profilimden adreslerime giderek kayıtlı adres silinir
-
-
-Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSmartTicketKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
-* Seçili adres ile devam edilir
-* Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
-
-
-Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Yemek Çeki

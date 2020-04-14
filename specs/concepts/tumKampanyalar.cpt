@@ -8,8 +8,10 @@
 * "3" saniye bekle
 
 # Haftanın kampanyalarına gidilir (Staging)
-* "10" saniye bekle
-* Elementin yüklenmesini bekle ve tıkla "HaftaninKampanyalariStg"
+* Elementi bekle ve sonra tıkla "kampanyalarSagOkButon"
+* Elementi bekle ve sonra tıkla "kampanyalarSagOkButon"
+ "5" saniye bekle
+ Elementin yüklenmesini bekle ve tıkla "HaftaninKampanyalariStg"
 * "3" saniye bekle
 
 # Büyük Boy Pizzalar Gel Al kampanyasını seç
