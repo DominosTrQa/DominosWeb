@@ -8,7 +8,7 @@ tags:servisTipiSecimi_adreseTeslim
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+* Servis tipinin Adrese Teslim olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Gel Al
@@ -17,7 +17,7 @@ tags:servisTipiSecimi_gelAl
 
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa gel al yazısının geldiği kontrol edilir
+* Servis tipinin Gel Al olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
@@ -26,10 +26,10 @@ tags:servisTipiSecimi_adreseTeslimdenGelAlGecisi
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+* Servis tipinin Adrese Teslim olduğu kontrol edilir
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Anasayfa gel al yazısının geldiği kontrol edilir
+* Servis tipinin Gel Al olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
@@ -38,11 +38,11 @@ tags:servisTipiSecimi_gelAldanAdreseTeslimGecisi
 
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa gel al yazısının geldiği kontrol edilir
+* Servis tipinin Gel Al olduğu kontrol edilir
 * Anasayfadaki adres teslim butonuna tıklanır
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+* Servis tipinin Adrese Teslim olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Servis Tipinin Değiştirilememesi
@@ -147,7 +147,7 @@ tags:servisTipiSecimi_adreseTeslim_uyeliksizSepetteUrunVarkenServisTipininDegist
 * Gel Al servis tipi seçilir
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
-* Anasayfa gel al yazısının geldiği kontrol edilir
+* Servis tipinin Gel Al olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Ürün varken Servis Tipinin Değiştirilmesi
@@ -164,7 +164,7 @@ tags:servisTipiSecimi_gelAl_uyeliksizSepetteUrunVarkenServisTipininDegistirilmes
 * Adrese Teslim servis tipi seçilir
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
-* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+* Servis tipinin Adrese Teslim olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslim - Varolan Sepette Ürün varken Servis Tipinin Değiştirilmesi
@@ -183,7 +183,7 @@ tags:servisTipiSecimi_adreseTeslim_varOlanUyeSepetteUrunVarkenServisTipininDegis
 * Gel Al servis tipi seçilir
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
-* Anasayfa gel al yazısının geldiği kontrol edilir
+* Servis tipinin Gel Al olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Gel Al - Varolan Sepette Ürün varken Servis Tipinin Değiştirilmesi
@@ -201,7 +201,7 @@ tags:servisTipiSecimi_gelAl_varOlanUyeSepetteUrunVarkenServisTipininDegistirilme
 * Adrese Teslim servis tipi seçilir
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
-* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+* Servis tipinin Adrese Teslim olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Ürün varken Servis Tipinin Değiştirilmesi
@@ -218,7 +218,7 @@ tags:servisTipiSecimi_adreseTeslim_yeniUyeSepetteUrunVarkenServisTipininDegistir
 * Gel Al servis tipi seçilir
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
-* Anasayfa gel al yazısının geldiği kontrol edilir
+* Servis tipinin Gel Al olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Gel Al - Yeni üye Sepette Ürün varken Servis Tipinin Değiştirilmesi
@@ -234,4 +234,4 @@ tags:servisTipiSecimi_gelAl_yeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 * Adrese Teslim servis tipi seçilir
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
-* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+* Servis tipinin Adrese Teslim olduğu kontrol edilir

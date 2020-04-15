@@ -4,7 +4,7 @@ Sipariş Notu Ekleme
      
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
-tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassızTeslimat
+tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassizTeslimat
 
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -16,7 +16,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassızTeslimat
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
@@ -27,7 +27,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassızTeslimat
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
-tags:siparisNotuEkleme_varolanUye_adreseTeslim_temassızTeslimat
+tags:siparisNotuEkleme_varolanUye_adreseTeslim_temassizTeslimat
 
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
@@ -42,7 +42,7 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_temassızTeslimat
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
@@ -57,7 +57,7 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_temassızTeslimat
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
-tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassızTeslimat
+tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassizTeslimat
 
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -72,7 +72,7 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassızTeslimat
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır(guest)
@@ -96,7 +96,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_lutfenZileBasmayiniz
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Lütfen zile basmayınız seçilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
@@ -121,7 +121,7 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_lutfenZileBasmayiniz
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Lütfen zile basmayınız seçilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
@@ -150,7 +150,7 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_lutfenZileBasmayiniz
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Lütfen zile basmayınız seçilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır(guest)
@@ -174,7 +174,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_notEkleme
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
@@ -195,7 +195,7 @@ tags:siparisNotuEkleme_yeniUye_gelAl_notEkleme
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
@@ -221,7 +221,7 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_notEkleme
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
@@ -248,7 +248,7 @@ tags:siparisNotuEkleme_varolanUye_gelAl_notEkleme
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
@@ -274,7 +274,7 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_notEkleme
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır(guest)
@@ -298,7 +298,7 @@ tags:siparisNotuEkleme_uyeliksiz_gelAl_notEkleme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
@@ -327,7 +327,7 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_varolanNotuEkleme
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
@@ -357,7 +357,7 @@ tags:siparisNotuEkleme_yeniUye_gelAl_varolanNotuEkleme
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
@@ -392,7 +392,7 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_varolanNotuEkleme
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
@@ -428,7 +428,7 @@ tags:siparisNotuEkleme_varolanUye_gelAl_varolanNotuEkleme
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır

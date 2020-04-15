@@ -301,8 +301,8 @@
 * Elementi bekle ve sonra tıkla "SiparisVerOnlineOdeme"
 * Elementi bekle ve sonra tıkla "onlineödemeyenikartekleme"
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "kartnumarası"
-* "4282209004348015" textini "kartnumarası" elemente yaz
+* Elementi bekle ve sonra tıkla "kartNumarasi"
+* "4282209004348015" textini "kartNumarasi" elemente yaz
 * "test" textini "kartbilgisiAdSoyad" elemente yaz
 * Elementi bekle ve sonra tıkla "kartbilgisiAY"
 * Elementi bekle ve sonra tıkla "kartbilgisiAYselect"
@@ -313,48 +313,57 @@
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme nakit seçeneği ile devam edilir
-* Elementi bekle ve sonra tıkla "ÖdemeSekliNakitButonu"
+# Kapıda ödeme Nakit seçeneği ile devam edilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "OdemeSekliNakitButonu"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme kredi kartı seçeneği ile devam edilir
-* Elementi bekle ve sonra tıkla "ÖdemeSeklikredikartı"
+# Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliKrediKarti"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
-* Elementi bekle ve sonra tıkla "ÖdemeSeklismartsodexokart"
+# Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartSodexoKart"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
-* Elementi bekle ve sonra tıkla "ÖdemeSeklisodexoyemekceki"
+# Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSodexoYemekCeki"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme smart ticket kart seçeneği ile devam edilir
-* Elementi bekle ve sonra tıkla "ÖdemeSeklismartticketkart"
+# Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketKart"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
-* Elementi bekle ve sonra tıkla "ÖdemeSeklismartticketyemekceki"
+# Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCeki"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme multinet seçeneği ile devam edilir
-* Elementi bekle ve sonra tıkla "ÖdemeSeklimultinet"
+# Kapıda ödeme Multinet seçeneği ile devam edilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "OdemeSekliMultinet"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme setCard seçeneği ile devam edilir
-* Elementi bekle ve sonra tıkla "ÖdemeSeklisetcard"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSetcard"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme paye kart seçeneği ile devam edilir
-* Elementi bekle ve sonra tıkla "ÖdemeSeklipayekart"
+# Kapıda ödeme Paye Kart seçeneği ile devam edilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliPayeKart"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
@@ -364,11 +373,11 @@
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "onaysayfasındacikolatalısufleguest"
+# Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "onaySayfasiCikolataliSufleguest"
 
-# Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
-* Element var mı kontrol et "onaysayfasındacikolatalısufle"
+# Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir
+* Element var mı kontrol et "onaySayfasiCikolataliSufle"
 
 # Ye kazan popupında üye ol butonuna tıklanır
 * Elementi bekle ve sonra tıkla "yekazanpopupüyeolButon"
@@ -376,11 +385,11 @@
 # Ye kazan popupında giriş yap butonuna tıklanır
 * Elementi bekle ve sonra tıkla "yekazanpopupgirisyap"
 
-# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+# Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 * Element var mı kontrol et "nakitödemekontrol"
 
-# Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
-* Element var mı kontrol et "kredikartıkontrol"
+# Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
+* Element var mı kontrol et "krediKartiKontrol"
 
 # Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 * Element var mı kontrol et "smartsodexokartkontrol"
@@ -404,13 +413,13 @@
 * Element var mı kontrol et "payekartkontrol"
 
 # Onay sayfasında ödeme aracı kısmında online ödeme yazısının geldiği kontrol edilir
-* Element var mı kontrol et "onlineödemekontrol"
+* Element var mı kontrol et "onlineOdemeKontrol"
 
-# Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+# Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
 * Element var mı kontrol et "nakitödemekontrolguest"
 
-# Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "kredikartıkontrolguest"
+# Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
+* Element var mı kontrol et "krediKartiKontrolguest"
 
 # Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 * Element var mı kontrol et "smartsodexokartkontrolguest"
@@ -434,28 +443,28 @@
 * Element var mı kontrol et "payekartkontrolguest"
 
 # Onay sayfasında ödeme aracı kısmında online kredi/banka kart yazısının geldiği kontrol edilir(guest)
-* Elementi bekle ve sonra tıkla "ÖdemeSeklionlineguest"
+* Elementi bekle ve sonra tıkla "odemeSekliOnlineGuest"
 
-# Kapıda ödeme nakit seçeneği ile devam edilir(guest)
+# Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * "4" saniye bekle
-* Elementi bekle ve sonra tıkla "kapıdaÖdemenakitguest"
+* Elementi bekle ve sonra tıkla "kapıdaOdemeNakitGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
-# Kapıda ödeme kredi kartı seçeneği ile devam edilir(guest)
+# Kapıda ödeme Kredi Kartı seçeneği ile devam edilir(guest)
 * Elementi bekle ve sonra tıkla "kredikartıguest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
-# Kapıda ödeme smart sodexo kart seçeneği ile devam edilir(guest)
+# Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
 * Elementi bekle ve sonra tıkla "smartSodexoKartguest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
-# Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir(guest)
+# Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir(guest)
 * Elementi bekle ve sonra tıkla "sodexoYemekCekiguest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
@@ -473,7 +482,7 @@
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
-# Kapıda ödeme multinet seçeneği ile devam edilir(guest)
+# Kapıda ödeme Multinet seçeneği ile devam edilir(guest)
 * Elementi bekle ve sonra tıkla "multinetguest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
@@ -485,7 +494,7 @@
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
-# Kapıda ödeme paye kart seçeneği ile devam edilir(guest)
+# Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
 * Elementi bekle ve sonra tıkla "payeKartguest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
@@ -526,7 +535,7 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Temassız teslimat seçeneği seçilir
-* Elementi bekle ve sonra tıkla "temassızteslimat"
+* Elementi bekle ve sonra tıkla "temassizTeslimat"
 
 # Lütfen zile basmayınız seçilir
 * Elementi bekle ve sonra tıkla "lütfenzilebasmayınız"
@@ -535,7 +544,7 @@
 * Element var mı kontrol et "lütfenzilebasmayınızKontrol"
 
 # Not alanında temassız teslimat yazısının geldiği kontrol edilir
-* Element var mı kontrol et "temassızteslimatKontrol"
+* Element var mı kontrol et "temassizTeslimatKontrol"
 
 # Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Elementi bekle ve sonra tıkla "covidankettencikilir"
@@ -552,7 +561,7 @@
 * Telefon noyu "odemeyiTamamlaGuesttelefon" elementine yaz
 
 # Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "temassızteslimatKontrolguest"
+* Element var mı kontrol et "temassizTeslimatKontrolguest"
 
 # Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
  "2" saniye bekle

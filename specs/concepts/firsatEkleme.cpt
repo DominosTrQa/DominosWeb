@@ -20,7 +20,7 @@
 
 # Sepetimde ürün var mı kontrol edilir
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "Sepettekiürünkontrol"
+* Elementi bekle ve sonra tıkla "sepettekiUrunKontrol"
 
 # Pizza düzenleme yapılır
 * Klasik Hamur seçilir
@@ -43,7 +43,7 @@
 
 # Pizza düzenle butonuna basılır
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Pizza düzenle butonuna basılır(ikinci ürün)
 * Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxikinciürün"
@@ -94,7 +94,7 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
 * Elementin yüklenmesini bekle ve tıkla "dropdownSuperos"
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 * Kalp şeklinde hamura tıklanır
 * Çıkarmak istenilen malzemeler seçilir
 * Pizza düzenle güncellenir

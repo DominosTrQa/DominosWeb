@@ -365,7 +365,7 @@
     "type": "xpath"
   },
   {
-    "key": "ikincikayıtlıadres",
+    "key": "ikinciKayitliAdres",
     "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSITEM1",
     "type": "id"
   },
@@ -385,7 +385,7 @@
     "type": "id"
   },
   {
-    "key": "aciksubelerigöster",
+    "key": "acikSubeleriGoster",
     "value":"DPE_TR_STOREFILTERFORM_CHECKBOX_ISACTIVESTOREFILTER",
     "type": "id"
   },
@@ -395,12 +395,12 @@
     "type": "xpath"
   },
   {
-  "key": "gelaladreseklemedüzenle",
+  "key": "gelAlAdresEklemeDuzenle",
   "value":"//div[contains(text(),'Düzenle')]",
   "type": "xpath"
   },
   {
-    "key": "ilAdıyaman",
+    "key": "ilAdiyaman",
     "value":"//div[text()='Adıyaman'][1]",
     "type": "xpath"
   },
@@ -521,7 +521,13 @@
   },
   {
     "key": "AnasayfaServisTipiIcon",
-    "value":"(//*[@class='icon-chevron-right'])[8]",
+    "value":"(//*[@class='styled__ServiceTypeButton-yzvmyj-4 caPTuS'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeAyazagaSubesiKontrol",
+    "value":"(//span[contains(text(),'Ayazağa Şubesi')])[1]",
     "type": "xpath"
   }
+
 ]

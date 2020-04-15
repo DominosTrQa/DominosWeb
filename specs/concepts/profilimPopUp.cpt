@@ -220,7 +220,7 @@
 * Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
-* Elementi bekle ve sonra tıkla "sokakKelebekSokak"
+* Elementi bekle ve sonra tıkla "sokak101Sokak"
 * "245" textini "kapiNoTextbox" elemente yaz
 * "1" textini "daireTextbox" elemente yaz
 * "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
@@ -229,7 +229,7 @@
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
-* Elementi bekle ve sonra tıkla "ikincikayıtlıadres"
+* "2" saniye bekle
 
 # Yeni adres eklenir(Sariyer-Pınarmah-Kelebeksok)
 * Elementi bekle ve sonra tıkla "popupilDropdown"

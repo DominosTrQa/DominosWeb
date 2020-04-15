@@ -33,7 +33,7 @@
 * Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceSariyer"
-* "5" saniye bekle
+* "7" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleDropdownGelAl"
 * "6" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
@@ -41,7 +41,7 @@
 * Sadece açık şubeleri göster (Gel al)
 * Gel Al da Şubeleri Göster butonuna tıklanır
 * Gel Al çıkan ilk şube seçilir
-* Seçili Şube ile Devam Et butonuna basılır
+ * Elementi bekle ve sonra tıkla "seciliSubeIleDevamEtButon"
 
 # Adrese teslim servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
 * "2" saniye bekle
@@ -92,7 +92,7 @@
 
 # Gel al servis tipi için Adıyaman adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdownGelAl"
-* Elementi bekle ve sonra tıkla "ilAdıyaman"
+* Elementi bekle ve sonra tıkla "ilAdiyaman"
 
 # Gel al servis tipi için Düzce/Akcakoca eklenir
 * Elementi bekle ve sonra tıkla "ilDropdownGelAl"
@@ -101,7 +101,7 @@
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
 
 # Sadece açık şubeleri göster (Gel al)
-* Elementi bekle ve sonra tıkla "aciksubelerigöster"
+* Elementi bekle ve sonra tıkla "acikSubeleriGoster"
 
 # Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdown"
@@ -200,6 +200,7 @@
 
 # Sepete git butonuna tıklanır
 * "3" saniye bekle
+* Element var mı kontrol et "sepeteGitButon"
 * Elementi bekle ve sonra tıkla "sepeteGitButon"
 * "2" saniye bekle
 
@@ -449,11 +450,11 @@
 
 # Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "gelaladreseklemedüzenle"
+* Elementi bekle ve sonra tıkla "gelAlAdresEklemeDuzenle"
 
 # Adıyaman ili seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
-* Elementi bekle ve sonra tıkla "ilAdıyaman"
+* Elementi bekle ve sonra tıkla "ilAdiyaman"
  Adıyaman için ilçenin gelmediği kontrol edilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "4" saniye bekle
@@ -502,19 +503,23 @@
 # Secili konum ile devam edilir
 * Elementi bekle ve sonra tıkla "secilikonumileDevametbuton"
 
-# Anasayfa gel al yazısının geldiği kontrol edilir
-* Elementi bekle ve sonra tıkla "GelAlTextKontrol"
+# Servis tipinin Gel Al olduğu kontrol edilir
+* "3" saniye bekle
+* Element var mı kontrol et "GelAlTextKontrol"
 
-# Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+# Servis tipinin Adrese Teslim olduğu kontrol edilir
+* "3" saniye bekle
 * Element var mı kontrol et "AdreseTeslimTextKontrol"
 
 # Adrese teslim butonuna tıklanamadığı görülür
+* "3" saniye bekle
 * Element yok mu kontrol et "AnasayfaServisTipiIcon"
 
 # Gel al butonuna tıklanamadığı görülür
 * Element yok mu kontrol et "AnasayfaServisTipiIcon"
 
 # Anasayfadaki dominos logosuna tıklanır
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "AnasayfaLogo"
 
 # Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
@@ -533,8 +538,12 @@
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
 
 # Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
-* "4" saniye bekle
-* Elementi bekle ve sonra tıkla "IstanbulSariyerAyazagatextKontrol"
+* "6" saniye bekle
+* Element var mı kontrol et "IstanbulSariyerAyazagatextKontrol"
+
+# Şubenin Ayazağa Şubesi olduğu kontrol edilir
+* "3" saniye bekle
+* Element var mı kontrol et "subeAyazagaSubesiKontrol"
 
 # Gel al olarak devam edilip adreslerime girilerek adrese teslim için İstanbul/Adalar/Burgazada eklenir
 * Elementi bekle ve sonra tıkla "popupilDropdown"
@@ -563,6 +572,7 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Kalem ikonuna tıklanır
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
 
 # Adıyaman için ilçenin gelmediği kontrol edilir

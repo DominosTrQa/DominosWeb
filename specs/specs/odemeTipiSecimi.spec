@@ -15,8 +15,8 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_nakit
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Nakit
@@ -30,8 +30,8 @@ tags:odemeTipiSecimi_yeniUye_gelAl_nakit
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Nakit
@@ -51,8 +51,8 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_nakit
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -73,8 +73,8 @@ tags:odemeTipiSecimi_varolanUye_gelAl_nakit
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Nakit
@@ -93,8 +93,8 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_nakit
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Nakit
@@ -111,8 +111,8 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_nakit
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında nakit yazısının geldiği kontrol edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Kredi Kartı
@@ -128,8 +128,8 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_krediKartı
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme kredi kartı seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Kredi Kartı
@@ -143,8 +143,8 @@ tags:odemeTipiSecimi_yeniUye_gelAl_krediKartı
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme kredi kartı seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Kredi Kartı
@@ -164,8 +164,8 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_krediKartı
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Kapıda ödeme kredi kartı seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -186,8 +186,8 @@ tags:odemeTipiSecimi_varolanUye_gelAl_krediKartı
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme kredi kartı seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Kredi Kartı
@@ -206,8 +206,8 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_krediKartı
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme kredi kartı seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir(guest)
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Kredi Kartı
@@ -224,8 +224,8 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_krediKartı
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme kredi kartı seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında kredi kartı yazısının geldiği kontrol edilir(guest)
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir(guest)
+* Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Sodexo Kart
@@ -241,7 +241,7 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartSodexoKart
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 
 
@@ -256,7 +256,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_smartSodexoKart
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 
 
@@ -277,7 +277,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartSodexoKart
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
@@ -299,7 +299,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_smartSodexoKart
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 
 
@@ -319,7 +319,7 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_smartSodexoKart
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 
 
@@ -337,7 +337,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_smartSodexoKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme smart sodexo kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 
 
@@ -354,7 +354,7 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_sodexoYemekCeki
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Sodexo Yemek Çeki
@@ -368,7 +368,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_sodexoYemekCeki
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
 
@@ -389,7 +389,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_sodexoYemekCeki
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
@@ -411,7 +411,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_sodexoYemekCeki
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
 
@@ -431,7 +431,7 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_sodexoYemekCeki
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir(guest)
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
@@ -449,7 +449,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_sodexoYemekCeki
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme sodexo yemek çeki seçeneği ile devam edilir(guest)
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
@@ -466,7 +466,7 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartTicketKart
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
+* Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
 
@@ -481,7 +481,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_smartTicketKart
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
+* Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
 
@@ -502,7 +502,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketKart
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
+* Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
@@ -524,7 +524,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_smartTicketKart
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme smart ticket kart seçeneği ile devam edilir
+* Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
 
@@ -579,7 +579,7 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_smartTicketYemekÇeki
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
+* Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 
 
@@ -594,7 +594,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_smartTicketYemekÇeki
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
+* Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 
 
@@ -615,7 +615,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_smartTicketYemekÇeki
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
+* Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
@@ -637,7 +637,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_smartTicketYemekÇeki
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme smart ticket yemek çeki seçeneği ile devam edilir
+* Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 
 
@@ -692,7 +692,7 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_multinet
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme multinet seçeneği ile devam edilir
+* Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
 
@@ -707,7 +707,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_multinet
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme multinet seçeneği ile devam edilir
+* Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
 
@@ -728,7 +728,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_multinet
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Kapıda ödeme multinet seçeneği ile devam edilir
+* Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
@@ -750,7 +750,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_multinet
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme multinet seçeneği ile devam edilir
+* Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
 
@@ -770,7 +770,7 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_multinet
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme multinet seçeneği ile devam edilir(guest)
+* Kapıda ödeme Multinet seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
 
 
@@ -788,7 +788,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_multinet
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme multinet seçeneği ile devam edilir(guest)
+* Kapıda ödeme Multinet seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
 
 
@@ -918,7 +918,7 @@ tags:odemeTipiSecimi_yeniUye_adreseTeslim_payeKart
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme paye kart seçeneği ile devam edilir
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
 
 
@@ -933,7 +933,7 @@ tags:odemeTipiSecimi_yeniUye_gelAl_payeKart
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme paye kart seçeneği ile devam edilir
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
 
 
@@ -954,7 +954,7 @@ tags:odemeTipiSecimi_varolanUye_adreseTeslim_payeKart
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Kapıda ödeme paye kart seçeneği ile devam edilir
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
@@ -976,7 +976,7 @@ tags:odemeTipiSecimi_varolanUye_gelAl_payeKart
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme paye kart seçeneği ile devam edilir
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
 
 
@@ -996,7 +996,7 @@ tags:odemeTipiSecimi_uyeliksiz_adreseTeslim_payeKart
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme paye kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
 
@@ -1014,7 +1014,7 @@ tags:odemeTipiSecimi_uyeliksiz_gelAl_payeKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme paye kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
 
