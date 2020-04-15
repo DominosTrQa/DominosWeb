@@ -813,6 +813,19 @@ public class BaseSteps extends BaseTest {
     sendKeysByKey(key, text);
   }
 
+  @Step({"Check element <key> is not clickable"
+  ,"Elementinin <key> tıklanabilirliğini kontrol et"})
+  public void checkElementIsNotClickable(String key){
+    WebElement webElement = findElementWithKey(key);
+    try {
+      webElement.click();
+    } catch (ElementClickInterceptedException e) {
+      logger.info("Element: '" + key + "' tıklanabilir değil");
+      return;
+    }
+    Assert.fail("Element '" + key + "' tıklanabilir.");
+  }
+
 
 }
 

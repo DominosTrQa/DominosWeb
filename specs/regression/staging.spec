@@ -708,8 +708,8 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Üye Sepette Servis Tipinin Deği�
 * "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1671,6 +1671,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
@@ -1786,6 +1787,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
 
@@ -1827,121 +1829,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme setCard seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
-
-
-Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Paye Kart
----------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimPayeKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
-* Kapıda ödeme paye kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Yeni Üye - Gel Al - Paye Kart
----------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlPayeKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Kapıda ödeme paye kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Paye Kart
-------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimPayeKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
-* Kapıda ödeme paye kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
-* Anasayfadaki dominos logosuna tıklanır
-* Profilim butonuna tıklanır
-* Profilim popup Adreslerim butonuna tıklanır
-* Profilimden adreslerime giderek kayıtlı adres silinir
-
-
-Ödeme Tipi Secimi - Varolan Üye - Gel Al - Paye Kart
-------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlPayeKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Kapıda ödeme paye kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Paye Kart
----------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
-* Seçili adres ile devam edilir
-* Kapıda ödeme paye kart seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
-
-
-Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Paye Kart
-------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlPayeKart
-
-* "https://dpe-staging.dominos.com.tr/" adresine git
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme paye kart seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Online Ödeme
