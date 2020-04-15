@@ -50,6 +50,7 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
 * Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
 * "3" saniye bekle
@@ -262,6 +263,12 @@
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "OdemeyiTamamla"
 
+# Temassız Teslimat seçiliyken sipariş tamamlanır
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozlesmesiTemassizSeciliIkenCheckbox"
+* "odemeyiTamamlabutonGuest" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
+
 # Sipariş tamamlanır(guest)
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mesafelisatisSozlesmesibutonGuest"
@@ -293,6 +300,7 @@
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
 
 # Seçili adres ile devam edilir
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
 * "3" saniye bekle
 
@@ -563,11 +571,13 @@
 # Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 * Element var mı kontrol et "temassizTeslimatKontrolguest"
 
-# Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
- "2" saniye bekle
- "siparisIcerigi" alanına kaydır
+# Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 * "2" saniye bekle
-* Element var mı kontrol et "siparisnotuTextKontrol"
+* Element var mı kontrol et "sipariNotuTextKontrol"
+
+# Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
+* "2" saniye bekle
+* Element var mı kontrol et "siparisNotuaVarOlanNotTestNotIcerigi"
 
 # Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
 * Element var mı kontrol et "onlineödemedevamdanSonraKontrol"

@@ -1214,6 +1214,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 
@@ -1329,6 +1330,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
 
@@ -1444,6 +1446,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
@@ -1559,6 +1562,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
@@ -1674,6 +1678,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 
@@ -1789,6 +1794,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
@@ -1904,6 +1910,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
 
@@ -2019,6 +2026,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme Paye Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
 
@@ -2103,7 +2111,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2129,10 +2137,9 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2173,7 +2180,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2192,7 +2198,6 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2204,7 +2209,6 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
 
@@ -2214,7 +2218,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
  tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2229,7 +2233,6 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -2257,11 +2260,9 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Temassız teslimat seçeneği seçilir
-* Sipariş tamamlanır
+* Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Tekrar sipariş ver butonuna tıklanır
-* Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
-* Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 
 
@@ -2271,7 +2272,6 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2292,7 +2292,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
  tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimLutfenZileBasmayiniz
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2334,11 +2334,9 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Lütfen zile basmayınız seçilir
-* Sipariş tamamlanır
+* Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Tekrar sipariş ver butonuna tıklanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
-* Ye kazan uyarı butonundan çıkılır
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
 
 
@@ -2348,7 +2346,6 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2360,9 +2357,8 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
@@ -2380,9 +2376,8 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
@@ -2390,7 +2385,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
  tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2405,9 +2400,8 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -2419,10 +2413,9 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
  tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2432,9 +2425,8 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
@@ -2456,10 +2448,8 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
-* Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
-* Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş tamamlanır(guest)
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
@@ -2479,10 +2469,8 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
-* Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
-* Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş tamamlanır(guest)
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
@@ -2491,7 +2479,6 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
@@ -2508,11 +2495,9 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
-* Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -2537,11 +2522,9 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
-* Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -2552,7 +2535,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Varolan Notu Ekleme
  tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2571,11 +2554,9 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Varolan Notu Ekleme
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
-* Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -2590,10 +2571,9 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
  tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -2607,11 +2587,9 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
-* Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -2686,7 +2664,8 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Adıyaman adresi için ilk şube seçilir
 * Adıyaman adresi için ilk şubenin geldiği kontrol edilir
 * Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* "10" saniye bekle
+* Şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
 Şube atama - Yeni Üye - Adrese Teslim - Yalnızca İl

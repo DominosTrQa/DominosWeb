@@ -76,7 +76,7 @@
   },
   {
     "key": "seciliSubeIleDevamEtButon",
-    "value":"//a[contains(text(),'le Devam Et')]",
+    "value":"//*[contains(text(),'le Devam Et')]",
     "type": "xpath"
   },
   {
@@ -487,6 +487,11 @@
   {
     "key": "AdıyamantextKontrol",
     "value":"//span[contains(text(),'Adıyaman')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeAdiyamanSubesi",
+    "value":"(//span[contains(text(),'Ayazağa Şubesi')])[1]",
     "type": "xpath"
   },
   {

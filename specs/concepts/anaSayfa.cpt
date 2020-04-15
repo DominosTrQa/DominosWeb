@@ -251,6 +251,7 @@
 * "3" saniye bekle
 
 # Tüm Pizzalar butonuna tıklanır
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaTümPizzalarButon"
 * "3" saniye bekle
 
@@ -580,6 +581,10 @@
 
 # Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 * Element var mı kontrol et "AdıyamantextKontrol"
+
+# Şubenin Adıyaman Şubesi olduğu kontrol edilir
+* "3" saniye bekle
+* Element var mı kontrol et "subeAdiyamanSubesi"
 
 # Adıyaman adresi için ilk şubenin geldiği kontrol edilir
 * Element var mı kontrol et "AdıyamanIlksubetextKontrol"

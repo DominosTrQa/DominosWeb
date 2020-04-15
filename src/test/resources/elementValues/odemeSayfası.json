@@ -85,8 +85,13 @@
     "type": "id"
   },
   {
+    "key": "odemeMesafeliSatisSozlesmesiTemassizSeciliIkenCheckbox",
+    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "uyeOlmayanOdemeMesafeliSatisSozelesmesiCheckbox",
-    "value":"//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI']",
+    "value":"(//div[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[3]",
     "type": "xpath"
   },
   {
@@ -480,8 +485,13 @@
     "type": "xpath"
   },
   {
-    "key": "noteklecomboboxacilir",
-    "value":"//*[@class='icon-chevron-down dropdown__Button2IndicatorIcon-wa0gtc-11 ikCYbm']",
+    "key": "notEkleCombobox",
+    "value":"//*[contains(text(),'Seçiniz')]",
+    "type": "xpath"
+  },
+  {
+    "key": "notEkleComboboxTestNotBasligi",
+    "value":"(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[1]",
     "type": "xpath"
   },
   {
@@ -490,8 +500,13 @@
     "type": "xpath"
   },
   {
-    "key": "siparisnotuTextKontrol",
-    "value":"//h4[@class='styled__InfoTitle-td9pux-7 fIVeKT'][contains(text(),'Sipariş Notu')]",
+    "key": "sipariNotuTextKontrol",
+    "value":"//p[contains(text(),'testnot')]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisNotuaVarOlanNotTestNotIcerigi",
+    "value":"//p[contains(text(),'Test Not İçeriği')]",
     "type": "xpath"
   },
   {
