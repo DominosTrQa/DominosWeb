@@ -46,12 +46,12 @@
   },
   {
     "key": "extra_Lezzetler_Tab_Icecekler_Buton_Stg",
-    "value": "DPE_TR_SIDEPRODUCT_TAB6",
+    "value": "DPE_TR_SIDEPRODUCT_TAB7",
     "type": "id"
   },
   {
     "key": "SepeteEkleCocaColaStg",
-    "value": "//div[@id='DPE_TR_SIDEPRODUCTS_TAB6_CARD0']//a[contains(text(),'SEPETE EKLE')]",
+    "value": "(//a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[1]",
     "type": "xpath"
   },
   {
@@ -91,8 +91,8 @@
   },
   {
     "key": "HaftaninKampanyalariStg",
-    "value":"DPE_TR_CAMPAIGNS_TAB2",
-    "type": "id"
+    "value":"//div[@id='DPE_TR_CAMPAIGNS_TAB3']",
+    "type": "xpath"
   },
   {
     "key": "ortaBoyBarbekuPizzaStg",
@@ -103,6 +103,10 @@
     "key": "ortaBoyTavukluPizzaStg",
     "value":"//div[@id='DPE_TR_CAMPAIGNS_TAB0_CARD18']//div[contains(text(),'Sipari')]",
     "type": "xpath"
+  },
+  {
+    "key": "3Al1ödekampanyatextStg",
+    "value":"//div[@id='DPE_TR_CAMPAIGNS_TAB2_CARD2']//div[@class='styled__CampaignCardDescriptionButton-sc-1n4y3hk-4 beDdpn'][contains(text(),'Sipari')]",
+    "type": "xpath"
   }
-
 ]

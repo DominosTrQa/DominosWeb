@@ -250,7 +250,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  3 Al 1 Öde
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Haftanın kampanyalarına gidilir (Staging)
-* 3 Al 1 öde kampanyası seçilir
+* 3 Al 1 öde kampanyası seçilir (Stg)
 * 3 Al 1 öde kampanyası için sipariş oluşturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
@@ -301,7 +301,6 @@ Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal soslu tavuk
 
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
 * Sucuk ve mısır malzemeleri çıkarılır
@@ -319,7 +318,6 @@ Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Orta boy ballı hardal soslu tav
 
 * "https://dpe-staging.dominos.com.tr/" adresine git
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
-* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
 * Sucuk ve mısır malzemeleri çıkarılır
@@ -712,8 +710,8 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Üye Sepette Servis Tipinin Deği�
 * "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
+* Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -1902,6 +1900,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
 * Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
 

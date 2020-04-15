@@ -513,11 +513,10 @@
 * Element var mı kontrol et "AdreseTeslimTextKontrol"
 
 # Adrese teslim butonuna tıklanamadığı görülür
-* "3" saniye bekle
-* Element yok mu kontrol et "AnasayfaServisTipiIcon"
+* Elementinin "Anasayfa_Adrese_Teslim_Button" tıklanabilirliğini kontrol et
 
 # Gel al butonuna tıklanamadığı görülür
-* Element yok mu kontrol et "AnasayfaServisTipiIcon"
+* Elementinin "Anasayfa_Adrese_Teslim_Button" tıklanabilirliğini kontrol et
 
 # Anasayfadaki dominos logosuna tıklanır
 * "2" saniye bekle

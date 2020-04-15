@@ -1,7 +1,5 @@
 
 # Sipariş ver butonuna tıklanır
-* "10" saniye bekle
-* "siparişVerButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "siparişVerButon"
 * "5" saniye bekle
 

@@ -166,8 +166,8 @@
   },
   {
     "key": "Anasayfa_Adrese_Teslim_Button",
-    "value":"DPE_TR_TOPBAR_BUTTON_SERVICETYPESELECT",
-    "type": "id"
+    "value":"//div[@id='DPE_TR_TOPBAR_BUTTON_SERVICETYPESELECT']",
+    "type": "xpath"
   },
   {
     "key": "Anasayfa_Adres_Degisikligi_Button",
