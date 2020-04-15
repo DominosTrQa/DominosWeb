@@ -40,7 +40,7 @@
     "type": "xpath"
   },
   {
-    "key": "Sepettekiürünkontrol",
+    "key": "sepettekiUrunKontrol",
     "value":"//*[@class='styled__CartItemCountBadge-sc-126ws66-16 kjBZuU']",
     "type": "xpath"
   },
@@ -60,7 +60,7 @@
     "type": "xpath"
   },
   {
-    "key": "pizzaDüzenleButonTextboxilkürün",
+    "key": "pizzaDuzenleButonIlkUrun",
     "value":"(//*[@class='product__EditButton-sc-10q1kcx-3 dtOvDH'])[1]",
     "type": "xpath"
   },

@@ -54,8 +54,8 @@ tags:sepeteUpcellEkle_gelAl_uyeOlmadan
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir(guest)
-* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir(guest)
 
 
 Sepete Upcell Ekle - Gel Al - Yeni Üye
@@ -78,8 +78,8 @@ tags:sepeteUpcellEkle_gelAl_yeniUye
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir
 
 
 Sepete Upcell Ekle - Gel Al - Varolan Üye
@@ -100,8 +100,8 @@ tags:sepeteUpcellEkle_gelAl_varolanUye
 * Sipariş ver butonuna tıklanır
 * Ye kazan popupında giriş yap butonuna tıklanır
 * E-posta "dominostest5@hotmail.com" ve "a1w2d3r4D" şifre girilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir
 
 
 Sepete Upcell Ekle - Varolan kullanıcı Giris Yap - Adrese Teslim
@@ -124,8 +124,8 @@ tags:sepeteUpcellEkle_varOlanKullanıcıGirisYap_adreseTeslim
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -153,5 +153,5 @@ tags:sepeteUpcellEkle_varolanKullanıcıGirisYap_gelAl
 * Sepetteki suflenin eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme nakit seçeneği ile devam edilir
-* Onay sayfasında çikolatalı sufle yazısının geldiği kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir

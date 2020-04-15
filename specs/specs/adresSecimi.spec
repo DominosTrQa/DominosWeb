@@ -110,7 +110,7 @@ tags:adresSecimi_varOlanUye_gelAlAdreslerimAdresSecimi
 * Profilim popup Adreslerim butonuna tıklanır
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Anasayfa Adrese Teslim yazısının geldiği kontrol edilir
+* Servis tipinin Adrese Teslim olduğu kontrol edilir
 * Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
 
 

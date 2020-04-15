@@ -10,7 +10,7 @@
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
 * "2" saniye bekle
 * Barbekü pizza çeşidi seçilir
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 * Elementi bekle ve sonra tıkla "sucukMalzeme"
 * Elementi bekle ve sonra tıkla "misirMalzeme"
 * Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
@@ -53,14 +53,15 @@
 * Elementi bekle ve sonra tıkla "TekKisilikKampanyalar"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "ortaboytavuklupizza"
 * "2" saniye bekle
-* "birinciUrunSeciniz" alanına kaydır
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* "pizzaDuzenleButonIlkUrun" alanına kaydır
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
 * Elementi bekle ve sonra tıkla "ortaBoyTavukluPizzaStg"
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir
 * Elementi bekle ve sonra tıkla "ortaboytavuklupizza"
@@ -85,7 +86,7 @@
 * Elementi bekle ve sonra tıkla "domatestext"
 
 # İlk ürün düzenlemeye tıklanır
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxilkürün"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 * "2" saniye bekle
 
 # İlk ürün seçilir ve sepete eklenir
