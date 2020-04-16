@@ -20,7 +20,6 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_temassizTeslimat
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
 
@@ -46,7 +45,6 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_temassizTeslimat
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -78,7 +76,6 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_temassizTeslimat
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Tekrar sipariş ver butonuna tıklanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 
 
@@ -156,7 +153,6 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_lutfenZileBasmayiniz
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Tekrar sipariş ver butonuna tıklanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
 
 
@@ -178,9 +174,8 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_notEkleme
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
@@ -199,9 +194,8 @@ tags:siparisNotuEkleme_yeniUye_gelAl_notEkleme
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
@@ -225,9 +219,8 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_notEkleme
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -252,9 +245,8 @@ tags:siparisNotuEkleme_varolanUye_gelAl_notEkleme
 * Sipariş notu eklenir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
@@ -280,8 +272,7 @@ tags:siparisNotuEkleme_uyeliksiz_adreseTeslim_notEkleme
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Tekrar sipariş ver butonuna tıklanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
@@ -304,7 +295,7 @@ tags:siparisNotuEkleme_uyeliksiz_gelAl_notEkleme
 * Sipariş tamamlanır
 * Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
@@ -329,12 +320,10 @@ tags:siparisNotuEkleme_yeniUye_adreseTeslim_varolanNotuEkleme
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
-* Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -359,12 +348,10 @@ tags:siparisNotuEkleme_yeniUye_gelAl_varolanNotuEkleme
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
-* Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -394,12 +381,10 @@ tags:siparisNotuEkleme_varolanUye_adreseTeslim_varolanNotuEkleme
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
-* Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -430,12 +415,10 @@ tags:siparisNotuEkleme_varolanUye_gelAl_varolanNotuEkleme
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
-* Not alanında var olan notlar combobox'ından Test Not Başlığı geldiği kontrol edilir
 * Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Sipariş tamamlanır
- Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
 * Ye kazan uyarı butonundan çıkılır
-* Sipariş ver sayfasında sipariş notunun yazıldığı doğrulanır
+* Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir

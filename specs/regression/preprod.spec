@@ -222,7 +222,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 * Profilim popup eklenen adres silinir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Üye - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası
+Sepete Kampanya Ekleme - Adrese Teslim - Üye - Orta Boy Barbekü Soslu Sucuklu Pizza Kampanyası
 -----------------------------------------------------------------------------------------------------------
  tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeBarbekuSosluSucukluPizzaKampanyasi
 
@@ -242,17 +242,22 @@ Sepete Kampanya Ekleme - Adrese Teslim - Üye - Orta Boy Barbekü Soslu Sucuklu 
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  3 Al 1 Öde
+Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  Orta Boy Barbekü Soslu Sucuklu Pizza Kampanyası
 --------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUye3Al1Ode
+ tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUyeOrtaBoyBarbekuSosluSucukluPizzaKampanyasi
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Haftanın kampanyalarına gidilir
-* 3 Al 1 öde kampanyası seçilir
-* 3 Al 1 öde kampanyası için sipariş oluşturulur
+* Tek kişilik kampanyalara tıklanır
+* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
+* İlk ürün düzenlemeye tıklanır
+* Sucuk ve mısır malzemeleri çıkarılır
+* Ekstra Malzeme Ekle butonuna tıklanır
+* Cheddar ve Mozarella eklenir
+* Ekstra Malzeme Ekle butonuna tıklanır
+* Güncelle butonuna tıklanır(özel kampanyalar için)
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -450,7 +455,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
 --------------------------------------------------
- tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimYeniUye
+ tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimUyeliksiz
 
 * Dominos - Preprod ortamına gidilir
 * Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
@@ -924,8 +929,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Manuel - Adres Seçimi
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
