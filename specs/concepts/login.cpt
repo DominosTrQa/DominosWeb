@@ -294,3 +294,6 @@
 
 # Dominos - Preprod ortamına gidilir
 * "https://dpe-preprod.dominos.com.tr/" adresine git
+
+# Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/" adresine git
