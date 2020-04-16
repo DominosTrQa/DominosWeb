@@ -200,7 +200,7 @@
 * "testnot" textini "siparisNotuguest" elemente yaz
 
 # Gönderim zamanı ileri bir tarih seçilir
-* Elementi bekle ve sonra tıkla "gönderimzamaniIcon"
+* Elementi bekle ve sonra tıkla "gonderimZamaniIcon"
 * Elementi bekle ve sonra tıkla "gönderimzamaniDahasonra"
 * Elementi bekle ve sonra tıkla "tarihSec"
 * "bugununTarihi" li tarihten iki gün sonraki tarihi seç
@@ -394,7 +394,7 @@
 * Elementi bekle ve sonra tıkla "yekazanpopupgirisyap"
 
 # Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
-* Element var mı kontrol et "nakitödemekontrol"
+* Element var mı kontrol et "nakitOdemeKontrol"
 
 # Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 * Element var mı kontrol et "krediKartiKontrol"
@@ -424,7 +424,7 @@
 * Element var mı kontrol et "onlineOdemeKontrol"
 
 # Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "nakitödemekontrolguest"
+* Element var mı kontrol et "nakitOdemeKontrolguest"
 
 # Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
 * Element var mı kontrol et "krediKartiKontrolguest"
@@ -455,7 +455,7 @@
 
 # Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * "4" saniye bekle
-* Elementi bekle ve sonra tıkla "kapıdaOdemeNakitGuest"
+* Elementi bekle ve sonra tıkla "kapidaOdemeNakitGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
@@ -546,10 +546,10 @@
 * Elementi bekle ve sonra tıkla "temassizTeslimat"
 
 # Lütfen zile basmayınız seçilir
-* Elementi bekle ve sonra tıkla "lütfenzilebasmayınız"
+* Elementi bekle ve sonra tıkla "lutfenZileBasmayiniz"
 
 # Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
-* Element var mı kontrol et "lütfenzilebasmayınızKontrol"
+* Element var mı kontrol et "lutfenZilebasmayinizKontrol"
 
 # Not alanında temassız teslimat yazısının geldiği kontrol edilir
 * Element var mı kontrol et "temassizTeslimatKontrol"

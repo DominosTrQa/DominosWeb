@@ -183,7 +183,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 tags:siparisNotuEkleme_yeniUye_gelAl_notEkleme
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -234,7 +234,7 @@ tags:siparisNotuEkleme_varolanUye_gelAl_notEkleme
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -281,7 +281,7 @@ tags:siparisNotuEkleme_uyeliksiz_gelAl_notEkleme
 
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -334,7 +334,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
 tags:siparisNotuEkleme_yeniUye_gelAl_varolanNotuEkleme
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -401,7 +401,7 @@ tags:siparisNotuEkleme_varolanUye_gelAl_varolanNotuEkleme
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır

@@ -150,7 +150,7 @@
     "type": "id"
   },
   {
-    "key": "gönderimzamaniIcon",
+    "key": "gonderimZamaniIcon",
     "value":"//*[@class='icon-chevron-down orderConfirm__Arrow-x0pcid-16 fbJdXL']",
     "type": "xpath"
   },
@@ -220,7 +220,7 @@
     "type": "xpath"
   },
   {
-    "key": "kapıdaOdemeNakitGuest",
+    "key": "kapidaOdemeNakitGuest",
     "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST1",
     "type": "id"
   },
@@ -290,7 +290,7 @@
     "type": "id"
   },
   {
-    "key": "nakitödemekontrolguest",
+    "key": "nakitOdemeKontrolguest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Nakit')]",
     "type": "xpath"
   },
@@ -335,7 +335,7 @@
     "type": "xpath"
   },
   {
-    "key": "nakitödemekontrol",
+    "key": "nakitOdemeKontrol",
     "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Nakit')]",
     "type": "xpath"
   },
@@ -460,12 +460,12 @@
     "type": "id"
   },
   {
-    "key": "lütfenzilebasmayınız",
+    "key": "lutfenZileBasmayiniz",
     "value":"isdonotpressthebell",
     "type": "id"
   },
   {
-    "key": "lütfenzilebasmayınızKontrol",
+    "key": "lutfenZilebasmayinizKontrol",
     "value":"//p[@class='styled__InfoDesc-td9pux-8 ehnKxs'][contains(text(),' Lütfen zile basmayınız')]",
     "type": "xpath"
   },

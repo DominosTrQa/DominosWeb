@@ -96,7 +96,7 @@
 
 # Gel al servis tipi için Düzce/Akcakoca eklenir
 * Elementi bekle ve sonra tıkla "ilDropdownGelAl"
-* Elementi bekle ve sonra tıkla "ilDüzce"
+* Elementi bekle ve sonra tıkla "ilDuzce"
 * Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
 
@@ -467,7 +467,7 @@
 
 # Düzce ili seçilir
 * Elementi bekle ve sonra tıkla "ilDropdown"
-* Elementi bekle ve sonra tıkla "ilDüzce"
+* Elementi bekle ve sonra tıkla "ilDuzce"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
@@ -477,13 +477,16 @@
 * Elementi bekle ve sonra tıkla "ilDropdown"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "ilİstanbul"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceBesiktas"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleEtilermah"
  Seçili adres ile devam edilir butonuna tıklanamadığı görülür
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "caddeDropdownid"
 * Elementi bekle ve sonra tıkla "sokakAhularsk"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
@@ -536,7 +539,7 @@
 # Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Element var mı kontrol et "IstanbulAdalarBurgazadatextKontrol"
 
-# Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+# Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Element var mı kontrol et "SipariseKapaliSubesitextKontrol"
 
 # Anasayfa - Test Pulse Şubesi adresinin doğru geldiği kontrol edilir
@@ -589,18 +592,9 @@
 # Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 * Element var mı kontrol et "AdıyamantextKontrol"
 
-# Şubenin Adıyaman Şubesi olduğu kontrol edilir
+# Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 * "3" saniye bekle
 * Element var mı kontrol et "subeAdiyamanSubesi"
-
-# Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Element var mı kontrol et "AdıyamanIlksubetextKontrol"
-
-# Adıyaman adresi için ilk şube seçilir
-* Elementi bekle ve sonra tıkla "AdıyamanIlksube"
-
-# Düzce/Akcakoca adresi için ilk şube seçilir
-* Elementi bekle ve sonra tıkla "DuzceAkcakocaIlksube"
 
 # Düzce/Akcakoca için mahallenin gelmediği kontrol edilir
 * Element yok mu kontrol et "mahalleDropdown"
@@ -616,3 +610,7 @@
 
 # Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 * Element var mı kontrol et "IstanbulBesiktasEtilertextKontrol"
+
+# Anasayfadaki şubenin Akçakoca Şubesi olduğu kontrol edilir
+* "3" saniye bekle
+* Element var mı kontrol et "subeAkcakocaSubesi"

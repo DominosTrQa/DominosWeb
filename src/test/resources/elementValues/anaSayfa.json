@@ -410,6 +410,11 @@
     "type": "xpath"
   },
   {
+    "key": "ilDuzce",
+    "value":"//div[text()='Düzce'][1]",
+    "type": "xpath"
+  },
+  {
     "key": "ilceAkcakoca",
     "value":"//div[text()='Akçakoca']",
     "type": "xpath"
@@ -501,17 +506,12 @@
   },
   {
     "key": "subeAdiyamanSubesi",
-    "value":"(//span[contains(text(),'Ayazağa Şubesi')])[1]",
+    "value":"(//span[contains(text(),'Adıyaman Şubesi')])[1]",
     "type": "xpath"
   },
   {
-    "key": "AdıyamanIlksubetextKontrol",
-    "value":"//div[contains(text(),'Hoca Ömer Mh. Atatürk')]",
-    "type": "xpath"
-  },
-  {
-    "key": "AdıyamanIlksube",
-    "value":"//div[@class='styled__StoreName-uqfvsm-3 jqHjUg'][contains(text(),'Adıyaman')]",
+    "key": "subeAkcakocaSubesi",
+    "value":"(//span[contains(text(),'Akçakoca Şubesi')])[1]",
     "type": "xpath"
   },
   {
@@ -527,11 +527,6 @@
   {
     "key": "duzceMerkeztextKontrol",
     "value":"//span[contains(text(),'Düzce Merkez ')]",
-    "type": "xpath"
-  },
-  {
-    "key": "DuzceAkcakocaIlksube",
-    "value":"//div[contains(text(),'Osmaniye Mah. Atatürk Cad. No:112/A Akçakoca / Düzce')]",
     "type": "xpath"
   },
   {
