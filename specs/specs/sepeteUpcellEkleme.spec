@@ -15,9 +15,9 @@ tags:sepeteUpcellEkle_adreseTeslim_haritadanEkle
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 
 
 Sepete Upcell Ekle - AdreseTeslim - Adres Secimi
@@ -32,9 +32,9 @@ tags:sepeteUpcellEkle_adreseTeslim_adresSecimi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 
 
 Sepete Upcell Ekle - Gel Al - Uye Olmadan
@@ -48,9 +48,9 @@ tags:sepeteUpcellEkle_gelAl_uyeOlmadan
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
@@ -69,9 +69,9 @@ tags:sepeteUpcellEkle_gelAl_yeniUye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ye kazan popupında üye ol butonuna tıklanır
@@ -93,9 +93,9 @@ tags:sepeteUpcellEkle_gelAl_varolanUye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ye kazan popupında giriş yap butonuna tıklanır
@@ -117,9 +117,9 @@ tags:sepeteUpcellEkle_varOlanKullanıcıGirisYap_adreseTeslim
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
@@ -148,9 +148,9 @@ tags:sepeteUpcellEkle_varolanKullanıcıGirisYap_gelAl
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir

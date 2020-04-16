@@ -2,7 +2,7 @@
 ===========
 
      
-Şube atama - Varolan Üye - Adrese Teslim - Yalnızca İl
+Şube Atama - Varolan Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
 tags:subeAtama_varolanUye_adreseTeslimYalnizcaIl
 
@@ -12,7 +12,7 @@ tags:subeAtama_varolanUye_adreseTeslimYalnizcaIl
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 
 
-Şube atama - Varolan Üye - Gel Al - Yalnızca İl
+Şube Atama - Varolan Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
 tags:subeAtama_varolanUye_gelAlYalnizcaIl
 
@@ -20,13 +20,12 @@ tags:subeAtama_varolanUye_gelAlYalnizcaIl
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
-* Adıyaman adresi için ilk şube seçilir
-* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
-Şube atama - Yeni Üye - Adrese Teslim - Yalnızca İl
+Şube Atama - Yeni Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
 tags:subeAtama_yeniUye_adreseTeslimYalnizcaIl
 
@@ -38,7 +37,7 @@ tags:subeAtama_yeniUye_adreseTeslimYalnizcaIl
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 
 
-Şube atama - Yeni Üye - Gel Al - Yalnızca İl
+Şube Atama - Yeni Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
 tags:subeAtama_yeniUye_gelAlYalnizcaIl
 
@@ -48,13 +47,12 @@ tags:subeAtama_yeniUye_gelAlYalnizcaIl
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
-* Adıyaman adresi için ilk şube seçilir
-* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
+Şube Atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
 ----------------------------------------------------
 tags:subeAtama_uyeliksiz_adreseTeslimYalnizcaIl
 
@@ -63,20 +61,19 @@ tags:subeAtama_uyeliksiz_adreseTeslimYalnizcaIl
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 
 
-Şube atama - Üyeliksiz - Gel Al - Yalnızca İl
+Şube Atama - Üyeliksiz - Gel Al - Yalnızca İl
 ----------------------------------------------
 tags:subeAtama_uyeliksiz_gelAlYalnizcaIl
 
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
-* Adıyaman adresi için ilk şube seçilir
-* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
-Şube atama - Varolan Üye - Adrese Teslim - İl İlçe
+Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe
 ----------------------------------------------------
 tags:subeAtama_varolanUye_adreseTeslimIlIlce
 
@@ -86,19 +83,21 @@ tags:subeAtama_varolanUye_adreseTeslimIlIlce
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
 * Gel Al da Şubeleri Göster butonuna tıklanır
 
-Şube atama - Varolan Üye - Gel Al - İl İlçe
+
+Şube Atama - Varolan Üye - Gel Al - İl İlçe
 ---------------------------------------------
 tags:subeAtama_varolanUye_gelAlIlIlce
 
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
-* Düzce/Akcakoca adresi için ilk şube seçilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Akçakoca Şubesi olduğu kontrol edilir
 
 
-Şube atama - Yeni Üye - Adrese Teslim - İl İlçe
+Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe
 -------------------------------------------------
 tags:subeAtama_yeniUye_adreseTeslimIlIlce
 
@@ -110,7 +109,7 @@ tags:subeAtama_yeniUye_adreseTeslimIlIlce
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
 
 
-Şube atama - Yeni Üye - Gel Al - İl İlçe
+Şube Atama - Yeni Üye - Gel Al - İl İlçe
 ------------------------------------------
 tags:subeAtama_yeniUye_gelAlIlIlce
 
@@ -119,12 +118,13 @@ tags:subeAtama_yeniUye_gelAlIlIlce
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
-* Düzce/Akcakoca adresi için ilk şube seçilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Akçakoca Şubesi olduğu kontrol edilir
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe
 -------------------------------------------------
 tags:subeAtama_uyeliksiz_adreseTeslimIlIlce
 
@@ -134,18 +134,19 @@ tags:subeAtama_uyeliksiz_adreseTeslimIlIlce
 * Gel Al da Şubeleri Göster butonuna tıklanır
 
 
-Şube atama - Üyeliksiz - Gel Al - İl İlçe
+Şube Atama - Üyeliksiz - Gel Al - İl İlçe
 ----------------------------------------------
 tags:subeAtama_uyeliksiz_gelAlIlIlce
 
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
-* Düzce/Akcakoca adresi için ilk şube seçilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Akçakoca Şubesi olduğu kontrol edilir
 
 
-Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle
+Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------------------
 tags:subeAtama_varolanUye_adreseTeslimIlIlceMahalle
 
@@ -155,17 +156,17 @@ tags:subeAtama_varolanUye_adreseTeslimIlIlceMahalle
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
-Şube atama - Varolan Üye - Gel Al - İl İlçe Mahalle
+Şube Atama - Varolan Üye - Gel Al - İl İlçe Mahalle
 ----------------------------------------------------
 tags:subeAtama_varolanUye_gelAlIlIlceMahalle
 
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
-Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
+Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
 --------------------------------------------------------
 tags:subeAtama_yeniUye_adreseTeslimIlIlceMahalle
 
@@ -177,7 +178,7 @@ tags:subeAtama_yeniUye_adreseTeslimIlIlceMahalle
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
-Şube atama - Yeni Üye - Gel Al - İl İlçe Mahalle
+Şube Atama - Yeni Üye - Gel Al - İl İlçe Mahalle
 --------------------------------------------------------
 tags:subeAtama_yeniUye_gelAlIlIlceMahalle
 
@@ -186,10 +187,10 @@ tags:subeAtama_yeniUye_gelAlIlIlceMahalle
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
 --------------------------------------------------------
 tags:subeAtama_uyeliksiz_adreseTeslimIlIlceMahalle
 
@@ -198,16 +199,16 @@ tags:subeAtama_uyeliksiz_adreseTeslimIlIlceMahalle
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
-Şube atama - Üyeliksiz - Gel Al - İl İlçe Mahalle
+Şube Atama - Üyeliksiz - Gel Al - İl İlçe Mahalle
 --------------------------------------------------
 tags:subeAtama_uyeliksiz_gelAlIlIlceMahalle
 
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
-Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
+Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 -----------------------------------------------------------------
 tags:subeAtama_varolanUye_adreseTeslimIlIlceMahalleSokak
 
@@ -217,7 +218,7 @@ tags:subeAtama_varolanUye_adreseTeslimIlIlceMahalleSokak
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak
+Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 ----------------------------------------------------------
 tags:subeAtama_yeniUye_adreseTeslimIlIlceMahalleSokak
 
@@ -229,7 +230,7 @@ tags:subeAtama_yeniUye_adreseTeslimIlIlceMahalleSokak
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak
 ---------------------------------------------------------------
 tags:subeAtama_uyeliksiz_adreseTeslimIlIlceMahalleSokak
 
@@ -238,7 +239,7 @@ tags:subeAtama_uyeliksiz_adreseTeslimIlIlceMahalleSokak
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
+Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
 tags:subeAtama_varolanUye_adreseTeslimIlIlceMahalleSokakKapiNo
 
@@ -247,7 +248,7 @@ tags:subeAtama_varolanUye_adreseTeslimIlIlceMahalleSokakKapiNo
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
+Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
 tags:subeAtama_yeniUye_adreseTeslimIlIlceMahalleSokakKapiNo
 
@@ -259,7 +260,7 @@ tags:subeAtama_yeniUye_adreseTeslimIlIlceMahalleSokakKapiNo
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
 tags:subeAtama_uyeliksiz_adreseTeslimIlIlceMahalleSokakKapiNo
 

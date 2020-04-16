@@ -6,7 +6,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Manuel - Adres Seçimi
 ------------------------------------------------------------------
 tags:adresSecimi_varOlanUye_adresTeslimManuelAdresSecimi
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -20,14 +20,14 @@ Adres Seçimi - Varolan Üye - Gel Al - Manuel - Adres Seçimi
 ------------------------------------------------------------
 tags:adresSecimi_varOlanUye_gelAlManuelAdresSecimi
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Şubenin Ayazağa Şubesi olduğu kontrol edilir
 
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Manuel - Adres Seçimi
@@ -47,13 +47,11 @@ Adres Seçimi - Yeni Üye - Gel Al - Manuel - Adres Seçimi
 tags:adresSecimi_yeniUye_gelAlManuelAdresSecimi
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Şubenin Ayazağa Şubesi olduğu kontrol edilir
 
 
 Adres Seçimi - Üyeliksiz - Adres Teslim - Manuel - Adres Seçimi
@@ -75,18 +73,18 @@ tags:adresSecimi_uyeliksiz_gelAlManuelAdresSecimi
 
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Şubenin Ayazağa Şubesi olduğu kontrol edilir
 
 
 Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 ----------------------------------------------------------------------
 tags:adresSecimi_varOlanUye_adreseTeslimAdreslerimAdresSecimi
 
-* "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -102,10 +100,10 @@ Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 ----------------------------------------------------------------
 tags:adresSecimi_varOlanUye_gelAlAdreslerimAdresSecimi
 
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Seçili ilk adrese tıklanır
@@ -133,7 +131,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 tags:adresSecimi_yeniUye_gelAlAdreslerimAdresSecimi
 
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Yeni adres ekle butonuna tıklanır

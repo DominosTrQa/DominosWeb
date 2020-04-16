@@ -141,9 +141,9 @@
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * Element var mı kontrol et "üyelik_Bilgilerim_Buton"
 
-# Sepete sufle eklenir
+# Sepetteki ürünlerden Sufle eklenir
 * Elementi bekle ve sonra tıkla "sufleEkle"
 
-# Sepetteki suflenin eklendiği kontrol edilir
+# Sepette Sufle olduğu kontrol edilir
 * Element var mı kontrol et "sepettekisufle"
 

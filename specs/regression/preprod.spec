@@ -514,9 +514,9 @@ Sepetten Upsell Ekleme - Adrese Teslim - Üye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
@@ -536,9 +536,9 @@ Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
@@ -560,9 +560,9 @@ Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 
 
 Sepetten Upcell Ekleme - Gel Al - Üye
@@ -577,13 +577,13 @@ Sepetten Upcell Ekleme - Gel Al - Üye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ye kazan popupında giriş yap butonuna tıklanır
-* E-posta "dominostest5@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir
 
@@ -600,9 +600,9 @@ Sepetten Upcell Ekleme - Gel Al - Yeni Üye
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ye kazan popupında üye ol butonuna tıklanır
@@ -625,9 +625,9 @@ Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sepete sufle eklenir
+* Sepetteki ürünlerden Sufle eklenir
 * Sepetim ikonuna tıklanır
-* Sepetteki suflenin eklendiği kontrol edilir
+* Sepette Sufle olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslim
@@ -903,7 +903,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Manuel - Adres Seçimi
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
@@ -929,7 +929,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Manuel - Adres Seçimi
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
@@ -957,7 +957,7 @@ Adres Seçimi - Üyeliksiz - Gel Al - Manuel - Adres Seçimi
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
@@ -989,7 +989,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Seçili ilk adrese tıklanır
@@ -1019,7 +1019,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Yeni adres ekle butonuna tıklanır
@@ -2644,7 +2644,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Ödeme şekli seçilir
 
 
-Şube atama - Varolan Üye - Adrese Teslim - Yalnızca İl
+Şube Atama - Varolan Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
  tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 
@@ -2655,7 +2655,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 
 
-Şube atama - Varolan Üye - Gel Al - Yalnızca İl
+Şube Atama - Varolan Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
  tags:regressionPreprod_subeAtamaVarolanUyeGelAlYalnizcaIl
 
@@ -2664,14 +2664,12 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
-* Adıyaman adresi için ilk şube seçilir
-* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Seçili şube ile devam edilir(Gel Al)
-* "10" saniye bekle
-* Şubenin Adıyaman Şubesi olduğu kontrol edilir
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
-Şube atama - Yeni Üye - Adrese Teslim - Yalnızca İl
+Şube Atama - Yeni Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
  tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimYalnizcaIl
 
@@ -2684,7 +2682,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 
 
-Şube atama - Yeni Üye - Gel Al - Yalnızca İl
+Şube Atama - Yeni Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
  tags:regressionPreprod_subeAtamaYeniUye_gelAlYalnizcaIl
 
@@ -2695,13 +2693,12 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
-* Adıyaman adresi için ilk şube seçilir
-* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
+Şube Atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
 ----------------------------------------------------
  tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimYalnizcaIl
 
@@ -2711,7 +2708,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 
 
-Şube atama - Üyeliksiz - Gel Al - Yalnızca İl
+Şube Atama - Üyeliksiz - Gel Al - Yalnızca İl
 ----------------------------------------------
  tags:regressionPreprod_subeAtamaUyeliksizGelAlYalnizcaIl
 
@@ -2719,13 +2716,12 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
-* Adıyaman adresi için ilk şube seçilir
-* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
-Şube atama - Varolan Üye - Adrese Teslim - İl İlçe
+Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe
 ----------------------------------------------------
  tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlce
 
@@ -2737,7 +2733,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Gel Al da Şubeleri Göster butonuna tıklanır
 
 
-Şube atama - Varolan Üye - Gel Al - İl İlçe
+Şube Atama - Varolan Üye - Gel Al - İl İlçe
 ---------------------------------------------
  tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlce
 
@@ -2745,12 +2741,13 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
-* Düzce/Akcakoca adresi için ilk şube seçilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Akçakoca Şubesi olduğu kontrol edilir
 
 
-Şube atama - Yeni Üye - Adrese Teslim - İl İlçe
+Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe
 -------------------------------------------------
  tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlce
 
@@ -2763,7 +2760,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
 
 
-Şube atama - Yeni Üye - Gel Al - İl İlçe
+Şube Atama - Yeni Üye - Gel Al - İl İlçe
 ------------------------------------------
  tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlce
 
@@ -2773,12 +2770,13 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
-* Düzce/Akcakoca adresi için ilk şube seçilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Akçakoca Şubesi olduğu kontrol edilir
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe
 -------------------------------------------------
  tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlce
 
@@ -2789,19 +2787,20 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Gel Al da Şubeleri Göster butonuna tıklanır
 
 
-Şube atama - Üyeliksiz - Gel Al - İl İlçe
+Şube Atama - Üyeliksiz - Gel Al - İl İlçe
 ----------------------------------------------
  tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlce
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
-* Düzce/Akcakoca adresi için ilk şube seçilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Akçakoca Şubesi olduğu kontrol edilir
 
 
-Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle
+Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------------------
  tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 
@@ -2812,7 +2811,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
-Şube atama - Varolan Üye - Gel Al - İl İlçe Mahalle
+Şube Atama - Varolan Üye - Gel Al - İl İlçe Mahalle
 ----------------------------------------------------
  tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlceMahalle
 
@@ -2820,10 +2819,10 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
-Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
+Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
 --------------------------------------------------------
  tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 
@@ -2836,7 +2835,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
-Şube atama - Yeni Üye - Gel Al - İl İlçe Mahalle
+Şube Atama - Yeni Üye - Gel Al - İl İlçe Mahalle
 --------------------------------------------------------
  tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlceMahalle
 
@@ -2846,10 +2845,10 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
 --------------------------------------------------------
  tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
@@ -2859,17 +2858,17 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
-Şube atama - Üyeliksiz - Gel Al - İl İlçe Mahalle
+Şube Atama - Üyeliksiz - Gel Al - İl İlçe Mahalle
 --------------------------------------------------
  tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
-Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
+Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 -----------------------------------------------------------------
  tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
 
@@ -2880,7 +2879,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak
+Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 ----------------------------------------------------------
  tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 
@@ -2893,7 +2892,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak
 ---------------------------------------------------------------
  tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
 
@@ -2903,7 +2902,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
+Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
  tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
@@ -2913,7 +2912,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
+Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
  tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
@@ -2926,7 +2925,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
 
-Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
  tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 
