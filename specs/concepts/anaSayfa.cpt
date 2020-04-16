@@ -100,6 +100,12 @@
 * Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
 
+# Gel al servis tipi icin Sakarya/Adapazari eklenir
+* Elementi bekle ve sonra tıkla "ilDropdownGelAl"
+* Elementi bekle ve sonra tıkla "ilSakarya"
+* Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
+* Elementi bekle ve sonra tıkla "ilceAdapazari"
+
 # Sadece açık şubeleri göster (Gel al)
 * Elementi bekle ve sonra tıkla "acikSubeleriGoster"
 
@@ -534,6 +540,9 @@
 # Anasayfa 99362 - Siparişe Kapalı Şubesi adresinin doğru geldiği kontrol edilir
 * Element var mı kontrol et "SipariseKapaliSubesitextKontrol"
 
+# Anasayfa - Test Pulse Şubesi adresinin doğru geldiği kontrol edilir
+* Element var mı kontrol et "subeTestPulseKontrol"
+
 # Adrese teslim adres düzenleye tıklanır
 * Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
 
@@ -599,6 +608,9 @@
 
 # Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
 * Element var mı kontrol et "duzceAkcakocatextKontrol"
+
+# Anasayfada Düzce/Merkez adresinin geldiği kontrol edilir
+* Element var mı kontrol et "duzceMerkeztextKontrol"
 
 # Seçili adres ile devam edilir butonuna tıklanamadığı görülür
 * Element yok mu kontrol et "seciliAdresIleDevamEtButon"
