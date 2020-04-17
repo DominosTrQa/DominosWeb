@@ -464,6 +464,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
 * Sepete coca cola eklenir
 * Sepette coca cola var mı kontrol edilir
 
+
 Sepete Yan Ürün Ekleme - Gel Al - Üye
 ----------------------------------------------
  tags:regressionPreprod_sepeteYanUrunEklemeGelAlUye
@@ -2360,7 +2361,6 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
@@ -2462,7 +2462,6 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir

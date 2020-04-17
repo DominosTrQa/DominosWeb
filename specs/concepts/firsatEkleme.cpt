@@ -1,6 +1,6 @@
 
 # Anasayfadaki ilk fırsata tıklanır
-* Elementini bekle ve hemen tıkla "AnasayfaIlkFırsat"
+* Elementini bekle ve hemen tıkla "anasayfaIlkFirsat"
 
 # Anasayfadaki Ekmek Arası fırsatına tıklanır
 * Elementi bekle ve sonra tıkla "AnasayfaEkmekArasıFırsatı"
@@ -81,11 +81,11 @@
 * Elementi bekle ve sonra tıkla "ortaboypizzalarGelAlŞubeyeözel"
 
 # Tüm Kampanyalar sayfası kontrol edilir
-* Elementi bekle ve sonra tıkla "FırsatIlkTab"
+* Elementi bekle ve sonra tıkla "firsatIlkTab"
 * Element var mı kontrol et "ilkKampanyaIlkPizza"
 
 # Şubeye özel fırsatlar ilk fırsata tıklanır
-*Elementi bekle ve sonra tıkla "FırsatIlkTabsosyalpizza"
+*Elementi bekle ve sonra tıkla "firsatIlkTabsosyalpizza"
 
 # Gel Al domisoslu kampanyalara tıklanır
 * Elementi bekle ve sonra tıkla "gelaldomisoslukampanyalar"

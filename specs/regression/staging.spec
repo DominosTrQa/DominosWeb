@@ -69,7 +69,7 @@ tags:regressionStaging_uyeOlmaEkrankontrolu
 
 Üye Olma - Başarılı Üye Olma
 ----------------------------------------------
-tags:regressionStaging_uyeOlmazBasariliUyeOlma
+tags:regressionStaging_uyeOlmaBasariliUyeOlma
 
 * Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -80,7 +80,7 @@ tags:regressionStaging_uyeOlmazBasariliUyeOlma
 
 Üye Olma - Başarısız Üye Olma
 -------------------------------
-tags:regressionStaging_uyeOlmazBasarisizUyeOlma
+tags:regressionStaging_uyeOlmaBasarisizUyeOlma
 
 * Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -89,7 +89,7 @@ tags:regressionStaging_uyeOlmazBasarisizUyeOlma
 
 Üye Olma - Başarılı Üye Olma 2
 ---------------------------------
-tags:regressionStaging_uyeOlmazBasariliUyeOlma
+tags:regressionStaging_uyeOlmaBasariliUyeOlma2
 
 * Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2448,7 +2448,6 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 * Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -2650,10 +2649,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
-* Adıyaman adresi için ilk şube seçilir
-* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
 Şube atama - Yeni Üye - Adrese Teslim - Yalnızca İl
@@ -2680,10 +2678,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
-* Adıyaman adresi için ilk şube seçilir
-* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
 Şube atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
@@ -2704,10 +2701,9 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
-* Adıyaman adresi için ilk şube seçilir
-* Adıyaman adresi için ilk şubenin geldiği kontrol edilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
 Şube atama - Varolan Üye - Adrese Teslim - İl İlçe
@@ -2717,9 +2713,8 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Dominos - Staging ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
-* Düzce ili seçilir
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
-* Gel Al da Şubeleri Göster butonuna tıklanır
+* Adrese Teslim servis tipi için Sakarya/Adapazarı eklenir
+* Anasayfada Sakarya/Adapazarı adresinin geldiği kontrol edilir
 
 
 Şube atama - Varolan Üye - Gel Al - İl İlçe
@@ -2729,10 +2724,11 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Dominos - Staging ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
-* Gel al servis tipi için Düzce/Akcakoca eklenir
-* Düzce/Akcakoca adresi için ilk şube seçilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel al servis tipi için Düzce/Merkez eklenir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfada şubenin Düzce Şubesi olduğu kontrol edilir
 
 
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe
@@ -2744,8 +2740,8 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* Düzce ili seçilir
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Adrese Teslim servis tipi için Sakarya/Adapazarı eklenir
+* Anasayfada Sakarya/Adapazarı adresinin geldiği kontrol edilir
 
 
 Şube atama - Yeni Üye - Gel Al - İl İlçe
@@ -2757,10 +2753,11 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Gel Al servis tipi seçilir
-* Gel al servis tipi için Düzce/Akcakoca eklenir
-* Düzce/Akcakoca adresi için ilk şube seçilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
+* Gel al servis tipi için Düzce/Merkez eklenir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfada şubenin Düzce Şubesi olduğu kontrol edilir
 
 
 Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe
@@ -2769,9 +2766,8 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 * Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* Düzce ili seçilir
-* Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
-* Gel Al da Şubeleri Göster butonuna tıklanır
+* Adrese Teslim servis tipi için Sakarya/Adapazarı eklenir
+* Anasayfada Sakarya/Adapazarı adresinin geldiği kontrol edilir
 
 
 Şube atama - Üyeliksiz - Gel Al - İl İlçe
@@ -2780,10 +2776,11 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 * Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel al servis tipi icin Sakarya/Adapazari eklenir
-* Düzce/Akcakoca adresi için ilk şube seçilir
-* Seçili şube ile devam edilir(Gel Al)
-* Anasayfada Düzce/Merkez adresinin geldiği kontrol edilir
+* Gel al servis tipi için Düzce/Merkez eklenir
+* Gel Al da Şubeleri Göster butonuna tıklanır
+* Gel Al çıkan ilk şube seçilir
+* Seçili Şube ile Devam Et butonuna basılır
+* Anasayfada şubenin Düzce Şubesi olduğu kontrol edilir
 
 
 Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle
@@ -2805,7 +2802,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa - Test Pulse Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
 
 
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
@@ -2831,7 +2828,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa - Test Pulse Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
 
 
 Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
@@ -2851,7 +2848,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa - Test Pulse Şubesi adresinin doğru geldiği kontrol edilir
+* Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
 
 
 Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
@@ -2919,6 +2916,3 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
-
-
-

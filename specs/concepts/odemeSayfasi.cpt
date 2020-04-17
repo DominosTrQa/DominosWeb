@@ -278,7 +278,7 @@
 * Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
 
 # Adres düzenle butonuna tıklanır
-* Elementi bekle ve sonra tıkla "AdresDüzenleButon"
+* Elementi bekle ve sonra tıkla "adresDuzenleButon"
 * "2" saniye bekle
 
 # Bu alanı boş bırakamazsınız ve kaydet buton kontrolü yapılır

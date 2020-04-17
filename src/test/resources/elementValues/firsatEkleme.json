@@ -1,6 +1,6 @@
 [
   {
-    "key": "AnasayfaIlkFırsat",
+    "key": "anasayfaIlkFirsat",
     "value":"DPE_TR_HOME_SLIDER0",
     "type": "id"
   },
@@ -30,12 +30,12 @@
     "type": "id"
   },
   {
-    "key": "fırsatSepetEkle",
+    "key": "firsatSepetEkle",
     "value":"DPE_TR_COUPONDETAIL_BUTTON_ADDTOBASKET",
     "type": "id"
   },
   {
-    "key": "fırsatSepetEkleGelAl",
+    "key": "firsatSepetEkleGelAl",
     "value":"(//a[@class='couponDetail__Button-sc-1vcdi7n-0 bDbfCJ'][contains(text(),'Sepete Ekle')])[2]",
     "type": "xpath"
   },
