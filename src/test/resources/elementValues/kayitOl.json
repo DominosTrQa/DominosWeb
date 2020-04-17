@@ -105,11 +105,6 @@
     "type": "xpath"
   },
   {
-    "key": "İlceSeciniz",
-    "value":"(//*[@class='wa0gtc-2-input-dropdown__ButtonInnerItems-dCVTJe dwmKFW'])[2]",
-    "type": "xpath"
-  },
-  {
     "key": "SeciliAdresileDevamEt",
     "value":"//*[@class='styled__AddressName-yleopv-9 eNBbSa']",
     "type": "xpath"
@@ -130,7 +125,7 @@
     "type": "xpath"
   },
   {
-    "key": "AdresDüzenleButon",
+    "key": "adresDuzenleButon",
     "value": "//*[@class='styled__ServiceTypeAddressInfo-yzvmyj-5 jGOKYo']",
     "type": "xpath"
   },
@@ -150,12 +145,12 @@
     "type": "xpath"
   },
   {
-    "key": "KayıtlıAdresDüzenleButonGaziosmanpasa",
+    "key": "KayıtlıadresDuzenleButonGaziosmanpasa",
     "value": "//*[@class='edit']",
     "type": "xpath"
   },
   {
-    "key": "KayıtlıAdresDüzenleButonGaziosmanpasaSil",
+    "key": "KayıtlıadresDuzenleButonGaziosmanpasaSil",
     "value": "//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO ZXpBa'][contains(text(),'Sil')]",
     "type": "xpath"
   },
@@ -210,7 +205,7 @@
     "type": "xpath"
   },
   {
-    "key": "uyarıüzerindenüyeol",
+    "key": "uyariUzerindenUyeOl",
     "value":"//a[contains(text(),'Üye Ol')]",
     "type": "xpath"
   },

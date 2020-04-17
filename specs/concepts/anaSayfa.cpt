@@ -100,6 +100,21 @@
 * Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
 
+# Gel al servis tipi için Düzce/Merkez eklenir
+* Elementi bekle ve sonra tıkla "ilDropdownGelAl"
+* Elementi bekle ve sonra tıkla "ilDuzce"
+* Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
+* Elementi bekle ve sonra tıkla "ilceMerkez"
+
+# Adrese Teslim servis tipi için Sakarya/Adapazarı eklenir
+* Elementi bekle ve sonra tıkla "ilDropdown"
+* Elementi bekle ve sonra tıkla "ilSakarya"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdapazari"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+
 # Gel al servis tipi icin Sakarya/Adapazari eklenir
 * Elementi bekle ve sonra tıkla "ilDropdownGelAl"
 * Elementi bekle ve sonra tıkla "ilSakarya"
@@ -481,7 +496,7 @@
 * Elementi bekle ve sonra tıkla "ilceDropdown"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceBesiktas"
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleEtilermah"
@@ -542,7 +557,7 @@
 # Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Element var mı kontrol et "SipariseKapaliSubesitextKontrol"
 
-# Anasayfa - Test Pulse Şubesi adresinin doğru geldiği kontrol edilir
+# Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Element var mı kontrol et "subeTestPulseKontrol"
 
 # Adrese teslim adres düzenleye tıklanır
@@ -605,12 +620,20 @@
 # Anasayfada Düzce/Merkez adresinin geldiği kontrol edilir
 * Element var mı kontrol et "duzceMerkeztextKontrol"
 
+# Anasayfada Sakarya/Adapazarı adresinin geldiği kontrol edilir
+* Element var mı kontrol et "sakaryaAdapazariTextKontrol"
+
 # Seçili adres ile devam edilir butonuna tıklanamadığı görülür
 * Element yok mu kontrol et "seciliAdresIleDevamEtButon"
 
 # Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
+* "3" saniye bekle
 * Element var mı kontrol et "IstanbulBesiktasEtilertextKontrol"
 
 # Anasayfadaki şubenin Akçakoca Şubesi olduğu kontrol edilir
 * "3" saniye bekle
 * Element var mı kontrol et "subeAkcakocaSubesi"
+
+# Anasayfada şubenin Düzce Şubesi olduğu kontrol edilir
+* "3" saniye bekle
+* Element var mı kontrol et "subeDuzceSubesiKontrol"

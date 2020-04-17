@@ -370,7 +370,7 @@
     "type": "id"
   },
   {
-    "key": "FırsatIlkTabsosyalpizza",
+    "key": "firsatIlkTabsosyalpizza",
     "value":"DPE_TR_CAMPAIGNS_TAB0_CARD0",
     "type": "id"
   },
@@ -417,6 +417,11 @@
   {
     "key": "ilceAkcakoca",
     "value":"//div[text()='Akçakoca']",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceMerkez",
+    "value":"//div[text()='Merkez']",
     "type": "xpath"
   },
   {
@@ -527,6 +532,16 @@
   {
     "key": "duzceMerkeztextKontrol",
     "value":"//span[contains(text(),'Düzce Merkez ')]",
+    "type": "xpath"
+  },
+  {
+    "key": "sakaryaAdapazariTextKontrol",
+    "value":"//span[contains(text(),'Sakarya Adapazarı')]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeDuzceSubesiKontrol",
+    "value":"//span[contains(text(),'Düzce Şubesi')]",
     "type": "xpath"
   },
   {

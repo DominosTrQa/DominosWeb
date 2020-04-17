@@ -4,7 +4,7 @@
 * Elementi bekle ve sonra tıkla "3Al1ödekampanyatext"
 
 # 3 Al 1 öde kampanyası seçilir (Stg)
-* Elementi bekle ve sonra tıkla "3Al1ödekampanyatextStg"
+* Elementi bekle ve sonra tıkla "3Al1OdekampanyatextStg"
 
 # 3 Al 1 öde kampanyası için sipariş oluşturulur
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
@@ -38,7 +38,7 @@
 * Elementi bekle ve sonra tıkla "sucukseverpizza"
 
 # Kampanya sepete eklenir
-* Elementi bekle ve sonra tıkla "fırsatSepetEkle"
+* Elementi bekle ve sonra tıkla "firsatSepetEkle"
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * Elementi bekle ve sonra tıkla "ortaboybarbeküpizza"

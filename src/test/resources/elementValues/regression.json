@@ -105,7 +105,7 @@
     "type": "xpath"
   },
   {
-    "key": "3Al1ödekampanyatextStg",
+    "key": "3Al1OdekampanyatextStg",
     "value":"//div[@id='DPE_TR_CAMPAIGNS_TAB2_CARD2']//div[@class='styled__CampaignCardDescriptionButton-sc-1n4y3hk-4 beDdpn'][contains(text(),'Sipari')]",
     "type": "xpath"
   }

@@ -16,8 +16,8 @@
   },
   {
     "key": "extra_Lezzetler_Tab_Icecekler_Buton",
-    "value": "DPE_TR_SIDEPRODUCT_TAB1",
-    "type": "id"
+    "value": "//span[contains(text(),'İçecekler')]",
+    "type": "xpath"
   },
   {
     "key": "extra_Lezzetler_Tab_Ekmek_Arasi_Buton",
@@ -321,8 +321,8 @@
   },
   {
     "key": "SepeteEkleCocaCola",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB1_CARD0",
-    "type": "id"
+    "value": "(//*[contains(text(),'Coca-Cola')])[1]",
+    "type": "xpath"
   },
   {
     "key": "SepeteEkleCocaColaControl",

@@ -266,7 +266,7 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Üye ol butonuna tıklanır(sepet üzerinden)
-* Elementi bekle ve sonra tıkla "uyarıüzerindenüyeol"
+* Elementi bekle ve sonra tıkla "uyariUzerindenUyeOl"
 
 # Üye olmadan devam edilir butonuna tıklanır
 * Elementi bekle ve sonra tıkla "uyeOlmadandevamedilirbuton"

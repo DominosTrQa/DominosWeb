@@ -175,12 +175,12 @@
     "type": "xpath"
   },
   {
-    "key": "tümpizzalarHeader",
+    "key": "tumPizzalarHeader",
     "value":"DPE_TR_HOME_BUTTON_HEADERITEM1",
     "type": "id"
   },
   {
-    "key": "notlarımDüzenleButon",
+    "key": "notlarimDuzenleButon",
     "value":"DPE_TR_NOTES_BUTTON_EDIT",
     "type": "id"
   },
