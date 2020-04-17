@@ -2213,7 +2213,6 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir
 
 
@@ -2287,7 +2286,6 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Lütfen zile basmayınız seçilir
 * Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
 
 
@@ -2379,7 +2377,6 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
@@ -2428,7 +2425,6 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
