@@ -1,10 +1,11 @@
 
-
 # 3 Al 1 öde kampanyası seçilir
-* Elementi bekle ve sonra tıkla "3Al1ödekampanyatext"
+* Element var mı kontrol et "3Al1ödekampanyatext"
+* Elementine tıkla "3Al1ödekampanyatext"
 
 # 3 Al 1 öde kampanyası seçilir (Stg)
-* Elementi bekle ve sonra tıkla "3Al1OdekampanyatextStg"
+* Element var mı kontrol et "3Al1OdekampanyatextStg"
+* Elementine tıkla "3Al1OdekampanyatextStg"
 
 # 3 Al 1 öde kampanyası için sipariş oluşturulur
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
@@ -41,10 +42,12 @@
 * Elementi bekle ve sonra tıkla "firsatSepetEkle"
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
-* Elementi bekle ve sonra tıkla "ortaboybarbeküpizza"
+* Element var mı kontrol et "ortaboybarbeküpizza"
+* Elementine tıkla "ortaboybarbeküpizza"
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir (Staging)
-* Elementi bekle ve sonra tıkla "ortaBoyBarbekuPizzaStg"
+* Element var mı kontrol et "ortaBoyBarbekuPizzaStg"
+* Elementine tıkla "ortaBoyBarbekuPizzaStg"
 
 # Domisoslu kampanyalara tıklanır
 * Elementi bekle ve sonra tıkla "domisoslukampanyalar"
@@ -54,20 +57,24 @@
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "ortaboytavuklupizza"
+* Element var mı kontrol et "ortaboytavuklupizza"
+* Elementine tıkla "ortaboytavuklupizza"
 * "2" saniye bekle
 * "pizzaDuzenleButonIlkUrun" alanına kaydır
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
-* Elementi bekle ve sonra tıkla "ortaBoyTavukluPizzaStg"
+* Element var mı kontrol et "ortaBoyTavukluPizzaStg"
+* Elementine tıkla "ortaBoyTavukluPizzaStg"
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir
-* Elementi bekle ve sonra tıkla "ortaboytavuklupizza"
+* Element var mı kontrol et "ortaboytavuklupizza"
+* Elementine tıkla "ortaboytavuklupizza"
 
 # Dilediğin büyük boy pizza kampanyası seçilir
-* Elementi bekle ve sonra tıkla "dilediginbüyükboypizza"
+* Element var mı kontrol et "dilediginBuyukBoyPizza"
+* Elementine tıkla "dilediginBuyukBoyPizza"
 * "3" saniye bekle
 
 # Özel pizzalar butonuna tıklanır
