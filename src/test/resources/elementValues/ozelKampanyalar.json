@@ -30,7 +30,7 @@
     "type": "xpath"
   },
   {
-    "key": "dilediginbüyükboypizza",
+    "key": "dilediginBuyukBoyPizza",
     "value":"//div[text()='Dilediğin Büyük Boy Pizza']",
     "type": "xpath"
   },
