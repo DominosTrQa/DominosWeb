@@ -665,7 +665,6 @@ Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Servis tipinin Gel Al olduğu kontrol edilir
-* Anasayfadaki adres teslim butonuna tıklanır
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
@@ -893,7 +892,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Manuel - Adres Seçimi
  tags:regressionStaging_adresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
@@ -1483,121 +1482,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
-Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
-
-* Dominos - Staging ortamına gidilir
-* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
-* Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Ticket Kart
-----------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlSmartTicketKart
-
-* Dominos - Staging ortamına gidilir
-* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
-
-* Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
-* Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
-* Anasayfadaki dominos logosuna tıklanır
-* Profilim butonuna tıklanır
-* Profilim popup Adreslerim butonuna tıklanır
-* Profilimden adreslerime giderek kayıtlı adres silinir
-
-
-Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSmartTicketKart
-
-* Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
-
-* Dominos - Staging ortamına gidilir
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
-* Seçili adres ile devam edilir
-* Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
-
-
-Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Kart
------------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
-
-* Dominos - Staging ortamına gidilir
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
-
-
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Yemek Çeki
 -----------------------------------------------------------------------
  tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekÇeki
@@ -1942,121 +1826,6 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme setCard seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
-
-
-Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Paye Kart
----------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiYeniUyeAdreseTeslimPayeKart
-
-* Dominos - Staging ortamına gidilir
-* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
-* Kapıda ödeme Paye Kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Yeni Üye - Gel Al - Paye Kart
----------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiYeniUyeGelAlPayeKart
-
-* Dominos - Staging ortamına gidilir
-* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Kapıda ödeme Paye Kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Paye Kart
-------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimPayeKart
-
-* Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
-* Kapıda ödeme Paye Kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
-* Anasayfadaki dominos logosuna tıklanır
-* Profilim butonuna tıklanır
-* Profilim popup Adreslerim butonuna tıklanır
-* Profilimden adreslerime giderek kayıtlı adres silinir
-
-
-Ödeme Tipi Secimi - Varolan Üye - Gel Al - Paye Kart
-------------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlPayeKart
-
-* Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Kapıda ödeme Paye Kart seçeneği ile devam edilir
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir
-
-
-Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Paye Kart
----------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
-
-* Dominos - Staging ortamına gidilir
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
-* Seçili adres ile devam edilir
-* Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
-
-
-Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Paye Kart
-------------------------------------------------------
- tags:regressionStaging_odemeTipiSecimiUyeliksizGelAlPayeKart
-
-* Dominos - Staging ortamına gidilir
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
-* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Online Ödeme
@@ -2433,6 +2202,8 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanır(guest)
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Tekrar sipariş ver butonuna tıklanır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
@@ -2453,6 +2224,8 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanır(guest)
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Tekrar sipariş ver butonuna tıklanır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
@@ -2481,9 +2254,6 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
-* Profilim butonuna tıklanır
-* Profilim popup Notlarım butonuna tıklanır
-* Varolan notum silinir
 
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
@@ -2508,9 +2278,6 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
-* Profilim butonuna tıklanır
-* Profilim popup Notlarım butonuna tıklanır
-* Varolan notum silinir
 
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Varolan Notu Ekleme

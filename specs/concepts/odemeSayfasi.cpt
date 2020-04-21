@@ -215,16 +215,6 @@
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
  Elementi bekle ve sonra tıkla "odemeSiparisVerButon"
 
-#Üye olan kullanıcı için Gel Al şubesi seçilir
-* "5" saniye bekle
-* "uyeOlanMusteriharitadanSubeSecDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "uyeOlanMusteriharitadanSubeSecDevamButon"
-
-#Üye olmayan kullanıcı için Gel Al şubesi seçilir
-* "5" saniye bekle
-* "uyeOlmayanMusteriHaritadanSubeSecDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "uyeOlmayanMusteriHaritadanSubeSecDevamButon"
-
 #Siparişin oluştuğu kontrol edilir
 * "5" saniye bekle
 * Element var mı kontrol et "siparisDetaylariText"
@@ -262,12 +252,6 @@
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "OdemeyiTamamla"
-
-# Temassız Teslimat seçiliyken sipariş tamamlanır
-* "4" saniye bekle
-* Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozlesmesiTemassizSeciliIkenCheckbox"
-* "odemeyiTamamlabutonGuest" alanına js ile kaydır
-* Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
 
 # Sipariş tamamlanır(guest)
 * "4" saniye bekle
@@ -323,59 +307,80 @@
 
 # Kapıda ödeme Nakit seçeneği ile devam edilir
 * "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "OdemeSekliNakitButonu"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "odemeSekliKrediKarti"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
 * "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "odemeSekliSmartSodexoKart"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
 * "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "odemeSekliSodexoYemekCeki"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "odemeSekliSmartTicketKart"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
 * "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCeki"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme Multinet seçeneği ile devam edilir
 * "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "OdemeSekliMultinet"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme setCard seçeneği ile devam edilir
 * "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "odemeSekliSetcard"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme Paye Kart seçeneği ile devam edilir
 * "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "odemeSekliPayeKart"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Online ödeme seçeneği ile devam edilir
+* "5" saniye bekle
+* Sayfayı yenile
+  üstteki satır şuan bug olduğu için eklendi, düzeltilince kaldırılacak
 * Elementi bekle ve sonra tıkla "SiparisVerOnlineOdeme"
 * "5" saniye bekle
 * "odemeDevamButon" alanına kaydır
