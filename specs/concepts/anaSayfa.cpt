@@ -234,7 +234,7 @@
 * Elementi bekle ve sonra tıkla "SepeteEkleArtı"
 
 # Profilim butonuna tıklanır
-* "2" saniye bekle
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "profil_Menu_Buton"
 * "2" saniye bekle
 
@@ -271,7 +271,7 @@
 * "3" saniye bekle
 
 # Tüm Pizzalar butonuna tıklanır
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaTümPizzalarButon"
 * "3" saniye bekle
 

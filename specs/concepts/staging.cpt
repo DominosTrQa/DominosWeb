@@ -12,7 +12,7 @@
 * Element var mı kontrol et "anasayfaIstanbulSariyerAyazagaSubesi"
 
 # Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
-* Elementi bekle ve sonra tıkla "anasayfaTestPulseSubesistg"
+* Element var mı kontrol et "anasayfaTestPulseSubesistg"
 
 # Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)(Stg)
 * Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"

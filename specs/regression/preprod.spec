@@ -2448,6 +2448,8 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanır(guest)
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Tekrar sipariş ver butonuna tıklanır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
@@ -2468,6 +2470,8 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanır(guest)
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Tekrar sipariş ver butonuna tıklanır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 

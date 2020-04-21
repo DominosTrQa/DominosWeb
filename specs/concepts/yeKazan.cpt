@@ -32,8 +32,7 @@
 * Element var mı kontrol et "Ye_Kazan_Sikca_Sorulan_Sorulardan_Biri_Linktext"
 
 # Ye kazan uyarı butonundan çıkılır
-* "5" saniye bekle
-* Sayfayı yenile
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "YeKazanuyariCikisButonu"
 
 # Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir

@@ -135,16 +135,6 @@
     "type": "xpath"
   },
   {
-    "key": "uyeOlanMusteriharitadanSubeSecDevamButon",
-    "value":"//*[@class='checkout__ContinueButton-sc-8lps9r-8 deLKfq sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
-    "type": "xpath"
-  },
-  {
-    "key": "uyeOlmayanMusteriHaritadanSubeSecDevamButon",
-    "value":"//*[@class='guestCheckout__ContinueButton-sc-1pckd4b-8 dFIDRc sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
-    "type": "xpath"
-  },
-  {
     "key": "siparisNotu",
     "value":"deliveryInstructions",
     "type": "id"
