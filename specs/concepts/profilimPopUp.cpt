@@ -101,7 +101,7 @@
 # Profilim popup Adreslerim kayıtlı adreslerden adres seçilir
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimEklenenAdres"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimKayitliAdresSecilenAdresileDevamEt"
-* Element var mı kontrol et "profil_Menu_Buton"
+* Element var mı kontrol et "profilMenuButon"
 
 # Profilim popup Notlarım butonuna tıklanır
 * Elementi bekle ve sonra tıkla "profilimPopupNotlarimButon"
@@ -211,7 +211,7 @@
 * "5" saniye bekle
 
 # Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)
-* Elementi bekle ve sonra tıkla "YeniAdresEkleButonu"
+* Elementi bekle ve sonra tıkla "yeniAdresEkleButonu"
 * Elementi bekle ve sonra tıkla "popupilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"
 * Elementi bekle ve sonra tıkla "popupilceDropdown"
@@ -252,7 +252,7 @@
 
 # Kullanıcıdan eklenen adres silinir
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "Anasayfa_Adres_Degisikligi_Button"
+* Elementi bekle ve sonra tıkla "anasayfaAdresDegisikligiButton"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
 * "5" saniye bekle
@@ -260,10 +260,10 @@
 * Element yok mu kontrol et "üyelik_Bilgilerim_Adreslerim_ilkadres"
 
 # Anasayfa adres değişikliği butonuna tıklanır
-* Elementi bekle ve sonra tıkla "Anasayfa_Adres_Degisikligi_Button"
+* Elementi bekle ve sonra tıkla "anasayfaAdresDegisikligiButton"
 
 # Adres seçilirken ilk adres seçilir(Gel Al)
-* Elementi bekle ve sonra tıkla "AdresSecmeGelalilkadres"
+* Elementi bekle ve sonra tıkla "adresSecmeGelAlIlkAdres"
 
 # Seçili şube ile devam edilir
 * Elementi bekle ve sonra tıkla "Secilisubeiledevamet"
@@ -303,3 +303,5 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Sil_Buton"
 
+# Adreslerim kısmından Sarıyer adresi seçilir
+* Elementi bekle ve sonra tıkla "adreslerimSariyerAdresi"

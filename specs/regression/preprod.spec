@@ -993,7 +993,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
-* Seçili ilk adrese tıklanır
+* Adreslerim kısmından Sarıyer adresi seçilir
 * Seçili adres ile devam edilir
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 * Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
@@ -2729,7 +2729,6 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Adrese Teslim servis tipi seçilir
 * Düzce ili seçilir
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
-* Gel Al da Şubeleri Göster butonuna tıklanır
 
 
 Şube Atama - Varolan Üye - Gel Al - İl İlçe
@@ -2783,7 +2782,6 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Adrese Teslim servis tipi seçilir
 * Düzce ili seçilir
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
-* Gel Al da Şubeleri Göster butonuna tıklanır
 
 
 Şube Atama - Üyeliksiz - Gel Al - İl İlçe

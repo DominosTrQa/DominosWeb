@@ -72,7 +72,7 @@ tags:happyPath_kullaniciIkincikezGeliyor_adreseTeslim_adresiVar
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 * Yeni adres ekle butonuna tıklanır
 * Yeni adres eklenir(Sariyer-Pınarmah-Kelebeksok)
 * Seçili adres ile devam edilir
@@ -109,7 +109,7 @@ tags:happyPath_kullaniciIkinciKezGeliyor_gelAl_adresiVar
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 * Adres seçilirken ilk adres seçilir(Gel Al)
 * Seçili şube ile devam edilir
 * Sepetim ikonuna tıklanır

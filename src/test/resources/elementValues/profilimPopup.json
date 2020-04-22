@@ -45,7 +45,7 @@
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Siparislerim_Buton",
+    "key": "Profilim_Popup_siparislerimButon",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Sipari')]",
     "type": "xpath"
   },
@@ -188,5 +188,11 @@
     "key": "notlarımSilButon",
     "value":"DPE_TR_NOTEFORM_BUTTON_DELETE",
     "type": "id"
+  },
+  {
+    "key": "adreslerimSariyerAdresi",
+    "value":"(//*[contains(text(),'SARIYER')])[1]",
+    "type": "xpath"
   }
+
 ]

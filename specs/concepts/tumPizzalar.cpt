@@ -54,7 +54,7 @@
 * "sayfaBasligi" li elementin değeri "Tüm Pizzalar" e eşitliğini kontrol et
 * Sepetim ikonuna tıklanır
 * Element var mı kontrol et "sepetinizdeUrunBulunmamaktadirText"
-* Element var mı kontrol et "profil_Menu_Buton"
+* Element var mı kontrol et "profilMenuButon"
 
 # Sağ ok butonuna tıklanır
 * "2" saniye bekle
@@ -62,7 +62,7 @@
 
 # Üyelik bilgilerim butonuna tıklanır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "uyelikBilgilerimButon"
 
 # Seçilen pizza için sipariş oluşturulur
 * Pizza boyutu seçilir
