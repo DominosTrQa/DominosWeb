@@ -303,3 +303,5 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Sil_Buton"
 
+# Adreslerim kısmından Sarıyer adresi seçilir
+* Elementi bekle ve sonra tıkla "adreslerimSariyerAdresi"

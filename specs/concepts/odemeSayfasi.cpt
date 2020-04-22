@@ -562,6 +562,7 @@
 
 # Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
 * "2" saniye bekle
+* "siparisNotuaVarOlanNotTestNotIcerigi" alanına js ile kaydır
 * Element var mı kontrol et "siparisNotuaVarOlanNotTestNotIcerigi"
 
 # Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır

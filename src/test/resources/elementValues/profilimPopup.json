@@ -188,5 +188,11 @@
     "key": "notlarımSilButon",
     "value":"DPE_TR_NOTEFORM_BUTTON_DELETE",
     "type": "id"
+  },
+  {
+    "key": "adreslerimSariyerAdresi",
+    "value":"(//*[contains(text(),'SARIYER')])[1]",
+    "type": "xpath"
   }
+
 ]
