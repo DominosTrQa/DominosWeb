@@ -130,16 +130,16 @@
 
 # Ekstra lezzetler sayfasındayken üst barlar arası geçiş kontrolü yapılır
 * Elementi bekle ve sonra tıkla "ustTabTumKampanyalar"
-* Elementi bekle ve sonra tıkla "Anasayfa_Tüm_Kampanyalar_Text"
+* Elementi bekle ve sonra tıkla "anasayfaTumKampanyalarText"
 * Elementi bekle ve sonra tıkla "ustTabTumPizzalar"
-* Element var mı kontrol et "Anasayfa_Tüm_Pizzalar_Text"
+* Element var mı kontrol et "anasayfaTumPizzalarText"
 * Elementi bekle ve sonra tıkla "ustTabEkstralarveIcecekler"
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
 
 # Ekstra lezzetler sayfasındayken profilim popup kontrolü yapılır
 * Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Element var mı kontrol et "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "profilMenuButon"
+* Element var mı kontrol et "uyelikBilgilerimButon"
 
 # Sepetteki ürünlerden Sufle eklenir
 * Elementi bekle ve sonra tıkla "sufleEkle"

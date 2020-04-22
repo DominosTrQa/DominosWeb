@@ -45,7 +45,7 @@
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Siparislerim_Buton",
+    "key": "Profilim_Popup_siparislerimButon",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Sipari')]",
     "type": "xpath"
   },

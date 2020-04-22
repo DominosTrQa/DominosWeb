@@ -89,7 +89,7 @@
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Popup"
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_İstiyorum_Buton"
-* Element var mı kontrol et "Anasayfa_Kontrol"
+* Element var mı kontrol et "anasayfaKontrol"
 
 # Üyelikten Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"

@@ -74,8 +74,8 @@
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "profilMenuButon"
+* Elementi bekle ve sonra tıkla "uyelikBilgilerimButon"
 
 # Üye olunur giriş yapılır ve profilim butonuna tıklanır
 * Üye ol butonuna tıklanır
@@ -85,7 +85,7 @@
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "profilMenuButon"
 
 # Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
 * Üye ol butonuna tıklanır
@@ -95,8 +95,8 @@
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Buton"
+* Elementi bekle ve sonra tıkla "profilMenuButon"
+* Elementi bekle ve sonra tıkla "uyelikBilgilerimButon"
 
 # Üye olunur giriş yapılır, adrese Teslim servis tipi seçilir ve siparislerime gidilir
 * Üye ol butonuna tıklanır
@@ -106,8 +106,8 @@
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
-* Elementi bekle ve sonra tıkla "Profilim_Popup_Siparislerim_Buton"
+* Elementi bekle ve sonra tıkla "profilMenuButon"
+* Elementi bekle ve sonra tıkla "Profilim_Popup_siparislerimButon"
 
 # Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
 * Adrese Teslim servis tipi seçilir
@@ -143,7 +143,7 @@
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "profilMenuButon"
 * Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Buton"
 
 # Üye olmak için bilgiler girilir

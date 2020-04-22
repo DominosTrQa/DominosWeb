@@ -90,22 +90,17 @@
     "type": "id"
   },
   {
-    "key": "tümKampanyalarButon",
+    "key": "tumKampanyalarButon",
     "value":"DPE_TR_HOME_BUTTON_CAMPAIGNS",
     "type": "id"
   },
   {
-    "key": "anasayfaTümPizzalarButon",
+    "key": "anasayfaTumPizzalarButon",
     "value":"DPE_TR_HOME_BUTTON_PIZZAS",
     "type": "id"
   },
   {
     "key": "ekstraLezzetlerButon",
-    "value":"DPE_TR_HOME_BUTTON_EXTRAFLAVORS",
-    "type": "id"
-  },
-  {
-    "key": "Ekstra_Lezzetler",
     "value":"DPE_TR_HOME_BUTTON_EXTRAFLAVORS",
     "type": "id"
   },
@@ -120,18 +115,8 @@
     "type": "xpath"
   },
   {
-    "key": "GelAlKonumPaylas",
-    "value":"DPE_TR_NEARSTORELIST_BUTTON_LOCATIONSELECT",
-    "type": "id"
-  },
-  {
     "key": "konum_Devam_Et",
     "value":"//i[@class='icon-arrow-big']",
-    "type": "xpath"
-  },
-  {
-    "key": "gelAlListelemeIlkSube",
-    "value":".//div[@class='styled__StoreDetail-uqfvsm-2 jKUkPy']",
     "type": "xpath"
   },
   {
@@ -145,122 +130,112 @@
     "type": "id"
   },
   {
-    "key": "profil_Menu_Buton",
+    "key": "profilMenuButon",
     "value":"//*[@class='styled__ProfileMenuButton-sc-126ws66-2 dmfZCP']",
     "type": "xpath"
   },
   {
-    "key": "üyelik_Bilgilerim_Buton",
+    "key": "uyelikBilgilerimButon",
     "value":"DPE_TR_HOME_BUTTON_PROFILEMENU_ITEM0",
     "type": "id"
   },
   {
-    "key": "siparislerim_Buton",
+    "key": "siparislerimButon",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Sipari')]",
     "type": "xpath"
   },
   {
-    "key": "Anasayfa_Kontrol",
+    "key": "anasayfaKontrol",
     "value":"DPE_TR_TAB_BUTTON0",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Adrese_Teslim_Button",
+    "key": "anasayfaServisTipiDegisimibuton",
     "value":"//div[@id='DPE_TR_TOPBAR_BUTTON_SERVICETYPESELECT']",
     "type": "xpath"
   },
   {
-    "key": "Anasayfa_Adres_Degisikligi_Button",
+    "key": "anasayfaAdresDegisikligiButton",
     "value":"DPE_TR_TOPBAR_BUTTON_ADDRESSMODALOPEN",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Gorsel_Sol_Ok_Button",
-    "value":"DPE_TR_HOME_SLIDER_ARROWLEFT",
-    "type": "id"
-  },
-  {
-    "key": "Anasayfa_Gorsel_Sag_Ok_Button",
-    "value":"DPE_TR_HOME_SLIDER_ARROWRIGHT",
-    "type": "id"
-  },
-  {
-    "key": "Anasayfa_Ye_Kazan_Kazandıklarım_Button",
+    "key": "anasayfaYeKazanKazandiklarimButton",
     "value":"DPE_TR_HOME_BUTTON_LOYALTYWINS",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Hemen_Puanla_Button",
+    "key": "anasayfaHemenPuanlaButton",
     "value":"DPE_TR_HOME_BUTTON_ORDERSCORE",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button",
+    "key": "anasayfaTekTikHemenSiparisVerButton",
     "value":"//a[@class='styled__ContentButton-lcu2gq-6 ciSBnQ']",
     "type": "xpath"
   },
   {
-    "key": "Anasayfa_Promosyon_Kodu_Button",
+    "key": "anasayfaPromosyonKoduButton",
     "value":"DPE_TR_HOME_DROPDOWN",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown",
+    "key": "anasayfaPromosyonKoduPromosyonAdiDropdown",
     "value":"DPE_TR_HOME_DROPDOWN_PROMOTIONNAME",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Promosyon_Promosyon_Kodu_Textbox",
+    "key": "anasayfaPromosyonPromosyonKoduTextbox",
     "value":"DPE_TR_HOME_DROPDOWN_PROMOTIONCODE",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Pizza_Takip_Button",
+    "key": "anasayfaPizzaTakipButon",
     "value":"DPE_TR_HOME_DROPDOWN_PIZZATRACKER",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Pizza_Takip_Textbox",
+    "key": "anasayfaPizzaTakipTextbox",
     "value":"DPE_TR_HOME_INPUT_PIZZATRACKERNUMBER",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Pizza_Takip_Goruntule_Button",
+    "key": "anasayfaPizzaTakipGoruntuleButon",
     "value":"DPE_TR_HOME_DROPDOWN_PIZZATRACKER",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Subeye_Ozel_Button",
+    "key": "anasayfaSubeyeOzelButon",
     "value":"DPE_TR_HOME_DROPDOWN_STORESPECIAL",
     "type": "id"
   },
   {
-    "key": "Anasayfa_Tek_Tik_Text",
+    "key": "anasayfaTekTikText",
     "value":"//div[@class='styled__SubDescription-lcu2gq-8 irEgIN']",
     "type": "xpath"
   },
   {
-    "key": "Anasayfa_Ye_Kazan_Text",
+    "key": "anasayfaYeKazanText",
     "value":"//div[@class='loyalytyBox__Description-sc-1i2p079-4 hyuVxq']",
     "type": "xpath"
   },
   {
-    "key": "Anasayfa_Siparisleri_Puanla_Text",
+    "key": "anasayfaSiparisleriPuanlaText",
     "value":"//div[@class='scoreOrderBox__Description-ewiow6-2 koiQMP']",
     "type": "xpath"
   },
   {
-    "key": "Anasayfa_Button",
+    "key": "anasayfaButon",
     "value":"//*[@class='logo__Svg-sc-99o634-0 dAufCP']",
     "type": "xpath"
   },
   {
-    "key": "Anasayfa_Tüm_Kampanyalar_Text",
+    "key": "anasayfaTumKampanyalarText",
     "value":"//h1[@class='pageHeader__Title-uo3je7-1 gMRowo']",
     "type": "xpath"
   },
   {
-    "key": "Anasayfa_Tüm_Pizzalar_Text",
+    "key": "anasayfaTumPizzalarText",
     "value":"//h1[@class='pageHeader__Title-uo3je7-1 gMRowo']",
     "type": "xpath"
   },
@@ -330,12 +305,12 @@
     "type": "xpath"
   },
   {
-    "key": "AdresEklemeKalemIkonu",
+    "key": "adresEklemeKalemIkonu",
     "value":"DPE_TR_TOPBAR_BUTTON_ADDRESSMODALOPEN",
     "type": "id"
   },
   {
-    "key": "YeniAdresEkleButonu",
+    "key": "yeniAdresEkleButonu",
     "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_NEWADDRESS",
     "type": "id"
   },
@@ -360,7 +335,7 @@
     "type": "id"
   },
   {
-    "key": "KonumpaylasOkisareti",
+    "key": "konumPaylasOkIsareti",
     "value":"//*[@class='styled__LocationIcon-sc-7lrbup-4 ljHEoq']",
     "type": "xpath"
   },
@@ -375,7 +350,7 @@
     "type": "id"
   },
   {
-    "key": "AdresSecmeGelalilkadres",
+    "key": "adresSecmeGelAlIlkAdres",
     "value":"DPE_TR_STORELISTCARRYOUT_BUTTON_ITEM0",
     "type": "id"
   },
@@ -390,7 +365,7 @@
     "type": "id"
   },
   {
-    "key": "ilksubesecimi",
+    "key": "ilkSubeSecimi",
     "value":"//*[@class='styled__StoreAddress-uqfvsm-4 eUfwTU']",
     "type": "xpath"
   },
@@ -470,42 +445,42 @@
     "type": "xpath"
   },
   {
-    "key": "GelAlTextKontrol",
+    "key": "gelAlTextKontrol",
     "value":"//span[contains(text(),'Gel Al')]",
     "type": "xpath"
   },
   {
-    "key": "AnasayfaLogo",
+    "key": "anasayfaLogo",
     "value":"DPE_TR_HOME_BUTTON_LOGO",
     "type": "id"
   },
   {
-    "key": "teslimatdegisecekuyarisi",
+    "key": "teslimatTipiDegisecekUyarisi",
     "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk'][contains(text(),'Sepetinizde ürün varken teslimat tipini değiştirmek sepetinizdeki ürünlerin')]",
     "type": "xpath"
   },
   {
-    "key": "teslimattipidegistirürünSilinirEvet",
+    "key": "teslimatTipiDegistirUrunSilinirEvetButon",
     "value":"DPE_TR_ALERT_BUTTON_LEFT",
     "type": "id"
   },
   {
-    "key": "IstanbulAdalarBurgazadatextKontrol",
+    "key": "istanbulAdalarBurgazadaTextKontrol",
     "value":"//span[contains(text(),'İstanbul Adalar Burgazada Mh.')]",
     "type": "xpath"
   },
   {
-    "key": "SipariseKapaliSubesitextKontrol",
+    "key": "sipariseKapaliSubesiTextKontrol",
     "value":"//span[contains(text(),'99362 - Siparişe Kapalı Şubesi')]",
     "type": "xpath"
   },
   {
-    "key": "IstanbulSariyerAyazagatextKontrol",
+    "key": "istanbulSariyerAyazagaTextKontrol",
     "value":"//span[contains(text(),'İstanbul Sarıyer Ayazağa Mh.')]",
     "type": "xpath"
   },
   {
-    "key": "AdıyamantextKontrol",
+    "key": "adiyamanTextKontrol",
     "value":"//span[contains(text(),'Adıyaman')]",
     "type": "xpath"
   },
@@ -547,11 +522,6 @@
   {
     "key": "IstanbulBesiktasEtilertextKontrol",
     "value":"//span[contains(text(),'İstanbul Beşiktaş Etiler Mh.')]",
-    "type": "xpath"
-  },
-  {
-    "key": "AnasayfaServisTipiIcon",
-    "value":"(//*[@class='styled__ServiceTypeButton-yzvmyj-4 caPTuS'])[1]",
     "type": "xpath"
   },
   {

@@ -38,7 +38,7 @@
 * "6" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
 * "5" saniye bekle
-* Sadece açık şubeleri göster (Gel al)
+* Sadece Açık Şubeleri Göster checkbox seçilir
 * Gel Al da Şubeleri Göster butonuna tıklanır
 * Gel Al çıkan ilk şube seçilir
  * Elementi bekle ve sonra tıkla "seciliSubeIleDevamEtButon"
@@ -85,7 +85,7 @@
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
 * "2" saniye bekle
-* Sadece açık şubeleri göster (Gel al)
+* Sadece Açık Şubeleri Göster checkbox seçilir
 * Gel Al da Şubeleri Göster butonuna tıklanır
 * Gel Al çıkan ilk şube seçilir
 * Seçili Şube ile Devam Et butonuna basılır
@@ -121,7 +121,7 @@
 * Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
 * Elementi bekle ve sonra tıkla "ilceAdapazari"
 
-# Sadece açık şubeleri göster (Gel al)
+# Sadece Açık Şubeleri Göster checkbox seçilir
 * Elementi bekle ve sonra tıkla "acikSubeleriGoster"
 
 # Adrese Teslim servis tipi için Gaziosmanpaşa / Mevlana mah. adresi eklenir
@@ -183,11 +183,7 @@
 
 # Gel Al çıkan ilk şube seçilir
 * "4" saniye bekle
-* Elementi bekle ve sonra tıkla "ilksubesecimi"
-
-#Gel Al da listelenen ilk şube seçilir
-* "1" saniye bekle
-* Elementi bekle ve sonra tıkla "gelAlListelemeIlkSube"
+* Elementi bekle ve sonra tıkla "ilkSubeSecimi"
 
 # Seçili Adres ile Devam Et butonuna basılır
 * "5" saniye bekle
@@ -209,10 +205,10 @@
 
 # Tüm Kampanyalar Butonuna tıklanır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "tümKampanyalarButon"
+* Elementi bekle ve sonra tıkla "tumKampanyalarButon"
 
 # Tüm pizzalar alanına kaydırılır
-* "anasayfaTümPizzalarButon" alanına kaydır
+* "anasayfaTumPizzalarButon" alanına kaydır
 
 # Sepetim ikonuna tıklanır
 * "3" saniye bekle
@@ -235,7 +231,7 @@
 
 # Profilim butonuna tıklanır
 * "4" saniye bekle
-* Elementi bekle ve sonra tıkla "profil_Menu_Buton"
+* Elementi bekle ve sonra tıkla "profilMenuButon"
 * "2" saniye bekle
 
 # Profilim başarılı bir şekilde görüntüleniyor mu kontrol edilir
@@ -243,18 +239,18 @@
 * Elementi bekle ve sonra tıkla "Profilim"
 
 # Adres eklerken kalem ikonuna tıklanılır, düzenlenir, haritadan ekleye tıklanır
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenleHaritadanEkle"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDüzenle"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDüzenleHaritadanEkle"
 
 # Haritadan ekle butonuna tıklanır
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenleHaritadanEkle"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDüzenleHaritadanEkle"
 * "5" saniye bekle
 
 # Adres eklerken kalem ikonuna tıklanır
 * "4" saniye bekle
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 * "2" saniye bekle
 * Cookie onaylıyorum butonuna tıklanır
 
@@ -263,21 +259,21 @@
 * Elementi bekle ve sonra tıkla "mevcutKonumunuz"
 
 # Konum paylaştıktan sonra ok işaretine tıklanır
-* Elementi bekle ve sonra tıkla "KonumpaylasOkisareti"
+* Elementi bekle ve sonra tıkla "konumPaylasOkIsareti"
 
 # Ekstra Lezzetlere gidilir
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "Ekstra_Lezzetler"
+* Elementi bekle ve sonra tıkla "ekstraLezzetlerButon"
 * "3" saniye bekle
 
 # Tüm Pizzalar butonuna tıklanır
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "anasayfaTümPizzalarButon"
+* Elementi bekle ve sonra tıkla "anasayfaTumPizzalarButon"
 * "3" saniye bekle
 
 # Dominos logosuna tıklanır ve anasayfaya yönlendirdiği kontrol edilir
 * Elementi bekle ve sonra tıkla "dominosLogo"
-* Element var mı kontrol et "profil_Menu_Buton"
+* Element var mı kontrol et "profilMenuButon"
 
 # Tabdaki Tüm Kampanyalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "ustTabTumKampanyalar"
@@ -305,69 +301,67 @@
 
 # Üye değilken anasayfadaki butonların geldiği kontrol edilir
 * Element var mı kontrol et "dominosLogo"
-* Element var mı kontrol et "Anasayfa_Adrese_Teslim_Button"
-* Element var mı kontrol et "Anasayfa_Adres_Degisikligi_Button"
-* Element var mı kontrol et "Anasayfa_Gorsel_Sol_Ok_Button"
-* "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button" alanına js ile kaydır
-* Element var mı kontrol et "tümKampanyalarButon"
-* Element var mı kontrol et "anasayfaTümPizzalarButon"
+* Element var mı kontrol et "anasayfaServisTipiDegisimibuton"
+* Element var mı kontrol et "anasayfaAdresDegisikligiButton"
+* "anasayfaTekTikHemenSiparisVerButton" alanına js ile kaydır
+* Element var mı kontrol et "tumKampanyalarButon"
+* Element var mı kontrol et "anasayfaTumPizzalarButon"
 * Element var mı kontrol et "ekstraLezzetlerButon"
-* Element var mı kontrol et "Anasayfa_Ye_Kazan_Kazandıklarım_Button"
-* Element var mı kontrol et "Anasayfa_Hemen_Puanla_Button"
-* Element var mı kontrol et "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button"
-* Element var mı kontrol et "Anasayfa_Promosyon_Kodu_Button"
-* Element var mı kontrol et "Anasayfa_Pizza_Takip_Button"
-* Element var mı kontrol et "Anasayfa_Subeye_Ozel_Button"
+* Element var mı kontrol et "anasayfaYeKazanKazandiklarimButton"
+* Element var mı kontrol et "anasayfaHemenPuanlaButton"
+* Element var mı kontrol et "anasayfaTekTikHemenSiparisVerButton"
+* Element var mı kontrol et "anasayfaPromosyonKoduButton"
+* Element var mı kontrol et "anasayfaPizzaTakipButon"
+* Element var mı kontrol et "anasayfaSubeyeOzelButon"
 
 # Üye değilken anasayfadaki yazıların geldiği kontrol edilir
 * Element var mı kontrol et "dominosLogo"
-* Element var mı kontrol et "Anasayfa_Tek_Tik_Text"
-* Element var mı kontrol et "Anasayfa_Ye_Kazan_Text"
-* Element var mı kontrol et "Anasayfa_Siparisleri_Puanla_Text"
+* Element var mı kontrol et "anasayfaTekTikText"
+* Element var mı kontrol et "anasayfaYeKazanText"
+* Element var mı kontrol et "anasayfaSiparisleriPuanlaText"
 
 # Üye değilken Pizza takip popup elementleri kontrol edilir
-* Element var mı kontrol et "Anasayfa_Pizza_Takip_Textbox"
-* Element var mı kontrol et "Anasayfa_Pizza_Takip_Goruntule_Button"
+* Element var mı kontrol et "anasayfaPizzaTakipTextbox"
+* Element var mı kontrol et "anasayfaPizzaTakipGoruntuleButon"
 
 # Promosyon Kodu butonuna tıklanır
-* Elementi bekle ve sonra tıkla "Anasayfa_Promosyon_Kodu_Button"
+* Elementi bekle ve sonra tıkla "anasayfaPromosyonKoduButton"
 
 # Üye değilken Promosyon Kodu popup kontrol edilir
-* Elementi bekle ve sonra tıkla "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown"
-* Element var mı kontrol et "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown"
-* Element var mı kontrol et "Anasayfa_Promosyon_Promosyon_Kodu_Textbox"
+* Elementi bekle ve sonra tıkla "anasayfaPromosyonKoduPromosyonAdiDropdown"
+* Element var mı kontrol et "anasayfaPromosyonKoduPromosyonAdiDropdown"
+* Element var mı kontrol et "anasayfaPromosyonPromosyonKoduTextbox"
 
 # Pizza Takip butonuna tıklanır
-* Elementi bekle ve sonra tıkla "Anasayfa_Pizza_Takip_Button"
+* Elementi bekle ve sonra tıkla "anasayfaPizzaTakipButon"
 
 # Üye iken anasayfadaki butonların geldiği kontrol edilir
 * Element var mı kontrol et "dominosLogo"
-* Element var mı kontrol et "Anasayfa_Adrese_Teslim_Button"
-* Element var mı kontrol et "Anasayfa_Adres_Degisikligi_Button"
-* Element var mı kontrol et "profil_Menu_Buton"
-* Element var mı kontrol et "Anasayfa_Gorsel_Sol_Ok_Button"
-* "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button" alanına js ile kaydır
-* Element var mı kontrol et "tümKampanyalarButon"
-* Element var mı kontrol et "anasayfaTümPizzalarButon"
+* Element var mı kontrol et "anasayfaServisTipiDegisimibuton"
+* Element var mı kontrol et "anasayfaAdresDegisikligiButton"
+* Element var mı kontrol et "profilMenuButon"
+* "anasayfaTekTikHemenSiparisVerButton" alanına js ile kaydır
+* Element var mı kontrol et "tumKampanyalarButon"
+* Element var mı kontrol et "anasayfaTumPizzalarButon"
 * Element var mı kontrol et "ekstraLezzetlerButon"
-* Element var mı kontrol et "Anasayfa_Ye_Kazan_Kazandıklarım_Button"
-* Element var mı kontrol et "Anasayfa_Hemen_Puanla_Button"
-* Element var mı kontrol et "Anasayfa_Tek_Tik_Hemen_Siparis_Ver_Button"
-* Element var mı kontrol et "Anasayfa_Promosyon_Kodu_Button"
-* Element var mı kontrol et "Anasayfa_Pizza_Takip_Button"
-* Element var mı kontrol et "Anasayfa_Subeye_Ozel_Button"
+* Element var mı kontrol et "anasayfaYeKazanKazandiklarimButton"
+* Element var mı kontrol et "anasayfaHemenPuanlaButton"
+* Element var mı kontrol et "anasayfaTekTikHemenSiparisVerButton"
+* Element var mı kontrol et "anasayfaPromosyonKoduButton"
+* Element var mı kontrol et "anasayfaPizzaTakipButon"
+* Element var mı kontrol et "anasayfaSubeyeOzelButon"
 
 # Üye iken anasayfadaki yazıların geldiği kontrol edilir
 * Element var mı kontrol et "dominosLogo"
-* Element var mı kontrol et "Anasayfa_Tek_Tik_Text"
-* Element var mı kontrol et "Anasayfa_Ye_Kazan_Text"
-* Element var mı kontrol et "Anasayfa_Siparisleri_Puanla_Text"
+* Element var mı kontrol et "anasayfaTekTikText"
+* Element var mı kontrol et "anasayfaYeKazanText"
+* Element var mı kontrol et "anasayfaSiparisleriPuanlaText"
 
 # Üye iken popup bar kontrol edilir
 * Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Buton"
-* Element var mı kontrol et "üyelik_Bilgilerim_Buton"
-* Element var mı kontrol et "Profilim_Popup_Siparislerim_Buton"
-* Element var mı kontrol et "Anasayfa_Pizza_Takip_Button"
+* Element var mı kontrol et "uyelikBilgilerimButon"
+* Element var mı kontrol et "Profilim_Popup_siparislerimButon"
+* Element var mı kontrol et "anasayfaPizzaTakipButon"
 * Element var mı kontrol et "Profilim_Popup_Adreslerim_LinkText"
 * Element var mı kontrol et "Profilim_Popup_Kredi_Kartlarim_LinkText"
 * Element var mı kontrol et "Profilim_Popup_Notlarim_LinkText"
@@ -375,16 +369,16 @@
 * Element var mı kontrol et "Profilim_Popup_Merhaba_Text"
 
 # Üye iken Promosyon Kodu alanı kontrol edilir
-* Elementi bekle ve sonra tıkla "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown"
-* Element var mı kontrol et "Anasayfa_Promosyon_Kodu_Promosyon_Adi_Dropdown"
-* Element var mı kontrol et "Anasayfa_Promosyon_Promosyon_Kodu_Textbox"
+* Elementi bekle ve sonra tıkla "anasayfaPromosyonKoduPromosyonAdiDropdown"
+* Element var mı kontrol et "anasayfaPromosyonKoduPromosyonAdiDropdown"
+* Element var mı kontrol et "anasayfaPromosyonPromosyonKoduTextbox"
 
 # Üye iken Pizza Takip alanı kontrol edilir
-* Element var mı kontrol et "Anasayfa_Pizza_Takip_Textbox"
-* Element var mı kontrol et "Anasayfa_Pizza_Takip_Goruntule_Button"
+* Element var mı kontrol et "anasayfaPizzaTakipTextbox"
+* Element var mı kontrol et "anasayfaPizzaTakipGoruntuleButon"
 
 # Şubeye Özel butonuna tıklanır
-* Elementi bekle ve sonra tıkla "Anasayfa_Subeye_Ozel_Button"
+* Elementi bekle ve sonra tıkla "anasayfaSubeyeOzelButon"
 * "5" saniye bekle
 
 # Anasayfadan gidilen Şubeye Özel sayfasındaki elementler kontrol edilir
@@ -457,17 +451,17 @@
 * "sayfaBasligi" elementi "Ayazağa" değerini içeriyor mu kontrol et
 
 # Anasayfaya gidilir
-* Elementi bekle ve sonra tıkla "Anasayfa_Button"
+* Elementi bekle ve sonra tıkla "anasayfaButon"
 
 # Adrese Teslim / Secili Adres kontrol edilir
 * "2" saniye bekle
 * Element var mı kontrol et "profilimPopupAdreslerimIlIlceDüzenleButon"
 
 # Anasayfadaki adres teslim butonuna tıklanır
-* Elementi bekle ve sonra tıkla "Anasayfa_Adrese_Teslim_Button"
+* Elementi bekle ve sonra tıkla "anasayfaServisTipiDegisimibuton"
 
 # Anasayfadaki gel al butonuna tıklanır
-* Elementi bekle ve sonra tıkla "Anasayfa_Adrese_Teslim_Button"
+* Elementi bekle ve sonra tıkla "anasayfaServisTipiDegisimibuton"
 
 # Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * "3" saniye bekle
@@ -529,43 +523,43 @@
 
 # Servis tipinin Gel Al olduğu kontrol edilir
 * "3" saniye bekle
-* Element var mı kontrol et "GelAlTextKontrol"
+* Element var mı kontrol et "gelAlTextKontrol"
 
 # Servis tipinin Adrese Teslim olduğu kontrol edilir
 * "3" saniye bekle
 * Element var mı kontrol et "AdreseTeslimTextKontrol"
 
 # Adrese teslim butonuna tıklanamadığı görülür
-* Elementinin "Anasayfa_Adrese_Teslim_Button" tıklanabilirliğini kontrol et
+* Elementinin "anasayfaServisTipiDegisimibuton" tıklanabilirliğini kontrol et
 
 # Gel al butonuna tıklanamadığı görülür
-* Elementinin "Anasayfa_Adrese_Teslim_Button" tıklanabilirliğini kontrol et
+* Elementinin "anasayfaServisTipiDegisimibuton" tıklanabilirliğini kontrol et
 
 # Anasayfadaki dominos logosuna tıklanır
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "AnasayfaLogo"
+* Elementi bekle ve sonra tıkla "anasayfaLogo"
 
 # Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
-* Element var mı kontrol et "teslimatdegisecekuyarisi"
+* Element var mı kontrol et "teslimatTipiDegisecekUyarisi"
 
 # Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
-* Elementi bekle ve sonra tıkla "teslimattipidegistirürünSilinirEvet"
+* Elementi bekle ve sonra tıkla "teslimatTipiDegistirUrunSilinirEvetButon"
 
 # Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
-* Element var mı kontrol et "IstanbulAdalarBurgazadatextKontrol"
+* Element var mı kontrol et "istanbulAdalarBurgazadaTextKontrol"
 
 # Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Element var mı kontrol et "SipariseKapaliSubesitextKontrol"
+* Element var mı kontrol et "sipariseKapaliSubesiTextKontrol"
 
 # Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Element var mı kontrol et "subeTestPulseKontrol"
 
 # Adrese teslim adres düzenleye tıklanır
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonuDüzenle"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDüzenle"
 
 # Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
 * "6" saniye bekle
-* Element var mı kontrol et "IstanbulSariyerAyazagatextKontrol"
+* Element var mı kontrol et "istanbulSariyerAyazagaTextKontrol"
 
 # Şubenin Ayazağa Şubesi olduğu kontrol edilir
 * "3" saniye bekle
@@ -599,13 +593,13 @@
 
 # Kalem ikonuna tıklanır
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "AdresEklemeKalemIkonu"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 
 # Adıyaman için ilçenin gelmediği kontrol edilir
 * Element yok mu kontrol et "ilceDropdown"
 
 # Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
-* Element var mı kontrol et "AdıyamantextKontrol"
+* Element var mı kontrol et "adiyamanTextKontrol"
 
 # Anasayfadaki şubenin Adıyaman Şubesi olduğu kontrol edilir
 * "3" saniye bekle

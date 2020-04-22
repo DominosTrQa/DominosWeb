@@ -2,7 +2,7 @@ AnaSayfa
 =====================
 
      
-Anasayfa Kontrolü - Üye Değilken - Butonların kontrolü
+Anasayfa Kontrolü - Üye Değilken - Butonların Kontrolü
 ------------------------------------------------------------
 tags:anasayfa_uyeDegilkenButonlarinkontrolu
 
@@ -10,7 +10,7 @@ tags:anasayfa_uyeDegilkenButonlarinkontrolu
 * Üye değilken anasayfadaki butonların geldiği kontrol edilir
 
 
-Anasayfa Kontrolü - Üye Değilken - Yazıların kontrolü
+Anasayfa Kontrolü - Üye Değilken - Yazıların Kontrolü
 ----------------------------------------------
 tags:anasayfa_UyeDegilkenyazilarinKontrolu
 
@@ -18,7 +18,7 @@ tags:anasayfa_UyeDegilkenyazilarinKontrolu
 * Üye değilken anasayfadaki yazıların geldiği kontrol edilir
 
 
-Anasayfa Kontrolü - Üye Değilken  -Promosyon Kodu açılır popup kontrolü
+Anasayfa Kontrolü - Üye Değilken - Promosyon Kodu Açılır Popup Kontrolü
 ------------------------------------------------------------------------------
 tags:anasayfa_uyeDegilkenPromosyonKoduAcilirPopupKontrolu
 
@@ -27,7 +27,7 @@ tags:anasayfa_uyeDegilkenPromosyonKoduAcilirPopupKontrolu
 * Üye değilken Promosyon Kodu popup kontrol edilir
 
 
-Anasayfa Kontrolü - Üye Değilken - Pizza Takip açılır popup kontrolü
+Anasayfa Kontrolü - Üye Değilken - Pizza Takip açılır Popup Kontrolü
 --------------------------------------------------------------------------
 tags:anasayfa_uyeDegilkenPizzaTakipAcilirPopupKontrolu
 
@@ -36,7 +36,7 @@ tags:anasayfa_uyeDegilkenPizzaTakipAcilirPopupKontrolu
 * Üye değilken Pizza takip popup elementleri kontrol edilir
 
 
-Anasayfa Kontrolü - Üye - Butonların kontrolü
+Anasayfa Kontrolü - Üye - Butonların Kontrolü
 -----------------------------------------------------
 tags:anasayfa_uyeButonlarinKontrolu
 
@@ -44,7 +44,7 @@ tags:anasayfa_uyeButonlarinKontrolu
 * Üye iken anasayfadaki butonların geldiği kontrol edilir
 
 
-Anasayfa Kontrolü - Üye -  Yazıların kontrolü
+Anasayfa Kontrolü - Üye - Yazıların Kontrolü
 -----------------------------------------------------
 tags:anasayfa_uyeYazilarinKontrolu
 
@@ -52,7 +52,7 @@ tags:anasayfa_uyeYazilarinKontrolu
 * Üye iken anasayfadaki yazıların geldiği kontrol edilir
 
 
-Anasayfa Kontrolü - Üye - Popup Barın kontrolü
+Anasayfa Kontrolü - Üye - Popup Barın Kontrolü
 ----------------------------------------------------
 tags:anasayfa_uyePopupBarinKontrolu
 
@@ -60,7 +60,7 @@ tags:anasayfa_uyePopupBarinKontrolu
 * Üye iken popup bar kontrol edilir
 
 
-Anasayfa Kontrolü - Üye -  Promosyon Kodu açılır popup kontrolü
+Anasayfa Kontrolü - Üye -  Promosyon Kodu Açılır Popup Kontrolü
 --------------------------------------------------------------------
 tags:anasayfa_uyePromosyonAcilirPopupKontrolu
 
@@ -69,7 +69,7 @@ tags:anasayfa_uyePromosyonAcilirPopupKontrolu
 * Üye iken Promosyon Kodu alanı kontrol edilir
 
 
-Anasayfa Kontrolü - Üye - Pizza Takip açılır popup kontrolü
+Anasayfa Kontrolü - Üye - Pizza Takip Açılır Popup Kontrolü
 ------------------------------------------------------------------
 tags:anasayfa_uyePizzaTakipAcilirPopupKontrolu
 

@@ -175,12 +175,12 @@
     "type": "xpath"
   },
   {
-    "key": "AdresEklemeKalemIkonuDüzenle",
+    "key": "adresEklemeKalemIkonuDüzenle",
     "value":"DPE_TR_ADDRESSEDIT_BUTTON_EDIT",
     "type": "id"
   },
   {
-    "key": "AdresEklemeKalemIkonuDüzenleHaritadanEkle",
+    "key": "adresEklemeKalemIkonuDüzenleHaritadanEkle",
     "value":"DPE_TR_NEARSTORELISTDELIVERY_BUTTON_LOCATIONSHARE",
     "type": "id"
   },
