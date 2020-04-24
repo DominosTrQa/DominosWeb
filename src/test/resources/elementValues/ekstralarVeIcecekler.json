@@ -1,41 +1,41 @@
 [
   {
-    "key": "extra_Lezzetler_Tab_Sol_Ok_Buton",
+    "key": "extraLezzetlerTabSolOkButon",
     "value": "DPE_TR_SIDEPRODUCT_TABLEFT",
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Sag_Ok_Buton",
+    "key": "extraLezzetlerTabSagOkButon",
     "value": "DPE_TR_SIDEPRODUCT_TABRIGHT",
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Dürümler_Buton",
+    "key": "extraLezzetlerTabDurumlerButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB0",
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Icecekler_Buton",
+    "key": "extraLezzetlerTabIceceklerButon",
     "value": "//span[contains(text(),'İçecekler')]",
     "type": "xpath"
   },
   {
-    "key": "extra_Lezzetler_Tab_Ekmek_Arasi_Buton",
+    "key": "extraLezzetlerTabEkmekArasiButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB2",
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Tavuklar_Buton",
+    "key": "extraLezzetlerTabTavuklarButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB3",
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Ekmekler_Buton",
+    "key": "extraLezzetlerTabEkmeklerButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB4",
     "type": "id"
   },
   {
-    "key": "extra_Lezzetler_Tab_Tatlilar_Buton",
+    "key": "extraLezzetlerTabTatlilarButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB5",
     "type": "id"
   },

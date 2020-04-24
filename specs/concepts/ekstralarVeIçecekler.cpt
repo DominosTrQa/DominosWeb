@@ -74,32 +74,32 @@
 * "2" saniye bekle
 
 # İçecekler tabına tıklanır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabIceceklerButon"
 
 # İçecekler tabına tıklanır (Stg)
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sag_Ok_Buton"
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sag_Ok_Buton"
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sag_Ok_Buton"
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sag_Ok_Buton"
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sag_Ok_Buton"
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sag_Ok_Buton"
- Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Icecekler_Buton_Stg"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSagOkButon"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSagOkButon"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSagOkButon"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSagOkButon"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSagOkButon"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSagOkButon"
+ Elementi bekle ve sonra tıkla "extraLezzetlerTabIceceklerButon_Stg"
 
 # Dürümler tabına tıklanır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Dürümler_Buton"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabDurumlerButon"
 
 # Ekmek Arası tabına tıklanır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmek_Arasi_Buton"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabEkmekArasiButon"
 
 # Tavuklar tabına tıklanır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tavuklar_Buton"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabTavuklarButon"
 
 # Tatlılar tabına tıklanır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Tatlilar_Buton"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabTatlilarButon"
 * "2" saniye bekle
 
 # Ekmekler tabına tıklanır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Ekmekler_Buton"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabEkmeklerButon"
 
 # Salatalar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Salatalar_Buton"
@@ -125,8 +125,8 @@
 * Element var mı kontrol et "SepeteEkleCocaColaControlStg"
 
 # Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sag_Ok_Buton"
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Sol_Ok_Buton"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSagOkButon"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSolOkButon"
 
 # Ekstra lezzetler sayfasındayken üst barlar arası geçiş kontrolü yapılır
 * Elementi bekle ve sonra tıkla "ustTabTumKampanyalar"

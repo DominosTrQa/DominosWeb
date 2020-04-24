@@ -977,7 +977,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
-* Seçili ilk adrese tıklanır
+* Adreslerim kısmından Sarıyer adresi seçilir
 * Seçili adres ile devam edilir
 * Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
 
@@ -2413,7 +2413,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
  tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -2573,8 +2573,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
  tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
+* "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır

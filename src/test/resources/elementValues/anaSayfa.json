@@ -533,6 +533,11 @@
     "key": "subeTestPulseKontrol",
     "value":"//span[contains(text(),'Test Pulse Şubesi')]",
     "type": "xpath"
+  },
+  {
+    "key": "puanPopupKapatButon",
+    "value":"close-button-1502352480979",
+    "type": "id"
   }
 
 ]
