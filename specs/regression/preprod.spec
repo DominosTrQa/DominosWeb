@@ -2574,6 +2574,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
@@ -2848,7 +2849,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 --------------------------------------------------------
  tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
