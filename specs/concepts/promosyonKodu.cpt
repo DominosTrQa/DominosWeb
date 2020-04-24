@@ -2,27 +2,27 @@
 
 
 # Promosyon koduna tıklanır
-* Elementi bekle ve sonra tıkla "promosyonkodu"
+* Elementi bekle ve sonra tıkla "promosyonKodu"
 
 # Promosyon adına tıklanır
-* Elementi bekle ve sonra tıkla "promosyonAdı"
+* Elementi bekle ve sonra tıkla "promosyonAdi"
 
 # Promosyon adı seçilir
-* Elementi bekle ve sonra tıkla "promosyonAdıGnctrkcll"
+* Elementi bekle ve sonra tıkla "promosyonAdiGnctrkcll"
 
 # Kampanya kodu girilir
-* Elementi bekle ve sonra tıkla "kampanyakodu"
-* "WATSONS" textini "kampanyakodu" elemente yaz
+* Elementi bekle ve sonra tıkla "kampanyaKodu"
+* "WATSONS" textini "kampanyaKodu" elemente yaz
 
 # Promosyon kullanılır
-* Elementi bekle ve sonra tıkla "promosyonkullan"
+* Elementi bekle ve sonra tıkla "promosyonKullan"
 
 # Promosyon kodu alanına kaydırılır
-* "kampanyakodu" alanına kaydır
+* "kampanyaKodu" alanına kaydır
 
 # Yanlış kampanya kodu girilir
-* Elementi bekle ve sonra tıkla "kampanyakodu"
-* "WATSONSS" textini "kampanyakodu" elemente yaz
+* Elementi bekle ve sonra tıkla "kampanyaKodu"
+* "WATSONSS" textini "kampanyaKodu" elemente yaz
 
 # Girdiğiniz kampanya kodu geçersiz yazısının geldiği kontrol edilir
-* Element var mı kontrol et "yanliskampanyauyari"
+* Element var mı kontrol et "yanlisKampanyaUyari"

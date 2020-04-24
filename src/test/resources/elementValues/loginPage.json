@@ -20,11 +20,6 @@
     "type": "id"
   },
   {
-    "key": "girisYapButon2",
-    "value":".bvaIHo.sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO",
-    "type": "css"
-  },
-  {
     "key": "epostaVeyaSifreYanlisText",
     "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk']",
     "type": "xpath"
@@ -35,12 +30,12 @@
     "type": "id"
   },
   {
-    "key": "parolamıUnuttumButton",
+    "key": "parolamiUnuttumButon",
     "value":"DPE_TR_SIGNIN_BUTTON_FORGOTPASSWORD",
     "type": "id"
   },
   {
-    "key": "parolamıUnuttumEmailTextbox",
+    "key": "parolamiUnuttumEmailTextbox",
     "value":"DPE_TR_SIGNIN_INPUT_FORGOTEMAIL",
     "type": "id"
   },
@@ -170,12 +165,7 @@
     "type": "xpath"
   },
   {
-    "key": "uyeOlUyelikSozlesmesiBosBirakilamazUyariText",
-    "value":"(//div[contains(text(),'İnternet Sitesi Üyelik Sözleşmesi boş bırakılamaz')])",
-    "type": "xpath"
-  },
-  {
-    "key": "AdreslerimButonunaTıklanır",
+    "key": "adreslerimButonunaTiklanir",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Adreslerim')]",
     "type": "xpath"
   },
@@ -195,17 +185,17 @@
     "type": "id"
   },
   {
-    "key": "UyeOlfacebookIleGirisButon",
+    "key": "uyeOlFacebookIleGirisButon",
     "value":"DPE_TR_SIGNUP_BUTTON_FACEBOOKSIGNUP",
     "type": "id"
   },
   {
-    "key": "UyeOlgoogleIleGirisButon",
+    "key": "uyeOlGoogleIleGirisButon",
     "value":"DPE_TR_SIGNUP_BUTTON_GOOGLESIGNUP",
     "type": "id"
   },
   {
-    "key": "uyeOlmadandevamedilirbuton",
+    "key": "acilanPopupUyeOlmadanDevamEtButon",
     "value":"//*[@class='guestModal__Button-sc-12wwd2w-6 heKcHP sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO wpGps']",
     "type": "xpath"
   }

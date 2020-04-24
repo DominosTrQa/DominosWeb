@@ -1,62 +1,62 @@
 
 # Ye Kazan sayfası kontrol edilir
-* Element var mı kontrol et "Ye_Kazan_Dominos_Ye_Kazan_Text"
+* Element var mı kontrol et "yeKazanDominosYeKazanText"
 
 # Ye Kazan sayfası üyelik koşulları kontrol edilir
-* Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Linktext"
-* Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Yedikce_Kazan_Text"
-* Elementi bekle ve sonra tıkla "Ye_Kazan_Uyelik_Kosullari_Close_Button"
+* Elementi bekle ve sonra tıkla "profilimPopupYeKazanUyelikKosullariLinktext"
+* Element var mı kontrol et "profilimPopupYeKazanUyelikKosullariYedikceKazanText"
+* Elementi bekle ve sonra tıkla "yeKazanUyelikKosullariKapatButon"
 
 # Ye Kazan Onay Checkbox  kontrol edilir
-* Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
+* Element var mı kontrol et "profilimPopupYeKazanSadakatProgramiCheckbox"
 
 # Ye Kazana katıl butonu kontrol edilir
-* Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Ye_Kazana_Katıl_Buton"
+* Element var mı kontrol et "profilimPopupYeKazanyeKazanaKatilButon"
 
 # Ye Kazan SMS Checkbox kontrol edilir
-* Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
-* Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Sms_Textbox"
+* Elementi bekle ve sonra tıkla "profilimPopupYeKazanSadakatProgramiCheckbox"
+* Element var mı kontrol et "profilimPopupUyelikBilgilerimSmsTextbox"
 
 # Ye Kazan E-Posta Checkbox kontrol edilir
-* Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
-* Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Ye_Kazan_Eposta_Checkbox"
+* Elementi bekle ve sonra tıkla "profilimPopupYeKazanSadakatProgramiCheckbox"
+* Element var mı kontrol et "profilimPopupUyelikBilgilerimYeKazanEpostaCheckbox"
 
 # Ye Kazan Telefon Checkbox kontrol edilir
-* Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
-* Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Ye_Kazan_Telefon_Checkbox"
+* Elementi bekle ve sonra tıkla "profilimPopupYeKazanSadakatProgramiCheckbox"
+* Element var mı kontrol et "profilimPopupUyelikBilgilerimYeKazanTelefonCheckbox"
 
 # Ye Kazan Sıkça Sorulan Sorular kontrol edilir
-* Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Sıkca_Sorulan_Sorular_Text"
+* Element var mı kontrol et "profilimPopupYeKazanSikcaSorulanSorularText"
 
 # Ye Kazan Sıkça Sorulan Sorulardan biri kontrol edilir
-* Element var mı kontrol et "Ye_Kazan_Sikca_Sorulan_Sorulardan_Biri_Linktext"
+* Element var mı kontrol et "yeKazanSikcaSorulanSorulardanBiriLinktext"
 
 # Ye kazan uyarı butonundan çıkılır
 * "5" saniye bekle
 * "puanPopupKapatButon" li elementi bul ve varsa dokun
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "YeKazanuyariCikisButonu"
+* Elementi bekle ve sonra tıkla "yeKazanUyariCikisButonu"
 
 # Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ye_Kazan_Checkbox"
 
 # Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
-* Element var mı kontrol et "YeKazaniletisimKanaliText"
+* Element var mı kontrol et "yeKazanIletisimKanaliText"
 
 # Ye kazan için telefon, sms, e-mail seçilir ve kaydedilir
-* Elementi bekle ve sonra tıkla "YeKazanSmssecilir"
-* Elementi bekle ve sonra tıkla "YeKazanEmailsecilir"
-* Elementi bekle ve sonra tıkla "YeKazanTelefonsecilir"
+* Elementi bekle ve sonra tıkla "yeKazanSmsSecimi"
+* Elementi bekle ve sonra tıkla "yeKazanEmailSecimi"
+* Elementi bekle ve sonra tıkla "yeKazanTelefonSecimi"
 * Ye kazan checkboxı için değişikler kaydet butonuna basılır
 
 # Ye kazan checkboxı için değişikler kaydet butonuna basılır
-* Elementi bekle ve sonra tıkla "YeKazandegisiklikleriKaydetbuton"
+* Elementi bekle ve sonra tıkla "yeKazanDegisiklikleriKaydetbuton"
 
 # KVKK checkboxı için değişikleri kaydet butonuna basılır
-* Elementi bekle ve sonra tıkla "YeKazandegisiklikleriKaydetbuton"
+* Elementi bekle ve sonra tıkla "yeKazanDegisiklikleriKaydetbuton"
 
 # Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
-* Element var mı kontrol et "YeKazanbedavaPizzaText"
+* Element var mı kontrol et "yeKazanBedavaPizzaText"
 
 # Ye kazan ayrılmaktan vazgeç butonuna tıklanılır
 * Elementi bekle ve sonra tıkla "yekazanAyrilmaktanvazgec"
@@ -65,36 +65,36 @@
 * Elementi bekle ve sonra tıkla "yekazanAyrilmayionayliyorum"
 
 # Bedava pizza kazanmana 5 pizza kaldı yazısının gelmediği kontrol edilir
-* Element yok mu kontrol et "YeKazanbedavaPizzaText"
+* Element yok mu kontrol et "yeKazanBedavaPizzaText"
 
 # Sana özel hediyeler kazanmak için ye-kazana katıl butonuna tıklanır
-* Elementi bekle ve sonra tıkla "sanaozelhediyeIcinyekazanbuton"
+* Elementi bekle ve sonra tıkla "sanaOzelHediyeIcinYeKazanButon"
 
 # Sana özel hediyeler kazanmak için ye-kazana katıldıktan sonra ye-kazan checkboxına tıklanır
-* Elementi bekle ve sonra tıkla "sanaozelhediyeIcinyekazancheckBox"
+* Elementi bekle ve sonra tıkla "sanaOzelHediyeIcinYeKazanCheckbox"
 
 # Ye kazandan ayrıldıktan sonra ye-kazan checkbox geldiği kontrol edilir
-* Element var mı kontrol et "sanaozelhediyeIcinyekazancheckBox"
+* Element var mı kontrol et "sanaOzelHediyeIcinYeKazanCheckbox"
 
 # Ye kazana katıl butonuna tıklanır
-* Elementi bekle ve sonra tıkla "yekazanakatilButon"
+* Elementi bekle ve sonra tıkla "yeKazanaKatilButon"
 
 # Ye kazan üyelik koşulları kabul etmek için telefon, sms, e-mail seçilir
-* Elementi bekle ve sonra tıkla "yekazanuyelikicinSms"
-* Elementi bekle ve sonra tıkla "yekazanuyelikicinTelefon"
-* Elementi bekle ve sonra tıkla "yekazanuyelikicinEmail"
+* Elementi bekle ve sonra tıkla "yeKazanUyelikIcinSms"
+* Elementi bekle ve sonra tıkla "yeKazanUyelikIcinTelefon"
+* Elementi bekle ve sonra tıkla "yeKazanUyelikIcinEmail"
 
 # Ye kazandan ayrıl butonuna tıklanır
 * Elementi bekle ve sonra tıkla "yekazandanAyrilbuton"
 
 # Hediye pizza kazanmana 5 dilim kaldı yazısının olduğu görülür
-* Element var mı kontrol et "hediyepizzakazanTextkontrol"
+* Element var mı kontrol et "hediyePizzaKazanTextKontrol"
 
 # Ye kazana üye olan kullanıcı için profilimden ye kazan sayfasına gidilir
 * Elementi bekle ve sonra tıkla "profilimYekazanagidilir"
 
 # Tercih ettiğiniz iletişim kanalını seçiniz yazısının geldiği görülür
-* Element var mı kontrol et "tercihettginiziletisimkanaliniSecinText"
+* Element var mı kontrol et "tercihEttiginizIletisimKanaliniSecinText"
 
 # Vazgeç butonuna tıklanır
 * Elementi bekle ve sonra tıkla "vazgecButonu"

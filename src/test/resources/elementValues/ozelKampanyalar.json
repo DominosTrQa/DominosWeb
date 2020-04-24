@@ -1,31 +1,31 @@
 [
   {
-    "key": "3Al1ödekampanyatext",
+    "key": "3Al1OdeKampanyaText",
     "value":"//div[contains(text(),'3 Al 1 Öde')]",
     "type": "xpath"
   },
   {
-    "key": "italianopizza",
+    "key": "italianoPizza",
     "value":"(//div[contains(text(),'Italiano')])[3]",
     "type": "xpath"
   },
   {
-    "key": "barbeküpizza",
+    "key": "barbekuPizza",
     "value":"//div[contains(text(),'Barbekü Soslu Sucuklu')]",
     "type": "xpath"
   },
   {
-    "key": "sucukseverpizza",
+    "key": "sucukseverPizza",
     "value":"(//*[contains(text(),'Sucuksever')])[2]",
     "type": "xpath"
   },
   {
-    "key": "ortaboybarbeküpizza",
+    "key": "ortaboyBarbekuPizza",
     "value":"//div[contains(text(),'Orta Boy Barbekü Soslu Sucuklu Pizza')]",
     "type": "xpath"
   },
   {
-    "key": "ortaboytavuklupizza",
+    "key": "ortaboyTavukluPizza",
     "value":"//*[contains(text(),'Orta Boy Ballı Hardal Soslu Tavuklu Pizza')]",
     "type": "xpath"
   },
@@ -35,42 +35,42 @@
     "type": "xpath"
   },
   {
-    "key": "sosyalpizzatext",
+    "key": "sosyalPizzaText",
     "value":"//h4[@class='productCard__Title-sc-1qfpiga-2 cvCAtl'][contains(text(),'Sosyal')]",
     "type": "xpath"
   },
   {
-  "key": "acılıistiyorum",
+  "key": "aciliIstiyorumCheckbox",
   "value":"//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI']",
   "type": "xpath"
   },
   {
-    "key": "sucuktext",
+    "key": "sucukText",
     "value":"//button[@class='selectbutton__Container-sc-7t8tj6-0 jUfaNk'][contains(text(),'Sucuk')]",
     "type": "xpath"
   },
   {
-    "key": "misirtext",
+    "key": "misirText",
     "value":"//button[@class='selectbutton__Container-sc-7t8tj6-0 jUfaNk'][contains(text(),'Misir')]",
     "type": "xpath"
   },
   {
-    "key": "domatestext",
+    "key": "domatesText",
     "value":"//button[@class='selectbutton__Container-sc-7t8tj6-0 jUfaNk'][contains(text(),'Domates')]",
     "type": "xpath"
   },
   {
-    "key": "domisoslukampanyalar",
+    "key": "domisosluKampanyalar",
     "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Domisos')]",
     "type": "xpath"
   },
   {
-    "key": "subeyeözelkampanyalar",
+    "key": "subeyeOzelKampanyalar",
     "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Şubeye Özel Fırsatlar')]",
     "type": "xpath"
   },
   {
-    "key": "gelaldomisoslukampanyalar",
+    "key": "gelAlDomisosluKampanyalar",
     "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Gel Al Domisos')]",
     "type": "xpath"
   }

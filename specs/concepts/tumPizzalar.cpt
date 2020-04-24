@@ -25,7 +25,7 @@
 * Elementi bekle ve sonra tıkla "pizzalarIlkButon"
 
 # Pizza kategorisindeki ilk pizza seçilir
-* Elementi bekle ve sonra tıkla "tumPizzalarIlkKategoriIlkPizza"
+* Elementi bekle ve sonra tıkla "tumPizzalarIlkKategoriilkPizza"
 
 # Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * "2" saniye bekle
@@ -70,13 +70,13 @@
 * Kenar tipi seçilir
 
 # Pizza boyutu seçilir
-* Elementi bekle ve sonra tıkla "ilkboyut"
+* Elementi bekle ve sonra tıkla "ilkBoyut"
 
 # Hamur tipi seçilir
-* Elementi bekle ve sonra tıkla "ilkhamurtipi"
+* Elementi bekle ve sonra tıkla "ilkHamurTipi"
 
 # Kenar tipi seçilir
-* Elementi bekle ve sonra tıkla "ilkkenartipi"
+* Elementi bekle ve sonra tıkla "ilkKenarTipi"
 
 # Header tabından tüm pizzalara tıklanır
 * Elementi bekle ve sonra tıkla "tumPizzalarHeader"

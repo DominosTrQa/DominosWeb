@@ -35,7 +35,7 @@ tags:kayitOl_sadeceMesafeliSatisSozlesmesiIsaretlenir
 
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 
 
 KayıtOl - SadeceYeKazanSözlesmesiIsaretlenmez
@@ -46,7 +46,7 @@ tags:kayitOl_sadeceYeKazanSozlesmesiIsaretlenmez
 * Mesafeli satış sözleşmesi işaretlenir
 * Açık rıza metni KVKK işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiEpostaCheckbox"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 
 
 KayıtOl - SadeceKVKKSözlesmesiIsaretlenmez
@@ -57,7 +57,7 @@ tags:kayitOl_sadeceKVKKSozlesmesiIsaretlenmez
 * Mesafeli satış sözleşmesi işaretlenir
 * Ye kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox2"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 
 
 KayıtOl - Sepete gidilerek üye olma
@@ -82,7 +82,7 @@ tags:kayitOl_sepeteGidilerek_Uyeolma
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiEpostaCheckbox"
 * Ye kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox2"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 
 
 KayıtOl - Sepete gidilerek üye olma(KVKK sözleşmesi kabul edilmez)
@@ -105,7 +105,7 @@ tags:kayitOl_sepeteGidilerek_uyeolma(KVKKsozlesmesikabuledilmez)
 * Mesafeli satış sözleşmesi işaretlenir
 * Ye kazan checkbox işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiyeKazanEpostaCheckbox2"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 
 
 KayıtOl - Sepete gidilerek üye olma(Sadece mesafeli satış sözleşmesi işaretlenir)
@@ -126,7 +126,7 @@ tags:kayitOl_sepeteGidilerek_uyeolma(SadecemesafelisatissozlesmesiIsaretlenir)
 * Üye ol butonuna tıklanır(sepet üzerinden)
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi işaretlenir
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 
 
 KayıtOl - Sepete gidilerek üye olma(Sadece ye kazan sözleşmesi işaretlenmez)
@@ -149,4 +149,4 @@ tags:kayitOl_sepeteGidilerek_uyeolma(SadeceyekazansozlesmesiIsaretlenmez)
 * Mesafeli satış sözleşmesi işaretlenir
 * Açık rıza metni KVKK işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiEpostaCheckbox"
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"

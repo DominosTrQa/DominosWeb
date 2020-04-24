@@ -50,7 +50,7 @@
     "type": "xpath"
   },
   {
-    "key": "siparisSayfasıseciliAdresIleDevamEtButon",
+    "key": "siparisSayfasiSeciliAdresIleDevamEtButon",
     "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_SELECTADDRESS",
     "type": "id"
   },
@@ -95,7 +95,7 @@
     "type": "xpath"
   },
   {
-    "key": "OdemeyiTamamla",
+    "key": "odemeyiTamamla",
     "value":"DPE_TR_ORDERCONFIRM_BUTTON_ORDER-D",
     "type": "id"
   },
@@ -145,7 +145,7 @@
     "type": "xpath"
   },
   {
-    "key": "gönderimzamaniDahasonra",
+    "key": "gonderimZamaniDahaSonra",
     "value":"//*[@class='orderConfirm__Column-x0pcid-1 tZydb column__NewColumn-sc-1s5q7bb-0 hYTUQQ']",
     "type": "xpath"
   },
@@ -160,7 +160,7 @@
     "type": "xpath"
   },
   {
-    "key": "onlineödemeyenikartekleme",
+    "key": "onlineOdemeYeniKartEkleme",
     "value":"DPE_TR_PAYMENTOPTIONS_BUTTON_ANOTHERCARD",
     "type": "id"
   },
@@ -170,32 +170,32 @@
     "type": "id"
   },
   {
-    "key": "kartbilgisiAdSoyad",
+    "key": "kartBilgisiAdSoyad",
     "value":"DPE_TR_PAYMENTOPTIONS_INPUT_NAMESURNAME",
     "type": "id"
   },
   {
-    "key": "kartbilgisiCVC",
+    "key": "kartBilgisiCVC",
     "value":"DPE_TR_PAYMENTOPTIONS_INPUT_CVC",
     "type": "id"
   },
   {
-    "key": "kartbilgisiAY",
+    "key": "kartBilgisiAy",
     "value":"DPE_TR_PAYMENTOPTIONS_DROPDOWN_CARDMONTH",
     "type": "id"
   },
   {
-    "key": "kartbilgisiAYselect",
+    "key": "kartBilgisiAyselect",
     "value":"(//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[7]",
     "type": "xpath"
   },
   {
-    "key": "kartbilgisiYIL",
+    "key": "kartBilgisiYil",
     "value":"DPE_TR_PAYMENTOPTIONS_DROPDOWN_CARDYEAR",
     "type": "id"
   },
   {
-    "key": "kartbilgisiYILselect",
+    "key": "kartBilgisiYilselect",
     "value":"//div[text()='2022']",
     "type": "xpath"
   },
@@ -225,102 +225,102 @@
     "type": "xpath"
   },
   {
-    "key": "yekazanpopupüyeolButon",
+    "key": "yekazanPopupUyeOlButon",
     "value":"//a[@class='guestModal__Button-sc-12wwd2w-6 heKcHP sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO leUiDi'][contains(text(),'Üye Ol')]",
     "type": "xpath"
   },
   {
-    "key": "yekazanpopupgirisyap",
+    "key": "yekazanPopupGirisYap",
     "value":"//a[@class='guestModal__Button-sc-12wwd2w-6 heKcHP sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo'][contains(text(),'Giriş Yap')]",
     "type": "xpath"
   },
   {
-    "key": "kredikartıguest",
+    "key": "krediKartiGuest",
     "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST2",
     "type": "id"
   },
   {
-    "key": "smartSodexoKartguest",
+    "key": "smartSodexoKartGuest",
     "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST3",
     "type": "id"
   },
   {
-    "key": "sodexoYemekCekiguest",
+    "key": "sodexoYemekCekiGuest",
     "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST4",
     "type": "id"
   },
   {
-    "key": "smartTicketKartguest",
+    "key": "smartTicketKartGuest",
     "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST5",
     "type": "id"
   },
   {
-    "key": "smartTicketYemekÇekiguest",
+    "key": "smartTicketYemekCekiGuest",
     "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST6",
     "type": "id"
   },
   {
-    "key": "multinetguest",
+    "key": "multinetGuest",
     "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST7",
     "type": "id"
   },
   {
-    "key": "setCardguest",
+    "key": "setCardGuest",
     "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST8",
     "type": "id"
   },
   {
-    "key": "payeKartguest",
+    "key": "payeKartGuest",
     "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST22",
     "type": "id"
   },
   {
-    "key": "onlineOdemeguest",
+    "key": "onlineOdemeGuest",
     "value":"DPE_TR_PAYMENTCARDTYPE_BUTTON_TYPEG1",
     "type": "id"
   },
   {
-    "key": "nakitOdemeKontrolguest",
+    "key": "nakitOdemeKontrolGuest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Nakit')]",
     "type": "xpath"
   },
   {
-    "key": "krediKartiKontrolguest",
+    "key": "krediKartiKontrolGuest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Kredi Kartı')]",
     "type": "xpath"
   },
   {
-    "key": "smartsodexokartkontrolguest",
+    "key": "smartsodexokartKontrolGuest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Smart Sodexho Kart')]",
     "type": "xpath"
   },
   {
-    "key": "sodexhoyemekcekikontrolguest",
+    "key": "sodexhoyemekcekiKontrolGuest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Sodexho Yemek Çeki')]",
     "type": "xpath"
   },
   {
-    "key": "smartticketkartkontrolguest",
+    "key": "smartticketkartKontrolGuest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'SmartTicket Kart')]",
     "type": "xpath"
   },
   {
-    "key": "smartticketyemekcekikontrolguest",
+    "key": "smartticketyemekcekiKontrolGuest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'SmartTicket Yemek Çeki')]",
     "type": "xpath"
   },
   {
-    "key": "multinetkontrolguest",
+    "key": "multinetKontrolGuest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Multinet')]",
     "type": "xpath"
   },
   {
-    "key": "setcardkontrolguest",
+    "key": "setcardKontrolGuest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'SetCard')]",
     "type": "xpath"
   },
   {
-    "key": "payekartkontrolguest",
+    "key": "payekartKontrolGuest",
     "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Paye Kart')]",
     "type": "xpath"
   },
@@ -440,7 +440,7 @@
     "type": "xpath"
   },
   {
-    "key": "carpıisareti",
+    "key": "carpiIsareti",
     "value":"DPE_TR_MODALDIALOG_BUTTON_CLOSE",
     "type": "id"
   },
@@ -465,12 +465,12 @@
     "type": "xpath"
   },
   {
-    "key": "covidankettencikilir",
+    "key": "covidAnkettenCikilir",
     "value":"close-button-1502352480979",
     "type": "id"
   },
   {
-    "key": "temassizTeslimatKontrolguest",
+    "key": "temassizTeslimatKontrolGuest",
     "value":"//p[@class='styled__InfoDesc-td9pux-8 ehnKxs'][contains(text(),' Temassız Teslimat')]",
     "type": "xpath"
   },
@@ -480,13 +480,8 @@
     "type": "xpath"
   },
   {
-    "key": "notEkleComboboxTestNotBasligi",
+    "key": "notEkleComboboxTestnotBasligi",
     "value":"(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "varolannotSecilir",
-    "value":"//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv']",
     "type": "xpath"
   },
   {
@@ -510,7 +505,7 @@
     "type": "id"
   },
   {
-    "key": "onlineödemedevamdanSonraKontrol",
+    "key": "onlineOdemeDevamdanSonraKontrol",
     "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk'][contains(text(),'Online ödeme seçiminde kayıtlı ')]",
     "type": "xpath"
   },
@@ -520,7 +515,7 @@
     "type": "xpath"
   },
   {
-    "key": "mesafelisatisSozlesmesibutonGuest",
+    "key": "mesafeliSatisSozlesmesiButonGuest",
     "value":"DPE_TR_ORDERCONFIRM_CHECKBOX_SALESCONTRACTGUEST",
     "type": "id"
   },

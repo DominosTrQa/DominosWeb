@@ -1,7 +1,7 @@
 
 # Gaziosmanpaşa - Mevlana adres bilgileri tamamlanır(Kapı No Manuel)
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "20" değerini yaz
@@ -12,12 +12,12 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
@@ -28,17 +28,17 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
-* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
@@ -46,23 +46,23 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
-* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Yeni adres ekle butonuna tıklanır
@@ -70,11 +70,11 @@
 
 # Gaziosmanpaşa - Mevlana mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "20" değerini yaz
-* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
@@ -82,12 +82,12 @@
 * Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * Telefon noyu "adresSayfasiTelefonTextbox" elementine yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Ataşehir - Örnek adres bilgileri tamamlanır(Kapı No Manuel)
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdownAkatSokak"
 * "3" saniye bekle
 * "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
 * Elementi bekle ve sonra tıkla "daireTextbox"
@@ -97,12 +97,12 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Ataşehir - Örnek mah. adres bilgileri tamamlanır(Kapı No dropdown)
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelectAkatSokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdownAkatSokak"
 * "3" saniye bekle
 * "kapiNoTextbox" li elementi bul, temizle ve "3" değerini yaz
 * Elementi bekle ve sonra tıkla "daireTextbox"
@@ -112,13 +112,13 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adres bilgileri tamamlanır(Liste - üye)
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelectAyısıgıSokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdownAyisigiSokak"
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
@@ -135,8 +135,8 @@
 
 # İlk kayıtlı adres seçilir
 * Elementi bekle ve sonra tıkla "ilkKayitliAdres"
-* "siparisSayfasıseciliAdresIleDevamEtButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
+* "siparisSayfasiSeciliAdresIleDevamEtButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "siparisSayfasiSeciliAdresIleDevamEtButon"
 
 # Sarıyer - Pınar adres bilgileri tamamlanır
 * Elementi bekle ve sonra tıkla "caddeDropdown"
@@ -201,11 +201,11 @@
 
 # Gönderim zamanı ileri bir tarih seçilir
 * Elementi bekle ve sonra tıkla "gonderimZamaniIcon"
-* Elementi bekle ve sonra tıkla "gönderimzamaniDahasonra"
+* Elementi bekle ve sonra tıkla "gonderimZamaniDahaSonra"
 * Elementi bekle ve sonra tıkla "tarihSec"
 * "bugununTarihi" li tarihten iki gün sonraki tarihi seç
 * "2" saniye bekle
-* "gönderimzamaniDahasonra" alanına kaydır
+* "gonderimZamaniDahaSonra" alanına kaydır
 * Elementi bekle ve sonra tıkla "saatSec"
 * Elementi bekle ve sonra tıkla "saatSecSelect"
 
@@ -251,11 +251,11 @@
 # Sipariş tamamlanır
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
-* Elementi bekle ve sonra tıkla "OdemeyiTamamla"
+* Elementi bekle ve sonra tıkla "odemeyiTamamla"
 
 # Sipariş tamamlanır(guest)
 * "4" saniye bekle
-* Elementi bekle ve sonra tıkla "mesafelisatisSozlesmesibutonGuest"
+* Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
 * Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
 
 # Tekrar sipariş ver butonuna tıklanır
@@ -266,12 +266,12 @@
 * "2" saniye bekle
 
 # Bu alanı boş bırakamazsınız ve kaydet buton kontrolü yapılır
-* Element var mı kontrol et "BuAlaniBosBirakamazsinizYazisi"
+* Element var mı kontrol et "buAlaniBosBirakamazsinizYazisi"
 * "3" saniye bekle
-* Element var mı kontrol et "KaydetPasifButonKontrol"
+* Element var mı kontrol et "kaydetPasifButonKontrol"
 
 # Seçili ilk adrese tıklanır
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* Elementi bekle ve sonra tıkla "uyelikBilgilerimAdreslerimIlkAdres"
 * "2" saniye bekle
 
 # İlk adres düzenleye tıklanır
@@ -285,23 +285,23 @@
 
 # Seçili adres ile devam edilir
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
+* Elementi bekle ve sonra tıkla "siparisSayfasiSeciliAdresIleDevamEtButon"
 * "3" saniye bekle
 
 # Ödeme şekli seçilir - Online ödeme
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "SiparisVerOnlineOdeme"
-* Elementi bekle ve sonra tıkla "onlineödemeyenikartekleme"
+* Elementi bekle ve sonra tıkla "siparisVerOnlineOdeme"
+* Elementi bekle ve sonra tıkla "onlineOdemeYeniKartEkleme"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "kartNumarasi"
 * "4282209004348015" textini "kartNumarasi" elemente yaz
-* "test" textini "kartbilgisiAdSoyad" elemente yaz
-* Elementi bekle ve sonra tıkla "kartbilgisiAY"
-* Elementi bekle ve sonra tıkla "kartbilgisiAYselect"
-* Elementi bekle ve sonra tıkla "kartbilgisiYIL"
-* Elementi bekle ve sonra tıkla "kartbilgisiYILselect"
-* Elementi bekle ve sonra tıkla "kartbilgisiCVC"
-* "123" textini "kartbilgisiCVC" elemente yaz
+* "test" textini "kartBilgisiAdSoyad" elemente yaz
+* Elementi bekle ve sonra tıkla "kartBilgisiAy"
+* Elementi bekle ve sonra tıkla "kartBilgisiAyselect"
+* Elementi bekle ve sonra tıkla "kartBilgisiYil"
+* Elementi bekle ve sonra tıkla "kartBilgisiYilselect"
+* Elementi bekle ve sonra tıkla "kartBilgisiCVC"
+* "123" textini "kartBilgisiCVC" elemente yaz
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
@@ -361,7 +361,7 @@
 
 # Online ödeme seçeneği ile devam edilir
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "SiparisVerOnlineOdeme"
+* Elementi bekle ve sonra tıkla "siparisVerOnlineOdeme"
 * "5" saniye bekle
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
@@ -373,10 +373,10 @@
 * Element var mı kontrol et "onaySayfasiCikolataliSufle"
 
 # Ye kazan popupında üye ol butonuna tıklanır
-* Elementi bekle ve sonra tıkla "yekazanpopupüyeolButon"
+* Elementi bekle ve sonra tıkla "yekazanPopupUyeOlButon"
 
 # Ye kazan popupında giriş yap butonuna tıklanır
-* Elementi bekle ve sonra tıkla "yekazanpopupgirisyap"
+* Elementi bekle ve sonra tıkla "yekazanPopupGirisYap"
 
 # Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 * Element var mı kontrol et "nakitOdemeKontrol"
@@ -409,31 +409,31 @@
 * Element var mı kontrol et "onlineOdemeKontrol"
 
 # Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "nakitOdemeKontrolguest"
+* Element var mı kontrol et "nakitOdemeKontrolGuest"
 
 # Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "krediKartiKontrolguest"
+* Element var mı kontrol et "krediKartiKontrolGuest"
 
 # Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "smartsodexokartkontrolguest"
+* Element var mı kontrol et "smartsodexokartKontrolGuest"
 
 # Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "sodexhoyemekcekikontrolguest"
+* Element var mı kontrol et "sodexhoyemekcekiKontrolGuest"
 
 # Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "smartticketkartkontrolguest"
+* Element var mı kontrol et "smartticketkartKontrolGuest"
 
 # Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "smartticketyemekcekikontrolguest"
+* Element var mı kontrol et "smartticketyemekcekiKontrolGuest"
 
 # Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "multinetkontrolguest"
+* Element var mı kontrol et "multinetKontrolGuest"
 
 # Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "setcardkontrolguest"
+* Element var mı kontrol et "setcardKontrolGuest"
 
 # Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "payekartkontrolguest"
+* Element var mı kontrol et "payekartKontrolGuest"
 
 # Onay sayfasında ödeme aracı kısmında online kredi/banka kart yazısının geldiği kontrol edilir(guest)
 * Elementi bekle ve sonra tıkla "odemeSekliOnlineGuest"
@@ -446,55 +446,55 @@
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
 # Kapıda ödeme Kredi Kartı seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "kredikartıguest"
+* Elementi bekle ve sonra tıkla "krediKartiGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
 # Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "smartSodexoKartguest"
+* Elementi bekle ve sonra tıkla "smartSodexoKartGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
 # Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "sodexoYemekCekiguest"
+* Elementi bekle ve sonra tıkla "sodexoYemekCekiGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
 # Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "smartTicketKartguest"
+* Elementi bekle ve sonra tıkla "smartTicketKartGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
 # Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "smartTicketYemekÇekiguest"
+* Elementi bekle ve sonra tıkla "smartTicketYemekCekiGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
 # Kapıda ödeme Multinet seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "multinetguest"
+* Elementi bekle ve sonra tıkla "multinetGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
 # Kapıda ödeme setCard seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "setCardguest"
+* Elementi bekle ve sonra tıkla "setCardGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
 # Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "payeKartguest"
+* Elementi bekle ve sonra tıkla "payeKartGuest"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
 # Online ödeme seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "onlineOdemeguest"
+* Elementi bekle ve sonra tıkla "onlineOdemeGuest"
 * "5" saniye bekle
 
 # Geçerli bir telefon giriniz hatası görülür
@@ -502,7 +502,7 @@
 * Element var mı kontrol et "gecerliTelgirkontrol"
 
 # Çarpıya basılıp çıkılır
-* Elementi bekle ve sonra tıkla "carpıisareti"
+* Elementi bekle ve sonra tıkla "carpiIsareti"
 
 # Yeni adres ekle (Gel Al)
 * Elementi bekle ve sonra tıkla "adresEkleIlDropdown"
@@ -512,11 +512,11 @@
 * Elementi bekle ve sonra tıkla "adresEkleMahalleDropdown"
 * Elementi bekle ve sonra tıkla "adresEkleMahalleDropdownBurgazada"
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
-* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
@@ -524,7 +524,7 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Temassız teslimat seçeneği seçilir
@@ -540,7 +540,7 @@
 * Element var mı kontrol et "temassizTeslimatKontrol"
 
 # Covid-19 anket sorularından çıkılır(Covid-19 sonrası kaldırılacak)
-* Elementi bekle ve sonra tıkla "covidankettencikilir"
+* Elementi bekle ve sonra tıkla "covidAnkettenCikilir"
 
 # Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * "3" saniye bekle
@@ -554,7 +554,7 @@
 * Telefon noyu "odemeyiTamamlaGuesttelefon" elementine yaz
 
 # Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
-* Element var mı kontrol et "temassizTeslimatKontrolguest"
+* Element var mı kontrol et "temassizTeslimatKontrolGuest"
 
 # Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 * "2" saniye bekle
@@ -566,7 +566,7 @@
 * Element var mı kontrol et "siparisNotuaVarOlanNotTestNotIcerigi"
 
 # Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Element var mı kontrol et "onlineödemedevamdanSonraKontrol"
+* Element var mı kontrol et "onlineOdemeDevamdanSonraKontrol"
 
 # Tamam butonuna tıklanır
 * Elementi bekle ve sonra tıkla "teslimatTipiDegistirUrunSilinirEvetButon"

@@ -1,17 +1,17 @@
 [
 
   {
-    "key": "Ye_Kazan_Dominos_Ye_Kazan_Text",
+    "key": "yeKazanDominosYeKazanText",
     "value":"//div[@class='styled__PageHeaderWrapper-sc-1n69iee-3 eXfnrv pageHeader__Container-uo3je7-0 bumabh']//h1[1]",
     "type": "xpath"
   },
   {
-    "key": "Ye_Kazan_Uyelik_Kosullari_Close_Button",
+    "key": "yeKazanUyelikKosullariKapatButon",
     "value":"//div[@class='modalDialog__CloseButton-sc-1wmoa97-2 bCJEoT']",
     "type": "xpath"
   },
   {
-    "key": "Ye_Kazan_Sikca_Sorulan_Sorulardan_Biri_Linktext",
+    "key": "yeKazanSikcaSorulanSorulardanBiriLinktext",
     "value":"//div[contains(text(),'s Ye-Kazan Program')]",
     "type": "xpath"
   },
@@ -21,52 +21,47 @@
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Uyelik_Bilgilerim_Ye_Kazan_Eposta_Checkbox",
+    "key": "profilimPopupUyelikBilgilerimYeKazanEpostaCheckbox",
     "value":"/html//div[@id='root']/div/div[4]/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']//p[.='E-Posta']",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Uyelik_Bilgilerim_KVK_Eposta_Checkbox",
-    "value":"(//p[.='Telefon'])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "Profilim_Popup_Uyelik_Bilgilerim_Ye_Kazan_Telefon_Checkbox",
+    "key": "profilimPopupUyelikBilgilerimYeKazanTelefonCheckbox",
     "value":"/html//div[@id='root']/div/div[4]/div[@class='contentContainer__Wrapper-sc-1nl90mt-0 kdQzty']//p[.='Telefon']",
     "type": "xpath"
   },
   {
-    "key": "YeKazanuyariCikisButonu",
+    "key": "yeKazanUyariCikisButonu",
     "value":"DPE_TR_MODALDIALOG_BUTTON_CLOSE",
     "type": "id"
   },
   {
-    "key": "YeKazaniletisimKanaliText",
+    "key": "yeKazanIletisimKanaliText",
     "value":"//div[contains(text(),'Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir.')]",
     "type": "xpath"
   },
   {
-    "key": "YeKazanSmssecilir",
+    "key": "yeKazanSmsSecimi",
     "value":"IsYeKazanSms",
     "type": "id"
   },
   {
-    "key": "YeKazanEmailsecilir",
+    "key": "yeKazanEmailSecimi",
     "value":"IsYeKazanEmail",
     "type": "id"
   },
   {
-    "key": "YeKazanTelefonsecilir",
+    "key": "yeKazanTelefonSecimi",
     "value":"IsYeKazanPhone",
     "type": "id"
   },
   {
-    "key": "YeKazandegisiklikleriKaydetbuton",
+    "key": "yeKazanDegisiklikleriKaydetbuton",
     "value":"DPE_TR_ACCOUNT_BUTTON_SAVE",
     "type": "id"
   },
   {
-    "key": "YeKazanbedavaPizzaText",
+    "key": "yeKazanBedavaPizzaText",
     "value":"//span[contains(text(),'5')]",
     "type": "xpath"
   },
@@ -81,32 +76,32 @@
     "type": "xpath"
   },
   {
-    "key": "sanaozelhediyeIcinyekazanbuton",
+    "key": "sanaOzelHediyeIcinYeKazanButon",
     "value":"DPE_TR_HOME_BUTTON_PROFILEMENU_LOYALTY_FALSE",
     "type": "id"
   },
   {
-    "key": "sanaozelhediyeIcinyekazancheckBox",
+    "key": "sanaOzelHediyeIcinYeKazanCheckbox",
     "value":"DPE_TR_LOYALTY_CHECKBOX_JOIN",
     "type": "id"
   },
   {
-    "key": "yekazanakatilButon",
+    "key": "yeKazanaKatilButon",
     "value":"DPE_TR_LOYALTY_BUTTON_JOIN",
     "type": "id"
   },
   {
-    "key": "yekazanuyelikicinSms",
+    "key": "yeKazanUyelikIcinSms",
     "value":"DPE_TR_LOYALTY_CHECKBOX_SMS",
     "type": "id"
   },
   {
-    "key": "yekazanuyelikicinTelefon",
+    "key": "yeKazanUyelikIcinTelefon",
     "value":"DPE_TR_LOYALTY_CHECKBOX_PHONE",
     "type": "id"
   },
   {
-    "key": "yekazanuyelikicinEmail",
+    "key": "yeKazanUyelikIcinEmail",
     "value":"DPE_TR_LOYALTY_CHECKBOX_EMAIL",
     "type": "id"
   },
@@ -116,7 +111,7 @@
     "type": "xpath"
   },
   {
-    "key": "hediyepizzakazanTextkontrol",
+    "key": "hediyePizzaKazanTextKontrol",
     "value":"//div[contains(text(),'Hediye Pizza kazanmana 5 dilimin kaldı')]",
     "type": "xpath"
   },
@@ -126,7 +121,7 @@
     "type": "xpath"
   },
   {
-    "key": "tercihettginiziletisimkanaliniSecinText",
+    "key": "tercihEttiginizIletisimKanaliniSecinText",
     "value":"//div[contains(text(),'*Tercih ettiğiniz iletişim kanalını seçiniz.')]",
     "type": "xpath"
   }

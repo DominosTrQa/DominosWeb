@@ -196,7 +196,7 @@ tags:uyeYeKazanIzniGuncelleme_yeniUye_ayrilmaktanVazgecGirisUyelikBilgilerim
 * Mesafeli satış sözleşmesi işaretlenir
 * Ye kazan checkbox işaretlenir
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -219,7 +219,7 @@ tags:uyeYeKazanIzniGuncelleme_yeniUye_ayrilmayiOnaylaGirisUyelikBilgilerim
 * Mesafeli satış sözleşmesi işaretlenir
 * Ye kazan checkbox işaretlenir
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -243,7 +243,7 @@ tags:uyeYeKazanIzniGuncelleme_yeniUye_ayrilmaktanVazgecGirisProfilim
 * Mesafeli satış sözleşmesi işaretlenir
 * Ye kazan checkbox işaretlenir
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -263,7 +263,7 @@ tags:uyeYeKazanIzniGuncelleme_yeniUye_ayrilmayiOnaylaGirisProfilim
 * Mesafeli satış sözleşmesi işaretlenir
 * Ye kazan checkbox işaretlenir
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır

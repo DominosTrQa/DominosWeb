@@ -1,6 +1,6 @@
 [
   {
-    "key": "uyeOlSayfasiÜyeOlButon",
+    "key": "uyeOlSayfasiUyeOlButon",
     "value":"DPE_TR_SIGNUP_BUTTON_SIGNUP",
     "type": "id"
   },
@@ -25,62 +25,37 @@
     "type": "xpath"
   },
   {
-    "key": "BinaAdıKapıNo",
-    "value":"(//*[@class='input__Label-wbeopl-1 hKvIFA'])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "Daire",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[2]",
-    "type": "xpath"
-  },
-  {
-    "key": "AdresAdı",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[3]",
-    "type": "xpath"
-  },
-  {
-    "key": "Telefon",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[4]",
-    "type": "xpath"
-  },
-  {
-    "key": "KaydetButonu",
-    "value":"//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO fgXSTh']",
-    "type": "xpath"
-  },
-  {
-    "key": "AdresTarifi",
+    "key": "adresTarifiTextbox",
     "value":"DPE_TR_ADDRESSADDMODAL_INPUT_INSTRUCTIONS",
     "type": "id"
   },
   {
-    "key": "CaddeSokakSelectAkatSokak",
+    "key": "caddeSokakDropdownAkatSokak",
     "value":"((//*[@class='dropdown__MenuWrapper-wa0gtc-12 gaNPcZ'])[4]/div/div/div)[4]",
     "type": "xpath"
   },
   {
-    "key": "CaddeSokakSelect835Sokak",
+    "key": "caddeSokakDropdown835Sokak",
     "value":"((//*[@class='dropdown__MenuWrapper-wa0gtc-12 gaNPcZ'])[4]/div/div/div)[5]",
     "type": "xpath"
   },
   {
-    "key": "CaddeSokakSelectAyısıgıSokak",
+    "key": "caddeSokakDropdownAyisigiSokak",
     "value":"//div[text()='Ayışığı Sk.']",
     "type": "xpath"
   },
   {
-    "key": "CaddeSokakSelectAkyolSokak",
+    "key": "caddeSokakDropdownAkyolSokak",
     "value":"((//*[@class='dropdown__MenuWrapper-wa0gtc-12 gaNPcZ'])[4]/div/div/div)[4]",
     "type": "xpath"
   },
   {
-    "key": "ilcegaziosmanPasa",
+    "key": "ilceGaziosmanpasa",
     "value":"//div[text()='Gaziosmanpaşa']",
     "type": "xpath"
   },
   {
-    "key": "ilceyüpsultan",
+    "key": "ilceEyupsultan",
     "value":"//div[text()='Eyüpsultan']",
     "type": "xpath"
   },
@@ -105,23 +80,13 @@
     "type": "xpath"
   },
   {
-    "key": "SeciliAdresileDevamEt",
-    "value":"//*[@class='styled__AddressName-yleopv-9 eNBbSa']",
-    "type": "xpath"
-  },
-  {
-    "key": "CookieAccept",
+    "key": "cookieOnayButon",
     "value":"//button[contains(text(),'Onaylıyorum')]",
     "type": "xpath"
   },
   {
-    "key": "DropdownKapıNoSelect",
+    "key": "dropdownKapiNo",
     "value": "//*[@class='autoComplete__AutoComplete-xi8jyw-1 dscPXh']",
-    "type": "xpath"
-  },
-  {
-    "key": "AdresKontrol",
-    "value": "//div[@class='styled__ServiceTypeAddressInfo-yzvmyj-5 dlSdkD']/span[contains(text(),'İstanbul Gaziosmanpaşa Mevlana Mh.')]",
     "type": "xpath"
   },
   {
@@ -130,57 +95,32 @@
     "type": "xpath"
   },
   {
-    "key": "BuAlaniBosBirakamazsinizYazisi",
+    "key": "buAlaniBosBirakamazsinizYazisi",
     "value": "//*[@class='input__ErrorText-wbeopl-4 bcanhF']",
     "type": "xpath"
   },
   {
-    "key": "KaydetPasifButonKontrol",
+    "key": "kaydetPasifButonKontrol",
     "value": "//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO fgXSTh']",
     "type": "xpath"
   },
   {
-    "key": "KayıtlıAdresButonGaziosmanpasaTıkla",
-    "value": "//*[@class='styled__Address-yleopv-8 bRebOW']",
-    "type": "xpath"
-  },
-  {
-    "key": "KayıtlıadresDuzenleButonGaziosmanpasa",
-    "value": "//*[@class='edit']",
-    "type": "xpath"
-  },
-  {
-    "key": "KayıtlıadresDuzenleButonGaziosmanpasaSil",
-    "value": "//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO ZXpBa'][contains(text(),'Sil')]",
-    "type": "xpath"
-  },
-  {
-    "key": "Güncelle833sk",
+    "key": "guncelle833sk",
     "value": "//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'][contains(text(),'833. Sk.')]",
     "type": "xpath"
   },
   {
-    "key": "SokakAdıEdipSokak",
-    "value": "//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'][contains(text(),'Edip Sk.')]",
-    "type": "xpath"
-  },
-  {
-    "key": "SiparisVerOnlineOdeme",
+    "key": "siparisVerOnlineOdeme",
     "value": "DPE_TR_PAYMENTCARDTYPE_BUTTON_TYPE1",
     "type": "id"
   },
   {
-    "key": "SokakAdı3003Sokak",
-    "value": "//div[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'][contains(text(),'3003. Sk.')]",
-    "type": "xpath"
-  },
-  {
-    "key": "adresEklemeKalemIkonuDüzenle",
+    "key": "adresEklemeKalemIkonuDuzenle",
     "value":"DPE_TR_ADDRESSEDIT_BUTTON_EDIT",
     "type": "id"
   },
   {
-    "key": "adresEklemeKalemIkonuDüzenleHaritadanEkle",
+    "key": "adresEklemeKalemIkonuDuzenleHaritadanEkle",
     "value":"DPE_TR_NEARSTORELISTDELIVERY_BUTTON_LOCATIONSHARE",
     "type": "id"
   },
@@ -210,7 +150,7 @@
     "type": "xpath"
   },
   {
-    "key": "kvkkIcinEpostacheckbox",
+    "key": "kvkkIcinEpostaCheckbox",
     "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS_IsEmailSubscription",
     "type": "id"
   }

@@ -20,7 +20,7 @@ tags:anasayfa_UyeDegilkenyazilarinKontrolu
 
 Anasayfa Kontrolü - Üye Değilken - Promosyon Kodu Açılır Popup Kontrolü
 ------------------------------------------------------------------------------
-tags:anasayfa_uyeDegilkenPromosyonKoduAcilirPopupKontrolu
+tags:anasayfa_uyeDegilkenpromosyonKoduAcilirPopupKontrolu
 
 * Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
 * Promosyon Kodu butonuna tıklanır

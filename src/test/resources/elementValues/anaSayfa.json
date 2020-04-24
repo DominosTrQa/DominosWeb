@@ -175,17 +175,17 @@
     "type": "xpath"
   },
   {
-    "key": "anasayfaPromosyonKoduButton",
+    "key": "anasayfapromosyonKoduButton",
     "value":"DPE_TR_HOME_DROPDOWN",
     "type": "id"
   },
   {
-    "key": "anasayfaPromosyonKoduPromosyonAdiDropdown",
+    "key": "anasayfapromosyonKodupromosyonAdiDropdown",
     "value":"DPE_TR_HOME_DROPDOWN_PROMOTIONNAME",
     "type": "id"
   },
   {
-    "key": "anasayfaPromosyonPromosyonKoduTextbox",
+    "key": "anasayfaPromosyonpromosyonKoduTextbox",
     "value":"DPE_TR_HOME_DROPDOWN_PROMOTIONCODE",
     "type": "id"
   },

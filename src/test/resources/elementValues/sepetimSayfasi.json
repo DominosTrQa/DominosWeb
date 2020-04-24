@@ -1,11 +1,11 @@
 [
   {
-    "key": "siparişVerButon",
+    "key": "siparisVerButon",
     "value":"//a[@class='styled__Button-sc-1lvff6m-0 fakEki']",
     "type": "xpath"
   },
   {
-    "key": "secilikonumileDevametbuton",
+    "key": "seciliKonumileDevamEtButon",
     "value":"DPE_TR_STOREMAPLISTDELIVERY_BUTTON_SELECTLOCATION",
     "type": "id"
   },
@@ -15,7 +15,7 @@
     "type": "id"
   },
   {
-    "key": "sepettekisufle",
+    "key": "sepettekiSufle",
     "value":"//h4[@class='styled__CartItemTitle-sc-126ws66-25 dvCIQg'][contains(text(),'Çikolatalı Sufle')]",
     "type": "xpath"
   },

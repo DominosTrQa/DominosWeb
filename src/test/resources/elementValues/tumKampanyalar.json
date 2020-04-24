@@ -1,21 +1,21 @@
 [
   {
-    "key": "HaftaninKampanyalari",
+    "key": "haftaninKampanyalari",
     "value":"//span[contains(text(),'Haftanın Kampanyaları')]",
     "type": "xpath"
   },
   {
-    "key": "HaftaninKampanyalariButon1",
+    "key": "haftaninKampanyalariButon1",
     "value":"DPE_TR_CAMPAIGNS_TAB5_CARD0",
     "type": "id"
   },
   {
-    "key": "TekKisilikKampanyalar",
+    "key": "tekKisilikKampanyalar",
     "value":"//span[contains(text(),'Tek Kişilik Kampanyalar')]",
     "type": "xpath"
   },
   {
-    "key": "TekKisilikKampanyalarButon1",
+    "key": "tekKisilikKampanyalarButon1",
     "value":"DPE_TR_CAMPAIGNS_TAB2_CARD0",
     "type": "id"
   },
@@ -40,22 +40,22 @@
     "type": "id"
   },
   {
-    "key": "GelAlHaftaninKampanyalari",
+    "key": "gelAlhaftaninKampanyalari",
     "value":"DPE_TR_CAMPAIGNS_TAB6",
     "type": "id"
   },
   {
-    "key": "GelAlHaftaninKampanyalari2",
+    "key": "gelAlhaftaninKampanyalari2",
     "value":"/html//div[@id='root']//h1[.=' Gel Al Haftanın Kampanyaları ']",
     "type": "xpath"
   },
   {
-    "key": "headerMenuTümKampanyalar",
+    "key": "headerMenuTumKampanyalar",
     "value":"/html//div[@id='root']/div/div[2]//a[@href='/kampanyalar']",
     "type": "xpath"
   },
   {
-    "key": "headerMenuTümPizzalar",
+    "key": "headerMenuTumPizzalar",
     "value":"/html//div[@id='root']/div//a[@href='/pizzalar']",
     "type": "xpath"
   },
@@ -75,7 +75,7 @@
     "type": "xpath"
   },
   {
-    "key": "TekKisilikKampanyalarSiparisKontrol",
+    "key": "tekKisilikKampanyalarSiparisKontrol",
     "value":"DPE_TR_CAMPAIGNS_TAB2",
     "type": "id"
   },
@@ -90,7 +90,7 @@
     "type": "xpath"
   },
   {
-    "key": "GelAlHaftaninKampanyalariSiparisKontrol",
+    "key": "gelAlhaftaninKampanyalariSiparisKontrol",
     "value":"/html//div[@id='root']/div/div[4]/div[3]//div[@class='react-swipeable-view-container']/div[5]//div[.='Sipariş Ver']",
     "type": "xpath"
   }

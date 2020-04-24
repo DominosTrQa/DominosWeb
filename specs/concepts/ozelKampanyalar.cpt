@@ -1,7 +1,7 @@
 
 # 3 Al 1 öde kampanyası seçilir
-* Element var mı kontrol et "3Al1ödekampanyatext"
-* Elementine tıkla "3Al1ödekampanyatext"
+* Element var mı kontrol et "3Al1OdeKampanyaText"
+* Elementine tıkla "3Al1OdeKampanyaText"
 
 # 3 Al 1 öde kampanyası seçilir (Stg)
 * Element var mı kontrol et "3Al1OdekampanyatextStg"
@@ -14,63 +14,63 @@
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 * Elementi bekle ve sonra tıkla "sucukMalzeme"
 * Elementi bekle ve sonra tıkla "misirMalzeme"
-* Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleGuncelleButon"
 * "ikinciUrunSeciniz" alanına kaydır
 * Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
 * Sucuksever pizza çeşidi seçilir
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxikinciürün"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonTextboxIkinciUrun"
 * Elementi bekle ve sonra tıkla "sucukMalzeme"
 * Elementi bekle ve sonra tıkla "misirMalzeme"
-* Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
-* Elementi bekle ve sonra tıkla "ucuncuUrunseciniz"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleGuncelleButon"
+* Elementi bekle ve sonra tıkla "ucuncuUrunSeciniz"
 * Italiano pizza çeşidi seçilir
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxücüncüürün"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonTextboxUcuncuUrun"
 * Elementi bekle ve sonra tıkla "sucukMalzeme"
 * Elementi bekle ve sonra tıkla "misirMalzeme"
-* Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleGuncelleButon"
 
 # Italiano pizza çeşidi seçilir
-* Elementi bekle ve sonra tıkla "italianopizza"
+* Elementi bekle ve sonra tıkla "italianoPizza"
 
 # Barbekü pizza çeşidi seçilir
-* Elementi bekle ve sonra tıkla "barbeküpizza"
+* Elementi bekle ve sonra tıkla "barbekuPizza"
 
 # Sucuksever pizza çeşidi seçilir
-* Elementi bekle ve sonra tıkla "sucukseverpizza"
+* Elementi bekle ve sonra tıkla "sucukseverPizza"
 
 # Kampanya sepete eklenir
 * Elementi bekle ve sonra tıkla "firsatSepetEkle"
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
-* Element var mı kontrol et "ortaboybarbeküpizza"
-* Elementine tıkla "ortaboybarbeküpizza"
+* Element var mı kontrol et "ortaboyBarbekuPizza"
+* Elementine tıkla "ortaboyBarbekuPizza"
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir (Staging)
-* Element var mı kontrol et "ortaBoyBarbekuPizzaStg"
-* Elementine tıkla "ortaBoyBarbekuPizzaStg"
+* Element var mı kontrol et "ortaboyBarbekuPizzaStg"
+* Elementine tıkla "ortaboyBarbekuPizzaStg"
 
 # Domisoslu kampanyalara tıklanır
-* Elementi bekle ve sonra tıkla "domisoslukampanyalar"
+* Elementi bekle ve sonra tıkla "domisosluKampanyalar"
 
 # Tek kişilik kampanyalara tıklanır
-* Elementi bekle ve sonra tıkla "TekKisilikKampanyalar"
+* Elementi bekle ve sonra tıkla "tekKisilikKampanyalar"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
 * "3" saniye bekle
-* Element var mı kontrol et "ortaboytavuklupizza"
-* Elementine tıkla "ortaboytavuklupizza"
+* Element var mı kontrol et "ortaboyTavukluPizza"
+* Elementine tıkla "ortaboyTavukluPizza"
 * "2" saniye bekle
 * "pizzaDuzenleButonIlkUrun" alanına kaydır
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
-* Element var mı kontrol et "ortaBoyTavukluPizzaStg"
-* Elementine tıkla "ortaBoyTavukluPizzaStg"
+* Element var mı kontrol et "ortaboyTavukluPizzaStg"
+* Elementine tıkla "ortaboyTavukluPizzaStg"
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir
-* Element var mı kontrol et "ortaboytavuklupizza"
-* Elementine tıkla "ortaboytavuklupizza"
+* Element var mı kontrol et "ortaboyTavukluPizza"
+* Elementine tıkla "ortaboyTavukluPizza"
 
 # Dilediğin büyük boy pizza kampanyası seçilir
 * Element var mı kontrol et "dilediginBuyukBoyPizza"
@@ -81,16 +81,16 @@
 * Elementi bekle ve sonra tıkla "ozelPizzalarButon"
 
 # Sosyal pizza çeşidine tıklanır
-* Elementi bekle ve sonra tıkla "sosyalpizzatext"
+* Elementi bekle ve sonra tıkla "sosyalPizzaText"
 * "4" saniye bekle
 
 # Acılı istiyorum seçeneği işaretlenir
-* Elementi bekle ve sonra tıkla "acılıistiyorum"
+* Elementi bekle ve sonra tıkla "aciliIstiyorumCheckbox"
 
 # Çıkarmak istenilen malzemeler seçilir(Özel pizzalar için)
-* Elementi bekle ve sonra tıkla "sucuktext"
-* Elementi bekle ve sonra tıkla "misirtext"
-* Elementi bekle ve sonra tıkla "domatestext"
+* Elementi bekle ve sonra tıkla "sucukText"
+* Elementi bekle ve sonra tıkla "misirText"
+* Elementi bekle ve sonra tıkla "domatesText"
 
 # İlk ürün düzenlemeye tıklanır
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
@@ -98,7 +98,7 @@
 
 # İlk ürün seçilir ve sepete eklenir
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
-* Elementi bekle ve sonra tıkla "sebzelipeynirlidürümos"
+* Elementi bekle ve sonra tıkla "sebzeliPeynirliDurumos"
 * Kampanya sepete eklenir
 
 # Sucuk ve mısır malzemeleri çıkarılır
@@ -106,4 +106,4 @@
 * Elementi bekle ve sonra tıkla "misirMalzeme"
 
 # Güncelle butonuna tıklanır(özel kampanyalar için)
-* Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleGuncelleButon"

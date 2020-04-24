@@ -60,7 +60,7 @@ tags:firsatEkleme_istenilenUrleGidilir_firsat_adreseTeslim
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Birinci ürün seçilir
-* Elementi bekle ve sonra tıkla "kullaniciyaözeltonbalıklıekmekarası"
+* Elementi bekle ve sonra tıkla "kullaniciyaOzelTonBalikliEkmekArasİ"
 * Kampanya sepete eklenir
 * Servis tipi güncellensin mi uyarısı çıkar, evet seçilir
 * Sepetimde ürün var mı kontrol edilir
@@ -91,7 +91,7 @@ tags:firsatEkleme_istenilenUrleGidilir_firsat_gelAl
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
-* Elementi bekle ve sonra tıkla "kullaniciyaözeltonbalıklıekmekarası"
+* Elementi bekle ve sonra tıkla "kullaniciyaOzelTonBalikliEkmekArasİ"
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 

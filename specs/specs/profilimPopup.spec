@@ -165,7 +165,7 @@ tags:profilimPopup_notlarimYeniNotEklePopupKontrolu
 
 Profilim Popup -  Notlarım - Yeni Not Ekleme Kontrolü
 ----------------
-tags:profilimPopup_notlarimYeniNotEklemeKontrolu
+tags:profilimPopup_notlarimYeninotEklemeKontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
