@@ -1015,9 +1015,10 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Yeni adres ekle butonuna tıklanır
-* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)(Stg)
+* Gel al olarak devam edilip adreslerime girilerek adrese teslim için İstanbul/Adalar/Burgazada eklenir
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)
 * Seçili adres ile devam edilir
-* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
+* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
 
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Nakit
@@ -2170,7 +2171,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
  tags:regressionStaging_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -2324,7 +2325,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
  tags:regressionStaging_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır

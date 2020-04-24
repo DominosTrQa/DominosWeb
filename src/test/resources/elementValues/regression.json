@@ -45,7 +45,7 @@
     "type": "xpath"
   },
   {
-    "key": "extra_Lezzetler_Tab_Icecekler_Buton_Stg",
+    "key": "extraLezzetlerTabIceceklerButon_Stg",
     "value": "DPE_TR_SIDEPRODUCT_TAB7",
     "type": "id"
   },
