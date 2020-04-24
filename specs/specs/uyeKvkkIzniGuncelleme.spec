@@ -97,7 +97,7 @@ tags:uyeKVKKIzniGuncelleme_yeniUye_ayrilmaktanVazgecGiris
 * Mesafeli satış sözleşmesi işaretlenir
 * Açık rıza metni KVKK işaretlenir
 * Üye olurken KVKK sözleşmesi için eposta işaretlenir
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır
@@ -118,7 +118,7 @@ tags:uyeKVKKIzniGuncelleme_yeniUye_ayrilmayiOnaylaGiris
 * Mesafeli satış sözleşmesi işaretlenir
 * Açık rıza metni KVKK işaretlenir
 * Üye olurken KVKK sözleşmesi için eposta işaretlenir
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiÜyeOlButon"
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * İl ilçe mahalle seçilir
 * Seçili Adres ile Devam Et butonuna basılır

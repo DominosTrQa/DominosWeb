@@ -5,7 +5,7 @@
     "type": "id"
   },
   {
-    "key": "AnasayfaEkmekArasıFırsatı",
+    "key": "anasayfaEkmekArasiFirsati",
     "value":"DPE_TR_HOME_SLIDER1",
     "type": "id"
   },
@@ -50,7 +50,7 @@
     "type": "xpath"
   },
   {
-    "key": "Kalpseklindehamurbuton",
+    "key": "kalpSeklindeHamurButon",
     "value":"(//*[@class='pizzaOptionCard__Thumb-sc-1yq2lkf-1 cMlrKb'])[1]",
     "type": "xpath"
   },
@@ -65,12 +65,12 @@
     "type": "xpath"
   },
   {
-    "key": "pizzaDüzenleButonTextboxikinciürün",
+    "key": "pizzaDuzenleButonTextboxIkinciUrun",
     "value":"(//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq'])[2]",
     "type": "xpath"
   },
   {
-    "key": "pizzaDüzenleButonTextboxücüncüürün",
+    "key": "pizzaDuzenleButonTextboxUcuncuUrun",
     "value":"(//*[@class='product__Column-sc-10q1kcx-1 gkBdlp column__NewColumn-sc-1s5q7bb-0 coljiq'])[3]",
     "type": "xpath"
   },
@@ -95,7 +95,7 @@
     "type": "id"
   },
   {
-    "key": "pizzadüzenlegüncellebuton",
+    "key": "pizzaDuzenleGuncelleButon",
     "value":"//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
     "type": "xpath"
   },
@@ -110,67 +110,62 @@
     "type": "id"
   },
   {
-    "key": "KekikMalzeme",
+    "key": "kekikMalzeme",
     "value":"DPE_TR_COUPONDETAIL_CHECKBOX_MODIFIERS_undefined",
     "type": "id"
   },
   {
-    "key": "ortaboypizzalarGelAl",
+    "key": "ortaboyPizzalarGelAl",
     "value":"DPE_TR_CAMPAIGNS_TAB0_CARD1",
     "type": "id"
   },
   {
-    "key": "ucuncuUrunseciniz",
+    "key": "ucuncuUrunSeciniz",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2",
     "type": "id"
   },
   {
-    "key": "ortaboypizzalarGelAlŞubeyeözel",
+    "key": "ortaboyPizzalarGelAlŞubeyeOzel",
     "value":"DPE_TR_CAMPAIGNS_TAB4_CARD1",
     "type": "id"
   },
   {
-    "key": "sebzelipeynirlidürümos",
+    "key": "sebzeliPeynirliDurumos",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM0",
     "type": "id"
   },
   {
-    "key": "FırsatIkinciTab",
-    "value":"DPE_TR_CAMPAIGNS_TAB1",
-    "type": "id"
-  },
-  {
-    "key": "kullaniciyaözelfirsateklemedüzenle",
+    "key": "kullaniciyaOzelFirsatEklemeDuzenle",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_V2",
     "type": "id"
   },
   {
-    "key": "kullaniciyaözelfirsateklemedüzenleSelect",
+    "key": "kullaniciyaOzelFirsatEklemeDuzenleSelect",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_V2_ITEM0",
     "type": "id"
   },
   {
-    "key": "kullaniciyaözelpromosyonluürünler",
+    "key": "kullaniciyaOzelPromosyonluUrunler",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PROMOTIONLIST_V2",
     "type": "id"
   },
   {
-    "key": "kullaniciyaözelpromosyonluürünlerSelect",
+    "key": "kullaniciyaOzelPromosyonluUrunlerSelect",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PROMOTIONLIST_V2_ITEM0",
     "type": "id"
   },
   {
-    "key": "kullaniciyaözelsepeteekle",
+    "key": "kullaniciyaOzelSepeteEkle",
     "value":"DPE_TR_COUPONDETAILV2_BUTTON_GOTOCART",
     "type": "id"
   },
   {
-    "key": "kullaniciyaözeltonbalıklıekmekarası",
+    "key": "kullaniciyaOzelTonBalikliEkmekArasİ",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM5",
     "type": "id"
   },
   {
-    "key": "evetsecilir",
+    "key": "evetSecilir",
     "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO gAinbq'][contains(text(),'Evet')]",
     "type": "xpath"
   }

@@ -129,7 +129,7 @@
 * Elementi bekle ve sonra tıkla "ilİstanbul"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
-* Elementi bekle ve sonra tıkla "ilcegaziosmanPasa"
+* Elementi bekle ve sonra tıkla "ilceGaziosmanpasa"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
 * "4" saniye bekle
@@ -143,7 +143,7 @@
 * Elementi bekle ve sonra tıkla "ilİstanbul"
 * "2" saniye bekle
 * Elementin yüklenmesini bekle ve tıkla "ilceDropdown"
-* Elementin yüklenmesini bekle ve tıkla "ilceyüpsultan"
+* Elementin yüklenmesini bekle ve tıkla "ilceEyupsultan"
 * "4" saniye bekle
 * Elementin yüklenmesini bekle ve tıkla "mahalleDropdown"
 * Elementin yüklenmesini bekle ve tıkla "mahalletopcularmahallesi"
@@ -193,9 +193,9 @@
 * "3" saniye bekle
 
 # Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* Elementi bekle ve sonra tıkla "uyelikBilgilerimAdreslerimIlkAdres"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "siparisSayfasıseciliAdresIleDevamEtButon"
+* Elementi bekle ve sonra tıkla "siparisSayfasiSeciliAdresIleDevamEtButon"
 * "6" saniye bekle
 
 # Seçili Şube ile Devam Et butonuna basılır
@@ -225,9 +225,9 @@
 * Elementi bekle ve sonra tıkla "Sepetim"
 
 # Sepetteki ürün iki kez arttırılır
-* Elementi bekle ve sonra tıkla "SepeteEkleArtı"
+* Elementi bekle ve sonra tıkla "sepeteEkleArti"
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleArtı"
+* Elementi bekle ve sonra tıkla "sepeteEkleArti"
 
 # Profilim butonuna tıklanır
 * "4" saniye bekle
@@ -241,11 +241,11 @@
 # Adres eklerken kalem ikonuna tıklanılır, düzenlenir, haritadan ekleye tıklanır
 * Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDüzenle"
-* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDüzenleHaritadanEkle"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDuzenle"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDuzenleHaritadanEkle"
 
 # Haritadan ekle butonuna tıklanır
-* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDüzenleHaritadanEkle"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDuzenleHaritadanEkle"
 * "5" saniye bekle
 
 # Adres eklerken kalem ikonuna tıklanır
@@ -310,7 +310,7 @@
 * Element var mı kontrol et "anasayfaYeKazanKazandiklarimButton"
 * Element var mı kontrol et "anasayfaHemenPuanlaButton"
 * Element var mı kontrol et "anasayfaTekTikHemenSiparisVerButton"
-* Element var mı kontrol et "anasayfaPromosyonKoduButton"
+* Element var mı kontrol et "anasayfapromosyonKoduButton"
 * Element var mı kontrol et "anasayfaPizzaTakipButon"
 * Element var mı kontrol et "anasayfaSubeyeOzelButon"
 
@@ -325,12 +325,12 @@
 * Element var mı kontrol et "anasayfaPizzaTakipGoruntuleButon"
 
 # Promosyon Kodu butonuna tıklanır
-* Elementi bekle ve sonra tıkla "anasayfaPromosyonKoduButton"
+* Elementi bekle ve sonra tıkla "anasayfapromosyonKoduButton"
 
 # Üye değilken Promosyon Kodu popup kontrol edilir
-* Elementi bekle ve sonra tıkla "anasayfaPromosyonKoduPromosyonAdiDropdown"
-* Element var mı kontrol et "anasayfaPromosyonKoduPromosyonAdiDropdown"
-* Element var mı kontrol et "anasayfaPromosyonPromosyonKoduTextbox"
+* Elementi bekle ve sonra tıkla "anasayfapromosyonKodupromosyonAdiDropdown"
+* Element var mı kontrol et "anasayfapromosyonKodupromosyonAdiDropdown"
+* Element var mı kontrol et "anasayfaPromosyonpromosyonKoduTextbox"
 
 # Pizza Takip butonuna tıklanır
 * Elementi bekle ve sonra tıkla "anasayfaPizzaTakipButon"
@@ -347,7 +347,7 @@
 * Element var mı kontrol et "anasayfaYeKazanKazandiklarimButton"
 * Element var mı kontrol et "anasayfaHemenPuanlaButton"
 * Element var mı kontrol et "anasayfaTekTikHemenSiparisVerButton"
-* Element var mı kontrol et "anasayfaPromosyonKoduButton"
+* Element var mı kontrol et "anasayfapromosyonKoduButton"
 * Element var mı kontrol et "anasayfaPizzaTakipButon"
 * Element var mı kontrol et "anasayfaSubeyeOzelButon"
 
@@ -358,20 +358,20 @@
 * Element var mı kontrol et "anasayfaSiparisleriPuanlaText"
 
 # Üye iken popup bar kontrol edilir
-* Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Buton"
+* Element var mı kontrol et "profilimPopupYeKazanButon"
 * Element var mı kontrol et "uyelikBilgilerimButon"
-* Element var mı kontrol et "Profilim_Popup_siparislerimButon"
+* Element var mı kontrol et "profilimPopupSiparislerimButon"
 * Element var mı kontrol et "anasayfaPizzaTakipButon"
-* Element var mı kontrol et "Profilim_Popup_Adreslerim_LinkText"
-* Element var mı kontrol et "Profilim_Popup_Kredi_Kartlarim_LinkText"
-* Element var mı kontrol et "Profilim_Popup_Notlarim_LinkText"
-* Element var mı kontrol et "Profilim_Popup_Cikis_Yap_LinkText"
-* Element var mı kontrol et "Profilim_Popup_Merhaba_Text"
+* Element var mı kontrol et "profilimPopupAdreslerimLinkText"
+* Element var mı kontrol et "profilimPopupKrediKartlarimLinkText"
+* Element var mı kontrol et "profilimPopupNotlarimLinkText"
+* Element var mı kontrol et "profilimPopupCikisYapLinkText"
+* Element var mı kontrol et "profilimPopupMerhabaText"
 
 # Üye iken Promosyon Kodu alanı kontrol edilir
-* Elementi bekle ve sonra tıkla "anasayfaPromosyonKoduPromosyonAdiDropdown"
-* Element var mı kontrol et "anasayfaPromosyonKoduPromosyonAdiDropdown"
-* Element var mı kontrol et "anasayfaPromosyonPromosyonKoduTextbox"
+* Elementi bekle ve sonra tıkla "anasayfapromosyonKodupromosyonAdiDropdown"
+* Element var mı kontrol et "anasayfapromosyonKodupromosyonAdiDropdown"
+* Element var mı kontrol et "anasayfaPromosyonpromosyonKoduTextbox"
 
 # Üye iken Pizza Takip alanı kontrol edilir
 * Element var mı kontrol et "anasayfaPizzaTakipTextbox"
@@ -394,7 +394,7 @@
 * Element var mı kontrol et "subeyeOzelGelAlBilgiAlani"
 * Element var mı kontrol et "subeyeOzelMesafeBilgisiAlani"
 * Element var mı kontrol et "subeyeOzelSubeIstatistikleriText"
-* Element var mı kontrol et "subeyeOzelTümkampanyalariInceleButon"
+* Element var mı kontrol et "subeyeOzelTumKampanyalariInceleButon"
 * "1" saniye bekle
 * Element var mı kontrol et "subeyeOzelAcikKapaliBilgisi"
 * Element var mı kontrol et "subeyeOzelYolTarifiAlButon"
@@ -402,9 +402,9 @@
 # Şubeye Özel sayfasındaki Tüm Kampanyalar butonunun çalıştığı kontrol edilir
 * "3" saniye bekle
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
-* "subeyeOzelTümkampanyalariInceleButon" alanına js ile kaydır
+* "subeyeOzelTumKampanyalariInceleButon" alanına js ile kaydır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "subeyeOzelTümkampanyalariInceleButon"
+* Elementi bekle ve sonra tıkla "subeyeOzelTumKampanyalariInceleButon"
 
 # Şubeye Özel sayfasından gidilen Şubeyi Değişitir sayfasındaki elementler kontrol edilir
 * "sayfaBasligi" elementi "Domino" değerini içeriyor mu kontrol et
@@ -442,8 +442,8 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirSecilenIlIstanbul"
 * "2" saniye bekle
-* "subeyeOzelSubeyiDegistirSecilenIlceSarıyer" alanına js ile kaydır
-* Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirSecilenIlceSarıyer"
+* "subeyeOzelSubeyiDegistirSecilenIlceSarİyer" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirSecilenIlceSarİyer"
 * Element var mı kontrol et "subeyeOzelSubeyiDegistirIlkSube"
 * "subeyeOzelSubeyiDegistirIlkSube" elementi "Ayazağa" değerini içeriyor mu kontrol et
 * Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirIlkSubeSubeBilgileriveKampanyalari"
@@ -455,7 +455,7 @@
 
 # Adrese Teslim / Secili Adres kontrol edilir
 * "2" saniye bekle
-* Element var mı kontrol et "profilimPopupAdreslerimIlIlceDüzenleButon"
+* Element var mı kontrol et "profilimPopupAdreslerimIlIlceDuzenleButon"
 
 # Anasayfadaki adres teslim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "anasayfaServisTipiDegisimibuton"
@@ -519,7 +519,7 @@
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 
 # Secili konum ile devam edilir
-* Elementi bekle ve sonra tıkla "secilikonumileDevametbuton"
+* Elementi bekle ve sonra tıkla "seciliKonumileDevamEtButon"
 
 # Servis tipinin Gel Al olduğu kontrol edilir
 * "3" saniye bekle
@@ -527,7 +527,7 @@
 
 # Servis tipinin Adrese Teslim olduğu kontrol edilir
 * "3" saniye bekle
-* Element var mı kontrol et "AdreseTeslimTextKontrol"
+* Element var mı kontrol et "adreseTeslimTextKontrol"
 
 # Adrese teslim butonuna tıklanamadığı görülür
 * Elementinin "anasayfaServisTipiDegisimibuton" tıklanabilirliğini kontrol et
@@ -555,7 +555,7 @@
 * Element var mı kontrol et "subeTestPulseKontrol"
 
 # Adrese teslim adres düzenleye tıklanır
-* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDüzenle"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDuzenle"
 
 # Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
 * "6" saniye bekle
@@ -576,11 +576,11 @@
 * Elementi bekle ve sonra tıkla "popupmahalleDropdown"
 * Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
 * Elementi bekle ve sonra tıkla "caddeDropdown"
-* Elementi bekle ve sonra tıkla "CaddeSokakSelect835Sokak"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
-* Elementi bekle ve sonra tıkla "DropdownKapıNoSelect"
+* Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
@@ -588,7 +588,7 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Kalem ikonuna tıklanır

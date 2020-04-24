@@ -1,76 +1,76 @@
 
 # Dürümler ekranı kontrol edilir
-* Element var mı kontrol et "Dürümler_Buton1"
-* Element var mı kontrol et "Dürümler_Buton2"
-* Element var mı kontrol et "Dürümler_Buton3"
+* Element var mı kontrol et "durumlerButon1"
+* Element var mı kontrol et "durumlerButon2"
+* Element var mı kontrol et "durumlerButon3"
 * "2" saniye bekle
 
 # Ekmek Arası ekranı kontrol edilir
-* Element var mı kontrol et "EkmekArasi_Buton1"
-* Element var mı kontrol et "EkmekArasi_Buton2"
-* Element var mı kontrol et "EkmekArasi_Buton3"
-* Element var mı kontrol et "EkmekArasi_Buton4"
-* Element var mı kontrol et "EkmekArasi_Buton5"
-* Element var mı kontrol et "EkmekArasi_Buton6"
-* Element var mı kontrol et "EkmekArasi_Buton7"
+* Element var mı kontrol et "ekmekArasiButon1"
+* Element var mı kontrol et "ekmekArasiButon2"
+* Element var mı kontrol et "ekmekArasiButon3"
+* Element var mı kontrol et "ekmekArasiButon4"
+* Element var mı kontrol et "ekmekArasiButon5"
+* Element var mı kontrol et "ekmekArasiButon6"
+* Element var mı kontrol et "ekmekArasiButon7"
 * "2" saniye bekle
 
 # Tavuklar ekranı kontrol edilir
-* Element var mı kontrol et "Tavuklar_Buton1"
-* Element var mı kontrol et "Tavuklar_Buton2"
-* Element var mı kontrol et "Tavuklar_Buton3"
-* Element var mı kontrol et "Tavuklar_Buton4"
-* Element var mı kontrol et "Tavuklar_Buton5"
-* Element var mı kontrol et "Tavuklar_Buton6"
-* Element var mı kontrol et "Tavuklar_Buton7"
-* Element var mı kontrol et "Tavuklar_Buton8"
-* Element var mı kontrol et "Tavuklar_Buton9"
-* Element var mı kontrol et "Tavuklar_Buton10"
+* Element var mı kontrol et "tavuklarButon1"
+* Element var mı kontrol et "tavuklarButon2"
+* Element var mı kontrol et "tavuklarButon3"
+* Element var mı kontrol et "tavuklarButon4"
+* Element var mı kontrol et "tavuklarButon5"
+* Element var mı kontrol et "tavuklarButon6"
+* Element var mı kontrol et "tavuklarButon7"
+* Element var mı kontrol et "tavuklarButon8"
+* Element var mı kontrol et "tavuklarButon9"
+* Element var mı kontrol et "tavuklarButon10"
 * "2" saniye bekle
 
 # Tatlılar ekranı kontrol edilir
-* Element var mı kontrol et "Tatlilar_Buton1"
-* Element var mı kontrol et "Tatlilar_Buton2"
- Element var mı kontrol et "Tatlilar_Buton3"
+* Element var mı kontrol et "tatlilarButon1"
+* Element var mı kontrol et "tatlilarButon2"
+ Element var mı kontrol et "tatlilarButon3"
 * "2" saniye bekle
 
 # Ekmekler ekranı kontrol edilir
-* Element var mı kontrol et "Ekmekler_Buton1"
-* Element var mı kontrol et "Ekmekler_Buton2"
+* Element var mı kontrol et "ekmeklerButon1"
+* Element var mı kontrol et "ekmeklerButon2"
 * "2" saniye bekle
 
 # Salatalar ekranı kontrol edilir
-* Element var mı kontrol et "Salatalar_Buton1"
+* Element var mı kontrol et "salatalarButon1"
 * "2" saniye bekle
 
 # İçecekler ekranı kontrol edilir
-* Element var mı kontrol et "Icecekler_Buton1"
-* Element var mı kontrol et "Icecekler_Buton2"
-* Element var mı kontrol et "Icecekler_Buton3"
-* Element var mı kontrol et "Icecekler_Buton4"
-* Element var mı kontrol et "Icecekler_Buton5"
-* Element var mı kontrol et "Icecekler_Buton6"
-* Element var mı kontrol et "Icecekler_Buton7"
-* Element var mı kontrol et "Icecekler_Buton8"
-* Element var mı kontrol et "Icecekler_Buton9"
-* Element var mı kontrol et "Icecekler_Buton10"
-* Element var mı kontrol et "Icecekler_Buton11"
-* Element var mı kontrol et "Icecekler_Buton12"
-* Element var mı kontrol et "Icecekler_Buton13"
-* Element var mı kontrol et "Icecekler_Buton14"
-* Element var mı kontrol et "Icecekler_Buton15"
-* Element var mı kontrol et "Icecekler_Buton16"
-* Element var mı kontrol et "Icecekler_Buton17"
-* Element var mı kontrol et "Icecekler_Buton18"
-* Element var mı kontrol et "Icecekler_Buton19"
-* Element var mı kontrol et "Icecekler_Buton20"
-* Element var mı kontrol et "Icecekler_Buton21"
+* Element var mı kontrol et "iceceklerButon1"
+* Element var mı kontrol et "iceceklerButon2"
+* Element var mı kontrol et "iceceklerButon3"
+* Element var mı kontrol et "iceceklerButon4"
+* Element var mı kontrol et "iceceklerButon5"
+* Element var mı kontrol et "iceceklerButon6"
+* Element var mı kontrol et "iceceklerButon7"
+* Element var mı kontrol et "iceceklerButon8"
+* Element var mı kontrol et "iceceklerButon9"
+* Element var mı kontrol et "iceceklerButon10"
+* Element var mı kontrol et "iceceklerButon11"
+* Element var mı kontrol et "iceceklerButon12"
+* Element var mı kontrol et "iceceklerButon13"
+* Element var mı kontrol et "iceceklerButon14"
+* Element var mı kontrol et "iceceklerButon15"
+* Element var mı kontrol et "iceceklerButon16"
+* Element var mı kontrol et "iceceklerButon17"
+* Element var mı kontrol et "iceceklerButon18"
+* Element var mı kontrol et "iceceklerButon19"
+* Element var mı kontrol et "iceceklerButon20"
+* Element var mı kontrol et "iceceklerButon21"
 * "2" saniye bekle
 
 # Soslar ekranı kontrol edilir
-* Element var mı kontrol et "Soslar_Buton1"
-* Element var mı kontrol et "Soslar_Buton2"
-* Element var mı kontrol et "Soslar_Buton3"
+* Element var mı kontrol et "soslarButon1"
+* Element var mı kontrol et "soslarButon2"
+* Element var mı kontrol et "soslarButon3"
 * "2" saniye bekle
 
 # İçecekler tabına tıklanır
@@ -102,27 +102,27 @@
 * Elementi bekle ve sonra tıkla "extraLezzetlerTabEkmeklerButon"
 
 # Salatalar tabına tıklanır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Salatalar_Buton"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSalatalarButon"
 
 # Soslar tabına tıklanır
-* Elementi bekle ve sonra tıkla "extra_Lezzetler_Tab_Soslar_Buton"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabSoslarButon"
 
 # Ekstra lezzetler sayfasının açıldığı kontrol edilir
-* Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
+* Element var mı kontrol et "extraLezzetlerEkstraLezzetlerText"
 
 # Sepete coca cola eklenir
-*"SepeteEkleCocaCola" alanına kaydır
+*"sepeteEkleCocaCola" alanına kaydır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "SepeteEkleCocaCola"
+* Elementi bekle ve sonra tıkla "sepeteEkleCocaCola"
 
 # Sepete coca cola eklenir (Stg)
-* Elementi bekle ve sonra tıkla "SepeteEkleCocaColaStg"
+* Elementi bekle ve sonra tıkla "sepeteEkleCocaColaStg"
 
 # Sepette coca cola var mı kontrol edilir
-* Element var mı kontrol et "SepeteEkleCocaColaControl"
+* Element var mı kontrol et "sepeteEkleCocaColaControl"
 
 # Sepette coca cola var mı kontrol edilir (Stg)
-* Element var mı kontrol et "SepeteEkleCocaColaControlStg"
+* Element var mı kontrol et "sepeteEkleCocaColaControlStg"
 
 # Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
 * Elementi bekle ve sonra tıkla "extraLezzetlerTabSagOkButon"
@@ -134,10 +134,10 @@
 * Elementi bekle ve sonra tıkla "ustTabTumPizzalar"
 * Element var mı kontrol et "anasayfaTumPizzalarText"
 * Elementi bekle ve sonra tıkla "ustTabEkstralarveIcecekler"
-* Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
+* Element var mı kontrol et "extraLezzetlerEkstraLezzetlerText"
 
 # Ekstra lezzetler sayfasındayken profilim popup kontrolü yapılır
-* Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
+* Element var mı kontrol et "extraLezzetlerEkstraLezzetlerText"
 * Elementi bekle ve sonra tıkla "profilMenuButon"
 * Element var mı kontrol et "uyelikBilgilerimButon"
 
@@ -145,5 +145,5 @@
 * Elementi bekle ve sonra tıkla "sufleEkle"
 
 # Sepette Sufle olduğu kontrol edilir
-* Element var mı kontrol et "sepettekisufle"
+* Element var mı kontrol et "sepettekiSufle"
 

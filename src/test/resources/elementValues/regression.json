@@ -30,12 +30,12 @@
     "type": "xpath"
   },
   {
-    "key": "subeyeözelkampanyalarStg",
+    "key": "subeyeOzelKampanyalarStg",
     "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'ubene Özel Kampanyalar')]",
     "type": "xpath"
   },
   {
-    "key": "barbeküpizzaStg",
+    "key": "barbekuPizzaStg",
     "value":"(//div[contains(text(),'Barbekü Soslu Sucuklu')])[1]",
     "type": "xpath"
   },
@@ -50,12 +50,12 @@
     "type": "id"
   },
   {
-    "key": "SepeteEkleCocaColaStg",
+    "key": "sepeteEkleCocaColaStg",
     "value": "(//a[@class='productCard__Button-sc-1qfpiga-6 iUKfZW'][contains(text(),'SEPETE EKLE')])[1]",
     "type": "xpath"
   },
   {
-    "key": "SepeteEkleCocaColaControlStg",
+    "key": "sepeteEkleCocaColaControlStg",
     "value": "//div[@id='DPE_TR_HOME_BUTTON_BASKET']/div//h4[.='450 Ml Coca-Cola']",
     "type": "xpath"
   },
@@ -90,17 +90,17 @@
     "type": "xpath"
   },
   {
-    "key": "HaftaninKampanyalariStg",
+    "key": "haftaninKampanyalariStg",
     "value":"//div[@id='DPE_TR_CAMPAIGNS_TAB3']",
     "type": "xpath"
   },
   {
-    "key": "ortaBoyBarbekuPizzaStg",
+    "key": "ortaboyBarbekuPizzaStg",
     "value":"//div[@id='DPE_TR_CAMPAIGNS_TAB4_CARD2']//div[contains(text(),'Sipari')]",
     "type": "xpath"
   },
   {
-    "key": "ortaBoyTavukluPizzaStg",
+    "key": "ortaboyTavukluPizzaStg",
     "value":"//div[@id='DPE_TR_CAMPAIGNS_TAB0_CARD18']//div[contains(text(),'Sipari')]",
     "type": "xpath"
   },

@@ -1,15 +1,15 @@
 
 # Profilim popup Ye Kazan butonuna tıklanır
-* Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Buton"
+* Elementi bekle ve sonra tıkla "profilimPopupYeKazanButon"
 
 # Profilim popup Ye Kazan sayfası kontrol edilir
-* Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox"
-* Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Ye_Kazana_Katıl_Buton"
-* Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Sıkca_Sorulan_Sorular_Text"
+* Element var mı kontrol et "profilimPopupYeKazanSadakatProgramiCheckbox"
+* Element var mı kontrol et "profilimPopupYeKazanyeKazanaKatilButon"
+* Element var mı kontrol et "profilimPopupYeKazanSikcaSorulanSorularText"
 
 # Profilim popup Ye Kazan Üyelik Koşulları sayfasına gidilir ve kontrol edilir
-* Elementi bekle ve sonra tıkla "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Linktext"
-* Element var mı kontrol et "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Yedikce_Kazan_Text"
+* Elementi bekle ve sonra tıkla "profilimPopupYeKazanUyelikKosullariLinktext"
+* Element var mı kontrol et "profilimPopupYeKazanUyelikKosullariYedikceKazanText"
 
 # Profilim popup Üyelik bilgilerim sayfasının değiştirilebilir alanları kontrol edilir
 * Element var mı kontrol et "üyelik_Bilgilerim_Ad_Textbox"
@@ -21,8 +21,8 @@
 * Element var mı kontrol et "üyelik_Bilgilerim_Ye_Kazan_Checkbox"
 
 # Profilim popup Üyelik bilgilerim zorunlu alanlar kontrol edilir
-* Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Eposta_Textbox"
-* Element var mı kontrol et "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox"
+* Element var mı kontrol et "profilimPopupUyelikBilgilerimEpostaTextbox"
+* Element var mı kontrol et "profilimPopupUyelikBilgilerimTelefonTextbox"
 
 # Profilim popup Üyelik bilgilerim değişiklik yapıldığı kontrol edilir
 * "3" saniye bekle
@@ -75,9 +75,9 @@
 * Element var mı kontrol et "üyelik_Bilgilerim_Üyelikten_Ayrılmak_Linktext"
 
 # Profilim popup Siparişlerim sayfasındaki alanların geldiği kontrol edilir
-* Element var mı kontrol et "Profilim_Popup_Siparislerim_Aktif_Siparislerim_Text"
-* Element var mı kontrol et "Profilim_Popup_Siparislerim_Tek_Tikla_Siparislerim_Text"
-* Element var mı kontrol et "Profilim_Popup_Siparislerim_Eski_Siparislerim_Text"
+* Element var mı kontrol et "profilimPopupSiparislerimAktifSiparislerimText"
+* Element var mı kontrol et "profilimPopupSiparislerimTekTiklaSiparislerimText"
+* Element var mı kontrol et "profilimPopupSiparislerimEskiSiparislerimText"
 
 # Profilim popup Pizza Takip butonuna basılır
 * Elementi bekle ve sonra tıkla "profilimPopupPizzaTakipButon"
@@ -93,10 +93,10 @@
 * Element var mı kontrol et "pizzaTakipSiparisSonucuText"
 
 # Profilim popup Adreslerim İl, İlçe, Mahalle düzenlenir
-* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimIlIlceDüzenleButon"
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimIlIlceDuzenleButon"
 * İl ilçe mahalle seçilir
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
-* Element var mı kontrol et "profilimPopupAdreslerimIlIlceDüzenlemeKontrol"
+* Element var mı kontrol et "profilimPopupAdreslerimIlIlceDuzenlemeKontrol"
 
 # Profilim popup Adreslerim kayıtlı adreslerden adres seçilir
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimEklenenAdres"
@@ -112,11 +112,11 @@
 # Profilim popup random not oluşturulup, notun oluştuğu kontrol edilir
 * "5" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
 * "3" saniye bekle
-* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* "notlarimYeniNotEklenotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * Elementi bekle ve sonra tıkla "notlarimYeniNotEkleKaydetButon"
 * "3" saniye bekle
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "randomKelime" saklanan değeri içeriyor mu kontrol et
+* "notlarimBirincinotBasligi" li elementi bul ve değerini "randomKelime" saklanan değeri içeriyor mu kontrol et
 
 # Profilim popup not düzenle butonuna tıklanır ve düzenle popup açıldığı kontrol edilir
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
@@ -125,42 +125,42 @@
 # Profilim popup not oluşturulur, not düzenlenir ve değiştiği kontrol edilir
 * "5" uzunlugunda random bir kelime üret ve "randomKelime5" olarak sakla
 * "3" saniye bekle
-* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime5" saklanan degeri yazdir
+* "notlarimYeniNotEklenotBasligiTextbox" li elementi bul ve değerini "randomKelime5" saklanan degeri yazdir
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime5" saklanan degeri yazdir
 * Elementi bekle ve sonra tıkla "notlarimYeniNotEkleKaydetButon"
 * "3" saniye bekle
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "randomKelime5" saklanan değeri içeriyor mu kontrol et
+* "notlarimBirincinotBasligi" li elementi bul ve değerini "randomKelime5" saklanan değeri içeriyor mu kontrol et
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
 * Element var mı kontrol et "notlarimDüzenlePopupText"
 * "1" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
 * "3" saniye bekle
-* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* "notlarimYeniNotEklenotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * Elementi bekle ve sonra tıkla "notlarimDüzenleDegisiklikleriKaydetButon"
 * "3" saniye bekle
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "randomKelime5" saklanan değer ile karşılaştır ve değişiklik oldugunu dogrula
+* "notlarimBirincinotBasligi" li elementi bul ve değerini "randomKelime5" saklanan değer ile karşılaştır ve değişiklik oldugunu dogrula
 
 # Profilim popup not düzenleden vazgeçilir ve notun değişmediği kontrol edilir
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
+* "notlarimBirincinotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
 * Elementi bekle ve sonra tıkla "notlarimDüzenlePopupKapatButonu"
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" saklanan değer ile karşılaştır
+* "notlarimBirincinotBasligi" li elementi bul ve değerini "notBasligi" saklanan değer ile karşılaştır
 
 # Profilim popup var olan not silinir
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
 * Elementi bekle ve sonra tıkla "notlarimDüzenlePopupKapatButonu"
-* Elementi bekle ve sonra tıkla "notlarimBirinciNotBasligi"
+* Elementi bekle ve sonra tıkla "notlarimBirincinotBasligi"
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
 * Elementi bekle ve sonra tıkla "notlarimSilButon"
 * Elementi bekle ve sonra tıkla "Notlarım_Yeni_Not_Ekle_Buton"
 
 # Profilim popup Çıkış Yap butonuna basılır
-* Elementi bekle ve sonra tıkla "Profilim_Popup_Cikis_Yap_LinkText"
+* Elementi bekle ve sonra tıkla "profilimPopupCikisYapLinkText"
 
 # Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimButon"
-* Element var mı kontrol et "AdreseTeslimTextKontrol"
+* Element var mı kontrol et "adreseTeslimTextKontrol"
 
 # Profilim popup Adreslerim butonuna tıklanır
 * "2" saniye bekle
@@ -227,7 +227,7 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 * "2" saniye bekle
 
@@ -247,17 +247,17 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
-* "AdresTarifi" li elementi bul, temizle ve "test" değerini yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Kullanıcıdan eklenen adres silinir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaAdresDegisikligiButton"
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* Elementi bekle ve sonra tıkla "uyelikBilgilerimAdreslerimIlkAdres"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Sil_Buton"
-* Element yok mu kontrol et "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* Element yok mu kontrol et "uyelikBilgilerimAdreslerimIlkAdres"
 
 # Anasayfa adres değişikliği butonuna tıklanır
 * Elementi bekle ve sonra tıkla "anasayfaAdresDegisikligiButton"
@@ -273,32 +273,32 @@
 * Elementi bekle ve sonra tıkla "secilisubeiledevamedilirGelal"
 
 # Ödemeyi tamamla butonu geldiği kontrol edilir
-* Element var mı kontrol et "OdemeyiTamamla"
+* Element var mı kontrol et "odemeyiTamamla"
 
 # Not ekle butonuna tıklanır
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "noteklebuton"
+* Elementi bekle ve sonra tıkla "notEkleButon"
 
 # Not eklenir
-* "Test Not Başlığı" textini "notbasligi" elemente yaz
+* "Test Not Başlığı" textini "notBasligi" elemente yaz
 * "Test Not İçeriği" textini "not" elemente yaz
 * Elementi bekle ve sonra tıkla "noteklenir"
 * "3" saniye bekle
 
 # Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * "2" saniye bekle
-* "noteklemeKontrol" li elementin değeri "Test Not Başlığı" e eşitliğini kontrol et
+* "notEklemeKontrol" li elementin değeri "Test Not Başlığı" e eşitliğini kontrol et
 
 # Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Elementi bekle ve sonra tıkla "notEkleCombobox"
-* Elementi bekle ve sonra tıkla "notEkleComboboxTestNotBasligi"
+* Elementi bekle ve sonra tıkla "notEkleComboboxTestnotBasligi"
 
 # Varolan notum silinir
 * Elementi bekle ve sonra tıkla "notlarimDuzenleButon"
 * Elementi bekle ve sonra tıkla "notlarımSilButon"
 
 # Profilimden adreslerime giderek kayıtlı adres silinir
-* Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Adreslerim_ilkadres"
+* Elementi bekle ve sonra tıkla "uyelikBilgilerimAdreslerimIlkAdres"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adreslerim_Adres_Düzenle_Sil_Buton"

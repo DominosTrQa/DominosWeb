@@ -4,7 +4,7 @@ Promosyon Kodu
 
 Promosyon kodu ile sepete ekleme(olumsuz senaryo)
 -------------------------------------------------
-tags:Promosyonkoduile_Sepeteekleme_OlumsuzSenaryo
+tags:promosyonKoduile_Sepeteekleme_OlumsuzSenaryo
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir

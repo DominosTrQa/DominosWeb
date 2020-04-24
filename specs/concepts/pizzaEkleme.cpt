@@ -4,10 +4,10 @@
 * Elementi bekle ve sonra tıkla "pizzaBoyutuIlkSecim"
 
 # Kenar tipinde ilk kenar seçilir
-* Elementi bekle ve sonra tıkla "pizzaKenarıIlkSecim"
+* Elementi bekle ve sonra tıkla "pizzaKenariIlkSecim"
 
 # Acılı istiyorum seçeneğine tıklanır
-* Elementi bekle ve sonra tıkla "acılıistiyorumbutonu"
+* Elementi bekle ve sonra tıkla "aciliIstiyorumCheckboxbutonu"
 
 # Mozarella peyniri çıkarılır
 * Elementi bekle ve sonra tıkla "mozarellaPeyniri"
@@ -24,11 +24,11 @@
 * Seçiniz butonuna tıklanır
 
 # Pizza sos eklenir
-* Elementi bekle ve sonra tıkla "Pizzasoseklenir"
+* Elementi bekle ve sonra tıkla "pizzaSosEklenir"
 
 # Sos tercihi acı sos seçilir
-* Elementi bekle ve sonra tıkla "acısosTercihi"
+* Elementi bekle ve sonra tıkla "aciSosTercihi"
 
 # Pizza sepete eklenir
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "pizzasepeteekle"
+* Elementi bekle ve sonra tıkla "pizzaSepeteEkle"

@@ -55,12 +55,12 @@
     "type": "xpath"
   },
   {
-    "key": "subeyeOzelHaftaninKampanyalariText",
+    "key": "subeyeOzelhaftaninKampanyalariText",
     "value":"//div[contains(text(),'Haftanın Kampanyaları')]",
     "type": "xpath"
   },
   {
-    "key": "subeyeOzelTümkampanyalariInceleButon",
+    "key": "subeyeOzelTumKampanyalariInceleButon",
     "value":"DPE_TR_STOREDETAIL_BUTTON_ALLCAMPAIGN",
     "type": "id"
   },
@@ -120,12 +120,12 @@
     "type": "xpath"
   },
   {
-    "key": "subeyeOzelSubeyiDegistirSecilenIlceSarıyer",
+    "key": "subeyeOzelSubeyiDegistirSecilenIlceSarİyer",
     "value":"//a[contains(text(),'Sarıyer')][1]",
     "type": "xpath"
   },
   {
-    "key": "subeyeOzelFırsatlarButonGelAl",
+    "key": "subeyeOzelFirsatlarButonGelAl",
     "value":"DPE_TR_CAMPAIGNS_TAB4",
     "type": "id"
   }

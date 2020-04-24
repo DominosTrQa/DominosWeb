@@ -3,7 +3,7 @@
 * Elementini bekle ve hemen tıkla "anasayfaIlkFirsat"
 
 # Anasayfadaki Ekmek Arası fırsatına tıklanır
-* Elementi bekle ve sonra tıkla "AnasayfaEkmekArasıFırsatı"
+* Elementi bekle ve sonra tıkla "anasayfaEkmekArasiFirsati"
 
 # Dilediğin 2 Adet Ekmek Arası kampanyası için ürünler seçilir
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
@@ -12,7 +12,7 @@
 * Elementi bekle ve sonra tıkla "patsoEkmekArasiButon"
 
 # Ürün seçildikten sonra sepete eklenir
-* Elementi bekle ve sonra tıkla "pizzasepeteekle"
+* Elementi bekle ve sonra tıkla "pizzaSepeteEkle"
 
 
 # Ürün seçildikten sonra sepete eklenir/ Gel Al
@@ -33,7 +33,7 @@
 
 # Kalp şeklinde hamura tıklanır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "Kalpseklindehamurbuton"
+* Elementi bekle ve sonra tıkla "kalpSeklindeHamurButon"
 
 # Bol Sosis Klasik Kenar seçilir
 * Elementi bekle ve sonra tıkla "bolSosisKlasikKenarButon"
@@ -46,10 +46,10 @@
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Pizza düzenle butonuna basılır(ikinci ürün)
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxikinciürün"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonTextboxIkinciUrun"
 
 # Pizza düzenle butonuna basılır(ücüncü ürün)
-* Elementi bekle ve sonra tıkla "pizzaDüzenleButonTextboxücüncüürün"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonTextboxUcuncuUrun"
 
 # Ekstra Malzeme Ekle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "ekstraMalzemeEkleButon"
@@ -60,35 +60,35 @@
 * Elementi bekle ve sonra tıkla "ekstraMalzemeEkleEkleButon"
 
 # Pizza düzenle güncellenir
-* Elementi bekle ve sonra tıkla "pizzadüzenlegüncellebuton"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleGuncelleButon"
 
 # Şubeye özel fırsatlara tıklanır
-* Elementi bekle ve sonra tıkla "subeyeözelkampanyalar"
+* Elementi bekle ve sonra tıkla "subeyeOzelKampanyalar"
 * "3" saniye bekle
 
 # Şubeye özel fırsatlara tıklanır/ Gel Al
-* Elementi bekle ve sonra tıkla "subeyeOzelFırsatlarButonGelAl"
+* Elementi bekle ve sonra tıkla "subeyeOzelFirsatlarButonGelAl"
 
 # Çıkarmak istenilen malzemeler seçilir
 * Elementi bekle ve sonra tıkla "sucukMalzeme"
 * Elementi bekle ve sonra tıkla "misirMalzeme"
-* Elementi bekle ve sonra tıkla "KekikMalzeme"
+* Elementi bekle ve sonra tıkla "kekikMalzeme"
 
 # Orta boy pizzalar kampanyası seçilir/ Gel Al
-* Elementi bekle ve sonra tıkla "ortaboypizzalarGelAl"
+* Elementi bekle ve sonra tıkla "ortaboyPizzalarGelAl"
 
 # Gel al dürümos kampanyası seçilir/ Gel Al
-* Elementi bekle ve sonra tıkla "ortaboypizzalarGelAlŞubeyeözel"
+* Elementi bekle ve sonra tıkla "ortaboyPizzalarGelAlŞubeyeOzel"
 
 # Tüm Kampanyalar sayfası kontrol edilir
 * Elementi bekle ve sonra tıkla "firsatIlkTab"
-* Element var mı kontrol et "ilkKampanyaIlkPizza"
+* Element var mı kontrol et "ilkKampanyailkPizza"
 
 # Şubeye özel fırsatlar ilk fırsata tıklanır
 *Elementi bekle ve sonra tıkla "firsatIlkTabsosyalpizza"
 
 # Gel Al domisoslu kampanyalara tıklanır
-* Elementi bekle ve sonra tıkla "gelaldomisoslukampanyalar"
+* Elementi bekle ve sonra tıkla "gelAlDomisosluKampanyalar"
 
 # Orta boy pizzalar kampanyası için sipariş oluşturulur
 * "5" saniye bekle
@@ -102,7 +102,7 @@
 # Gel al dürümos kampanyası için sipariş oluşturulur
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
-* Elementi bekle ve sonra tıkla "sebzelipeynirlidürümos"
+* Elementi bekle ve sonra tıkla "sebzeliPeynirliDurumos"
 
 # Fırsat ekranına giriş yapıldığı kontrol edilir
 * "5" saniye bekle
@@ -111,28 +111,28 @@
 
 # Fırsat içeriğindeki pizzanın geldiği kontrol edilir
 * "5" saniye bekle
-* Element var mı kontrol et "ilkKampanyaIlkPizza"
+* Element var mı kontrol et "ilkKampanyailkPizza"
 
 # Fırsat içeriğindeki pizzaya tıklanır
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "ilkKampanyaIlkPizza"
+* Elementi bekle ve sonra tıkla "ilkKampanyailkPizza"
 * "3" saniye bekle
 
 # Fırsat içeriğindeki pizzanın geldiği kontrol edilir(Gel Al)
 * "5" saniye bekle
 * Element var mı kontrol et "2-3kisilikKampanyalarButon1"
-* Element var mı kontrol et "ortaboypizzalarGelAlŞubeyeözel"
+* Element var mı kontrol et "ortaboyPizzalarGelAlŞubeyeOzel"
 
 # Birinci ürün seçilir
-* Elementi bekle ve sonra tıkla "kullaniciyaözelfirsateklemedüzenle"
-* Elementi bekle ve sonra tıkla "kullaniciyaözelfirsateklemedüzenleSelect"
+* Elementi bekle ve sonra tıkla "kullaniciyaOzelFirsatEklemeDuzenle"
+* Elementi bekle ve sonra tıkla "kullaniciyaOzelFirsatEklemeDuzenleSelect"
 
 # Promosyonlu ürünlerden promosyon istemiyorum seçilir
-* Elementi bekle ve sonra tıkla "kullaniciyaözelpromosyonluürünler"
-* Elementi bekle ve sonra tıkla "kullaniciyaözelpromosyonluürünlerSelect"
+* Elementi bekle ve sonra tıkla "kullaniciyaOzelPromosyonluUrunler"
+* Elementi bekle ve sonra tıkla "kullaniciyaOzelPromosyonluUrunlerSelect"
 
 # Kullanıcı bazlı fırsat sepete eklenir
-* Elementi bekle ve sonra tıkla "kullaniciyaözelsepeteekle"
+* Elementi bekle ve sonra tıkla "kullaniciyaOzelSepeteEkle"
 
 # Servis tipi güncellensin mi uyarısı çıkar, evet seçilir
-* Elementi bekle ve sonra tıkla "evetsecilir"
+* Elementi bekle ve sonra tıkla "evetSecilir"

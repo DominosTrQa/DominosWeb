@@ -1,66 +1,66 @@
 [
   {
-    "key": "Profilim_Popup_Ye_Kazan_Buton",
+    "key": "profilimPopupYeKazanButon",
     "value":"//div[@class='styled__Loyaltyregister-sc-126ws66-1 eaLfoz']",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Ye_Kazan_Sadakat_Programı_Checkbox",
+    "key": "profilimPopupYeKazanSadakatProgramiCheckbox",
     "value":"//div[@class='checkbox__CheckBoxContainer-sc-1lav4ov-3 ksfBPQ']",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Ye_Kazan_Ye_Kazana_Katıl_Buton",
+    "key": "profilimPopupYeKazanyeKazanaKatilButon",
     "value":"//button[@class='styled__LoyaltyButton-sc-1n69iee-5 HjgKz']",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Ye_Kazan_Sıkca_Sorulan_Sorular_Text",
+    "key": "profilimPopupYeKazanSikcaSorulanSorularText",
     "value":"//div[@class='styled__Header-sc-1j313tq-7 fmjFdz pageHeader__Container-uo3je7-0 bumabh']//h1[1]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Linktext",
+    "key": "profilimPopupYeKazanUyelikKosullariLinktext",
     "value":"//a[contains(text(),'Üyelik Ko')]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Ye_Kazan_Uyelik_Kosulları_Yedikce_Kazan_Text",
+    "key": "profilimPopupYeKazanUyelikKosullariYedikceKazanText",
     "value":"//h1[contains(text(),'Yedikçe kazan')]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Uyelik_Bilgilerim_Eposta_Textbox",
+    "key": "profilimPopupUyelikBilgilerimEpostaTextbox",
     "value":"//input[@label='E-Posta Adresi']",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Uyelik_Bilgilerim_Telefon_Textbox",
+    "key": "profilimPopupUyelikBilgilerimTelefonTextbox",
     "value":"//input[@label='Telefon']",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Uyelik_Bilgilerim_Sms_Textbox",
+    "key": "profilimPopupUyelikBilgilerimSmsTextbox",
     "value":"//p[contains(text(),'SMS')]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_siparislerimButon",
+    "key": "profilimPopupSiparislerimButon",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 bhlbwE'][contains(text(),'Sipari')]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Siparislerim_Tek_Tikla_Siparislerim_Text",
+    "key": "profilimPopupSiparislerimTekTiklaSiparislerimText",
     "value":"//h4[contains(text(),'kla Sipari')]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Siparislerim_Aktif_Siparislerim_Text",
+    "key": "profilimPopupSiparislerimAktifSiparislerimText",
     "value":"//h4[contains(text(),'Aktif Sipari')]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Siparislerim_Eski_Siparislerim_Text",
+    "key": "profilimPopupSiparislerimEskiSiparislerimText",
     "value":"//h4[contains(text(),'Eski Sipari')]",
     "type": "xpath"
   },
@@ -80,7 +80,7 @@
     "type": "xpath"
   },
   {
-    "key": "AdreseTeslimTextKontrol",
+    "key": "adreseTeslimTextKontrol",
     "value":"//span[contains(text(),'Adrese Teslim')]",
     "type": "xpath"
   },
@@ -95,12 +95,12 @@
     "type": "xpath"
   },
   {
-    "key": "profilimPopupAdreslerimIlIlceDüzenleButon",
+    "key": "profilimPopupAdreslerimIlIlceDuzenleButon",
     "value":"DPE_TR_ADDRESSEDIT_BUTTON_EDIT",
     "type": "id"
   },
   {
-    "key": "profilimPopupAdreslerimIlIlceDüzenlemeKontrol",
+    "key": "profilimPopupAdreslerimIlIlceDuzenlemeKontrol",
     "value":"//span[contains(text(),'İstanbul')]",
     "type": "xpath"
   },
@@ -120,42 +120,42 @@
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Cikis_Yap_LinkText",
+    "key": "profilimPopupCikisYapLinkText",
     "value":"//a[@class='styled__ProfileMenuItemAnchor-sc-126ws66-7 jjKXGt']",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Adreslerim_LinkText",
+    "key": "profilimPopupAdreslerimLinkText",
     "value":"//a[contains(text(),'Adreslerim')]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Kredi_Kartlarim_LinkText",
+    "key": "profilimPopupKrediKartlarimLinkText",
     "value":"//a[contains(text(),'Kredi Kartlar')]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Notlarim_LinkText",
+    "key": "profilimPopupNotlarimLinkText",
     "value":"//a[contains(text(),'Notlar')]",
     "type": "xpath"
   },
   {
-    "key": "Profilim_Popup_Merhaba_Text",
+    "key": "profilimPopupMerhabaText",
     "value":"//h4[@class='styled__ProfileLoyaltyTitle-sc-126ws66-11 AUWRl']",
     "type": "xpath"
   },
   {
-    "key": "üyelik_Bilgilerim_Adreslerim_ilkadres",
+    "key": "uyelikBilgilerimAdreslerimIlkAdres",
     "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSITEM0",
     "type": "id"
   },
   {
-    "key": "noteklebuton",
+    "key": "notEkleButon",
     "value":"DPE_TR_NOTES_BUTTON_ADD",
     "type": "id"
   },
   {
-    "key": "notbasligi",
+    "key": "notBasligi",
     "value":"DPE_TR_NOTEFORM_INPUT_TITLE",
     "type": "id"
   },
@@ -170,7 +170,7 @@
     "type": "id"
   },
   {
-    "key": "noteklemeKontrol",
+    "key": "notEklemeKontrol",
     "value":"//h4[@class='notes__NoteTitle-x7fyts-3 cpNPRp'][contains(text(),'Test Not Başlığı')]",
     "type": "xpath"
   },

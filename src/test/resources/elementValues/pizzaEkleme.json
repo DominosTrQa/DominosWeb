@@ -5,12 +5,12 @@
     "type": "id"
   },
   {
-    "key": "pizzaKenarıIlkSecim",
+    "key": "pizzaKenariIlkSecim",
     "value":"DPE_TR_PIZZADETAIL_BUTTON_SIDE_TYPENONE",
     "type": "id"
   },
   {
-    "key": "acılıistiyorumbutonu",
+    "key": "aciliIstiyorumCheckboxbutonu",
     "value":"DPE_TR_PIZZADETAIL_CHECKBOX_OPTION1",
     "type": "id"
   },
@@ -30,37 +30,37 @@
     "type": "id"
   },
   {
-    "key": "Pizzasoseklenir",
+    "key": "pizzaSosEklenir",
     "value":"DPE_TR_PIZZADETAIL_DROPDOWN_EXTRAOPTION_ITEM0",
     "type": "id"
   },
   {
-    "key": "acısosTercihi",
+    "key": "aciSosTercihi",
     "value":"DPE_TR_PIZZADETAIL_BUTTON_SAUCES_TYPE_ACISOS",
     "type": "id"
   },
   {
-    "key": "pizzasepeteekle",
+    "key": "pizzaSepeteEkle",
     "value":"DPE_TR_PIZZADETAIL_BUTTON_ADDTOBASKET",
     "type": "id"
   },
   {
-    "key": "ilkpizza",
+    "key": "ilkPizza",
     "value":"DPE_TR_PIZZAS_TAB0_CARD0",
     "type": "id"
   },
   {
-    "key": "ilkboyut",
+    "key": "ilkBoyut",
     "value":"DPE_TR_PIZZADETAIL_BUTTON_PIZZA_SIZE8",
     "type": "id"
   },
   {
-    "key": "ilkhamurtipi",
+    "key": "ilkHamurTipi",
     "value":"DPE_TR_PIZZADETAIL_BUTTON_DOUGH_TYPE_KLSKHMR",
     "type": "id"
   },
   {
-    "key": "ilkkenartipi",
+    "key": "ilkKenarTipi",
     "value":"DPE_TR_PIZZADETAIL_BUTTON_SIDE_TYPENONE",
     "type": "id"
   }

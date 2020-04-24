@@ -115,7 +115,7 @@
 # Random yeni not eklenir
 * "5" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
 * "3" saniye bekle
-* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* "notlarimYeniNotEklenotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * Elementi bekle ve sonra tıkla "notlarimYeniNotEkleKaydetButon"
 * "3" saniye bekle
@@ -131,18 +131,18 @@
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
 * "1" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
 * "3" saniye bekle
-* "notlarimYeniNotEkleNotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
+* "notlarimYeniNotEklenotBasligiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * "notlarimYeniNotEkleNotTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * Elementi bekle ve sonra tıkla "notlarimDüzenleDegisiklikleriKaydetButon"
 * "3" saniye bekle
 
 # Eklenen notu düzenlemekten vazgeçilir ve değişiklik olmadığı kontrol edilir
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
+* "notlarimBirincinotBasligi" li elementi bul ve değerini "notBasligi" olarak sakla
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "notlarimBirinciNotBasligi"
+* Elementi bekle ve sonra tıkla "notlarimBirincinotBasligi"
 * Elementi bekle ve sonra tıkla "notlarimIlkNotDuzenleButon"
 * Elementi bekle ve sonra tıkla "notlarimDüzenlePopupKapatButonu"
-* "notlarimBirinciNotBasligi" li elementi bul ve değerini "notBasligi" saklanan değer ile karşılaştır
+* "notlarimBirincinotBasligi" li elementi bul ve değerini "notBasligi" saklanan değer ile karşılaştır
 
 # Kredi Kartlarım sayfasında kredi kartı ekleme adımına gelinir
 * Elementi bekle ve sonra tıkla "kredi_Kartlarım_Kart_Ekle_Buton"
@@ -198,7 +198,7 @@
 * Element var mı kontrol et "üyelik_Bilgilerim_Sifre_Degistir_Aynı_Sifre_Olamaz_Popup_Text"
 
 # Adreslerim butonuna tıklanır
-* Elementi bekle ve sonra tıkla "AdreslerimButonunaTıklanır"
+* Elementi bekle ve sonra tıkla "adreslerimButonunaTiklanir"
 
 # Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox"

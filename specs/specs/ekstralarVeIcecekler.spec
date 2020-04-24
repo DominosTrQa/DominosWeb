@@ -116,7 +116,7 @@ tags:ekstralarVeIcecekler_anasayfaEkstralarveiceceklerUstBarSepetimPopupKontrolu
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
-* Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
+* Element var mı kontrol et "extraLezzetlerEkstraLezzetlerText"
 * Sepetim ikonuna tıklanır
 
 
@@ -126,8 +126,8 @@ tags:ekstralarVeIcecekler__anasayfaEkstralarveiceceklerAltBarYazilarinKontrolu
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
-* Element var mı kontrol et "extra_Lezzetler_Ekstra_Lezzetler_Text"
-* Element var mı kontrol et "extra_Lezzetler_Dominos_Blog_Text"
+* Element var mı kontrol et "extraLezzetlerEkstraLezzetlerText"
+* Element var mı kontrol et "extraLezzetlerDominosBlogText"
 
 
 Anasayfa - Ekstralar ve İçecekler - Her Tabda Sepete Ekle Buton Kontrolü

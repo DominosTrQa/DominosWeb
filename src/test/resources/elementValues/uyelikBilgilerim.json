@@ -335,7 +335,7 @@
     "type": "xpath"
   },
   {
-    "key": "notlarimYeniNotEkleNotBasligiTextbox",
+    "key": "notlarimYeniNotEklenotBasligiTextbox",
     "value":"(//input[@class='input__Control-wbeopl-2 iQtoeP'])[1]",
     "type": "xpath"
   },
@@ -350,7 +350,7 @@
     "type": "xpath"
   },
   {
-    "key": "notlarimBirinciNotBasligi",
+    "key": "notlarimBirincinotBasligi",
     "value":"(//*[(@class='notes__NoteTitle-x7fyts-3 cpNPRp')])[1]",
     "type": "xpath"
   },

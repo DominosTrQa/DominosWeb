@@ -18,7 +18,7 @@ tags:tumKampanyalar_sayfaKontrolu
 
 Tüm Kampanyalar - Haftanın Kampanyaları sayfa kontrolü
 -----------------------------------------
-tags:tumKampanyalar_HaftaninKampanyalarisayfakontrolu
+tags:tumKampanyalar_haftaninKampanyalarisayfakontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -32,7 +32,7 @@ tags:tumKampanyalar_HaftaninKampanyalarisayfakontrolu
 
 Tüm Kampanyalar - Tek Kişilik Kampanyalar sayfa kontrolü
 ---------------------------------------------
-tags:tumKampanyalar_TekKisilikKampanyalarsayfakontrolu
+tags:tumKampanyalar_tekKisilikKampanyalarsayfakontrolu
 
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
