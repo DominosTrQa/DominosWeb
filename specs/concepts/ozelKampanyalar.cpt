@@ -5,7 +5,8 @@
 
 # 3 Al 1 öde kampanyası seçilir (Stg)
 * Element var mı kontrol et "3Al1OdekampanyatextStg"
-* Elementine tıkla "3Al1OdekampanyatextStg"
+ Elementine tıkla "3Al1OdekampanyatextStg"
+* Elementini bekle ve hemen tıkla "3Al1OdekampanyatextStg"
 
 # 3 Al 1 öde kampanyası için sipariş oluşturulur
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
@@ -43,11 +44,13 @@
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * Element var mı kontrol et "ortaboyBarbekuPizza"
-* Elementine tıkla "ortaboyBarbekuPizza"
+ Elementine tıkla "ortaboyBarbekuPizza"
+* Elementini bekle ve hemen tıkla "ortaboyBarbekuPizza"
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir (Staging)
 * Element var mı kontrol et "ortaboyBarbekuPizzaStg"
-* Elementine tıkla "ortaboyBarbekuPizzaStg"
+ Elementine tıkla "ortaboyBarbekuPizzaStg"
+* Elementini bekle ve hemen tıkla "ortaboyBarbekuPizzaStg"
 
 # Domisoslu kampanyalara tıklanır
 * Elementi bekle ve sonra tıkla "domisosluKampanyalar"
@@ -65,7 +68,8 @@
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
 * Element var mı kontrol et "ortaboyTavukluPizzaStg"
-* Elementine tıkla "ortaboyTavukluPizzaStg"
+ Elementine tıkla "ortaboyTavukluPizzaStg"
+* Elementini bekle ve hemen tıkla "ortaboyTavukluPizzaStg"
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir
