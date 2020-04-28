@@ -2671,3 +2671,405 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
+
+
+Üye KVKK İzni Güncelleme - Varolan Üye - Ayrılmaktan Vazgeç
+-----------------------------------------------------------
+tags:regressionStaging_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
+//blocked:Düzelince testiniuma eklenecek
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Cookie onaylıyorum butonuna tıklanır
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
+* Kvkk sözleşmesi için sms, telefon, eposta checkboxları işaretlenir
+* Ye kazan checkboxı için değişikler kaydet butonuna basılır
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Vazgeç butonuna tıklanır
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Onaylıyorum butonuna tıklanır
+* Kvkk checkboxının işaretli olmadığı gözlemlenir
+
+
+Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç
+-----------------------------------------------------------
+tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
+
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
+* Kvkk sözleşmesi için sms, telefon, eposta checkboxları işaretlenir
+* Ye kazan checkboxı için değişikler kaydet butonuna basılır
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Vazgeç butonuna tıklanır
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+
+
+Üye KVKK İzni Güncelleme - Varolan Üye - Ayrılmayı Onayla
+----------------------------------------------------------
+tags:regressionStaging_uyeKVKKIzniGuncellemevarolanUyeAyrilmayiOnayla
+
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Cookie onaylıyorum butonuna tıklanır
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
+* Kvkk sözleşmesi için sms, telefon, eposta checkboxları işaretlenir
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Vazgeç butonuna tıklanır
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Onaylıyorum butonuna tıklanır
+* Kvkk checkboxının işaretli olmadığı gözlemlenir
+
+
+Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla
+-------------------------------------------------------
+tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
+
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
+* Kvkk sözleşmesi için sms, telefon, eposta checkboxları işaretlenir
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Vazgeç butonuna tıklanır
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Onaylıyorum butonuna tıklanır
+* Kvkk checkboxının işaretli olmadığı gözlemlenir
+
+
+Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Giriş
+-----------------------------------------------------------------
+tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
+
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi işaretlenir
+* Açık rıza metni KVKK işaretlenir
+* Üye olurken KVKK sözleşmesi için eposta işaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Vazgeç butonuna tıklanır
+* Kvkk checkboxının işaretli olmadığı gözlemlenir
+
+
+Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Giriş
+---------------------------------------------------------------
+tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
+
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi işaretlenir
+* Açık rıza metni KVKK işaretlenir
+* Üye olurken KVKK sözleşmesi için eposta işaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Vazgeç butonuna tıklanır
+* KVKK checkboxı için değişikleri kaydet butonuna basılır
+* Onaylıyorum butonuna tıklanır
+
+
+Üye Ye Kazan İzni Güncelleme - Varolan Üye - Ayrılmayı Onayla - Üyelik Bilgilerim
+--------------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
+
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Cookie onaylıyorum butonuna tıklanır
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
+* Ye kazan için telefon, sms, e-mail seçilir ve kaydedilir
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Ye kazan checkboxı için değişikler kaydet butonuna basılır
+* Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır
+* Ye kazan uyarı butonundan çıkılır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısının gelmediği kontrol edilir
+
+
+Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Üyelik Bilgilerim
+-------------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgilerim
+
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
+* Ye kazan için telefon, sms, e-mail seçilir ve kaydedilir
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Ye kazan checkboxı için değişikler kaydet butonuna basılır
+* Ye kazan ayrılmaktan vazgeç butonuna tıklanılır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+
+
+Üye Ye Kazan İzni Güncelleme - Varolan Üye - Ayrılmaktan Vazgeç - Üyelik Bilgilerim
+-------------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
+
+//Bug OLOTR-1480 çözüldükten sonra Testinium suiteine eklenecek
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Cookie onaylıyorum butonuna tıklanır
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
+* Ye kazan için telefon, sms, e-mail seçilir ve kaydedilir
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Ye kazan checkboxı için değişikler kaydet butonuna basılır
+* Ye kazan ayrılmaktan vazgeç butonuna tıklanılır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+
+
+Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Üyelik Bilgilerim
+--------------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgilerim
+
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Profilim butonuna tıklanır
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
+* Ye kazan için telefon, sms, e-mail seçilir ve kaydedilir
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Ye kazan checkboxı için değişikler kaydet butonuna basılır
+* Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır
+* Ye kazan uyarı butonundan çıkılır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısının gelmediği kontrol edilir
+
+
+Üye Ye Kazan İzni Güncelleme - Varolan Üye - Ayrılmaktan Vazgeç - Profilim
+--------------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecProfilim
+
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Cookie onaylıyorum butonuna tıklanır
+* Profilim butonuna tıklanır
+* Sana özel hediyeler kazanmak için ye-kazana katıl butonuna tıklanır
+* Sana özel hediyeler kazanmak için ye-kazana katıldıktan sonra ye-kazan checkboxına tıklanır
+* Tercih ettiğiniz iletişim kanalını seçiniz yazısının geldiği görülür
+* Ye kazan üyelik koşulları kabul etmek için telefon, sms, e-mail seçilir
+* Ye kazana katıl butonuna tıklanır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Profilim butonuna tıklanır
+* Ye kazandan ayrıl butonuna tıklanır
+* Ye kazan ayrılmaktan vazgeç butonuna tıklanılır
+* Hediye pizza kazanmana 5 dilim kaldı yazısının olduğu görülür
+* Ye kazandan ayrıl butonuna tıklanır
+* Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır
+* Ye kazan uyarı butonundan çıkılır
+* Ye kazandan ayrıldıktan sonra ye-kazan checkbox geldiği kontrol edilir
+
+
+Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Profilim
+-------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecProfilim
+
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Cookie onaylıyorum butonuna tıklanır
+* Profilim butonuna tıklanır
+* Sana özel hediyeler kazanmak için ye-kazana katıl butonuna tıklanır
+* Sana özel hediyeler kazanmak için ye-kazana katıldıktan sonra ye-kazan checkboxına tıklanır
+* Tercih ettiğiniz iletişim kanalını seçiniz yazısının geldiği görülür
+* Ye kazan üyelik koşulları kabul etmek için telefon, sms, e-mail seçilir
+* Ye kazana katıl butonuna tıklanır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Profilim butonuna tıklanır
+* Ye kazandan ayrıl butonuna tıklanır
+* Ye kazan ayrılmaktan vazgeç butonuna tıklanılır
+* Hediye pizza kazanmana 5 dilim kaldı yazısının olduğu görülür
+* Ye kazandan ayrıl butonuna tıklanır
+* Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır
+* Ye kazan uyarı butonundan çıkılır
+* Ye kazandan ayrıldıktan sonra ye-kazan checkbox geldiği kontrol edilir
+
+
+Üye Ye Kazan İzni Güncelleme - Varolan Üye - Ayrılmayı Onayla - Profilim
+--------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaProfilim
+
+* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Profilim butonuna tıklanır
+* Sana özel hediyeler kazanmak için ye-kazana katıl butonuna tıklanır
+* Sana özel hediyeler kazanmak için ye-kazana katıldıktan sonra ye-kazan checkboxına tıklanır
+* Tercih ettiğiniz iletişim kanalını seçiniz yazısının geldiği görülür
+* Ye kazan üyelik koşulları kabul etmek için telefon, sms, e-mail seçilir
+* Ye kazana katıl butonuna tıklanır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Profilim butonuna tıklanır
+* Ye kazandan ayrıl butonuna tıklanır
+* Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır
+* Ye kazan uyarı butonundan çıkılır
+* Ye kazandan ayrıldıktan sonra ye-kazan checkbox geldiği kontrol edilir
+
+
+Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Profilim
+-----------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaProfilim
+
+* Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Profilim butonuna tıklanır
+* Sana özel hediyeler kazanmak için ye-kazana katıl butonuna tıklanır
+* Sana özel hediyeler kazanmak için ye-kazana katıldıktan sonra ye-kazan checkboxına tıklanır
+* Tercih ettiğiniz iletişim kanalını seçiniz yazısının geldiği görülür
+* Ye kazan üyelik koşulları kabul etmek için telefon, sms, e-mail seçilir
+* Ye kazana katıl butonuna tıklanır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Profilim butonuna tıklanır
+* Ye kazandan ayrıl butonuna tıklanır
+* Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır
+* Ye kazan uyarı butonundan çıkılır
+* Ye kazandan ayrıldıktan sonra ye-kazan checkbox geldiği kontrol edilir
+
+
+Üye Ye Kazan İzni güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Giriş - Üyelik Bilgilerim
+-----------------------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikBilgilerim
+
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi işaretlenir
+* Ye kazan checkbox işaretlenir
+* Üye olurken ye kazan seçildikten sonra eposta işaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Ye kazan checkboxı için değişikler kaydet butonuna basılır
+* Ye kazan ayrılmaktan vazgeç butonuna tıklanılır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+
+
+Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Giriş - Üyelik Bilgilerim
+---------------------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBilgilerim
+
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi işaretlenir
+* Ye kazan checkbox işaretlenir
+* Üye olurken ye kazan seçildikten sonra eposta işaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
+* Üyelik bilgilerim butonuna tıklanır
+* Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
+* Ye kazan checkboxı için değişikler kaydet butonuna basılır
+* Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır
+* Ye kazan uyarı butonundan çıkılır
+* Profilim butonuna tıklanır
+* Bedava pizza kazanmana 5 pizza kaldı yazısının gelmediği kontrol edilir
+
+
+Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Giris - Profilim
+--------------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisProfilim
+
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi işaretlenir
+* Ye kazan checkbox işaretlenir
+* Üye olurken ye kazan seçildikten sonra eposta işaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Profilim butonuna tıklanır
+* Ye kazana üye olan kullanıcı için profilimden ye kazan sayfasına gidilir
+* Ye kazandan ayrıl butonuna tıklanır
+* Ye kazan ayrılmaktan vazgeç butonuna tıklanılır
+* Hediye pizza kazanmana 5 dilim kaldı yazısının olduğu görülür
+
+
+Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Giriş - Profilim
+-------------------------------------------------------------------------
+tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisProfilim
+
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi işaretlenir
+* Ye kazan checkbox işaretlenir
+* Üye olurken ye kazan seçildikten sonra eposta işaretlenir
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Adrese Teslim servis tipi seçilir
+* İl ilçe mahalle seçilir
+* Seçili Adres ile Devam Et butonuna basılır
+* Profilim butonuna tıklanır
+* Ye kazana üye olan kullanıcı için profilimden ye kazan sayfasına gidilir
+* Ye kazandan ayrıl butonuna tıklanır
+* Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır
+* Ye kazan uyarı butonundan çıkılır
+* Ye kazandan ayrıldıktan sonra ye-kazan checkbox geldiği kontrol edilir
