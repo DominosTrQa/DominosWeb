@@ -222,69 +222,56 @@ tags:regressionStaging_uyeOlmadanDevamEtEkranKontrolu
 * Profilim popup eklenen adres silinir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Üye - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası
+Sepete Kampanya Ekleme - Adrese Teslim - Üye - Kampanya 1
 -----------------------------------------------------------------------------------------------------------
- tags:regressionStaging_sepeteKampanyaEklemeAdreseTeslimUyeBarbekuSosluSucukluPizzaKampanyasi
+ tags:regressionStaging_sepeteKampanyaEklemeAdreseTeslimUyeKampanya1
 
 * Dominos - Staging ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
-* İlk ürün düzenlemeye tıklanır
-* Sucuk ve mısır malzemeleri çıkarılır
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Cheddar ve Mozarella eklenir
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Güncelle butonuna tıklanır(özel kampanyalar için)
-* Kampanya sepete eklenir
-* Sepetimde ürün var mı kontrol edilir
-
-
-Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  3 Al 1 Öde
---------------------------------------------------------------------------
- tags:regressionStaging_sepeteKampanyaEklemeAdreseTeslimYeniUye3Al1Ode
-
-* Dominos - Staging ortamına gidilir
-* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
-* Tüm pizzalar alanına kaydırılır
-* Tüm Kampanyalar Butonuna tıklanır
-* Haftanın kampanyalarına gidilir (Staging)
 * 3 Al 1 öde kampanyası seçilir (Stg)
 * 3 Al 1 öde kampanyası için sipariş oluşturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası - Kalp şeklinde
+Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye - Kampanya 2
+--------------------------------------------------------------------------
+ tags:regressionStaging_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
+
+* Dominos - Staging ortamına gidilir
+* Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Tüm pizzalar alanına kaydırılır
+* Tüm Kampanyalar Butonuna tıklanır
+* 3 Al 1 öde kampanyası seçilir (Stg)
+* 3 Al 1 öde kampanyası için sipariş oluşturulur
+* Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+
+
+Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Kampanya 3
 -----------------------------------------------------------------------------------------------------------------------
- tags:regressionStaging_sepeteKampanyaEklemeAdreseTeslimUyeliksizortaBoyBarbekuSosluSucukluPizzaKalpSeklindeHamurSecimi
+ tags:regressionStaging_sepeteKampanyaEklemeAdreseTeslimUyeliksizKampanya3
 
 * Dominos - Staging ortamına gidilir
 * Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
-* İlk ürün düzenlemeye tıklanır
-* Kalp şeklinde hamura tıklanır
-* Sucuk ve mısır malzemeleri çıkarılır
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Cheddar ve Mozarella eklenir
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Güncelle butonuna tıklanır(özel kampanyalar için)
+* 3 Al 1 öde kampanyası seçilir (Stg)
+* 3 Al 1 öde kampanyası için sipariş oluşturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Üye - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası
+Sepete Kampanya Ekleme - Gel Al - Üye - Kampanya 4
 -----------------------------------------------------------------------------------------------------------
- tags:regressionStaging_sepeteKampanyaEklemeGelAlUyeBarbekuSosluSucukluPizzaKampanyasi
+ tags:regressionStaging_sepeteKampanyaEklemeGelAlUyeKampanya4
 
 * Dominos - Staging ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Kampanyalar Butonuna tıklanır
-* Şubene özel fırsatlar(Staging)
-* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir (Staging)
+* Dilediğin büyük boy pizza kampanyası secilir (Stg)
 * İlk ürün düzenlemeye tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
@@ -295,14 +282,15 @@ Sepete Kampanya Ekleme - Gel Al - Üye - Orta Boy Barbekü Soslu Sucuklu pizza k
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal soslu tavuklu
+Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Kampanya 5
 --------------------------------------------------------------------------------
- tags:regressionStaging_sepeteKampanyaEklemeGelAlYeniUyeOrtaBoyBalliHardalSosluTavuklu
+ tags:regressionStaging_sepeteKampanyaEklemeGelAlYeniUyeKampanya5
 
 * Dominos - Staging ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
-* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
+* Dilediğin büyük boy pizza kampanyası secilir (Stg)
+* İlk ürün düzenlemeye tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir
@@ -312,14 +300,15 @@ Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta boy ballı hardal soslu tavuk
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Orta boy ballı hardal soslu tavuklu
+Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Kampanya 6
 ----------------------------------------------------------------------------------------
- tags:regressionStaging_sepeteKampanyaEklemeGelAlUyeliksizOrtaBoyBalliHardalSosluTavuklu
+ tags:regressionStaging_sepeteKampanyaEklemeGelAlUyeliksizKampanya6
 
 * Dominos - Staging ortamına gidilir
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Tüm Kampanyalar Butonuna tıklanır
-* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
+* Dilediğin büyük boy pizza kampanyası secilir (Stg)
+* İlk ürün düzenlemeye tıklanır
 * Sucuk ve mısır malzemeleri çıkarılır
 * Ekstra Malzeme Ekle butonuna tıklanır
 * Cheddar ve Mozarella eklenir

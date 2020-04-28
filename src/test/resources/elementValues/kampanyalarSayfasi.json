@@ -49,5 +49,20 @@
     "key": "gelAlhaftaninKampanyalari",
     "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Gel Al Haftanın Kampanyaları')]",
     "type": "xpath"
+  },
+  {
+    "key": "2ortaBoySosyalPizza",
+    "value":"(//div[.='Sipariş Ver'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "birinciUrunBirinciPizzaSec",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "ikinciUrunBirinciPizzaSec",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1_ITEM0",
+    "type": "id"
   }
 ]

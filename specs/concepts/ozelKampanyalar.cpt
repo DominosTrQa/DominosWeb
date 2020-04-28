@@ -5,13 +5,12 @@
 
 # 3 Al 1 öde kampanyası seçilir (Stg)
 * Element var mı kontrol et "3Al1OdekampanyatextStg"
- Elementine tıkla "3Al1OdekampanyatextStg"
-* Elementini bekle ve hemen tıkla "3Al1OdekampanyatextStg"
+* Elementine tıkla "3Al1OdekampanyatextStg"
 
 # 3 Al 1 öde kampanyası için sipariş oluşturulur
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
 * "2" saniye bekle
-* Barbekü pizza çeşidi seçilir
+* Superos pizza cesidi secilir
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 * Elementi bekle ve sonra tıkla "sucukMalzeme"
 * Elementi bekle ve sonra tıkla "misirMalzeme"
@@ -30,6 +29,27 @@
 * Elementi bekle ve sonra tıkla "misirMalzeme"
 * Elementi bekle ve sonra tıkla "pizzaDuzenleGuncelleButon"
 
+# 2 orta boy sosyal pizza kampanyası secilir
+* Elementi bekle ve sonra tıkla "2ortaBoySosyalPizza"
+
+# 2 pizzali kampanya icin siparis olusturulur
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunBirinciPizzaSec"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
+* Elementi bekle ve sonra tıkla "sucukMalzeme"
+* Elementi bekle ve sonra tıkla "misirMalzeme"
+* Elementi bekle ve sonra tıkla "pizzaDuzenleGuncelleButon"
+* "ikinciUrunSeciniz" alanına kaydır
+* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla "ikinciUrunBirinciPizzaSec"
+
+# Gel Al orta boy pizza kahve kampanyası secilir
+* Elementi bekle ve sonra tıkla "2ortaBoySosyalPizza"
+
+# Superos pizza cesidi secilir
+* Elementi bekle ve sonra tıkla "superosPizza"
+
 # Italiano pizza çeşidi seçilir
 * Elementi bekle ve sonra tıkla "italianoPizza"
 
@@ -44,13 +64,11 @@
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * Element var mı kontrol et "ortaboyBarbekuPizza"
- Elementine tıkla "ortaboyBarbekuPizza"
-* Elementini bekle ve hemen tıkla "ortaboyBarbekuPizza"
+* Elementi bekle ve sonra tıkla "ortaboyBarbekuPizza"
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir (Staging)
 * Element var mı kontrol et "ortaboyBarbekuPizzaStg"
- Elementine tıkla "ortaboyBarbekuPizzaStg"
-* Elementini bekle ve hemen tıkla "ortaboyBarbekuPizzaStg"
+* Elementine tıkla "ortaboyBarbekuPizzaStg"
 
 # Domisoslu kampanyalara tıklanır
 * Elementi bekle ve sonra tıkla "domisosluKampanyalar"
@@ -68,8 +86,7 @@
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle (Staging)
 * Element var mı kontrol et "ortaboyTavukluPizzaStg"
- Elementine tıkla "ortaboyTavukluPizzaStg"
-* Elementini bekle ve hemen tıkla "ortaboyTavukluPizzaStg"
+* Elementi bekle ve sonra tıkla "ortaboyTavukluPizzaStg"
 * Elementi bekle ve sonra tıkla "pizzaDuzenleButonIlkUrun"
 
 # Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir
@@ -80,6 +97,14 @@
 * Element var mı kontrol et "dilediginBuyukBoyPizza"
 * Elementine tıkla "dilediginBuyukBoyPizza"
 * "3" saniye bekle
+
+# Dilediğin büyük boy pizza kampanyası secilir (Stg)
+* Element var mı kontrol et "dilediginBuyukBoyPizzaStg"
+* Elementi bekle ve sonra tıkla "dilediginBuyukBoyPizzaStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* "2" saniye bekle
+* Superos pizza cesidi secilir
 
 # Özel pizzalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "ozelPizzalarButon"

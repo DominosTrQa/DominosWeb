@@ -222,119 +222,86 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 * Profilim popup eklenen adres silinir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Üye - Orta Boy Barbekü Soslu Sucuklu Pizza Kampanyası
+Sepete Kampanya Ekleme - Adrese Teslim - Üye - Kampanya 1
 -----------------------------------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeBarbekuSosluSucukluPizzaKampanyasi
+ tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeKampanya1
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Tek kişilik kampanyalara tıklanır
-* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
-* İlk ürün düzenlemeye tıklanır
-* Sucuk ve mısır malzemeleri çıkarılır
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Cheddar ve Mozarella eklenir
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Güncelle butonuna tıklanır(özel kampanyalar için)
+* 2 orta boy sosyal pizza kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  Orta Boy Barbekü Soslu Sucuklu Pizza Kampanyası
+Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  Kampanya 2
 --------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUyeOrtaBoyBarbekuSosluSucukluPizzaKampanyasi
+ tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Tek kişilik kampanyalara tıklanır
-* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
-* İlk ürün düzenlemeye tıklanır
-* Sucuk ve mısır malzemeleri çıkarılır
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Cheddar ve Mozarella eklenir
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Güncelle butonuna tıklanır(özel kampanyalar için)
+* 2 orta boy sosyal pizza kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Orta Boy Barbekü Soslu Sucuklu pizza kampanyası - Kalp şeklinde
+Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Kampanya 3
 -----------------------------------------------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeliksizortaBoyBarbekuSosluSucukluPizzaKalpSeklindeHamurSecimi
+ tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeliksizKampanya3
 
 * Dominos - Preprod ortamına gidilir
 * Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Tek kişilik kampanyalara tıklanır
-* Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
-* İlk ürün düzenlemeye tıklanır
-* Kalp şeklinde hamura tıklanır
-* Sucuk ve mısır malzemeleri çıkarılır
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Cheddar ve Mozarella eklenir
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Güncelle butonuna tıklanır(özel kampanyalar için)
+* 2 orta boy sosyal pizza kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Üye -  Orta Boy Ballı Hardal Soslu Tavuklu
+Sepete Kampanya Ekleme - Gel Al - Üye -  Kampanya 4
 -----------------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeOrtaBoyBalliHardalSosluTavuklu
+ tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeKampanya4
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Tek kişilik kampanyalara tıklanır
-* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
-* Sucuk ve mısır malzemeleri çıkarılır
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Cheddar ve Mozarella eklenir
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Güncelle butonuna tıklanır(özel kampanyalar için)
+* Gel Al orta boy pizza kahve kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Orta Boy Ballı Hardal Soslu Tavuklu
+Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Kampanya 5
 --------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeGelAlYeniUyeOrtaBoyBalliHardalSosluTavuklu
+ tags:regressionPreprod_sepeteKampanyaEklemeGelAlYeniUyeKampanya5
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Tek kişilik kampanyalara tıklanır
-* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
-* Sucuk ve mısır malzemeleri çıkarılır
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Cheddar ve Mozarella eklenir
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Güncelle butonuna tıklanır(özel kampanyalar için)
+* Gel Al orta boy pizza kahve kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Orta boy ballı hardal soslu tavuklu
+Sepete Kampanya Ekleme - Gel Al - Üyeliksiz - Kampanya 6
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeliksizOrtaBoyBalliHardalSosluTavuklu
+ tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeliksizKampanya6
 
 * Dominos - Preprod ortamına gidilir
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Tek kişilik kampanyalara tıklanır
-* Orta boy ballı hardal soslu tavuklu pizza kampanyası seçilir ve düzenle
-* Sucuk ve mısır malzemeleri çıkarılır
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Cheddar ve Mozarella eklenir
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Güncelle butonuna tıklanır(özel kampanyalar için)
+* Gel Al orta boy pizza kahve kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
