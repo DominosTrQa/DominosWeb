@@ -2653,7 +2653,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
  tags:regressionStaging_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
-
+//BUG -  Bu subeye siparis kapali
 * Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -2677,6 +2677,8 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 -----------------------------------------------------------
 tags:regressionStaging_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 //blocked:Düzelince testiniuma eklenecek
+
+* Dominos - Staging ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -2701,6 +2703,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 -----------------------------------------------------------
 tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 
+* Dominos - Staging ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
@@ -2720,7 +2723,8 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 ----------------------------------------------------------
 tags:regressionStaging_uyeKVKKIzniGuncellemevarolanUyeAyrilmayiOnayla
 
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Dominos - Staging ortamına gidilir
+* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2743,6 +2747,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemevarolanUyeAyrilmayiOnayla
 -------------------------------------------------------
 tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 
+* Dominos - Staging ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
@@ -2763,6 +2768,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 -----------------------------------------------------------------
 tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 
+* Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -2784,6 +2790,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 ---------------------------------------------------------------
 tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 
+* Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -2806,6 +2813,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 --------------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -2830,6 +2838,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBi
 -------------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
@@ -2851,6 +2860,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBil
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
 
 //Bug OLOTR-1480 çözüldükten sonra Testinium suiteine eklenecek
+* Dominos - Staging ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -2874,6 +2884,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelik
 --------------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
@@ -2895,6 +2906,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgi
 --------------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecProfilim
 
+* Dominos - Staging ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -2922,6 +2934,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecProfil
 -------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecProfilim
 
+* Dominos - Staging ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2947,6 +2960,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecProfilim
 --------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaProfilim
 
+* Dominos - Staging ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -2970,6 +2984,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaProfilim
 -----------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaProfilim
 
+* Dominos - Staging ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
@@ -2991,6 +3006,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaProfilim
 -----------------------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -3014,6 +3030,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyel
 ---------------------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -3038,6 +3055,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelik
 --------------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisProfilim
 
+* Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi işaretlenir
@@ -3058,6 +3076,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisProf
 -------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisProfilim
 
+* Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi işaretlenir
