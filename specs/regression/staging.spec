@@ -2653,7 +2653,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
  tags:regressionStaging_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
-//BUG -  Bu subeye siparis kapali
+
 * Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
