@@ -4,7 +4,7 @@ Preprod
      
 Üye Girişi
 ---------------------------------
- tags:regressionPreprod_uyeGirisi
+tags:regressionPreprod_uyeGirisi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -50,7 +50,7 @@ tags:regressionPreprod_uyeGirisiParolamiUnuttum
 
 Üye Olma
 -------------------------------
- tags:regressionPreprod_uyeOlma
+tags:regressionPreprod_uyeOlma
 
 * Dominos - Preprod ortamına gidilir
 * Üye olmak için bilgiler girilir
@@ -120,7 +120,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 Üye Adres Ekleme - Adrese Teslim - Üye
 -----------------------------------------------------
- tags:regressionPreprod_uyeAdresEklemeAdreseTeslimUye
+tags:regressionPreprod_uyeAdresEklemeAdreseTeslimUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -133,7 +133,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 Üye Adres Ekleme - Adrese Teslim - Yeni Üye
 ----------------------------------------------------------
- tags:regressionPreprod_uyeAdresEklemeAdreseTeslimYeniUye
+tags:regressionPreprod_uyeAdresEklemeAdreseTeslimYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -145,7 +145,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 Üye Adres Ekleme - Gel Al - Üye
 -------------------------------------------------------------
- tags:regressionPreprod_uyeAdresEklemeGelAlUye
+tags:regressionPreprod_uyeAdresEklemeGelAlUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
@@ -157,7 +157,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 Üye Adres Ekleme - Gel Al - Yeni Üye
 -------------------------------------------------------------
- tags:regressionPreprod_uyeAdresEklemeGelAlYeniUye
+tags:regressionPreprod_uyeAdresEklemeGelAlYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -169,7 +169,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 Üye Adres Düzenleme - Adrese Teslim - Üye
 ------------------------------------------
- tags:regressionPreprod_uyeAdresDuzenlemeAdreseTeslimUye
+tags:regressionPreprod_uyeAdresDuzenlemeAdreseTeslimUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -183,7 +183,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 Üye Adres Düzenleme - Adrese Teslim - Yeni Üye
 ------------------------------------------
- tags:regressionPreprod_uyeAdresDuzenlemeAdreseTeslimYeniUye
+tags:regressionPreprod_uyeAdresDuzenlemeAdreseTeslimYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -196,7 +196,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 Üye Adres Düzenleme - Gel Al - Üye
 ------------------------------------------
- tags:regressionPreprod_uyeAdresDuzenlemeGelAlUye
+tags:regressionPreprod_uyeAdresDuzenlemeGelAlUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
@@ -210,7 +210,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 Üye Adres Düzenleme - Gel Al - Yeni Üye
 ------------------------------------------
- tags:regressionPreprod_uyeAdresDuzenlemeGelAlYeniUye
+tags:regressionPreprod_uyeAdresDuzenlemeGelAlYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -224,7 +224,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 Sepete Kampanya Ekleme - Adrese Teslim - Üye - Kampanya 1
 -----------------------------------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeKampanya1
+tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeKampanya1
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -238,7 +238,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Üye - Kampanya 1
 
 Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  Kampanya 2
 --------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
+tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -252,7 +252,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Yeni Üye -  Kampanya 2
 
 Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Kampanya 3
 -----------------------------------------------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeliksizKampanya3
+tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeliksizKampanya3
 
 * Dominos - Preprod ortamına gidilir
 * Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
@@ -266,7 +266,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Kampanya 3
 
 Sepete Kampanya Ekleme - Gel Al - Üye -  Kampanya 4
 -----------------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeKampanya4
+tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeKampanya4
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
@@ -280,7 +280,7 @@ Sepete Kampanya Ekleme - Gel Al - Üye -  Kampanya 4
 
 Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Kampanya 5
 --------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeGelAlYeniUyeKampanya5
+tags:regressionPreprod_sepeteKampanyaEklemeGelAlYeniUyeKampanya5
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -294,7 +294,7 @@ Sepete Kampanya Ekleme - Gel Al - Yeni Üye - Kampanya 5
 
 Sepete Kampanya Ekleme - Gel Al - Üyeliksiz - Kampanya 6
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeliksizKampanya6
+tags:regressionPreprod_sepeteKampanyaEklemeGelAlUyeliksizKampanya6
 
 * Dominos - Preprod ortamına gidilir
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
@@ -308,7 +308,7 @@ Sepete Kampanya Ekleme - Gel Al - Üyeliksiz - Kampanya 6
 
 Sepete Pizza Ekleme - Adrese Teslim - Üye
 ------------------------------------------------
- tags:regressionPreprod_pizzaEklemeAdreseTeslimUye
+tags:regressionPreprod_pizzaEklemeAdreseTeslimUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -323,7 +323,7 @@ Sepete Pizza Ekleme - Adrese Teslim - Üye
 
 Sepete Pizza Ekleme - Adrese Teslim - Yeni Üye
 ------------------------------------------------
- tags:regressionPreprod_pizzaEklemeAdreseTeslimYeniUye
+tags:regressionPreprod_pizzaEklemeAdreseTeslimYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -338,7 +338,7 @@ Sepete Pizza Ekleme - Adrese Teslim - Yeni Üye
 
 Sepete Pizza Ekleme - Adrese Teslim - Üyeliksiz
 ------------------------------------------------
- tags:regressionPreprod_pizzaEklemeAdreseTeslimUyeliksiz
+tags:regressionPreprod_pizzaEklemeAdreseTeslimUyeliksiz
 
 * Dominos - Preprod ortamına gidilir
 * Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
@@ -353,7 +353,7 @@ Sepete Pizza Ekleme - Adrese Teslim - Üyeliksiz
 
 Sepete Pizza Ekleme - Gel Al - Üye
 ------------------------------------------------
- tags:regressionPreprod_pizzaEklemeGelAlUye
+tags:regressionPreprod_pizzaEklemeGelAlUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
@@ -368,7 +368,7 @@ Sepete Pizza Ekleme - Gel Al - Üye
 
 Sepete Pizza Ekleme - Gel Al - Yeni Üye
 ------------------------------------------------
- tags:regressionPreprod_pizzaEklemeGelAlYeniUye
+tags:regressionPreprod_pizzaEklemeGelAlYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
@@ -383,7 +383,7 @@ Sepete Pizza Ekleme - Gel Al - Yeni Üye
 
 Sepete Pizza Ekleme - Gel Al - Üyeliksiz
 ------------------------------------------------
- tags:regressionPreprod_pizzaEklemeGelAlUyeliksiz
+tags:regressionPreprod_pizzaEklemeGelAlUyeliksiz
 
 * Dominos - Preprod ortamına gidilir
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
@@ -398,7 +398,7 @@ Sepete Pizza Ekleme - Gel Al - Üyeliksiz
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Üye
 ----------------------------------------------
- tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimUye
+tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -410,7 +410,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Üye
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
 --------------------------------------------------
- tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimYeniUye
+tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -422,7 +422,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
 --------------------------------------------------
- tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimUyeliksiz
+tags:regressionPreprod_sepeteYanUrunEklemeAdreseTeslimUyeliksiz
 
 * Dominos - Preprod ortamına gidilir
 * Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
@@ -434,7 +434,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
 
 Sepete Yan Ürün Ekleme - Gel Al - Üye
 ----------------------------------------------
- tags:regressionPreprod_sepeteYanUrunEklemeGelAlUye
+tags:regressionPreprod_sepeteYanUrunEklemeGelAlUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
@@ -446,7 +446,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Üye
 
 Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
 ----------------------------------------------
- tags:regressionPreprod_sepeteYanUrunEklemeGelAlYeniUye
+tags:regressionPreprod_sepeteYanUrunEklemeGelAlYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -458,7 +458,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
 
 Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
 ---------------------------------------------
- tags:regressionPreprod_sepeteYanUrunEklemeGelAlUyeliksiz
+tags:regressionPreprod_sepeteYanUrunEklemeGelAlUyeliksiz
 
 * Dominos - Preprod ortamına gidilir
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
@@ -470,7 +470,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
 
 Sepetten Upsell Ekleme - Adrese Teslim - Üye
 ---------------------------------------------
- tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUye
+tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUye
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -495,7 +495,7 @@ Sepetten Upsell Ekleme - Adrese Teslim - Üye
 
 Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
 ---------------------------------------------
- tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimYeniUye
+tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
@@ -517,7 +517,7 @@ Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
 
 Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
 --------------------------------------------------
- tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUyeliksiz
+tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUyeliksiz
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -535,7 +535,7 @@ Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
 
 Sepetten Upcell Ekleme - Gel Al - Üye
 ------------------------------------------
- tags:regressionPreprod_sepettenUpsellEklemeGelAlUye
+tags:regressionPreprod_sepettenUpsellEklemeGelAlUye
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -558,7 +558,7 @@ Sepetten Upcell Ekleme - Gel Al - Üye
 
 Sepetten Upcell Ekleme - Gel Al - Yeni Üye
 ---------------------------------------
- tags:regressionPreprod_sepettenUpsellEklemeGelAlYeniUye
+tags:regressionPreprod_sepettenUpsellEklemeGelAlYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -583,7 +583,7 @@ Sepetten Upcell Ekleme - Gel Al - Yeni Üye
 
 Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
 --------------------------------------------------
- tags:regressionPreprod_sepettenUpsellEklemeGelAlUyeliksiz
+tags:regressionPreprod_sepettenUpsellEklemeGelAlUyeliksiz
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -600,7 +600,7 @@ Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
 
 Servis Tipi Seçimi - Adrese Teslim
 -----------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslim
+tags:regressionPreprod_servisTipiSecimiAdreseTeslim
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -610,7 +610,7 @@ Servis Tipi Seçimi - Adrese Teslim
 
 Servis Tipi Seçimi - Gel Al
 ----------------------------
- tags:regressionPreprod_servisTipiSecimiGelAl
+tags:regressionPreprod_servisTipiSecimiGelAl
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -620,7 +620,7 @@ Servis Tipi Seçimi - Gel Al
 
 Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 ----------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
+tags:regressionPreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -633,7 +633,7 @@ Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 
 Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 ----------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
+tags:regressionPreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -646,7 +646,7 @@ Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
+tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -662,7 +662,7 @@ Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Servis Tipinin Değişt
 
 Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Servis Tipinin Değiştirilememesi
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
+tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -677,7 +677,7 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Servis Tipinin Değiştirileme
 
 Servis Tipi Seçimi - Adrese Teslim - Varolan Üye Sepette Servis Tipinin Değiştirilememesi
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteServisTipininDegistirilememesi
+tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteServisTipininDegistirilememesi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -694,7 +694,7 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Üye Sepette Servis Tipinin Deği�
 
 Servis Tipi Seçimi - Gel Al - Varolan Üye Sepette Servis Tipinin Değiştirilememesi
 ------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistirilememesi
+tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistirilememesi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -710,7 +710,7 @@ Servis Tipi Seçimi - Gel Al - Varolan Üye Sepette Servis Tipinin Değiştirile
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Servis Tipinin Değiştirilememesi
 ------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
+tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -724,7 +724,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Servis Tipinin Değişti
 
 Servis Tipi Seçimi - Gel Al - Yeni Üye Sepette Servis Tipinin Değiştirilememesi
 ------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
+tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -738,7 +738,7 @@ Servis Tipi Seçimi - Gel Al - Yeni Üye Sepette Servis Tipinin Değiştirilemem
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Ürün varken Servis Tipinin Değiştirilmesi
 -------------------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -757,7 +757,7 @@ Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Ürün varken Servis Ti
 
 Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Ürün varken Servis Tipinin Değiştirilmesi
 -------------------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -775,7 +775,7 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Ürün varken Servis Tipinin D
 
 Servis Tipi Seçimi - Adrese Teslim - Varolan Sepette Ürün varken Servis Tipinin Değiştirilmesi
 -------------------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
+tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -795,7 +795,7 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Sepette Ürün varken Servis Tipin
 
 Servis Tipi Seçimi - Gel Al - Varolan Sepette Ürün varken Servis Tipinin Değiştirilmesi
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
+tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -815,7 +815,7 @@ Servis Tipi Seçimi - Gel Al - Varolan Sepette Ürün varken Servis Tipinin Değ
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Ürün varken Servis Tipinin Değiştirilmesi
 -------------------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -832,7 +832,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Ürün varken Servis Tip
 
 Servis Tipi Seçimi - Gel Al - Yeni üye Sepette Ürün varken Servis Tipinin Değiştirilmesi
 ----------------------------------------------------------------------------------------
- tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -850,7 +850,7 @@ Servis Tipi Seçimi - Gel Al - Yeni üye Sepette Ürün varken Servis Tipinin De
 
 Adres Seçimi - Varolan Üye - Adres Teslim - Manuel - Adres Seçimi
 ------------------------------------------------------------------
- tags:regressionPreprod_adresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
+tags:regressionPreprod_adresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -865,7 +865,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Manuel - Adres Seçimi
 
 Adres Seçimi - Varolan Üye - Gel Al - Manuel - Adres Seçimi
 ------------------------------------------------------------
- tags:regressionPreprod_adresSecimiVarOlanUyeGelAlManuelAdresSecimi
+tags:regressionPreprod_adresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -880,7 +880,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Manuel - Adres Seçimi
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Manuel - Adres Seçimi
 ---------------------------------------------------------------
- tags:regressionPreprod_adresSecimiYeniUyeAdresTeslimManuelAdresSecimi
+tags:regressionPreprod_adresSecimiYeniUyeAdresTeslimManuelAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -893,7 +893,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Manuel - Adres Seçimi
 
 Adres Seçimi - Yeni Üye - Gel Al - Manuel - Adres Seçimi
 ---------------------------------------------------------
- tags:regressionPreprod_adresSecimiYeniUyeGelAlManuelAdresSecimi
+tags:regressionPreprod_adresSecimiYeniUyeGelAlManuelAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -906,7 +906,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Manuel - Adres Seçimi
 
 Adres Seçimi - Üyeliksiz - Adres Teslim - Manuel - Adres Seçimi
 ----------------------------------------------------------------
- tags:regressionPreprod_adresSecimiUyeliksizAdresTeslimManuelAdresSecimi
+tags:regressionPreprod_adresSecimiUyeliksizAdresTeslimManuelAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -920,7 +920,7 @@ Adres Seçimi - Üyeliksiz - Adres Teslim - Manuel - Adres Seçimi
 
 Adres Seçimi - Üyeliksiz - Gel Al - Manuel - Adres Seçimi
 ---------------------------------------------------------
- tags:regressionPreprod_adresSecimiUyeliksizGelAlManuelAdresSecimi
+tags:regressionPreprod_adresSecimiUyeliksizGelAlManuelAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -934,7 +934,7 @@ Adres Seçimi - Üyeliksiz - Gel Al - Manuel - Adres Seçimi
 
 Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 ----------------------------------------------------------------------
- tags:regressionPreprod_adresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecimi
+tags:regressionPreprod_adresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -951,7 +951,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 
 Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 ----------------------------------------------------------------
- tags:regressionPreprod_adresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
+tags:regressionPreprod_adresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -968,7 +968,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 -------------------------------------------------------------------
- tags:regressionPreprod_adresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
+tags:regressionPreprod_adresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -983,7 +983,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 
 Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 -------------------------------------------------------------
- tags:regressionPreprod_adresSecimiYeniUyeGelAlAdreslerimAdresSecimi
+tags:regressionPreprod_adresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -999,7 +999,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Nakit
 -----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimNakit
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimNakit
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -1017,7 +1017,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Nakit
 ----------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlNakit
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlNakit
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -1033,7 +1033,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Nakit
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimNakit
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimNakit
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1058,7 +1058,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Nakit
 -------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlNakit
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlNakit
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1076,7 +1076,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Nakit
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimNakit
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimNakit
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -1097,7 +1097,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Nakit
 -----------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlNakit
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlNakit
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -1115,7 +1115,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Kredi Kartı
 -----------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimKrediKartı
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimKrediKartı
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -1133,7 +1133,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Kredi Kartı
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlKrediKartı
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlKrediKartı
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -1149,7 +1149,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Kredi Kartı
 --------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimKrediKartı
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimKrediKartı
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1174,7 +1174,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Kredi Kartı
 -------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlKrediKartı
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlKrediKartı
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1192,7 +1192,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Kredi Kartı
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimKrediKartı
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimKrediKartı
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -1213,7 +1213,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Kredi Kartı
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlKrediKartı
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlKrediKartı
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -1231,7 +1231,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Sodexo Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -1249,7 +1249,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Sodexo Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartSodexoKart
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -1265,7 +1265,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Sodexo Kart
 -------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartSodexoKart
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartSodexoKart
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1290,7 +1290,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Sodexo Kart
 --------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartSodexoKart
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartSodexoKart
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1308,7 +1308,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Sodexo Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -1329,7 +1329,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Sodexo Kart
 --------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartSodexoKart
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -1347,7 +1347,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -1365,7 +1365,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -1381,7 +1381,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Sodexo Yemek Çeki
 -------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSodexoYemekCeki
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSodexoYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1406,7 +1406,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Sodexo Yemek Çeki
 -------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSodexoYemekCeki
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSodexoYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1424,7 +1424,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Sodexo Yemek Çeki
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -1445,7 +1445,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Sodexo Yemek Çeki
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -1463,7 +1463,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -1481,7 +1481,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Ticket Kart
 ----------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartTicketKart
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartTicketKart
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -1497,7 +1497,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprododemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
+tags:regressionPreprododemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1522,7 +1522,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartTicketKart
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartTicketKart
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1540,7 +1540,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -1561,7 +1561,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Kart
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -1579,7 +1579,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Smart Ticket Yemek Çeki
 -----------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekÇeki
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekÇeki
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -1597,7 +1597,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Smart Ticket Yemek Çeki
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartTicketYemekÇeki
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartTicketYemekÇeki
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -1613,7 +1613,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Yemek Çeki
 --------------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1638,7 +1638,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Smart Ticket Yemek Çeki
 -------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartTicketYemekÇeki
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartTicketYemekÇeki
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1656,7 +1656,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Yemek Çeki
 ------------------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekÇeki
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekÇeki
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -1677,7 +1677,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Yemek Çeki
 -----------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇeki
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇeki
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -1695,7 +1695,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Multinet
 --------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimMultinet
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimMultinet
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -1713,7 +1713,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Multinet
 -------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlMultinet
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlMultinet
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -1729,7 +1729,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Multinet
 -----------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1754,7 +1754,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Multinet
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlMultinet
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlMultinet
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1772,7 +1772,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Multinet
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimMultinet
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimMultinet
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -1793,7 +1793,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Multinet
 --------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlMultinet
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlMultinet
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -1811,7 +1811,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Setcard
 -------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSetCard
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSetCard
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -1829,7 +1829,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Setcard
 ------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSetCard
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSetCard
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -1845,7 +1845,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Setcard
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSetCard
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSetCard
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1870,7 +1870,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Setcard
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSetCard
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSetCard
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1888,7 +1888,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Setcard
 ----------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -1909,7 +1909,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Setcard
 --------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSetCard
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSetCard
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -1927,7 +1927,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Paye Kart
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimPayeKart
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimPayeKart
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -1945,7 +1945,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Paye Kart
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlPayeKart
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlPayeKart
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -1961,7 +1961,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Paye Kart
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimPayeKart
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimPayeKart
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -1986,7 +1986,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Paye Kart
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlPayeKart
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlPayeKart
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2004,7 +2004,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Paye Kart
 ---------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2025,7 +2025,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Paye Kart
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlPayeKart
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlPayeKart
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -2043,7 +2043,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Adrese Teslim - Online Ödeme
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
+tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -2062,7 +2062,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Online Ödeme
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlOnlineOdeme
+tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -2079,7 +2079,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Online Ödeme
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2105,7 +2105,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Varolan Üye - Gel Al - Online Ödeme
 --------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlOnlineOdeme
+tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2124,7 +2124,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Online Ödeme
 ------------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
+tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2146,7 +2146,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Ödeme Tipi Secimi - Üyeliksiz - Gel AL - Online Ödeme
 ------------------------------------------------------
- tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
+tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -2165,7 +2165,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimtemassizTeslimat
+tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimtemassizTeslimat
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -2185,7 +2185,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
+tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2213,7 +2213,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 -------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimtemassizTeslimat
+tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimtemassizTeslimat
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2238,7 +2238,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 -------------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimLutfenZileBasmayiniz
+tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimLutfenZileBasmayiniz
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -2258,7 +2258,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
 ---------------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimLutfenZileBasmayiniz
+tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimLutfenZileBasmayiniz
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2286,7 +2286,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
 ---------------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayiniz
+tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayiniz
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2311,7 +2311,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 ------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
+tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -2331,7 +2331,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 -----------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeGelAlNotEkleme
+tags:regressionPreprod_siparisNotuEklemeYeniUyeGelAlNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -2349,7 +2349,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 ------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
+tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2377,7 +2377,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 --------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlNotEkleme
+tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2397,7 +2397,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 -------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
+tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2422,7 +2422,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 
 Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 ------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeUyeliksizGelAlNotEkleme
+tags:regressionPreprod_siparisNotuEklemeUyeliksizGelAlNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -2444,7 +2444,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 -----------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimVarolanNotuEkleme
+tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimVarolanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
@@ -2474,7 +2474,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
 --------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeYeniUyeGelAlVarolanNotuEkleme
+tags:regressionPreprod_siparisNotuEklemeYeniUyeGelAlVarolanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -2501,7 +2501,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Varolan Notu Ekleme
 -------------------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
+tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2537,7 +2537,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Varolan Notu Ekleme
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 -----------------------------------------------------------------
- tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
+tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2566,7 +2566,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 
 Sipariş İşlemleri(Canlı) - Test adresi - Manuel
 ------------------------------------------------
- tags:regressionPreprod_siparisIslemleriCanliTestAdresiManuel
+tags:regressionPreprod_siparisIslemleriCanliTestAdresiManuel
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2589,7 +2589,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Manuel
 
 Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 ------------------------------------------
- tags:regressionPreprod_siparisIslemleriCanliTestAdresiDropdown
+tags:regressionPreprod_siparisIslemleriCanliTestAdresiDropdown
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2612,7 +2612,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Varolan Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
+tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2623,7 +2623,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Varolan Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeGelAlYalnizcaIl
+tags:regressionPreprod_subeAtamaVarolanUyeGelAlYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2637,7 +2637,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Yeni Üye - Adrese Teslim - Yalnızca İl
 ------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimYalnizcaIl
+tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2650,7 +2650,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Yeni Üye - Gel Al - Yalnızca İl
 ------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUye_gelAlYalnizcaIl
+tags:regressionPreprod_subeAtamaYeniUye_gelAlYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2666,7 +2666,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
 ----------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimYalnizcaIl
+tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2676,7 +2676,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Üyeliksiz - Gel Al - Yalnızca İl
 ----------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizGelAlYalnizcaIl
+tags:regressionPreprod_subeAtamaUyeliksizGelAlYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -2689,7 +2689,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe
 ----------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlce
+tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlce
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2700,7 +2700,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Varolan Üye - Gel Al - İl İlçe
 ---------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlce
+tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlce
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2714,7 +2714,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe
 -------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlce
+tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlce
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2727,7 +2727,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Yeni Üye - Gel Al - İl İlçe
 ------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlce
+tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlce
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2743,7 +2743,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe
 -------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlce
+tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlce
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2753,7 +2753,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Üyeliksiz - Gel Al - İl İlçe
 ----------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlce
+tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlce
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -2766,7 +2766,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
+tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2777,7 +2777,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Varolan Üye - Gel Al - İl İlçe Mahalle
 ----------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlceMahalle
+tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2788,7 +2788,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
 --------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalle
+tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2801,7 +2801,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Yeni Üye - Gel Al - İl İlçe Mahalle
 --------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlceMahalle
+tags:regressionPreprod_subeAtamaYeniUyeGelAlIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2814,7 +2814,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
 --------------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalle
+tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2824,7 +2824,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Üyeliksiz - Gel Al - İl İlçe Mahalle
 --------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlceMahalle
+tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -2834,7 +2834,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 -----------------------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
+tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
@@ -2845,7 +2845,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 ----------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
+tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2858,7 +2858,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak
 ---------------------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
+tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2868,7 +2868,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
- tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -2878,7 +2878,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
- tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+tags:regressionPreprod_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -2891,7 +2891,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
 
 Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -------------------------------------------------------------------------
- tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
+tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 
 * Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
