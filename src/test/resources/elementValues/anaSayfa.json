@@ -475,6 +475,11 @@
     "type": "xpath"
   },
   {
+    "key": "OnaySayfasiSipariseKapaliSubesiTextKontrol",
+    "value":"//h3[contains(text(),'99362 - Siparişe Kapalı')]",
+    "type": "xpath"
+  },
+  {
     "key": "istanbulSariyerAyazagaTextKontrol",
     "value":"//span[contains(text(),'İstanbul Sarıyer Ayazağa Mh.')]",
     "type": "xpath"
