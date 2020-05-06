@@ -132,6 +132,8 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Sipariş tamamlanır
 
 
 Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
@@ -214,4 +216,4 @@ tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır
+* Sipariş tamamlanır(guest)
