@@ -853,7 +853,7 @@ public class BaseSteps extends BaseTest {
   @Step("<key> li elementine random telefon numarası yaz")
   public void randomTel(String key){
 
-    String phoneNum = "59"+randomNum(7);
+    String phoneNum = "93"+randomNum(7);
     findElementWithKey(key).sendKeys(phoneNum);
 
   }

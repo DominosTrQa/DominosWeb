@@ -14,8 +14,8 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
-* Şubeye özel fırsatlara tıklanır
-* Şubeye özel fırsatlar ilk fırsata tıklanır
+* 2 orta boy sosyal pizza kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -24,6 +24,7 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
@@ -37,10 +38,11 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Gel Al Haftanın kampanyalarına gidilir
-* Şubeye özel fırsatlar ilk fırsata tıklanır
-* İlk ürün seçilir ve sepete eklenir
+* Gel Al orta boy pizza kahve kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
@@ -129,20 +131,19 @@ Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst men
 tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Live ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
 * Anasayfa adres değişikliği butonuna tıklanır
 * Adres seçilirken ilk adres seçilir(Gel Al)
-* Cookie onaylıyorum butonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
-* Gel Al domisoslu kampanyalara tıklanır
+* Gel Al orta boy pizza kahve kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
-* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -155,15 +156,15 @@ Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst men
 tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Live ortamına gidilir
-* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* Anasayfa adres değişikliği butonuna tıklanır
-* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
-* Şubeye özel fırsatlar ilk fırsata tıklanır
+* 2 orta boy sosyal pizza kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
