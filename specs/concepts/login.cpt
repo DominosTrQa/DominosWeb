@@ -43,8 +43,9 @@
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
 * Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
-* "59" textini "uyeOlTelefonTextbox" elemente yaz
-* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
+*"uyeOlTelefonTextbox" li elementine random telefon numarası yaz
+ "59" textini "uyeOlTelefonTextbox" elemente yaz
+ Telefon noyu "uyeOlTelefonTextbox" elementine yaz
 * "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
 * "Test1234" textini "uyeOlSifreTexbox" elemente yaz
 * "Test1234" textini "uyeOlSifreyTekrarTextbox" elemente yaz
@@ -59,8 +60,9 @@
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
 * Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
-* "59" textini "uyeOlTelefonTextbox" elemente yaz
-* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
+*"uyeOlTelefonTextbox" li elementine random telefon numarası yaz
+ "59" textini "uyeOlTelefonTextbox" elemente yaz
+ Telefon noyu "uyeOlTelefonTextbox" elementine yaz
 * "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
 * "Test1234" textini "uyeOlSifreTexbox" elemente yaz
 * "Test1234" textini "uyeOlSifreyTekrarTextbox" elemente yaz

@@ -840,6 +840,24 @@ public class BaseSteps extends BaseTest {
     }
   }
 
+  public static String randomNum(int stringLength) {
+    Random random = new Random();
+    char[] chars = "1234567890".toCharArray();
+    String stringRandom = "";
+    for (int i = 0; i < stringLength; i++) {
+      stringRandom = stringRandom + String.valueOf(chars[random.nextInt(chars.length)]);
+    }
+    return stringRandom;
+  }
+
+  @Step("<key> li elementine random telefon numarası yaz")
+  public void randomTel(String key){
+
+    String phoneNum = "59"+randomNum(7);
+    findElementWithKey(key).sendKeys(phoneNum);
+
+  }
+
 }
 
 

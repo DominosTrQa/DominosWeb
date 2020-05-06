@@ -11,7 +11,7 @@
 * "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "593456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
@@ -27,7 +27,7 @@
 * "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "593456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
@@ -45,7 +45,7 @@
 * "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "593456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
@@ -61,7 +61,7 @@
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "593456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
@@ -79,9 +79,10 @@
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
 * "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
-* Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* Telefon noyu "adresSayfasiTelefonTextbox" elementine yaz
+* "adresSayfasiTelefonTextbox" li elementine random telefon numarası yaz
+ Rastgele telefon no üret
+ Telefon noyu "adresSayfasiTelefonTextbox" elementine yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
@@ -96,7 +97,7 @@
 * "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "593456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
@@ -111,7 +112,7 @@
 * "adresAdiTextbox" li elementi bul, temizle ve "ev" değerini yaz
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "593456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
@@ -523,7 +524,7 @@
 * "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
-* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "593456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
