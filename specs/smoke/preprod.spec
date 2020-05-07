@@ -1,12 +1,12 @@
-Smoke Live
-===========
+Smoke Preprod
+==============
 
 
-Live - Kullanıcı ilk kez geliyor - Adrese Teslim
+Preprod - Kullanıcı ilk kez geliyor - Adrese Teslim
 -------------------------------------------------------
-tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
+tags:smokePreprod_kullaniciIlkkezGeliyorAdreseTeslim
 
-* Dominos - Live ortamına gidilir
+* Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -30,11 +30,11 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Ye kazan uyarı butonundan çıkılır
 
 
-Live - Kullanıcı ilk kez geliyor - Gel Al
+Preprod - Kullanıcı ilk kez geliyor - Gel Al
 ------------------------------------------------
-tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
+tags:smokePreprod_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 
-* Dominos - Live ortamına gidilir
+* Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -55,11 +55,12 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 
-Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
----------------------------------------------------------------------------------
-tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
-* Dominos - Live ortamına gidilir
+Preprod - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
+---------------------------------------------------------------------------------
+tags:smokePreprod_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
+
+* Dominos - Preprod ortamına gidilir
 * "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -88,11 +89,11 @@ tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Profilimden adreslerime giderek kayıtlı adres silinir
 
 
-Live - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
+Preprod - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 --------------------------------------------------------------
-tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
+tags:smokePreprod_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
-* Dominos - Live ortamına gidilir
+* Dominos - Preprod ortamına gidilir
 * "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -114,11 +115,11 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Ye kazan uyarı butonundan çıkılır
 
 
-Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
+Preprod - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
 ----------------------------------------------------------------------
-tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
+tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
-* Dominos - Live ortamına gidilir
+* Dominos - Preprod ortamına gidilir
 * "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -139,13 +140,14 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır
+* Ye kazan uyarı butonundan çıkılır
 
 
-Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
+Preprod - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
 -----------------------------------------------------------------------
-tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
+tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
-* Dominos - Live ortamına gidilir
+* Dominos - Preprod ortamına gidilir
 * "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -165,17 +167,19 @@ tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Ödeme şekli seçilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
+* Sipariş tamamlanır
+* Ye kazan uyarı butonundan çıkılır
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Profilimden adreslerime giderek kayıtlı adres silinir
 
 
-Live - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
+Preprod - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 ----------------------------------------------------
-tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
+tags:smokePreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 
-* Dominos - Live ortamına gidilir
+* Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
@@ -198,11 +202,11 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sipariş tamamlanır(guest)
 
 
-Live - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
+Preprod - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 ----------------------------------------------------
-tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
+tags:smokePreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
 
-* Dominos - Live ortamına gidilir
+* Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Servis tipinin Gel Al olduğu kontrol edilir
