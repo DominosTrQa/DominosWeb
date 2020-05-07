@@ -59,23 +59,22 @@ tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
 * Cookie onaylıyorum butonuna tıklanır
-* Sepete coca cola eklenir
-* Sepetimde ürün var mı kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
-* Yeni adres ekle butonuna tıklanır
-* Yeni adres eklenir(Sariyer-Pınarmah-Kelebeksok)
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+* Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
@@ -91,21 +90,19 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Profilim butonuna tıklanır
+* Profilim popup Çıkış Yap butonuna basılır
+* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
 * Sepetimde ürün var mı kontrol edilir
-* Profilim butonuna tıklanır
-* Profilim popup Çıkış Yap butonuna basılır
-* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
-* Adres seçilirken ilk adres seçilir(Gel Al)
-* Seçili şube ile devam edilir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 
 
