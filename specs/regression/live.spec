@@ -538,7 +538,6 @@ Sepetten Upcell Ekleme - Gel Al - Üye
 tags:regressionLive_sepettenUpsellEklemeGelAlUye
 
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -562,7 +561,6 @@ Sepetten Upcell Ekleme - Gel Al - Yeni Üye
 tags:regressionLive_sepettenUpsellEklemeGelAlYeniUye
 
 * Dominos - Live ortamına gidilir
-* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir

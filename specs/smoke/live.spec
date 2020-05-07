@@ -56,7 +56,7 @@ Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
 tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Live ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Ekstra Lezzetlere gidilir
@@ -66,7 +66,7 @@ tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepetimde ürün var mı kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 * Yeni adres ekle butonuna tıklanır
 * Yeni adres eklenir(Sariyer-Pınarmah-Kelebeksok)
@@ -88,7 +88,7 @@ Live - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Ekstra Lezzetlere gidilir
@@ -97,7 +97,7 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sepetimde ürün var mı kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 * Adres seçilirken ilk adres seçilir(Gel Al)
 * Seçili şube ile devam edilir
@@ -114,7 +114,7 @@ Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst men
 tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Live ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki adres teslim butonuna tıklanır
@@ -141,7 +141,7 @@ Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst men
 tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki gel al butonuna tıklanır
