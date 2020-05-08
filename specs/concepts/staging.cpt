@@ -40,3 +40,15 @@
 * Elementi bekle ve sonra tıkla "kampanyalarSagOkButon"
 * Elementi bekle ve sonra tıkla "kampanyalarSagOkButon"
  Elementi bekle ve sonra tıkla "subeneozelkampanyalarStaging"
+
+# Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
+* Element var mı kontrol et "siparisUyeDegilkenBilgilerAdTextbox"
+* "Test" textini "siparisUyeDegilkenBilgilerAdTextbox" elemente yaz
+* "Test" textini "siparisUyeDegilkenBilgilerSoyadTextbox" elemente yaz
+* "testotomasyon@hotmail.com" textini "siparisUyeDegilkenBilgilerEpostaTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenBilgilerTelefonTextbox"
+* "123456789" textini "siparisUyeDegilkenBilgilerTelefonTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
+
+# Siparişin alındığından emin olunur
+* Element var mı kontrol et "siparisSonucuText"

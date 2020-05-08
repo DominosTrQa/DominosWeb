@@ -118,5 +118,39 @@
     "key": "dilediginBuyukBoyPizzaStg",
     "value":"(//div[.='Sipariş Ver'])[1]",
     "type": "xpath"
+  },{
+  "key": "siparisUyeDegilkenBilgilerAdTextbox",
+  "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[1]",
+  "type": "xpath"
+},
+  {
+    "key": "siparisUyeDegilkenBilgilerSoyadTextbox",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisUyeDegilkenBilgilerEpostaTextbox",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisUyeDegilkenBilgilerTelefonTextbox",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisUyeDegilkenSiparisverButon",
+    "value":"//*[@id='DPE_TR_ORDERCONFIRM_BUTTON_ORDER_GUEST-M']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisUyeDegilkenSiparisverButon",
+    "value":"DPE_TR_ORDERCONFIRM_BUTTON_ORDER_GUEST-D",
+    "type": "id"
+  },
+  {
+    "key": "siparisSonucuText",
+    "value":"//*[@class='pageHeader__Title-uo3je7-1 gMRowo']",
+    "type": "xpath"
   }
 ]
