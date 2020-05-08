@@ -35,7 +35,7 @@
 * "5" saniye bekle
 * "puanPopupKapatButon" li elementi bul ve varsa dokun
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "yeKazanUyariCikisButonu"
+* "yeKazanUyariCikisButonu" li elementi bul ve varsa dokun
 
 # Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
 * Elementi bekle ve sonra tıkla "üyelik_Bilgilerim_Ye_Kazan_Checkbox"
