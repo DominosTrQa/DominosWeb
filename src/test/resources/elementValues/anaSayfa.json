@@ -540,6 +540,11 @@
     "type": "xpath"
   },
   {
+    "key": "OnaySayfasisubeTestPulseKontrol",
+    "value":"//h3[contains(text(),'Test Pulse')]",
+    "type": "xpath"
+  },
+  {
     "key": "puanPopupKapatButon",
     "value":"close-button-1502352480979",
     "type": "id"

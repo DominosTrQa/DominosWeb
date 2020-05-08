@@ -557,6 +557,9 @@
 # Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Element var mı kontrol et "subeTestPulseKontrol"
 
+# Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Element var mı kontrol et "OnaySayfasisubeTestPulseKontrol"
+
 # Adrese teslim adres düzenleye tıklanır
 * Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuDuzenle"
 
