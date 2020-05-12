@@ -53,6 +53,63 @@ tags:smokeStaging_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sipariş tamamlanır
 
 
+Staging - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
+----------------------------------------------------
+tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
+
+* Dominos - Staging ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Servis tipinin Adrese Teslim olduğu kontrol edilir
+* Anasayfadaki adres teslim butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Servis tipinin Gel Al olduğu kontrol edilir
+* Tüm pizzalar alanına kaydırılır
+* Tüm Kampanyalar Butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
+* Dilediğin büyük boy pizza kampanyası secilir (Stg)
+* Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Sipariş tamamlanır(guest)
+* Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
+* Siparişin alındığından emin olunur
+
+
+Staging - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
+----------------------------------------------------
+tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
+
+* Dominos - Staging ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Servis tipinin Gel Al olduğu kontrol edilir
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Servis tipinin Adrese Teslim olduğu kontrol edilir
+* Tüm pizzalar alanına kaydırılır
+* Tüm Pizzalar butonuna tıklanır
+* Pizza kategorisindeki ilk pizza seçilir
+* Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Sipariş tamamlanır(guest)
+* Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
+* Siparişin alındığından emin olunur
+
+
 Staging - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
 ---------------------------------------------------------------------------------
 tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
@@ -168,60 +225,3 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Profilimden adreslerime giderek kayıtlı adres silinir
-
-
-Staging - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
-----------------------------------------------------
-tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
-
-* Dominos - Staging ortamına gidilir
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Servis tipinin Adrese Teslim olduğu kontrol edilir
-* Anasayfadaki adres teslim butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Servis tipinin Gel Al olduğu kontrol edilir
-* Tüm pizzalar alanına kaydırılır
-* Tüm Kampanyalar Butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
-* Dilediğin büyük boy pizza kampanyası secilir (Stg)
-* Kampanya sepete eklenir
-* Sepetimde ürün var mı kontrol edilir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
-* Sipariş tamamlanır(guest)
-* Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
-* Siparişin alındığından emin olunur
-
-
-Staging - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
-----------------------------------------------------
-tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
-
-* Dominos - Staging ortamına gidilir
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Servis tipinin Gel Al olduğu kontrol edilir
-* Anasayfadaki gel al butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Servis tipinin Adrese Teslim olduğu kontrol edilir
-* Tüm pizzalar alanına kaydırılır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Üye olmadan devam edilir butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
-* Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
-* Sipariş tamamlanır(guest)
-* Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
-* Siparişin alındığından emin olunur
