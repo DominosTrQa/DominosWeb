@@ -69,7 +69,7 @@ public class BaseTest {
       driver.manage().window().maximize();
     }
     webDriverWait = new WebDriverWait(driver, 45, 150);
-    driver.get(baseUrl);
+    //driver.get(baseUrl);
   }
 
   @BeforeStep
