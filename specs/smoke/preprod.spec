@@ -122,9 +122,6 @@ tags:smokePreprod_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Yeni adres ekle butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -138,10 +135,6 @@ tags:smokePreprod_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
-* Anasayfadaki dominos logosuna tıklanır
-* Profilim butonuna tıklanır
-* Profilim popup Adreslerim butonuna tıklanır
-* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Preprod - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
