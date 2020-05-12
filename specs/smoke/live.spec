@@ -55,122 +55,6 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 
-Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
----------------------------------------------------------------------------------
-tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
-
-* Dominos - Live ortamına gidilir
-* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
-* Profilim butonuna tıklanır
-* Profilim popup Çıkış Yap butonuna basılır
-* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Yeni adres ekle butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
-* Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
-* Sepete coca cola eklenir
-* Sepetimde ürün var mı kontrol edilir
-* Sepetim ikonuna tıklanır
-* Sepetteki ürün iki kez arttırılır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
-* Anasayfadaki dominos logosuna tıklanır
-* Profilim butonuna tıklanır
-* Profilim popup Adreslerim butonuna tıklanır
-* Profilimden adreslerime giderek kayıtlı adres silinir
-
-
-Live - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
---------------------------------------------------------------
-tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
-
-* Dominos - Live ortamına gidilir
-* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Profilim butonuna tıklanır
-* Profilim popup Çıkış Yap butonuna basılır
-* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
-* Sepete coca cola eklenir
-* Sepetimde ürün var mı kontrol edilir
-* Sepetim ikonuna tıklanır
-* Sepetteki ürün iki kez arttırılır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
-
-
-Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
-----------------------------------------------------------------------
-tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
-
-* Dominos - Live ortamına gidilir
-* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfadaki adres teslim butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Anasayfa adres değişikliği butonuna tıklanır
-* Adres seçilirken ilk adres seçilir(Gel Al)
-* Gel al adres ekleme ekranında düzenle butonuna tıklanır
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Kampanyalar Butonuna tıklanır
-* Gel Al orta boy pizza kahve kampanyası secilir
-* 2 pizzali kampanya icin siparis olusturulur
-* Kampanya sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır
-
-
-Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
------------------------------------------------------------------------
-tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
-
-* Dominos - Live ortamına gidilir
-* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfadaki gel al butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Kampanyalar Butonuna tıklanır
-* 2 orta boy sosyal pizza kampanyası secilir
-* 2 pizzali kampanya icin siparis olusturulur
-* Kampanya sepete eklenir
-* Sepetimde ürün var mı kontrol edilir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
-* Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
-* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Anasayfadaki dominos logosuna tıklanır
-* Profilim butonuna tıklanır
-* Profilim popup Adreslerim butonuna tıklanır
-* Profilimden adreslerime giderek kayıtlı adres silinir
-
 
 Live - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 ----------------------------------------------------
@@ -224,3 +108,126 @@ tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
+
+
+Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
+---------------------------------------------------------------------------------
+tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
+
+* Dominos - Live ortamına gidilir
+* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie onaylıyorum butonuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Çıkış Yap butonuna basılır
+* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+* Sepetimde ürün var mı kontrol edilir
+* Sepetim ikonuna tıklanır
+* Sepetteki ürün iki kez arttırılır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
+* Sipariş tamamlanır
+* Ye kazan uyarı butonundan çıkılır
+
+
+Live - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
+--------------------------------------------------------------
+tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
+
+* Dominos - Live ortamına gidilir
+* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Cookie onaylıyorum butonuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Çıkış Yap butonuna basılır
+* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Ekstra Lezzetlere gidilir
+* İçecekler tabına tıklanır
+* Sepete coca cola eklenir
+* Sepetimde ürün var mı kontrol edilir
+* Sepetim ikonuna tıklanır
+* Sepetteki ürün iki kez arttırılır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
+* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
+* Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
+* Sipariş tamamlanır
+* Ye kazan uyarı butonundan çıkılır
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
+
+
+Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
+----------------------------------------------------------------------
+tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
+
+* Dominos - Live ortamına gidilir
+* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfadaki adres teslim butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Anasayfa adres değişikliği butonuna tıklanır
+* Adres seçilirken ilk adres seçilir(Gel Al)
+* Gel al adres ekleme ekranında düzenle butonuna tıklanır
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* Gel Al orta boy pizza kahve kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Ödeme şekli seçilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Sipariş tamamlanır
+
+
+Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
+-----------------------------------------------------------------------
+tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
+
+* Dominos - Live ortamına gidilir
+* "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Cookie onaylıyorum butonuna tıklanır
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* 2 orta boy sosyal pizza kampanyası secilir
+* 2 pizzali kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
+* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
+* Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Ödemeyi tamamla butonu geldiği kontrol edilir
+* Sipariş tamamlanır
+* Ye kazan uyarı butonundan çıkılır
+* Anasayfadaki dominos logosuna tıklanır
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
