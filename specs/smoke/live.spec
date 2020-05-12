@@ -123,6 +123,7 @@ tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* İlk kayıtlı adres seçilir
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * Ekstra Lezzetlere gidilir
