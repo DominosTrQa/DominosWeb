@@ -7,7 +7,7 @@ Regression Staging
 tags:regressionStaging_uyeGirisi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
 
@@ -484,7 +484,7 @@ Sepetten Upsell Ekleme - Adrese Teslim - Üye
  tags:regressionStaging_sepettenUpsellEklemeAdreseTeslimUye
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -695,7 +695,7 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Üye Sepette Servis Tipinin Deği�
  tags:regressionStaging_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteServisTipininDegistirilememesi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -712,7 +712,7 @@ Servis Tipi Seçimi - Gel Al - Varolan Üye Sepette Servis Tipinin Değiştirile
  tags:regressionStaging_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistirilememesi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -793,7 +793,7 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Sepette Ürün varken Servis Tipin
  tags:regressionStaging_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -813,7 +813,7 @@ Servis Tipi Seçimi - Gel Al - Varolan Sepette Ürün varken Servis Tipinin Değ
  tags:regressionStaging_servisTipiSecimiGelAlVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -866,7 +866,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Manuel - Adres Seçimi
  tags:regressionStaging_adresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -881,7 +881,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Manuel - Adres Seçimi
  tags:regressionStaging_adresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
@@ -950,7 +950,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
  tags:regressionStaging_adresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecimi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest9@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -967,7 +967,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_adresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
@@ -1049,7 +1049,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimNakit
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1074,7 +1074,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlNakit
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -1165,7 +1165,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimKrediKartı
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1190,7 +1190,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlKrediKartı
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -1281,7 +1281,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartSodexoKart
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1306,7 +1306,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSmartSodexoKart
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -1396,7 +1396,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSodexoYemekCeki
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1421,7 +1421,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSodexoYemekCeki
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -1512,7 +1512,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1537,7 +1537,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSmartTicketYemekÇeki
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -1628,7 +1628,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1653,7 +1653,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlMultinet
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -1744,7 +1744,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSetCard
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1769,7 +1769,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSetCard
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -1862,7 +1862,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -1888,7 +1888,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlOnlineOdeme
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
@@ -2041,7 +2041,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
  tags:regressionStaging_siparisNotuEklemeVarolanUyeAdreseTeslimLutfenZileBasmayiniz
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -2389,7 +2389,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
  tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
@@ -2400,7 +2400,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
  tags:regressionStaging_subeAtamaVarolanUyeGelAlYalnizcaIl
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
@@ -2466,7 +2466,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
  tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlce
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Sakarya/Adapazarı eklenir
 * Anasayfada Sakarya/Adapazarı adresinin geldiği kontrol edilir
@@ -2477,7 +2477,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
  tags:regressionStaging_subeAtamaVarolanUyeGelAlIlIlce
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Merkez eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
@@ -2543,7 +2543,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
  tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2554,7 +2554,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
  tags:regressionStaging_subeAtamaVarolanUyeGelAlIlIlceMahalle
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
@@ -2611,7 +2611,7 @@ Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
  tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Staging ortamına gidilir
-* "dominostest6@hotmail.com" kullanıcısı ve "Testinium123" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
@@ -2679,7 +2679,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 //blocked:Düzelince testiniuma eklenecek
 
 * Dominos - Staging ortamına gidilir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2724,7 +2724,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 tags:regressionStaging_uyeKVKKIzniGuncellemevarolanUyeAyrilmayiOnayla
 
 * Dominos - Staging ortamına gidilir
-* "dominostest3@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2814,7 +2814,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
 
 * Dominos - Staging ortamına gidilir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2861,7 +2861,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelik
 
 //Bug OLOTR-1480 çözüldükten sonra Testinium suiteine eklenecek
 * Dominos - Staging ortamına gidilir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2907,7 +2907,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgi
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecProfilim
 
 * Dominos - Staging ortamına gidilir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2961,7 +2961,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecProfilim
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaProfilim
 
 * Dominos - Staging ortamına gidilir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
