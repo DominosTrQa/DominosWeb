@@ -566,7 +566,7 @@ Sepetten Upcell Ekleme - Gel Al - Üye
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ye kazan popupında giriş yap butonuna tıklanır
-* E-posta "dominostest6@hotmail.com" ve "Testinium123" şifre girilir
+* E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
 
