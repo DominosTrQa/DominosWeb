@@ -32,7 +32,7 @@
 * Element var mı kontrol et "yeKazanSikcaSorulanSorulardanBiriLinktext"
 
 # Ye kazan uyarı butonundan çıkılır
-* "5" saniye bekle
+* "10" saniye bekle
 * "puanPopupKapatButon" li elementi bul ve varsa dokun
 * "3" saniye bekle
 * "yeKazanUyariCikisButonu" li elementi bul ve varsa dokun
