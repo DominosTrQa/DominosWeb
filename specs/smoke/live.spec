@@ -151,9 +151,10 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Anasayfadaki gel al butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Anasayfadaki gel al butonuna tıklanır
+ Adrese Teslim servis tipi seçilir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* "AdreseTeslim" li seçimi değiştir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir

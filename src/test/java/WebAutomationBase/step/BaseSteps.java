@@ -858,6 +858,139 @@ public class BaseSteps extends BaseTest {
 
   }
 
+  @Step("<text> li seçimi değiştir")
+  public void change(String text){
+
+    switch (text){
+
+      case "GelAl":
+
+        waitBySeconds(2);
+
+        if(driver.findElements(By.xpath("//span[contains(text(),'Adrese Teslim')]")).size()>0) {
+
+          getElementWithKeyIfExists("anasayfaServisTipiDegisimibuton");
+          clickElement("anasayfaServisTipiDegisimibuton");
+
+          getElementWithKeyIfExists("gelAlButon");
+          clickElement("gelAlButon");
+        } else {
+
+        }
+        break;
+
+      case "AdreseTeslim":
+
+        waitBySeconds(2);
+
+        if(driver.findElements(By.xpath("//span[contains(text(),'Gel Al')]")).size()>0)
+        {
+        getElementWithKeyIfExists("anasayfaServisTipiDegisimibuton");
+        clickElement("anasayfaServisTipiDegisimibuton");
+
+        waitBySeconds(4);
+
+        getElementWithKeyIfExists("adreseTeslimButon");
+        clickElement("adreseTeslimButon");
+
+        waitBySeconds(4);
+
+        getElementWithKeyIfExists("ilDropdown");
+        clickElement("ilDropdown");
+
+        waitBySeconds(4);
+
+        getElementWithKeyIfExists("ilİstanbul");
+        clickElement("ilİstanbul");
+
+        waitBySeconds(4);
+
+        getElementWithKeyIfExists("ilceDropdown");
+        clickElement("ilceDropdown");
+
+        waitBySeconds(4);
+
+        getElementWithKeyIfExists("ilceAdalar");
+        clickElement("ilceAdalar");
+
+        waitBySeconds(4);
+
+        getElementWithKeyIfExists("mahalleDropdown");
+        clickElement("mahalleDropdown");
+
+        waitBySeconds(4);
+
+        getElementWithKeyIfExists("mahalleBurgazadaMahallesi");
+        clickElement("mahalleBurgazadaMahallesi");
+
+        waitBySeconds(4);
+
+        getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
+        clickElement("seciliAdresIleDevamEtButon");
+        }
+        else {
+
+        }
+        break;
+
+      case "GelAlAdresSecimli":
+
+        waitBySeconds(2);
+
+        if(driver.findElements(By.xpath("//span[contains(text(),'Adrese Teslim')]")).size()>0) {
+
+          getElementWithKeyIfExists("ilDropdownGelAl");
+          clickElement("ilDropdownGelAl");
+
+          getElementWithKeyIfExists("ilİstanbul");
+          clickElement("ilİstanbul");
+
+          waitBySeconds(2);
+
+          getElementWithKeyIfExists("ilceDropdownGelAl");
+          clickElement("ilceDropdownGelAl");
+
+          getElementWithKeyIfExists("ilceAdalar");
+          clickElement("ilceAdalar");
+
+          waitBySeconds(4);
+
+          getElementWithKeyIfExists("mahalleDropdownGelAl");
+          clickElement("mahalleDropdownGelAl");
+
+          getElementWithKeyIfExists("mahalleBurgazadaMahallesi");
+          clickElement("mahalleBurgazadaMahallesi");
+
+          waitBySeconds(4);
+
+          getElementWithKeyIfExists("acikSubeleriGoster");
+          clickElement("acikSubeleriGoster");
+
+          getElementWithKeyIfExists("subeleriGosterButon");
+          clickElement("subeleriGosterButon");
+
+          getElementWithKeyIfExists("ilkSubeSecimi");
+          clickElement("ilkSubeSecimi");
+
+          waitBySeconds(2);
+
+          getElementWithKeyIfExists("seciliSubeIleDevamEtButon");
+          clickElement("seciliSubeIleDevamEtButon");
+
+          waitBySeconds(3);
+
+          getElementWithKeyIfExists("cookiesKapatButon");
+          clickElement("cookiesKapatButon");
+        } else {
+
+        }
+        break;
+
+      default:
+          break;
+    }
+  }
+
 }
 
 
