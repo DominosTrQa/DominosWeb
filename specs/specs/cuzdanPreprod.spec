@@ -10,7 +10,7 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiSayfaKontrolu
 * "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -31,7 +31,7 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKrediDogruEklenmesi
 * "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında 25 TL kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -49,7 +49,7 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
 * Diğer textboxa 301 TL değer girilir ve uyarı alındığı kontrol edilir
 * Diğer textboxa 25 TL değer girilir
 * Öde butonuna tıklanır
-* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -119,7 +119,7 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlan
 * "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -158,7 +158,7 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontro
 * "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -230,7 +230,7 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiHareketlerSayfaKontrolu
 * "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
