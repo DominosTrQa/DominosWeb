@@ -991,6 +991,78 @@ public class BaseSteps extends BaseTest {
     }
   }
 
+  @Step("<key> li adres tipi seçilir")
+  public void firstServiceTypeChange(String key){
+    if(findElements(key).size()>0){
+      getElementWithKeyIfExists(key);
+      clickElement(key);
+      waitBySeconds(2);
+      //Gel Al
+      if(findElements("acikSubeleriGoster").size()>0){
+        getElementWithKeyIfExists("ilDropdownGelAl");
+        clickElement("ilDropdownGelAl");
+        getElementWithKeyIfExists("ilİstanbul");
+        clickElement("ilİstanbul");
+        waitBySeconds(2);
+        getElementWithKeyIfExists("ilceDropdownGelAl");
+        clickElement("ilceDropdownGelAl");
+        getElementWithKeyIfExists("ilceAdalar");
+        clickElement("ilceAdalar");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("mahalleDropdownGelAl");
+        clickElement("mahalleDropdownGelAl");
+        getElementWithKeyIfExists("mahalleBurgazadaMahallesi");
+        clickElement("mahalleBurgazadaMahallesi");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("acikSubeleriGoster");
+        clickElement("acikSubeleriGoster");
+        getElementWithKeyIfExists("subeleriGosterButon");
+        clickElement("subeleriGosterButon");
+        getElementWithKeyIfExists("ilkSubeSecimi");
+        clickElement("ilkSubeSecimi");
+        waitBySeconds(2);
+        getElementWithKeyIfExists("seciliSubeIleDevamEtButon");
+        clickElement("seciliSubeIleDevamEtButon");
+        waitBySeconds(3);
+        getElementWithKeyIfExists("cookiesKapatButon");
+        clickElement("cookiesKapatButon");
+      }
+      //Adrese Teslim
+      else if(findElements("acikSubeleriGoster").size()<=0){
+        getElementWithKeyIfExists("anasayfaServisTipiDegisimibuton");
+        clickElement("anasayfaServisTipiDegisimibuton");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("adreseTeslimButon");
+        clickElement("adreseTeslimButon");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("ilDropdown");
+        clickElement("ilDropdown");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("ilİstanbul");
+        clickElement("ilİstanbul");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("ilceDropdown");
+        clickElement("ilceDropdown");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("ilceAdalar");
+        clickElement("ilceAdalar");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("mahalleDropdown");
+        clickElement("mahalleDropdown");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("mahalleBurgazadaMahallesi");
+        clickElement("mahalleBurgazadaMahallesi");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
+        clickElement("seciliAdresIleDevamEtButon");
+      }
+      else {
+      }
+    }
+    else {
+    }
+  }
+
 }
 
 
