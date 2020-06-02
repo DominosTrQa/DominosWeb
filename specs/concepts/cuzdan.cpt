@@ -57,7 +57,7 @@
 * Element var mı kontrol et "cuzdanDigerTextboxMaxMinUyari"
 
 # Öde butonuna tıklanamadığı kontrol edilir
-* Element var mı kontrol et "cuzdanOdeButonTiklanamazlikKontrolu"
+* Element yok mu kontrol et "cuzdanOdeButonTiklanamazlikKontrolu"
 
 # Kart numarası textbox boş bırakılır ve diğer kart bilgilerine değer girilir
 * "4" saniye bekle

@@ -1,16 +1,16 @@
-Cüzdan Preprod
+Cüzdan Live
 =====================
 
      
 Cüzdan - Bakiye Yükleme Sayfası - Sayfa Kontrolü
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiSayfaKontrolu
+Tags:liveCuzdan_BakiyeYuklemeSayfasiSayfaKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -25,13 +25,13 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiSayfaKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kredi Doğru Eklenmesi
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiKrediDogruEklenmesi
+Tags:liveCuzdan_BakiyeYuklemeSayfasiKrediDogruEklenmesi
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında 25 TL kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -40,16 +40,16 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKrediDogruEklenmesi
 
 Cüzdan - Bakiye Yükleme Sayfası - Diğer Textbox Kontrolleri
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
+Tags:liveCuzdan_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
 * Diğer textboxa 24 TL değer girilir ve uyarı alındığı kontrol edilir
 * Diğer textboxa 301 TL değer girilir ve uyarı alındığı kontrol edilir
 * Diğer textboxa 25 TL değer girilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -58,13 +58,13 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
 
 Cüzdan - Bakiye Yükleme Sayfası - Diğer Textbox - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
+Tags:liveCuzdan_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -75,13 +75,13 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kart Numarası - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontrolu
+Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -94,13 +94,13 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontr
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - CVC - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
+Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -113,13 +113,13 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Son Kullanma Tarihi - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlanKontrolu
+Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -132,13 +132,13 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlan
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kart Numarası Yanlış
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
+Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -152,13 +152,13 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kartı Kaydet - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontrolu
+Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -172,10 +172,10 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontro
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kartı Kaydet - Yanlış Sms Şifresi
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
+Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
@@ -195,10 +195,10 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kartı Kaydet - 3 Sms Kontrolü
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
+Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
@@ -224,13 +224,13 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Hareketler - Sayfa Kontrolü
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiHareketlerSayfaKontrolu
+Tags:liveCuzdan_BakiyeYuklemeSayfasiHareketlerSayfaKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest8@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -240,13 +240,13 @@ Sonra yazılacak
 
 Cüzdan - Bakiye Yükleme Sayfası - Sıkça Sorulan Sorular - Sayfa Kontrolü
 -----------------------------------------------
-Tags:preprodCuzdan_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
+Tags:liveCuzdan_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Live ortamına gidilir
+* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest7@hotmail.com" ve "a1w2d3r4D" şifre girilir
+* E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -256,9 +256,9 @@ Tags:preprodCuzdan_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
 
 Cüzdan - Ödeme Sayfası - Yeni Üye - Cüzdan Seçimi
 -----------------------------------------------
-Tags:preprodCuzdan_OdemeSayfasiYeniUyeCuzdanSecimi
+Tags:liveCuzdan_OdemeSayfasiYeniUyeCuzdanSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -280,9 +280,9 @@ Tags:preprodCuzdan_OdemeSayfasiYeniUyeCuzdanSecimi
 
 Cüzdan - Ödeme Sayfası - Üyeliksiz - Cüzdan Seçimi
 -----------------------------------------------
-Tags:preprodCuzdan_OdemeSayfasiUyeliksizCuzdanSecimi
+Tags:liveCuzdan_OdemeSayfasiUyeliksizCuzdanSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
