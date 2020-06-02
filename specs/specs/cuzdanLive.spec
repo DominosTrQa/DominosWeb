@@ -179,8 +179,8 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
- Adrese Teslim servis tipi seçilir
- Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır

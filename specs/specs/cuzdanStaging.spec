@@ -178,7 +178,7 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 * "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
+* Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır 2
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
@@ -201,7 +201,7 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 * "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
+* Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır 2
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
