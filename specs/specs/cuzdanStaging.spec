@@ -1,18 +1,18 @@
-Cüzdan Live
+Cüzdan Staging
 =====================
 
      
 Cüzdan - Bakiye Yükleme Sayfası - Sayfa Kontrolü
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiSayfaKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiSayfaKontrolu
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
- Adrese Teslim servis tipi seçilir
- Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
 * Kredi butonlarının geldiği kontrol edilir
 * Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
@@ -25,10 +25,10 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiSayfaKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kredi Doğru Eklenmesi
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiKrediDogruEklenmesi
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKrediDogruEklenmesi
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında 25 TL kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
@@ -40,28 +40,28 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiKrediDogruEklenmesi
 
 Cüzdan - Bakiye Yükleme Sayfası - Diğer Textbox Kontrolleri
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
+Tags:cuzdanStg_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
 * Diğer textboxa 24 TL değer girilir ve uyarı alındığı kontrol edilir
 * Diğer textboxa 301 TL değer girilir ve uyarı alındığı kontrol edilir
 * Diğer textboxa 25 TL değer girilir
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
- Adrese Teslim servis tipi seçilir
- Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
 * Yüklenecek Bakiye alanında 25 TL yazdığı kontrol edilir
 
 
 Cüzdan - Bakiye Yükleme Sayfası - Diğer Textbox - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
@@ -75,15 +75,15 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kart Numarası - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontrolu
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
- Adrese Teslim servis tipi seçilir
- Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
@@ -94,15 +94,15 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - CVC - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
- Adrese Teslim servis tipi seçilir
- Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
@@ -113,10 +113,10 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Son Kullanma Tarihi - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlanKontrolu
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
@@ -132,15 +132,15 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlanKon
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kart Numarası Yanlış
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
- Adrese Teslim servis tipi seçilir
- Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
@@ -152,10 +152,10 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kartı Kaydet - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontrolu
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
@@ -172,15 +172,15 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kartı Kaydet - Yanlış Sms Şifresi
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
- Adrese Teslim servis tipi seçilir
- Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
@@ -195,10 +195,10 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kartı Kaydet - 3 Sms Kontrolü
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
@@ -224,10 +224,10 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Hareketler - Sayfa Kontrolü
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiHareketlerSayfaKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiHareketlerSayfaKontrolu
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
@@ -240,15 +240,15 @@ Sonra yazılacak
 
 Cüzdan - Bakiye Yükleme Sayfası - Sıkça Sorulan Sorular - Sayfa Kontrolü
 -----------------------------------------------
-Tags:liveCuzdan_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
 
-* Dominos - Live ortamına gidilir
-* "https://www.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
- Adrese Teslim servis tipi seçilir
- Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
 * Sıkça Sorulan Sorular tabına tıklanır
 * Sıkça Sorulan Sorular sayfasının ve ilk sorusunun geldiği kontrol edilir
@@ -256,9 +256,9 @@ Tags:liveCuzdan_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
 
 Cüzdan - Ödeme Sayfası - Yeni Üye - Cüzdan Seçimi
 -----------------------------------------------
-Tags:liveCuzdan_OdemeSayfasiYeniUyeCuzdanSecimi
+Tags:cuzdanStg_OdemeSayfasiYeniUyeCuzdanSecimi
 
-* Dominos - Live ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -280,9 +280,9 @@ Tags:liveCuzdan_OdemeSayfasiYeniUyeCuzdanSecimi
 
 Cüzdan - Ödeme Sayfası - Üyeliksiz - Cüzdan Seçimi
 -----------------------------------------------
-Tags:liveCuzdan_OdemeSayfasiUyeliksizCuzdanSecimi
+Tags:cuzdanStg_OdemeSayfasiUyeliksizCuzdanSecimi
 
-* Dominos - Live ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
