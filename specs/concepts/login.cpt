@@ -318,3 +318,12 @@
 * "Test123" textini "loginPasswordTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "girisYapButon"
 * "3" saniye bekle
+
+# Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır 2
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "loginEmailTextbox"
+* "emre.sonmez@test.com" textini "loginEmailTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "loginPasswordTextbox"
+* "Test123" textini "loginPasswordTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "girisYapButon"
+* "3" saniye bekle
