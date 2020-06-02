@@ -131,7 +131,7 @@
   },
   {
     "key": "cuzdanGecersizKartNumarasiUyari",
-    "value": "(//div[contains(text(),'Geçersiz Kart Numarası')])[1]",
+    "value": "//div[contains(text(),'Lütfen ödeme bilgilerinizi gözden geçirin.')]",
     "type": "xpath"
   },
   {
