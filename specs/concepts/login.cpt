@@ -172,6 +172,10 @@
 * Elementi bekle ve sonra tıkla "cookieOnayButon"
 * "4" saniye bekle
 
+# Cookie kapat butonuna tıklanır
+* Elementin yüklenmesini bekle ve tıkla "cookiesKapatButon"
+* "4" saniye bekle
+
 # Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
@@ -305,3 +309,12 @@
 
 # Dominos - Live ortamına gidilir
 * "https://www.dominos.com.tr/" adresine git
+
+# Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "loginEmailTextbox"
+* "sevgi.alkan@test.com" textini "loginEmailTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "loginPasswordTextbox"
+* "Test123" textini "loginPasswordTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "girisYapButon"
+* "3" saniye bekle
