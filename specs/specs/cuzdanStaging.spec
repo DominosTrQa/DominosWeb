@@ -12,8 +12,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiSayfaKontrolu
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Kredi butonlarının geldiği kontrol edilir
 * Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
 * Cüzdan sayfasında ilk kredi seçilir
@@ -33,8 +34,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKrediDogruEklenmesi
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Yüklenecek Bakiye alanında 25 TL yazdığı kontrol edilir
 
 
@@ -51,8 +53,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Yüklenecek Bakiye alanında 25 TL yazdığı kontrol edilir
 
 
@@ -66,8 +69,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
 * Öde butonuna tıklanır
 * Öde butonuna tıklanamadığı kontrol edilir
@@ -83,8 +87,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontrolu
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kart numarası textbox boş bırakılır ve diğer kart bilgilerine değer girilir
@@ -100,10 +105,10 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
 * "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * CVC textbox boş bırakılır ve diğer kart bilgilerine değer girilir
@@ -121,8 +126,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlanKont
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Son Kullanma Tarihi dropdown boş bırakılır ve diğer kart bilgilerine değer girilir
@@ -140,8 +146,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kart bilgilerine Kart Numarası Yanlış olacak şekilde değerler girilir
@@ -160,8 +167,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontrolu
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kart bilgilerine değerler girilir
@@ -182,6 +190,7 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+ İlk kayıtlı adres seçilir
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kart bilgilerine değerler girilir
@@ -205,6 +214,7 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+ İlk kayıtlı adres seçilir
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kart bilgilerine değerler girilir
@@ -232,8 +242,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiHareketlerSayfaKontrolu
 * Öde butonuna tıklanır
 * E-posta "dominostest2@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Hareketler tabına tıklanır
 Sonra yazılacak
 
@@ -248,8 +259,9 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
 * Öde butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Sıkça Sorulan Sorular tabına tıklanır
 * Sıkça Sorulan Sorular sayfasının ve ilk sorusunun geldiği kontrol edilir
 
