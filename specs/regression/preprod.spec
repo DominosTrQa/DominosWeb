@@ -2,24 +2,6 @@ Regression Preprod
 =====================
 
 
-Üye Giriş - Başarısız giriş 2
--------------------------------
-tags:regressionPreprod_uyeGirisiBasarisizGiris
-
-* Dominos - Preprod ortamına gidilir
-* "dominostest8@hotmail.com" kullanıcısı ve "test" şifresi ile üye girişi yapılır
-* Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
-
-
-Üye Girişi - Başarısız giriş 2
-------------------------------
-tags:regressionPreprod_uyeGirisiBasarisizGiris2
-
-* Dominos - Preprod ortamına gidilir
-* "test@gmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
-
-
 Üye Girişi - Ekran kontrolü
 ------------------------------
 tags:regressionPreprod_uyeGirisiEkranKontrolu
@@ -57,15 +39,6 @@ tags:regressionPreprod_uyeOlmazBasariliUyeOlma
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
-
-
-Üye Olma - Başarısız Üye Olma
--------------------------------
-tags:regressionPreprod_uyeOlmazBasarisizUyeOlma
-
-* Dominos - Preprod ortamına gidilir
-* Üye ol butonuna tıklanır
-* Üye olurken bilgiler boş bırakıldığında uyarıların geldiği kontrol edilir
 
 
 Üye Olma - Başarılı Üye Olma 2
@@ -460,22 +433,6 @@ tags:regressionPreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 
 
-Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Servis Tipinin Değiştirilememesi
------------------------------------------------------------------------------------------
-tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
-
-* Dominos - Preprod ortamına gidilir
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Adrese teslim butonuna tıklanamadığı görülür
-
-
 Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Servis Tipinin Değiştirilememesi
 ----------------------------------------------------------------------------------------
 tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
@@ -508,22 +465,6 @@ tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteServisTipini
 * Adrese teslim butonuna tıklanamadığı görülür
 
 
-Servis Tipi Seçimi - Gel Al - Varolan Üye Sepette Servis Tipinin Değiştirilememesi
-------------------------------------------------------------------------------------
-tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistirilememesi
-
-* Dominos - Preprod ortamına gidilir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Gel al butonuna tıklanamadığı görülür
-
-
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Servis Tipinin Değiştirilememesi
 ------------------------------------------------------------------------------------
 tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
@@ -536,20 +477,6 @@ tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDe
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Adrese teslim butonuna tıklanamadığı görülür
-
-
-Servis Tipi Seçimi - Gel Al - Yeni Üye Sepette Servis Tipinin Değiştirilememesi
-------------------------------------------------------------------------------------
-tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
-
-* Dominos - Preprod ortamına gidilir
-* Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
-* Sepetim ikonuna tıklanır
-* Sepete git butonuna tıklanır
-* Gel al butonuna tıklanamadığı görülür
 
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Ürün varken Servis Tipinin Değiştirilmesi
