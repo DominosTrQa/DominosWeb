@@ -18,6 +18,7 @@
 * Element var mı kontrol et "cuzdanOdeButon"
 
 # Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "cuzdanKredi6"
 * Element var mı kontrol et "cuzdanDigerTextbox"
 
@@ -133,7 +134,8 @@
 * Elementi bekle ve sonra tıkla "cuzdanTabHareketler"
 
 # Sıkça Sorulan Sorular tabına tıklanır
-* "3" saniye bekle
+* "5" saniye bekle
+* "cuzdanTabSikcaSorulanSorular" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "cuzdanTabSikcaSorulanSorular"
 
 # Sıkça Sorulan Sorular sayfasının ve ilk sorusunun geldiği kontrol edilir
