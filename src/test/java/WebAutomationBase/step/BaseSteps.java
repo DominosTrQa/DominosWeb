@@ -991,14 +991,17 @@ public class BaseSteps extends BaseTest {
     }
   }
 
-  @Step("<key> li adres tipi seçilir")
-  public void firstServiceTypeChange(String key){
-    if(findElements(key).size()>0){
+  @Step("<key> li servis tipi seçilir ve kontrol edilir")
+  public void firstServiceTypeChange(String key) {
+      waitBySeconds(2);
+    if (findElements(key).size()>0) {
+      findElements(key);
       getElementWithKeyIfExists(key);
       clickElement(key);
       waitBySeconds(2);
+
       //Gel Al
-      if(findElements("acikSubeleriGoster").size()>0){
+      if (findElements("acikSubeleriGoster").size() > 0) {
         getElementWithKeyIfExists("ilDropdownGelAl");
         clickElement("ilDropdownGelAl");
         getElementWithKeyIfExists("ilİstanbul");
@@ -1027,8 +1030,21 @@ public class BaseSteps extends BaseTest {
         getElementWithKeyIfExists("cookiesKapatButon");
         clickElement("cookiesKapatButon");
       }
+      //Kayıtlı Adres Çıkarsa
+      else if (findElements("seciliAdresIleDevamEtButonilkadres").size() >= 0) {
+        getElementWithKeyIfExists("cookiesKapatButon");
+        clickElement("cookiesKapatButon");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("seciliAdresIleDevamEtButonilkadres");
+        clickElement("seciliAdresIleDevamEtButonilkadres");
+        waitBySeconds(4);
+        getElementWithKeyIfExists("siparisSayfasiSeciliAdresIleDevamEtButon");
+        clickElement("siparisSayfasiSeciliAdresIleDevamEtButon");
+        waitBySeconds(4);
+
+      }
       //Adrese Teslim
-      else if(findElements("acikSubeleriGoster").size()<=0){
+      else if (findElements("acikSubeleriGoster").size() <= 0) {
         getElementWithKeyIfExists("anasayfaServisTipiDegisimibuton");
         clickElement("anasayfaServisTipiDegisimibuton");
         waitBySeconds(4);
@@ -1055,13 +1071,11 @@ public class BaseSteps extends BaseTest {
         waitBySeconds(4);
         getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
         clickElement("seciliAdresIleDevamEtButon");
+      } else {
       }
-      else {
-      }
-    }
-    else {
     }
   }
+
 
 }
 
