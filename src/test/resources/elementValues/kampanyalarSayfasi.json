@@ -56,6 +56,11 @@
     "type": "xpath"
   },
   {
+    "key": "ilkKampanyaSec",
+    "value":"(//div[.='Sipariş Ver'])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "birinciUrunBirinciPizzaSec",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM0",
     "type": "id"

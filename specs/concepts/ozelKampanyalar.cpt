@@ -44,8 +44,24 @@
 * Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
 * Elementi bekle ve sonra tıkla "ikinciUrunBirinciPizzaSec"
 
+# 2 urunlu kampanya icin siparis olusturulur
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunBirinciPizzaSec"
+* "ikinciUrunSeciniz" alanına kaydır
+* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla "ikinciUrunBirinciPizzaSec"
+
+# 1 urunlu kampanya icin siparis olusturulur
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunBirinciPizzaSec"
+
 # Gel Al orta boy pizza kahve kampanyası secilir
 * Elementi bekle ve sonra tıkla "2ortaBoySosyalPizza"
+
+# Kampanya sayfasındaki ilk kampanya secilir
+* Elementi bekle ve sonra tıkla "ilkKampanyaSec"
 
 # Superos pizza cesidi secilir
 * Elementi bekle ve sonra tıkla "superosPizza"

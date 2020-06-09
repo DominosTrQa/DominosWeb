@@ -259,6 +259,9 @@
 * Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
 * Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
 
+# Siparis tamamlanir(guest) 2
+* Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
+
 # Tekrar sipariş ver butonuna tıklanır
 * Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
 
@@ -574,3 +577,6 @@
 
 # Sipariş tamamlanmadan Siparişe Kapalı - test adresi olduğu doğrulanır
 * Element var mı kontrol et "sipariseKapalitextKontrol"
+
+# Misafir onay sayfası doldurulur
+* Elementi bekle ve sonra tıkla "key"
