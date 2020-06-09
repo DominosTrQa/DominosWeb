@@ -859,7 +859,7 @@ public class BaseSteps extends BaseTest {
   }
 
   @Step("<text> Servis tipi kontrolü yapılır")
-  public void change(String text){
+  public void serviceTypeControl(String text){
     switch (text){
       case "GelAl":
         waitBySeconds(2);
@@ -968,8 +968,8 @@ public class BaseSteps extends BaseTest {
   }
 
 
-  @Step("<key> servis tipi kontrol edilir ve seçilir")
-  public void firstServiceTypeChange(String key) {
+  @Step("<key> servis tipi seçilir ve adres seçimi yapılır")
+  public void choiceServiceType(String key) {
       waitBySeconds(2);
     if (findElements(key).size()>0) {
       findElements(key);
