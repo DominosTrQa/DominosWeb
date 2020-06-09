@@ -858,7 +858,7 @@ public class BaseSteps extends BaseTest {
 
   }
 
-  @Step("<text> Servis tipi kontrolü yapılır")
+  @Step("<text> servis tipi kontrolü yapılır")
   public void serviceTypeControl(String text){
     switch (text){
       case "GelAl":
@@ -868,6 +868,7 @@ public class BaseSteps extends BaseTest {
           clickElement("anasayfaServisTipiDegisimibuton");
           getElementWithKeyIfExists("gelAlButon");
           clickElement("gelAlButon");
+
           if(findElements("ilDropdownGelAl").size() > 0){
             waitBySeconds(2);
             getElementWithKeyIfExists("ilDropdownGelAl");
@@ -895,13 +896,20 @@ public class BaseSteps extends BaseTest {
             getElementWithKeyIfExists("seciliSubeIleDevamEtButon");
             clickElement("seciliSubeIleDevamEtButon");
             waitBySeconds(3);
-            getElementWithKeyIfExists("cookiesKapatButon");
-            clickElement("cookiesKapatButon");
+
+            if(findElements("cookiesKapatButon").size() > 0) {
+              getElementWithKeyIfExists("cookiesKapatButon");
+              clickElement("cookiesKapatButon");
+              waitBySeconds(4);
+            }
           }
           else if (findElements("seciliAdresIleDevamEtButonilkadres").size() >= 0) {
-            getElementWithKeyIfExists("cookiesKapatButon");
-            clickElement("cookiesKapatButon");
-            waitBySeconds(4);
+            if(findElements("cookiesKapatButon").size() > 0) {
+              getElementWithKeyIfExists("cookiesKapatButon");
+              clickElement("cookiesKapatButon");
+              waitBySeconds(4);
+
+            }
             getElementWithKeyIfExists("seciliAdresIleDevamEtButonilkadres");
             clickElement("seciliAdresIleDevamEtButonilkadres");
             waitBySeconds(4);
@@ -910,9 +918,11 @@ public class BaseSteps extends BaseTest {
             waitBySeconds(1);
           }
         }
+
         else {
           logger.info("Kullanıcı Gel Al Servis Tipinde!!");
         }
+
         break;
       case "AdreseTeslim":
         waitBySeconds(2);
@@ -945,11 +955,19 @@ public class BaseSteps extends BaseTest {
             waitBySeconds(4);
             getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
             clickElement("seciliAdresIleDevamEtButon");
+
+            if(findElements("cookiesKapatButon").size() > 0) {
+              getElementWithKeyIfExists("cookiesKapatButon");
+              clickElement("cookiesKapatButon");
+              waitBySeconds(4);
+            }
           }
           else if (findElements("seciliAdresIleDevamEtButonilkadres").size() >= 0) {
-            getElementWithKeyIfExists("cookiesKapatButon");
-            clickElement("cookiesKapatButon");
-            waitBySeconds(4);
+            if(findElements("cookiesKapatButon").size() > 0) {
+              getElementWithKeyIfExists("cookiesKapatButon");
+              clickElement("cookiesKapatButon");
+              waitBySeconds(4);
+            }
             getElementWithKeyIfExists("seciliAdresIleDevamEtButonilkadres");
             clickElement("seciliAdresIleDevamEtButonilkadres");
             waitBySeconds(4);
@@ -970,7 +988,7 @@ public class BaseSteps extends BaseTest {
 
   @Step("<key> servis tipi seçilir ve adres seçimi yapılır")
   public void choiceServiceType(String key) {
-      waitBySeconds(2);
+      waitBySeconds(4);
     if (findElements(key).size()>0) {
       findElements(key);
       getElementWithKeyIfExists(key);
@@ -1004,14 +1022,19 @@ public class BaseSteps extends BaseTest {
         getElementWithKeyIfExists("seciliSubeIleDevamEtButon");
         clickElement("seciliSubeIleDevamEtButon");
         waitBySeconds(3);
-        getElementWithKeyIfExists("cookiesKapatButon");
-        clickElement("cookiesKapatButon");
+        if(findElements("cookiesKapatButon").size() > 0) {
+          getElementWithKeyIfExists("cookiesKapatButon");
+          clickElement("cookiesKapatButon");
+          waitBySeconds(4);
+        }
       }
       //Kayıtlı Adres Çıkarsa
       else if (findElements("seciliAdresIleDevamEtButonilkadres").size() > 0) {
-        getElementWithKeyIfExists("cookiesKapatButon");
-        clickElement("cookiesKapatButon");
-        waitBySeconds(4);
+        if(findElements("cookiesKapatButon").size() > 0) {
+          getElementWithKeyIfExists("cookiesKapatButon");
+          clickElement("cookiesKapatButon");
+          waitBySeconds(4);
+        }
         getElementWithKeyIfExists("seciliAdresIleDevamEtButonilkadres");
         clickElement("seciliAdresIleDevamEtButonilkadres");
         waitBySeconds(4);
@@ -1048,13 +1071,18 @@ public class BaseSteps extends BaseTest {
         waitBySeconds(4);
         getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
         clickElement("seciliAdresIleDevamEtButon");
+        if(findElements("cookiesKapatButon").size() > 0) {
+          getElementWithKeyIfExists("cookiesKapatButon");
+          clickElement("cookiesKapatButon");
+          waitBySeconds(4);
+        }
       }
       else {
 
       }
     }
     else {
-      logger.info("Servis Tipi Seçildi!!!");
+
     }
   }
 

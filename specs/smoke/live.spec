@@ -14,8 +14,8 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
-* 2 orta boy sosyal pizza kampanyası secilir
-* 2 pizzali kampanya icin siparis olusturulur
+* Kampanya sayfasındaki ilk kampanya secilir
+* 2 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -42,8 +42,8 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Gel Al orta boy pizza kahve kampanyası secilir
-* 2 pizzali kampanya icin siparis olusturulur
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -70,8 +70,8 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
-* Gel Al orta boy pizza kahve kampanyası secilir
-* 2 pizzali kampanya icin siparis olusturulur
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -81,6 +81,8 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Siparis tamamlanir(guest) 2
 
 
 Live - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
@@ -108,6 +110,8 @@ tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Siparis tamamlanir(guest) 2
 
 
 Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
@@ -151,10 +155,11 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
- Anasayfadaki gel al butonuna tıklanır
- Adrese Teslim servis tipi seçilir
- Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* "AdreseTeslim" li seçimi değiştir
+* Anasayfadaki gel al butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ "AdreseTeslim" servis tipi seçilir ve adres seçimi yapılır
+ "adreseTeslim" servis tipi kontrolü yapılır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -192,8 +197,8 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
-* Gel Al orta boy pizza kahve kampanyası secilir
-* 2 pizzali kampanya icin siparis olusturulur
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
@@ -215,8 +220,8 @@ tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
-* 2 orta boy sosyal pizza kampanyası secilir
-* 2 pizzali kampanya icin siparis olusturulur
+* Kampanya sayfasındaki ilk kampanya secilir
+* 2 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır

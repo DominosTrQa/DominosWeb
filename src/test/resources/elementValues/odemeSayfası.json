@@ -526,22 +526,22 @@
   },
   {
     "key": "odemeyiTamamlaGuestad",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[1]",
+    "value":"//input[@name='name']",
     "type": "xpath"
   },
   {
     "key": "odemeyiTamamlaGuestsoyad",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[2]",
+    "value":"//input[@name='surname']",
     "type": "xpath"
   },
   {
     "key": "odemeyiTamamlaGuesteposta",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[3]",
+    "value":"//input[@name='email']",
     "type": "xpath"
   },
   {
     "key": "odemeyiTamamlaGuesttelefon",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[4]",
+    "value":"//input[@name='mobilePhone']",
     "type": "xpath"
   }
 ]
