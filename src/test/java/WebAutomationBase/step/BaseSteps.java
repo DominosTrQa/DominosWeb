@@ -863,7 +863,7 @@ public class BaseSteps extends BaseTest {
     switch (text){
       case "GelAl":
         waitBySeconds(2);
-        if(driver.findElements(By.xpath("//span[contains(text(),'Adrese Teslim')]")).size()>0) {
+        if(driver.findElements(By.xpath("//span[contains(text(),'Adrese Teslim')]")).size() > 0) {
           getElementWithKeyIfExists("anasayfaServisTipiDegisimibuton");
           clickElement("anasayfaServisTipiDegisimibuton");
           getElementWithKeyIfExists("gelAlButon");
@@ -903,7 +903,7 @@ public class BaseSteps extends BaseTest {
               waitBySeconds(4);
             }
           }
-          else if (findElements("seciliAdresIleDevamEtButonilkadres").size() >= 0) {
+          else if (findElements("seciliAdresIleDevamEtButonilkadres").size() > 0) {
             if(findElements("cookiesKapatButon").size() > 0) {
               getElementWithKeyIfExists("cookiesKapatButon");
               clickElement("cookiesKapatButon");
@@ -926,7 +926,7 @@ public class BaseSteps extends BaseTest {
         break;
       case "AdreseTeslim":
         waitBySeconds(2);
-        if(driver.findElements(By.xpath("//span[contains(text(),'Gel Al')]")).size()>0)
+        if(driver.findElements(By.xpath("//span[contains(text(),'Gel Al')]")).size() > 0)
         {
           getElementWithKeyIfExists("anasayfaServisTipiDegisimibuton");
           clickElement("anasayfaServisTipiDegisimibuton");
@@ -962,7 +962,7 @@ public class BaseSteps extends BaseTest {
               waitBySeconds(4);
             }
           }
-          else if (findElements("seciliAdresIleDevamEtButonilkadres").size() >= 0) {
+          else if (findElements("seciliAdresIleDevamEtButonilkadres").size() > 0) {
             if(findElements("cookiesKapatButon").size() > 0) {
               getElementWithKeyIfExists("cookiesKapatButon");
               clickElement("cookiesKapatButon");
