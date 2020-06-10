@@ -176,6 +176,11 @@
 * Elementin yüklenmesini bekle ve tıkla "cookiesKapatButon"
 * "4" saniye bekle
 
+# Cookie varsa kapat butonuna tıklanır
+* "4" saniye bekle
+* "cookiesKapatButon" li elementi bul ve varsa dokun
+* "4" saniye bekle
+
 # Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir

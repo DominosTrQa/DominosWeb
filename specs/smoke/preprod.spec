@@ -116,13 +116,17 @@ tags:smokePreprod_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Anasayfadaki gel al butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
+ Anasayfadaki gel al butonuna tıklanır
+ Adrese Teslim servis tipi seçilir
+ Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Cookie onaylıyorum butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
+* "GelAl" servis tipi kontrolü yapılır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -206,13 +210,11 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Cookie onaylıyorum butonuna tıklanır
-* Anasayfadaki gel al butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
 * Tüm Kampanyalar Butonuna tıklanır
-* 2 orta boy sosyal pizza kampanyası secilir
-* 2 pizzali kampanya icin siparis olusturulur
+* Kampanya sayfasındaki ilk kampanya secilir
+* 2 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
