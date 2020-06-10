@@ -1086,6 +1086,41 @@ public class BaseSteps extends BaseTest {
     }
   }
 
+  @Step("<key> Varsa adres bilgileri tamamlanır (Kapı No Manuel)")
+  public void addressSelect(String key){
+    if(findElements(key).size() > 0){
+      waitBySeconds(3);
+      getElementWithKeyIfExists("caddeDropdown");
+      clickElement("caddeSokakDropdown835Sokak");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("kapiNoTextbox");
+      clickElement("kapiNoTextbox");
+      waitBySeconds(2);
+      sendKeysByKey("kapiNoTextbox","2");
+      getElementWithKeyIfExists("daireTextbox");
+      clickElement("daireTextbox");
+      waitBySeconds(2);
+      sendKeysByKey("daireTextbox","1");
+      getElementWithKeyIfExists("adresAdiTextbox");
+      clickElement("adresAdiTextbox");
+      waitBySeconds(2);
+      sendKeysByKey("adresAdiTextbox","test");
+      getElementWithKeyIfExists("adresSayfasiTelefonTextbox");
+      clickElement("adresSayfasiTelefonTextbox");
+      waitBySeconds(2);
+      sendKeys("923456789","adresSayfasiTelefonTextbox");
+      sendKeysByKey("adresTarifiTextbox","test");
+      getElementWithKeyIfExists("adresKaydetButon");
+      clickElement("adresKaydetButon");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("uyelikBilgilerimAdreslerimIlkAdres");
+      clickElement("uyelikBilgilerimAdreslerimIlkAdres");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("siparisSayfasiSeciliAdresIleDevamEtButon");
+      clickElement("siparisSayfasiSeciliAdresIleDevamEtButon");
+      waitBySeconds(2);
+    }
+  }
 
 }
 
