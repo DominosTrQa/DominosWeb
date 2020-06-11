@@ -124,6 +124,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
 * "AdreseTeslim" servis tipi kontrolü yapılır
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -158,6 +159,7 @@ tags:smokeStaging_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
 * "GelAl" servis tipi kontrolü yapılır
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -182,6 +184,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * "AdreseTeslim" servis tipi kontrolü yapılır
 * "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
 * "GelAl" servis tipi kontrolü yapılır
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
 * Dilediğin büyük boy pizza kampanyası secilir (Stg)
 * Kampanya sepete eklenir
@@ -204,6 +207,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * "GelAl" servis tipi kontrolü yapılır
 * "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
 * "AdreseTeslim" servis tipi kontrolü yapılır
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
 * 3 Al 1 öde kampanyası seçilir (Stg)
 * 3 Al 1 öde kampanyası için sipariş oluşturulur
