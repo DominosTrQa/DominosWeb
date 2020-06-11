@@ -1045,12 +1045,7 @@ public class BaseSteps extends BaseTest {
       }
       //Adrese Teslim
       else if (findElements("acikSubeleriGoster").size() <= 0) {
-        getElementWithKeyIfExists("anasayfaServisTipiDegisimibuton");
-        clickElement("anasayfaServisTipiDegisimibuton");
-        waitBySeconds(4);
-        getElementWithKeyIfExists("adreseTeslimButon");
-        clickElement("adreseTeslimButon");
-        waitBySeconds(4);
+        waitBySeconds(2);
         getElementWithKeyIfExists("ilDropdown");
         clickElement("ilDropdown");
         waitBySeconds(4);
@@ -1116,7 +1111,7 @@ public class BaseSteps extends BaseTest {
       sendKeysByKey("adresTarifiTextbox","test");
       getElementWithKeyIfExists("adresKaydetButon");
       clickElement("adresKaydetButon");
-      waitBySeconds(2);
+      waitBySeconds(4);
       getElementWithKeyIfExists("uyelikBilgilerimAdreslerimIlkAdres");
       clickElement("uyelikBilgilerimAdreslerimIlkAdres");
       waitBySeconds(2);
