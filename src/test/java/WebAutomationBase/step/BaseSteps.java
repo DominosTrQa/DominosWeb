@@ -1089,8 +1089,12 @@ public class BaseSteps extends BaseTest {
   @Step("<key> Varsa adres bilgileri tamamlanır (Kapı No Manuel)")
   public void addressSelect(String key){
     if(findElements(key).size() > 0){
-      waitBySeconds(3);
+      logger.info("Adres tamamlanıyor!!!");
+      waitBySeconds(4);
       getElementWithKeyIfExists("caddeDropdown");
+      clickElement("caddeDropdown");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("caddeSokakDropdown835Sokak");
       clickElement("caddeSokakDropdown835Sokak");
       waitBySeconds(2);
       getElementWithKeyIfExists("kapiNoTextbox");
@@ -1119,6 +1123,9 @@ public class BaseSteps extends BaseTest {
       getElementWithKeyIfExists("siparisSayfasiSeciliAdresIleDevamEtButon");
       clickElement("siparisSayfasiSeciliAdresIleDevamEtButon");
       waitBySeconds(2);
+    }
+    else{
+      logger.info("Ödeme sayfasına geçildi!!!");
     }
   }
 
