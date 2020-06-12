@@ -242,8 +242,8 @@ tags:successStaging_adresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Kalem ikonuna tıklanır
 * Adrese teslim adres düzenleye tıklanır
@@ -307,17 +307,15 @@ tags:successStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -410,9 +408,8 @@ tags:successStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -424,8 +421,7 @@ tags:successStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Sipariş tamamlanır
@@ -492,7 +488,8 @@ tags:successStaging_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 
