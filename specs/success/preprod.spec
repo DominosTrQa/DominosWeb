@@ -242,8 +242,8 @@ tags:successPreprod_adresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Kalem ikonuna tıklanır
 * Adrese teslim adres düzenleye tıklanır
@@ -306,17 +306,16 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
+* Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -331,17 +330,16 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
+* Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -416,9 +414,9 @@ tags:successPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
+* Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -430,8 +428,7 @@ tags:successPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Sipariş tamamlanır
