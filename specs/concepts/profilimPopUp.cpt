@@ -210,6 +210,27 @@
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresSilButon"
 * "5" saniye bekle
 
+# Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
+* Elementi bekle ve sonra tıkla "yeniAdresEkleButonu"
+* Elementi bekle ve sonra tıkla "popupilDropdown"
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* Elementi bekle ve sonra tıkla "popupilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdalar"
+* Elementi bekle ve sonra tıkla "popupmahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
+* "245" textini "kapiNoTextbox" elemente yaz
+* "1" textini "daireTextbox" elemente yaz
+* "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "553456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+* "2" saniye bekle
+
 # Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)
 * Elementi bekle ve sonra tıkla "yeniAdresEkleButonu"
 * Elementi bekle ve sonra tıkla "popupilDropdown"
