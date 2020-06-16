@@ -15,7 +15,7 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 2 urunlu kampanya icin siparis olusturulur
+* 3 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -209,7 +209,7 @@ tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * "AdreseTeslim" servis tipi kontrolü yapılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 2 urunlu kampanya icin siparis olusturulur
+* 3 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
