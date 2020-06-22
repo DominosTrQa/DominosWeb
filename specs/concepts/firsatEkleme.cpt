@@ -19,7 +19,7 @@
 * Elementi bekle ve sonra tıkla "ürünsepetekleGelAl"
 
 # Sepetimde ürün var mı kontrol edilir
-* "3" saniye bekle
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "sepettekiUrunKontrol"
 
 # Pizza düzenleme yapılır
