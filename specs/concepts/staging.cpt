@@ -65,12 +65,6 @@
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir (Stg)
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCekiNew"
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
-
 # Kapıda ödeme Multinet seçeneği ile devam edilir (Stg)
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "OdemeSekliMultinetNew"
@@ -114,3 +108,16 @@
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
 * "2" saniye bekle
 * Superos pizza cesidi secilir
+
+# Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir (Stg)
+* Yemek cekleri ve kartlari odeme tipi secilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSodexoYemekCekiNew"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
+
+# Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir (Stg)
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCekiNew"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
