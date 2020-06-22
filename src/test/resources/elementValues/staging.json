@@ -34,5 +34,10 @@
     "key": "siparisNotuNew",
     "value":"DPE_TR_ORDERCONFIRM_INPUT_NOTES_GUEST",
     "type": "id"
+  },
+  {
+    "key": "odemeSekliSmartSodexoKartNew",
+    "value":"DPE_TR_PAYMENT_4_3_BUTTON",
+    "type": "id"
   }
 ]

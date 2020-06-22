@@ -124,14 +124,6 @@
 * Elementine tıkla "dilediginBuyukBoyPizza"
 * "3" saniye bekle
 
-# Dilediğin büyük boy pizza kampanyası secilir (Stg)
-* Element var mı kontrol et "dilediginBuyukBoyPizzaStg"
-* Elementi bekle ve sonra tıkla "dilediginBuyukBoyPizzaStg"
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
-* "2" saniye bekle
-* Superos pizza cesidi secilir
-
 # Özel pizzalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "ozelPizzalarButon"
 
