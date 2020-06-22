@@ -580,3 +580,7 @@
 
 # Misafir onay sayfası doldurulur
 * Elementi bekle ve sonra tıkla "key"
+
+# Yemek cekleri ve kartlari odeme tipi secilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "yemekCekleriVeKartlari"

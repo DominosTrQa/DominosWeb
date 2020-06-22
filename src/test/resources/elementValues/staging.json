@@ -1,0 +1,38 @@
+[
+
+  {
+  "key": "OdemeSekliNakitButonuNew",
+  "value":"DPE_TR_PAYMENT_3_BUTTON",
+  "type": "id"
+  },
+  {
+  "key": "odemeSekliKrediKartiNew",
+  "value":"DPE_TR_PAYMENT_2_BUTTON",
+  "type": "id"
+  },
+  {
+  "key": "odemeSekliSmartTicketYemekCekiNew",
+  "value":"DPE_TR_PAYMENT_4_6_BUTTON",
+  "type": "id"
+  },
+  {
+  "key": "OdemeSekliMultinetNew",
+  "value":"DPE_TR_PAYMENT_4_7_BUTTON",
+  "type": "id"
+  },
+  {
+  "key": "OdemeSekliSetCardNew",
+  "value":"DPE_TR_PAYMENT_4_8_BUTTON",
+  "type": "id"
+  },
+  {
+  "key": "OdemekSeklionlineOdemeNew",
+  "value":"DPE_TR_PAYMENT_1_BUTTON",
+  "type": "id"
+  },
+  {
+    "key": "siparisNotuNew",
+    "value":"DPE_TR_ORDERCONFIRM_INPUT_NOTES_GUEST",
+    "type": "id"
+  }
+]
