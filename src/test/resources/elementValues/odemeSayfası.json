@@ -543,5 +543,10 @@
     "key": "odemeyiTamamlaGuesttelefon",
     "value":"//input[@name='mobilePhone']",
     "type": "xpath"
+  },
+  {
+    "key": "yemekCekleriVeKartlari",
+    "value":"DPE_TR_PAYMENT_4_BUTTON",
+    "type": "id"
   }
 ]

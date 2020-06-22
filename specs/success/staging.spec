@@ -212,7 +212,8 @@ tags:successStaging_sepettenUpsellEklemeGelAlYeniUye
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
 
 
@@ -281,7 +282,7 @@ tags:successStaging_odemeTipiSecimiYeniUyeAdreseTeslimNakit
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 
 
@@ -297,7 +298,7 @@ tags:successStaging_odemeTipiSecimiYeniUyeGelAlKrediKartı
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 
 
@@ -316,7 +317,8 @@ tags:successStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
@@ -338,7 +340,8 @@ tags:successStaging_odemeTipiSecimiVarolanUyeGelAlMultinet
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme Multinet seçeneği ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Multinet seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 
 
@@ -359,7 +362,8 @@ tags:successStaging_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme setCard seçeneği ile devam edilir(guest)
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme setCard seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
 
 
@@ -377,7 +381,7 @@ tags:successStaging_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Online ödeme seçeneği ile devam edilir(guest)
+* Online ödeme seçeneği ile devam edilir (Stg)
 * Geçerli bir telefon giriniz hatası görülür
 * Çarpıya basılıp çıkılır
 
@@ -387,6 +391,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 tags:successStaging_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Staging ortamına gidilir
+* "5" saniye bekle
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -396,8 +401,8 @@ tags:successStaging_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir
-* Sipariş notu eklenir
+* Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
+* Sipariş notu eklenir (Stg)
 * Sipariş tamamlanır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
@@ -422,7 +427,7 @@ tags:successStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
