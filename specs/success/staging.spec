@@ -66,8 +66,8 @@ tags:successStaging_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* 3 Al 1 öde kampanyası seçilir (Stg)
-* 3 Al 1 öde kampanyası için sipariş oluşturulur
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -79,13 +79,8 @@ tags:successStaging_sepeteKampanyaEklemeGelAlYeniUyeKampanya5
 * Dominos - Staging ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Kampanyalar Butonuna tıklanır
-* Dilediğin büyük boy pizza kampanyası secilir (Stg)
-* İlk ürün düzenlemeye tıklanır
-* Sucuk ve mısır malzemeleri çıkarılır
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Cheddar ve Mozarella eklenir
-* Ekstra Malzeme Ekle butonuna tıklanır
-* Güncelle butonuna tıklanır(özel kampanyalar için)
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -391,7 +386,6 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 tags:successStaging_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Staging ortamına gidilir
-* "5" saniye bekle
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
