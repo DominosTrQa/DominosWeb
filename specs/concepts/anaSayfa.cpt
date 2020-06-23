@@ -113,6 +113,10 @@
 * Elementi bekle ve sonra tıkla "ilceDropdown"
 * Elementi bekle ve sonra tıkla "ilceAdapazari"
 * "2" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleDropdown"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleAkincilarMahallesi"
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 
 # Gel al servis tipi icin Sakarya/Adapazari eklenir

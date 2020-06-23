@@ -506,7 +506,7 @@
   },
   {
     "key": "onlineOdemeDevamdanSonraKontrol",
-    "value":"//div[@class='alert__Description-v13nzi-1 ikOtzk'][contains(text(),'Online ödeme seçiminde kayıtlı ')]",
+    "value":"//img[@class='styled__MasterpassFooterImage-sc-1xs7sic-5 glPKZ']",
     "type": "xpath"
   },
   {

@@ -104,8 +104,7 @@ tags:regressionStaging_uyeOlmadanDevamEtEkranKontrolu
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
-* Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Adres bilgileri tamamlanır(Liste - üye)
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
 * Profilim popup eklenen  adres düzenlenir ve eski adresin değiştiği doğrulanır
 * Profilim popup eklenen adres silinir
 
@@ -620,7 +619,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Profilim popup Adreslerim butonuna tıklanır
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
+ Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
@@ -635,7 +634,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 * Adreslerim kısmından Sarıyer adresi seçilir
 * Seçili adres ile devam edilir
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
-* Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
+ Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
@@ -760,7 +759,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 
 
@@ -998,7 +997,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSodexoYemekCeki
 
 * Dominos - Staging ortamına gidilir
-* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1021,7 +1020,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlSodexoYemekCeki
 
 * Dominos - Staging ortamına gidilir
-* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1029,7 +1028,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
 
 
@@ -1144,7 +1143,8 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
@@ -1208,7 +1208,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
 
 * Dominos - Staging ortamına gidilir
-* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1308,7 +1308,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSetCard
 
 * Dominos - Staging ortamına gidilir
-* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1395,7 +1395,6 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Sipariş ver butonuna tıklanır
 * Online ödeme seçeneği ile devam edilir (Stg)
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Online Ödeme
@@ -1403,7 +1402,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
 
 * Dominos - Staging ortamına gidilir
-* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1414,7 +1413,6 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Online ödeme seçeneği ile devam edilir (Stg)
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Tamam butonuna tıklanır
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -1426,7 +1424,7 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
  tags:regressionStaging_odemeTipiSecimiVarolanUyeGelAlOnlineOdeme
 
 * Dominos - Staging ortamına gidilir
-* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -1435,7 +1433,6 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Sipariş ver butonuna tıklanır
 * Online ödeme seçeneği ile devam edilir (Stg)
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Online Ödeme
@@ -1485,7 +1482,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
  tags:regressionStaging_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 
 * Dominos - Staging ortamına gidilir
-* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1555,7 +1552,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
  tags:regressionStaging_siparisNotuEklemeVarolanUyeAdreseTeslimLutfenZileBasmayiniz
 
 * Dominos - Staging ortamına gidilir
-* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1633,7 +1630,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Sipariş notu eklenir
+* Sipariş notu eklenir (Stg)
 * Sipariş tamamlanır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
@@ -1643,7 +1640,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
  tags:regressionStaging_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
 
 * Dominos - Staging ortamına gidilir
-* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -1653,7 +1650,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Sipariş notu eklenir
+* Sipariş notu eklenir (Stg)
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
@@ -1859,9 +1856,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
  tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlce
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Sakarya/Adapazarı eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Anasayfada Sakarya/Adapazarı adresinin geldiği kontrol edilir
 
 
@@ -1922,9 +1917,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
  tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
@@ -2080,9 +2073,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 tags:regressionStaging_uyeKVKKIzniGuncellemevarolanUyeAyrilmayiOnayla
 
 * Dominos - Staging ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -2170,9 +2161,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -2217,9 +2206,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelik
 
 //Bug OLOTR-1480 çözüldükten sonra Testinium suiteine eklenecek
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -2263,9 +2250,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgi
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecProfilim
 
 * Dominos - Staging ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -2317,9 +2302,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecProfilim
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaProfilim
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
 * Sana özel hediyeler kazanmak için ye-kazana katıl butonuna tıklanır
