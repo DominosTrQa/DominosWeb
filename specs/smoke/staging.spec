@@ -14,8 +14,8 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
-* 3 Al 1 öde kampanyası seçilir (Stg)
-* 3 Al 1 öde kampanyası için sipariş oluşturulur
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -23,7 +23,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
