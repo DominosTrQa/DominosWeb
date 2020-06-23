@@ -250,8 +250,8 @@
     "type": "id"
   },
   {
-    "key": "smartTicketKartGuest",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST5",
+    "key": "smartTicketKart",
+    "value":"DPE_TR_PAYMENT_4_6_BUTTON",
     "type": "id"
   },
   {
