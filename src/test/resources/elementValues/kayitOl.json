@@ -153,5 +153,10 @@
     "key": "kvkkIcinEpostaCheckbox",
     "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS_IsEmailSubscription",
     "type": "id"
+  },
+  {
+    "key": "mahalleAkincilarMahallesi",
+    "value":"//div[text()='Akıncılar Mh.']",
+    "type": "xpath"
   }
 ]
