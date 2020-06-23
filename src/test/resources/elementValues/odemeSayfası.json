@@ -376,47 +376,47 @@
   },
   {
     "key": "OdemeSekliNakitButonu",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE1",
+    "value":"DPE_TR_PAYMENT_3_BUTTON",
     "type": "id"
   },
   {
     "key": "odemeSekliKrediKarti",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE2",
+    "value":"DPE_TR_PAYMENT_2_BUTTON",
     "type": "id"
   },
   {
     "key": "odemeSekliSmartSodexoKart",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE3",
+    "value":"DPE_TR_PAYMENT_4_3_BUTTON",
     "type": "id"
   },
   {
     "key": "odemeSekliSodexoYemekCeki",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE4",
+    "value":"DPE_TR_PAYMENT_4_4_BUTTON",
     "type": "id"
   },
   {
     "key": "odemeSekliSmartTicketKart",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE5",
+    "value":"DPE_TR_PAYMENT_4_5_BUTTON",
     "type": "id"
   },
   {
     "key": "odemeSekliSmartTicketYemekCeki",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE6",
+    "value":"DPE_TR_PAYMENT_4_6_BUTTON",
     "type": "id"
   },
   {
     "key": "OdemeSekliMultinet",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE7",
+    "value":"DPE_TR_PAYMENT_4_7_BUTTON",
     "type": "id"
   },
   {
     "key": "odemeSekliSetcard",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE8",
+    "value":"DPE_TR_PAYMENT_4_8_BUTTON",
     "type": "id"
   },
   {
     "key": "odemeSekliPayeKart",
-    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE22",
+    "value":"DPE_TR_PAYMENT_4_22_BUTTON",
     "type": "id"
   },
   {

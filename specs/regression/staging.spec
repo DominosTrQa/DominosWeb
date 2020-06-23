@@ -1378,7 +1378,6 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Seçili adres ile devam edilir
 * Online ödeme seçeneği ile devam edilir (Stg)
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Online Ödeme
