@@ -467,8 +467,8 @@
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
 
-# Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "smartTicketKartGuest"
+# Kapıda ödeme smartTicket kart seçeneği ile devam edilir
+* Elementi bekle ve sonra tıkla "smartTicketKart"
 * "5" saniye bekle
 * "odemeDevamButonGuest" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
