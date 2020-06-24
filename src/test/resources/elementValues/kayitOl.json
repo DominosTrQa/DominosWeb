@@ -111,7 +111,7 @@
   },
   {
     "key": "siparisVerOnlineOdeme",
-    "value": "DPE_TR_PAYMENTCARDTYPE_BUTTON_TYPE1",
+    "value": "DPE_TR_PAYMENT_1_BUTTON",
     "type": "id"
   },
   {

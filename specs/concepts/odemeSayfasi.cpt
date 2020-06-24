@@ -367,8 +367,8 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "siparisVerOnlineOdeme"
 * "5" saniye bekle
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
+ "odemeDevamButon" alanına kaydır
+ Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir(guest)
 * Element var mı kontrol et "onaySayfasiCikolataliSufleguest"
