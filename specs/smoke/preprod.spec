@@ -23,7 +23,7 @@ tags:smokePreprod_kullaniciIlkkezGeliyorAdreseTeslim
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
@@ -49,7 +49,7 @@ tags:smokePreprod_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
@@ -78,7 +78,7 @@ tags:smokePreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 
@@ -105,7 +105,7 @@ tags:smokePreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 
@@ -133,7 +133,7 @@ tags:smokePreprod_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
@@ -163,7 +163,7 @@ tags:smokePreprod_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
@@ -191,7 +191,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır
@@ -214,7 +214,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
