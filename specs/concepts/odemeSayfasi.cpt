@@ -470,8 +470,8 @@
 # Kapıda ödeme smartTicket kart seçeneği ile devam edilir
 * Elementi bekle ve sonra tıkla "smartTicketKart"
 * "5" saniye bekle
-* "odemeDevamButonGuest" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
 * Elementi bekle ve sonra tıkla "smartTicketYemekCekiGuest"

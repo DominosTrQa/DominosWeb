@@ -65,11 +65,6 @@
     "type": "xpath"
   },
   {
-    "key": "odemeSekliKrediKarti",
-    "value":"//div[contains(text(),'Kredi Kart')]",
-    "type": "xpath"
-  },
-  {
     "key": "odemeDevamButon",
     "value":"DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUE-D",
     "type": "id"
