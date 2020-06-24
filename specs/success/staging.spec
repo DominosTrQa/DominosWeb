@@ -413,7 +413,6 @@ tags:successStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
 * Not eklenir
-* Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -447,7 +446,7 @@ tags:successStaging_siparisIslemleriCanliTestAdresiManuel
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
+* İçecekler tabına tıklanır (Stg)
 * Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
@@ -455,7 +454,7 @@ tags:successStaging_siparisIslemleriCanliTestAdresiManuel
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 
 
 Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
@@ -470,7 +469,7 @@ tags:successStaging_siparisIslemleriCanliTestAdresiDropdown
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
+* İçecekler tabına tıklanır (Stg)
 * Sepete coca cola eklenir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
@@ -478,7 +477,8 @@ tags:successStaging_siparisIslemleriCanliTestAdresiDropdown
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
+* Sipariş tamamlanır
 
 
 Şube atama - Varolan Üye - Adrese Teslim - Yalnızca İl
@@ -489,6 +489,7 @@ tags:successStaging_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
 * "AdreseTeslim" servis tipi kontrolü yapılır
+* Sube duzenlemeye tiklanir
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 

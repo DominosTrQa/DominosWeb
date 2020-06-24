@@ -451,12 +451,12 @@
   },
   {
     "key": "temassizTeslimat",
-    "value":"contactlessDelivery",
+    "value":"DPE_TR_ORDERCONFIRM_CHECKBOX_CONTACTLESSDELIVERY",
     "type": "id"
   },
   {
     "key": "lutfenZileBasmayiniz",
-    "value":"isdonotpressthebell",
+    "value":"DPE_TR_ORDERCONFIRM_CHECKBOX_ISDONOTPRESSTHEBELL",
     "type": "id"
   },
   {

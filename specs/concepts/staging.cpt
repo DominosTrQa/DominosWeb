@@ -121,3 +121,7 @@
 * Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCekiNew"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+
+# Sube duzenlemeye tiklanir
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
+* Elementi bekle ve sonra tıkla "profilimPopupAdreslerimIlIlceDuzenleButon"
