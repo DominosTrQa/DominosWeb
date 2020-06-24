@@ -69,7 +69,7 @@ tags:successPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 2 urunlu kampanya icin siparis olusturulur
+* 3 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -162,8 +162,8 @@ tags:successPreprod_sepeteYanUrunEklemeGelAlUye
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
+* "GelAl" servis tipi kontrolü yapılır
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -316,6 +316,7 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -340,6 +341,7 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -365,7 +367,8 @@ tags:successPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme setCard seçeneği ile devam edilir(guest)
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
 
 
@@ -383,7 +386,7 @@ tags:successPreprod_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Online ödeme seçeneği ile devam edilir(guest)
+* Online ödeme seçeneği ile devam edilir
 * Geçerli bir telefon giriniz hatası görülür
 * Çarpıya basılıp çıkılır
 
@@ -394,8 +397,8 @@ tags:successPreprod_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
+* "GelAl" servis tipi kontrolü yapılır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -463,7 +466,7 @@ tags:successPreprod_siparisIslemleriCanliTestAdresiManuel
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 
 
 Sipariş İşlemleri(Canlı) - Test adresi - Dropdown
@@ -486,7 +489,7 @@ tags:successPreprod_siparisIslemleriCanliTestAdresiDropdown
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 
 
 Şube Atama - Varolan Üye - Gel Al - İl İlçe
