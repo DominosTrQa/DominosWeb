@@ -1856,6 +1856,9 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 
 * Dominos - Staging ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
+* Sube duzenlemeye tiklanir
+* Adrese Teslim servis tipi için Sakarya/Adapazarı eklenir
+* Anasayfada Sakarya/Adapazarı adresinin geldiği kontrol edilir
 * Anasayfada Sakarya/Adapazarı adresinin geldiği kontrol edilir
 
 
@@ -1969,8 +1972,8 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
  tags:regressionStaging_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
+* Sube duzenlemeye tiklanir
 * İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
