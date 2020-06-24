@@ -380,6 +380,16 @@
     "type": "id"
   },
   {
+    "key": "odemeSekliKrediKartiLive",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE2",
+    "type": "id"
+  },
+  {
+    "key": "odemeSekliKrediKartiGuest",
+    "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST2",
+    "type": "id"
+  },
+  {
     "key": "odemeSekliSmartSodexoKart",
     "value":"DPE_TR_PAYMENT_4_3_BUTTON",
     "type": "id"
