@@ -41,13 +41,14 @@ tags:smokeStaging_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Dilediğin büyük boy pizza kampanyası secilir (Stg)
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
@@ -67,14 +68,15 @@ tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
-* Dilediğin büyük boy pizza kampanyası secilir (Stg)
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
@@ -103,7 +105,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
@@ -126,7 +128,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * "AdreseTeslim" servis tipi kontrolü yapılır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
+* İçecekler tabına tıklanır (Stg)
 * Sepete coca cola eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -134,7 +136,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Ödeme şekli seçilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
@@ -161,14 +163,14 @@ tags:smokeStaging_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * "GelAl" servis tipi kontrolü yapılır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ekstra Lezzetlere gidilir
-* İçecekler tabına tıklanır
+* İçecekler tabına tıklanır (Stg)
 * Sepete coca cola eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
@@ -186,12 +188,13 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * "GelAl" servis tipi kontrolü yapılır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
-* Dilediğin büyük boy pizza kampanyası secilir (Stg)
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır
@@ -209,15 +212,15 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * "AdreseTeslim" servis tipi kontrolü yapılır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
-* 3 Al 1 öde kampanyası seçilir (Stg)
-* 3 Al 1 öde kampanyası için sipariş oluşturulur
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Ödeme şekli seçilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır

@@ -1553,7 +1553,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme smartTicket kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
 
 
@@ -1571,7 +1571,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme smartTicket kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme smartTicket kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
 
 
