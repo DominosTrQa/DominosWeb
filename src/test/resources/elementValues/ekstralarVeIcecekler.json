@@ -16,8 +16,8 @@
   },
   {
     "key": "extraLezzetlerTabIceceklerButon",
-    "value": "//span[contains(text(),'İçecekler')]",
-    "type": "xpath"
+    "value": "DPE_TR_SIDEPRODUCT_TAB1",
+    "type": "id"
   },
   {
     "key": "extraLezzetlerTabEkmekArasiButon",
