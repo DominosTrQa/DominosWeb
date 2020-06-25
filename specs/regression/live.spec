@@ -1321,6 +1321,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 
@@ -1339,6 +1340,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 
@@ -1437,6 +1439,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
@@ -1455,6 +1458,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
@@ -1553,6 +1557,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme smartTicket kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
 
@@ -1571,6 +1576,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme smartTicket kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
 
@@ -1669,6 +1675,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekÇeki
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
 
@@ -1687,6 +1694,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇeki
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
 
@@ -1785,6 +1793,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimMultinet
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Multinet seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
 
@@ -1803,6 +1812,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlMultinet
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Multinet seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
 
@@ -1821,6 +1831,7 @@ tags:regressionLive_odemeTipiSecimiYeniUyeAdreseTeslimSetCard
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
 
@@ -1901,6 +1912,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme setCard seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
 
@@ -1919,6 +1931,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSetCard
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme setCard seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
 
@@ -2017,6 +2030,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
@@ -2035,6 +2049,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlPayeKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
