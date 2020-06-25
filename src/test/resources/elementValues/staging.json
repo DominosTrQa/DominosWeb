@@ -44,5 +44,15 @@
     "key": "odemeSekliSodexoYemekCekiNew",
     "value":"DPE_TR_PAYMENT_4_4_BUTTON",
     "type": "id"
+  },
+  {
+    "key": "odemeSekliSmartTicketNew",
+    "value":"DPE_TR_PAYMENT_4_5_BUTTON",
+    "type": "id"
+  },
+  {
+    "key": "odemeSekliPayeCardNew",
+    "value":"DPE_TR_PAYMENT_4_22_BUTTON",
+    "type": "id"
   }
 ]
