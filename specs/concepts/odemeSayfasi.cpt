@@ -452,8 +452,8 @@
 # Kapıda ödeme Kredi Kartı seçeneği ile devam edilir(guest)
 * Elementi bekle ve sonra tıkla "odemeSekliKrediKartiNew"
 * "5" saniye bekle
-* "odemeDevamButonGuest" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButonGuest"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
 
 # Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
 * Elementi bekle ve sonra tıkla "odemeSekliSmartSodexoKartNew"
