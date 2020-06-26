@@ -74,5 +74,15 @@
     "key": "ucuncuUrunBirinciPizzaSec",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2_ITEM0",
     "type": "id"
+  },
+  {
+    "key": "dorduncuUrunBirinciPizzaSec",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST3_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "besinciUrunBirinciPizzaSec",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST4_ITEM0",
+    "type": "id"
   }
 ]

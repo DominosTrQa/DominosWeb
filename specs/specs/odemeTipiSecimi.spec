@@ -95,6 +95,28 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimNakit
 * Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Nakit - Kampanya
+----------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimNakitKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Nakit
 -----------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlNakit
@@ -105,6 +127,25 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlNakit
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Nakit - Kampanya
+-----------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlNakitKampanya
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -206,6 +247,28 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimKrediKartı
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Kredi Kartı - Kampanya
+-----------------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimKrediKartıKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Kredi Kartı
 ------------------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlKrediKartı
@@ -216,6 +279,25 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlKrediKartı
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Kredi Kartı - Kampanya
+------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlKrediKartıKampanya
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -322,6 +404,29 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Sodexo Kart - Kampanya
+-----------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKartKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Sodexo Kart
 --------------------------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartSodexoKart
@@ -333,6 +438,25 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Sodexo Kart - Kampanya
+--------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartSodexoKartKampanya
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
@@ -439,6 +563,29 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Sodexo Yemek Çeki - Kampanya
+-----------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCekiKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Sodexo Yemek Çeki
 -----------------------------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
@@ -449,6 +596,26 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Sodexo Yemek Çeki - Kampanya
+-----------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSodexoYemekCekiKampanya
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -508,8 +675,7 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -523,15 +689,14 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 tags:odemeTipiSecimiLive_odemeTipiSecimiVarolanUyeGelAlSmartTicketKart
 
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 
@@ -558,6 +723,29 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Kart - Kampanya
+-----------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKartKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme smartTicket kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Kart
 -----------------------------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
@@ -568,6 +756,27 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme smartTicket kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir(guest)
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Kart - Kampanya
+-----------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartTicketKartKampanya
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -675,6 +884,29 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekÇe
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Smart Ticket Yemek Çeki - Kampanya
+------------------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekÇekiKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda odeme smartTicket Yemek Ceki secenegi ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Yemek Çeki
 -----------------------------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇeki
@@ -685,6 +917,27 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇeki
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda odeme smartTicket Yemek Ceki secenegi ile devam edilir
+* Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Smart Ticket Yemek Çeki - Kampanya
+-----------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇekiKampanya
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -792,6 +1045,29 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimMultinet
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Multinet - Kampanya
+---------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimMultinetKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Multinet seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Multinet
 --------------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlMultinet
@@ -802,6 +1078,26 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlMultinet
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Multinet seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Multinet - Kampanya
+--------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlMultinetKampanya
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -909,6 +1205,29 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Setcard - Kampanya
+----------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimSetCardKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme setCard seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Setcard
 --------------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSetCard
@@ -920,6 +1239,26 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSetCard
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme setCard seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Setcard - Kampanya
+--------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSetCardKampanya
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
@@ -1026,6 +1365,29 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Paye Kart - Kampanya
+---------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimPayeKartKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Paye Kart
 ------------------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlPayeKart
@@ -1036,6 +1398,27 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlPayeKart
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Yemek cekleri ve kartlari odeme tipi secilir
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir
+* Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Paye Kart
+------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlPayeKart
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1061,7 +1444,6 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 * Seçili adres ile devam edilir
 * Online ödeme seçeneği ile devam edilir
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Yeni Üye - Gel Al - Online Ödeme
@@ -1078,7 +1460,6 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiYeniUyeGelAlOnlineOdeme
 * Sipariş ver butonuna tıklanır
 * Online ödeme seçeneği ile devam edilir
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Online Ödeme
@@ -1097,7 +1478,6 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Online ödeme seçeneği ile devam edilir
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Tamam butonuna tıklanır
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -1118,7 +1498,6 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiVarolanUyeGelAlOnlineOdeme
 * Sipariş ver butonuna tıklanır
 * Online ödeme seçeneği ile devam edilir
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Tamam butonuna tıklanır
 
 
 Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Online Ödeme
@@ -1143,6 +1522,29 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Çarpıya basılıp çıkılır
 
 
+Ödeme Tipi Secimi - Üyeliksiz - Adrese Teslim - Online Ödeme - Kampanya
+------------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizAdreseTeslimOnlineOdemeKampanya
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Seçili adres ile devam edilir
+* Online ödeme seçeneği ile devam edilir
+* Geçerli bir telefon giriniz hatası görülür
+* Çarpıya basılıp çıkılır
+
+
 Ödeme Tipi Secimi - Üyeliksiz - Gel AL - Online Ödeme
 ------------------------------------------------------
 tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
@@ -1153,6 +1555,27 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
+* Sepetim ikonuna tıklanır
+* Sepete git butonuna tıklanır
+* Sipariş ver butonuna tıklanır
+* Üye olmadan devam edilir butonuna tıklanır
+* Online ödeme seçeneği ile devam edilir
+* Geçerli bir telefon giriniz hatası görülür
+* Çarpıya basılıp çıkılır
+
+
+Ödeme Tipi Secimi - Üyeliksiz - Gel AL - Online Ödeme - Kampanya
+------------------------------------------------------
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlOnlineOdemeKampanya
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
