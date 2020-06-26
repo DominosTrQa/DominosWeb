@@ -442,64 +442,17 @@
 # Onay sayfasında ödeme aracı kısmında online kredi/banka kart yazısının geldiği kontrol edilir(guest)
 * Elementi bekle ve sonra tıkla "odemeSekliOnlineGuest"
 
-# Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
-* "4" saniye bekle
-* Elementi bekle ve sonra tıkla "OdemeSekliNakitButonuNew"
-* "5" saniye bekle
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
-
-# Kapıda ödeme Kredi Kartı seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "odemeSekliKrediKartiNew"
-* "5" saniye bekle
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
-
-# Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "odemeSekliSmartSodexoKartNew"
-* "5" saniye bekle
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
-
-# Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "odemeSekliSodexoYemekCekiNew"
-* "5" saniye bekle
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
-
 # Kapıda ödeme smartTicket kart seçeneği ile devam edilir
 * Elementi bekle ve sonra tıkla "odemeSekliSmartTicketNew"
 * "5" saniye bekle
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
 
-# Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCekiNew"
+# Kapıda odeme smartTicket Yemek Ceki secenegi ile devam edilir
+* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCeki"
 * "5" saniye bekle
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
-
-# Kapıda ödeme Multinet seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "OdemeSekliMultinetNew"
-* "5" saniye bekle
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
-
-# Kapıda ödeme setCard seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "OdemeSekliSetCardNew"
-* "5" saniye bekle
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
-
-# Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "odemeSekliPayeCardNew"
-* "5" saniye bekle
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
-
-# Online ödeme seçeneği ile devam edilir(guest)
-* Elementi bekle ve sonra tıkla "OdemekSeklionlineOdemeNew"
-* "5" saniye bekle
 
 # Geçerli bir telefon giriniz hatası görülür
 * Elementi bekle ve sonra tıkla "misafirtelefonNo"

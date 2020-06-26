@@ -1089,7 +1089,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimNakit
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
 
 
@@ -1107,7 +1107,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlNakit
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
 
 
@@ -1205,7 +1205,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimKrediKartı
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir(guest)
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
 
 
@@ -1223,7 +1223,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlKrediKartı
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir(guest)
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
 
 
@@ -1324,7 +1324,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 
 
@@ -1343,7 +1343,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir(guest)
 
 
@@ -1444,7 +1444,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir(guest)
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
@@ -1463,7 +1463,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir(guest)
+* Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
@@ -1684,7 +1684,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekÇeki
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
+* Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
@@ -1703,7 +1703,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇeki
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme smartTicket YemekÇeki seçeneği ile devam edilir(guest)
+* Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir(guest)
 
 
@@ -1804,7 +1804,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimMultinet
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme Multinet seçeneği ile devam edilir(guest)
+* Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
 
 
@@ -1823,7 +1823,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlMultinet
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme Multinet seçeneği ile devam edilir(guest)
+* Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir(guest)
 
 
@@ -1924,7 +1924,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme setCard seçeneği ile devam edilir(guest)
+* Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
 
 
@@ -1943,7 +1943,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlSetCard
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme setCard seçeneği ile devam edilir(guest)
+* Kapıda ödeme setCard seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir(guest)
 
 
@@ -2044,7 +2044,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
 
@@ -2063,7 +2063,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlPayeKart
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
-* Kapıda ödeme Paye Kart seçeneği ile devam edilir(guest)
+* Kapıda ödeme Paye Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
 
@@ -2165,7 +2165,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Online ödeme seçeneği ile devam edilir(guest)
+* Online ödeme seçeneği ile devam edilir
 * Geçerli bir telefon giriniz hatası görülür
 * Çarpıya basılıp çıkılır
 
@@ -2184,7 +2184,7 @@ tags:regressionLive_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Online ödeme seçeneği ile devam edilir(guest)
+* Online ödeme seçeneği ile devam edilir
 * Geçerli bir telefon giriniz hatası görülür
 * Çarpıya basılıp çıkılır
 
@@ -2256,7 +2256,7 @@ tags:regressionLive_siparisNotuEklemeUyeliksizAdreseTeslimtemassizTeslimat
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır(guest)
@@ -2332,7 +2332,7 @@ tags:regressionLive_siparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayiniz
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Lütfen zile basmayınız seçilir
 * Sipariş tamamlanır(guest)
@@ -2448,7 +2448,7 @@ tags:regressionLive_siparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanır(guest)
@@ -2471,7 +2471,7 @@ tags:regressionLive_siparisNotuEklemeUyeliksizGelAlNotEkleme
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş notu eklenir(guest)
 * Sipariş tamamlanır(guest)
