@@ -496,7 +496,7 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiYeniUyeGelAlSmartTicketKart
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Kart
 -----------------------------------------------------------------
-tags:regressionLiveodemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
+tags:odemeTipiSecimiLive_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 
 * Dominos - Live ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
