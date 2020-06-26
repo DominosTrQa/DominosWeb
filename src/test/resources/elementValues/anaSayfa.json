@@ -131,8 +131,8 @@
   },
   {
     "key": "profilMenuButon",
-    "value":"//*[@class='styled__ProfileMenuButton-sc-126ws66-2 dmfZCP']",
-    "type": "xpath"
+    "value":"DPE_TR_HOME_BUTTON_PROFILEMENU",
+    "type": "id"
   },
   {
     "key": "uyelikBilgilerimButon",
