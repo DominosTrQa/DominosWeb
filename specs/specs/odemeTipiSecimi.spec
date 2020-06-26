@@ -1412,9 +1412,9 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlPayeKart
 * Onay sayfasında ödeme aracı kısmında paye kart yazısının geldiği kontrol edilir(guest)
 
 
-Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Paye Kart
+Ödeme Tipi Secimi - Üyeliksiz - Gel Al - Paye Kart - Kampanya
 ------------------------------------------------------
-tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlPayeKart
+tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlPayeKartKampanya
 
 * Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
