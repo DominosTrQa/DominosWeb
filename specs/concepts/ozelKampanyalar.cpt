@@ -62,6 +62,20 @@
 * Elementi bekle ve sonra tıkla "ucuncuUrunSeciniz"
 * Elementi bekle ve sonra tıkla "ucuncuUrunBirinciPizzaSec"
 
+# 5 urunlu kampanya icin siparis olusturulur
+* Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "birinciUrunBirinciPizzaSec"
+* "ikinciUrunSeciniz" alanına kaydır
+* Elementi bekle ve sonra tıkla "ikinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla "ikinciUrunBirinciPizzaSec"
+* Elementi bekle ve sonra tıkla "ucuncuUrunSeciniz"
+* Elementi bekle ve sonra tıkla "ucuncuUrunBirinciPizzaSec"
+* Elementi bekle ve sonra tıkla "dorduncuUrunSeciniz"
+* Elementi bekle ve sonra tıkla "dorduncuUrunBirinciPizzaSec"
+* Elementi bekle ve sonra tıkla "besinciUrunSeciniz"
+* Elementi bekle ve sonra tıkla "besinciUrunBirinciPizzaSec"
+
 # 1 urunlu kampanya icin siparis olusturulur
 * Elementi bekle ve sonra tıkla "birinciUrunSeciniz"
 * "2" saniye bekle

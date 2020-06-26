@@ -125,6 +125,16 @@
     "type": "id"
   },
   {
+    "key": "dorduncuUrunSeciniz",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST3",
+    "type": "id"
+  },
+  {
+    "key": "besinciUrunSeciniz",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST4",
+    "type": "id"
+  },
+  {
     "key": "ortaboyPizzalarGelAlŞubeyeOzel",
     "value":"DPE_TR_CAMPAIGNS_TAB4_CARD1",
     "type": "id"
