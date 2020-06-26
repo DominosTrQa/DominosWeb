@@ -457,6 +457,8 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSmartSodexoKartKampanya
 * Kampanya sayfasındaki ilk kampanya secilir
 * 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+* Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
@@ -676,6 +678,7 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
 * Anasayfadaki dominos logosuna tıklanır
@@ -1259,6 +1262,8 @@ tags:odemeTipiSecimiLive_odemeTipiSecimiUyeliksizGelAlSetCardKampanya
 * Kampanya sayfasındaki ilk kampanya secilir
 * 1 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
+* Sepetimde ürün var mı kontrol edilir
+* Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
