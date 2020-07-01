@@ -147,7 +147,7 @@ tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeKampanya1
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 3 urunlu kampanya icin siparis olusturulur
+* 5 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -161,7 +161,7 @@ tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 3 urunlu kampanya icin siparis olusturulur
+* 5 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -175,7 +175,7 @@ tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeliksizKampanya3
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 3 urunlu kampanya icin siparis olusturulur
+* 5 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -643,9 +643,13 @@ tags:regressionPreprod_adresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecimi
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
-* Adreslerim kısmından Sarıyer adresi seçilir
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
@@ -657,10 +661,13 @@ tags:regressionPreprod_adresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
-* Adreslerim kısmından Sarıyer adresi seçilir
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
+* Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
-* Servis tipinin Adrese Teslim olduğu kontrol edilir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Profilim butonuna tıklanır
+* Profilim popup Adreslerim butonuna tıklanır
+* Profilimden adreslerime giderek kayıtlı adres silinir
 
 
 Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
@@ -2491,9 +2498,7 @@ tags:regressionPreprod_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 tags:regressionPreprod_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -2538,9 +2543,7 @@ tags:regressionPreprod_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelik
 
 //Bug OLOTR-1480 çözüldükten sonra Testinium suiteine eklenecek
 * Dominos - Preprod ortamına gidilir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -2584,9 +2587,7 @@ tags:regressionPreprod_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgi
 tags:regressionPreprod_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecProfilim
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -2638,9 +2639,7 @@ tags:regressionPreprod_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecProfilim
 tags:regressionPreprod_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaProfilim
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
 * Sana özel hediyeler kazanmak için ye-kazana katıl butonuna tıklanır

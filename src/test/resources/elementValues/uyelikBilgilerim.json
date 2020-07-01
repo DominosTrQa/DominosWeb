@@ -66,7 +66,7 @@
   },
   {
     "key": "üyelik_Bilgilerim_Ye_Kazan_Checkbox",
-    "value":"IsYeKazan",
+    "value":"DPE_TR_ACCOUNT_CHECKBOX_LOYALTY",
     "type": "id"
   },
   {
