@@ -1,8 +1,8 @@
 [
   {
     "key": "siparisVerButon",
-    "value":"//a[@class='styled__Button-sc-1lvff6m-0 fakEki']",
-    "type": "xpath"
+    "value":"DPE_TR_BASKET_BUTTON_ORDER",
+    "type": "id"
   },
   {
     "key": "seciliKonumileDevamEtButon",

@@ -1,5 +1,7 @@
 
 # Sipariş ver butonuna tıklanır
+* "3" saniye bekle
+* "siparisVerButon" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "siparisVerButon"
 * "5" saniye bekle
 
