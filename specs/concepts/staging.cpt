@@ -125,3 +125,7 @@
 # Sube duzenlemeye tiklanir
 * Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimIlIlceDuzenleButon"
+
+# Sube duzenlemeye tiklanir (GelAl)
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuGelAlDuzenle"

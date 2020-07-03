@@ -798,7 +798,7 @@ tags:regressionLive_servisTipiSecimiGelAlVarOlanUyeSepetteUrunVarkenServisTipini
 * Adrese Teslim servis tipi seçilir
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 
 
@@ -927,9 +927,9 @@ tags:regressionLive_adresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecimi
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
-* Adreslerim kısmından Sarıyer adresi seçilir
-* Seçili adres ile devam edilir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
+* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
 Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
@@ -937,16 +937,13 @@ Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 tags:regressionLive_adresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
-* Adreslerim kısmından Sarıyer adresi seçilir
-* Seçili adres ile devam edilir
-* Servis tipinin Adrese Teslim olduğu kontrol edilir
-* Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
+* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
+* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
@@ -2071,7 +2068,6 @@ tags:regressionLive_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Online ödeme seçeneği ile devam edilir
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
-* Tamam butonuna tıklanır
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -2161,9 +2157,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 tags:regressionLive_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 
 * Dominos - Live ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -2171,8 +2165,7 @@ tags:regressionLive_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Temassız teslimat seçeneği seçilir
@@ -2516,9 +2509,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 tags:regressionLive_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
 
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -2592,8 +2583,8 @@ tags:regressionLive_siparisIslemleriCanliTestAdresiDropdown
 tags:regressionLive_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Live ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Sube duzenlemeye tiklanir
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
 
@@ -2603,8 +2594,8 @@ tags:regressionLive_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 tags:regressionLive_subeAtamaVarolanUyeGelAlYalnizcaIl
 
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Sube duzenlemeye tiklanir (GelAl)
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
 * Gel Al çıkan ilk şube seçilir
@@ -2669,8 +2660,8 @@ tags:regressionLive_subeAtamaUyeliksizGelAlYalnizcaIl
 tags:regressionLive_subeAtamaVarolanUyeAdreseTeslimIlIlce
 
 * Dominos - Live ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Sube duzenlemeye tiklanir
 * Düzce ili seçilir
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
 
@@ -2680,8 +2671,8 @@ tags:regressionLive_subeAtamaVarolanUyeAdreseTeslimIlIlce
 tags:regressionLive_subeAtamaVarolanUyeGelAlIlIlce
 
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Sube duzenlemeye tiklanir (GelAl)
 * Gel al servis tipi için Düzce/Akcakoca eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
 * Gel Al çıkan ilk şube seçilir
@@ -2746,9 +2737,7 @@ tags:regressionLive_subeAtamaUyeliksizGelAlIlIlce
 tags:regressionLive_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 
 * Dominos - Live ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
@@ -2757,8 +2746,8 @@ tags:regressionLive_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 tags:regressionLive_subeAtamaVarolanUyeGelAlIlIlceMahalle
 
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
+* Sube duzenlemeye tiklanir (GelAl)
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
@@ -2814,8 +2803,8 @@ tags:regressionLive_subeAtamaUyeliksizGelAlIlIlceMahalle
 tags:regressionLive_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Live ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Sube duzenlemeye tiklanir
 * İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
 
@@ -2881,9 +2870,7 @@ tags:regressionLive_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 tags:regressionLive_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 //blocked:Düzelince testiniuma eklenecek
 * Dominos - Live ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
