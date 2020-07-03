@@ -120,6 +120,11 @@
     "type": "id"
   },
   {
+    "key": "adresEklemeKalemIkonuGelAlDuzenle",
+    "value":"//div[@class='styled__EditButton-trnti1-4 ePaPPb']",
+    "type": "xpath"
+  },
+  {
     "key": "adresEklemeKalemIkonuDuzenleHaritadanEkle",
     "value":"DPE_TR_NEARSTORELISTDELIVERY_BUTTON_LOCATIONSHARE",
     "type": "id"

@@ -15,7 +15,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* 2 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -213,7 +213,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* 2 urunlu kampanya icin siparis olusturulur
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır

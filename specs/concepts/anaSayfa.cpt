@@ -205,7 +205,7 @@
 # Seçili Şube ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "seciliSubeIleDevamEtButon"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "cookiesKapatButon"
+* "cookiesKapatButon" li elementi bul ve varsa dokun
 
 # Tüm Kampanyalar Butonuna tıklanır
 * "3" saniye bekle
