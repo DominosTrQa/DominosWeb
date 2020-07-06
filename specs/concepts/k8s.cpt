@@ -1,0 +1,12 @@
+
+# Odeme sekli secilir (k8s)
+* "10" saniye bekle
+* Elementi bekle ve sonra tıkla "OdemeSekliKrediKartiButonuK8s"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
+
+# Odeme sekli secilir guest (k8s)
+* "10" saniye bekle
+* Elementi bekle ve sonra tıkla "OdemeSekliKrediKartiButonuGuestK8s"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"

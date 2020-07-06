@@ -1,0 +1,23 @@
+[
+
+  {
+  "key": "OdemeSekliKrediKartiButonuGuestK8s",
+  "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST2",
+  "type": "id"
+  },
+  {
+  "key": "OdemeSekliKrediKartiButonuK8s",
+  "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE1",
+  "type": "id"
+  },
+  {
+  "key": "OdemeSekliNakitButonuGuestK8s",
+  "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPEGUEST1",
+  "type": "id"
+  },
+  {
+  "key": "OdemeSekliNakitButonuK8s",
+  "value":"DPE_TR_PAYMENTTYPE_BUTTON_TYPE1",
+  "type": "id"
+  }
+]
