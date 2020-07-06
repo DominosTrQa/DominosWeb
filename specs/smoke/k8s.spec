@@ -2,7 +2,7 @@ Smoke Kubernetes
 =====================
      
      
-K8s - Kullanıcı ilk kez geliyor - Adrese Teslim
+Kubernetes - Kullanıcı ilk kez geliyor - Adrese Teslim
 -------------------------------------------------------
 tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 
@@ -30,7 +30,7 @@ tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 * Ye kazan uyarı butonundan çıkılır
 
 
-Live - Kullanıcı ilk kez geliyor - Gel Al
+Kubernetes - Kullanıcı ilk kez geliyor - Gel Al
 ------------------------------------------------
 tags:smokeK8s_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 
@@ -56,7 +56,7 @@ tags:smokeK8s_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Ye kazan uyarı butonundan çıkılır
 
 
-Live - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
+Kubernetes - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 ----------------------------------------------------
 tags:smokeK8s_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 
@@ -86,7 +86,7 @@ tags:smokeK8s_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Ye kazan uyarı butonundan çıkılır
 
 
-Live - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
+Kubernetes - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 ----------------------------------------------------
 tags:smokeK8s_servisTipiSecimiGelAldanAdreseTeslimGecisi
 
@@ -116,7 +116,7 @@ tags:smokeK8s_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Ye kazan uyarı butonundan çıkılır
 
 
-Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
+Kubernetes - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
 ---------------------------------------------------------------------------------
 tags:smokeK8s_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
@@ -145,7 +145,7 @@ tags:smokeK8s_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Ye kazan uyarı butonundan çıkılır
 
 
-Live - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
+Kubernetes - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 --------------------------------------------------------------
 tags:smokeK8s_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
@@ -175,7 +175,7 @@ tags:smokeK8s_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Ye kazan uyarı butonundan çıkılır
 
 
-Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
+Kubernetes - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
 ----------------------------------------------------------------------
 tags:smokeK8s_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
@@ -199,7 +199,7 @@ tags:smokeK8s_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Ye kazan uyarı butonundan çıkılır
 
 
-Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
+Kubernetes - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
 -----------------------------------------------------------------------
 tags:smokeK8s_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
