@@ -1072,11 +1072,6 @@ public class BaseSteps extends BaseTest {
           waitBySeconds(4);
         }
       }
-      else {
-
-      }
-    }
-    else {
 
     }
   }
@@ -1122,6 +1117,68 @@ public class BaseSteps extends BaseTest {
     else{
       logger.info("Ödeme sayfasına geçildi!!!");
     }
+  }
+
+  @Step("Kampanya urun secimi yapılır")
+  public void kampanyaSec(){
+    waitBySeconds(5);
+    if(findElements("birinciUrunSeciniz").size() > 0){
+      logger.info("Kampanya 1. ürün seçiliyor!!!");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("birinciUrunSeciniz");
+      clickElement("birinciUrunSeciniz");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("birinciUrunBirinciPizzaSec");
+      clickElement("birinciUrunBirinciPizzaSec");
+      waitBySeconds(2);
+
+    }
+    if(findElements("ikinciUrunSeciniz").size() > 0){
+      logger.info("Kampanya 2. ürün seçiliyor!!!");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("ikinciUrunSeciniz");
+      clickElement("ikinciUrunSeciniz");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("ikinciUrunBirinciPizzaSec");
+      clickElement("ikinciUrunBirinciPizzaSec");
+      waitBySeconds(2);
+
+    }
+    if(findElements("ucuncuUrunSeciniz").size() > 0){
+      logger.info("Kampanya 3. ürün seçiliyor!!!");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("ucuncuUrunSeciniz");
+      clickElement("ucuncuUrunSeciniz");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("ucuncuUrunBirinciPizzaSec");
+      clickElement("ucuncuUrunBirinciPizzaSec");
+      waitBySeconds(2);
+
+    }
+    if(findElements("dorduncuUrunSeciniz").size() > 0){
+      logger.info("Kampanya 4. ürün seçiliyor!!!");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("dorduncuUrunSeciniz");
+      clickElement("dorduncuUrunSeciniz");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("dorduncuUrunBirinciPizzaSec");
+      clickElement("dorduncuUrunBirinciPizzaSec");
+      waitBySeconds(2);
+
+    }
+    if(findElements("besinciUrunSeciniz").size() > 0){
+      logger.info("Kampanya 5. ürün seçiliyor!!!");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("besinciUrunSeciniz");
+      clickElement("besinciUrunSeciniz");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("besinciUrunBirinciPizzaSec");
+      clickElement("besinciUrunBirinciPizzaSec");
+      waitBySeconds(2);
+
+    }
+
+
   }
 
 }

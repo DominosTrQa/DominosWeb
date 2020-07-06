@@ -15,7 +15,7 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -43,7 +43,7 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -71,7 +71,7 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Tüm Kampanyalar Butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -185,7 +185,7 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * "GelAl" servis tipi kontrolü yapılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
@@ -209,7 +209,7 @@ tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * "AdreseTeslim" servis tipi kontrolü yapılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
