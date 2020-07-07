@@ -146,7 +146,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Üye - Kampanya 1
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -160,7 +160,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Kampanya 3
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -173,7 +173,7 @@ Sepete Kampanya Ekleme - Gel Al - Üye - Kampanya 4
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -186,7 +186,7 @@ Sepete Kampanya Ekleme - Gel Al - Üyeliksiz -  Kampanya 6
 * Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
  İlk ürün düzenlemeye tıklanır
  Sucuk ve mısır malzemeleri çıkarılır
  Ekstra Malzeme Ekle butonuna tıklanır
