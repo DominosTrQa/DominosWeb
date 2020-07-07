@@ -230,7 +230,7 @@ tags:regressionLive_sepeteKampanyaEklemeAdreseTeslimUyeKampanya1
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -244,7 +244,7 @@ tags:regressionLive_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -258,7 +258,7 @@ tags:regressionLive_sepeteKampanyaEklemeAdreseTeslimUyeliksizKampanya3
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 5 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -272,7 +272,7 @@ tags:regressionLive_sepeteKampanyaEklemeGelAlUyeKampanya4
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -286,7 +286,7 @@ tags:regressionLive_sepeteKampanyaEklemeGelAlYeniUyeKampanya5
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -300,7 +300,7 @@ tags:regressionLive_sepeteKampanyaEklemeGelAlUyeliksizKampanya6
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
