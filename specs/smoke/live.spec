@@ -120,14 +120,12 @@ tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Live ortamına gidilir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -149,14 +147,12 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Live ortamına gidilir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -179,10 +175,9 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Live ortamına gidilir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Cookie varsa kapat butonuna tıklanır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -202,11 +197,9 @@ tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Live ortamına gidilir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır

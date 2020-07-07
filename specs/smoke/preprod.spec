@@ -15,7 +15,7 @@ tags:smokePreprod_kullaniciIlkkezGeliyorAdreseTeslim
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 2 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -43,7 +43,7 @@ tags:smokePreprod_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -69,9 +69,9 @@ tags:smokePreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Servis tipinin Gel Al olduğu kontrol edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
+* Cookie varsa kapat butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -116,14 +116,12 @@ tags:smokePreprod_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -146,14 +144,12 @@ tags:smokePreprod_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -180,13 +176,12 @@ tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Cookie varsa kapat butonuna tıklanır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
@@ -203,11 +198,10 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 2 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
