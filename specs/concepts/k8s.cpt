@@ -10,3 +10,15 @@
 * Elementi bekle ve sonra tıkla "OdemeSekliKrediKartiButonuGuestK8s"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+
+# Kapıda ödeme Nakit seçeneği ile devam edilir (k8s)
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "OdemeSekliNakitButonuK8s"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"
+
+# Kapıda ödeme Nakit seçeneği ile devam edilir guest (k8s)
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "OdemeSekliNakitButonuGuestK8s"
+* "odemeDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeDevamButon"

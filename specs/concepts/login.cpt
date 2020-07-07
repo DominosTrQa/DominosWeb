@@ -333,3 +333,11 @@
 * "Test123" textini "loginPasswordTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "girisYapButon"
 * "3" saniye bekle
+
+# Adrese teslim servis tipi secilir ve kontrolu yapilir
+* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* "AdreseTeslim" servis tipi kontrolü yapılır
+
+# Gel al servis tipi secilir ve kontrolu yapilir
+* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
+* "GelAl" servis tipi kontrolü yapılır

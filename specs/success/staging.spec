@@ -238,8 +238,7 @@ tags:successStaging_adresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Kalem ikonuna tıklanır
 * Adrese teslim adres düzenleye tıklanır
@@ -303,8 +302,7 @@ tags:successStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -327,8 +325,7 @@ tags:successStaging_odemeTipiSecimiVarolanUyeGelAlMultinet
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -387,8 +384,7 @@ tags:successStaging_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Staging ortamına gidilir
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -407,8 +403,7 @@ tags:successStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -487,8 +482,7 @@ tags:successStaging_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Sube duzenlemeye tiklanir
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir

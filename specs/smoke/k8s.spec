@@ -10,6 +10,7 @@ tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* "10" saniye bekle
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -17,14 +18,15 @@ tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
+* "10" saniye bekle
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Odeme sekli secilir guest (k8s)
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -38,6 +40,7 @@ tags:smokeK8s_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* "10" saniye bekle
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm pizzalar alanına kaydırılır
@@ -45,12 +48,13 @@ tags:smokeK8s_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
+* "10" saniye bekle
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Odeme sekli secilir guest (k8s)
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -69,7 +73,7 @@ tags:smokeK8s_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Servis tipinin Gel Al olduğu kontrol edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Cookie onaylıyorum butonuna tıklanır
+* Cookie varsa kapat butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
@@ -78,8 +82,8 @@ tags:smokeK8s_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir guest (k8s)
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
@@ -108,8 +112,8 @@ tags:smokeK8s_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir guest (k8s)
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
@@ -122,6 +126,7 @@ tags:smokeK8s_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "10" saniye bekle
 * "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
 * "AdreseTeslim" servis tipi kontrolü yapılır
 * Cookie varsa kapat butonuna tıklanır
@@ -138,8 +143,8 @@ tags:smokeK8s_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Odeme sekli secilir (k8s)
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -151,6 +156,7 @@ tags:smokeK8s_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "10" saniye bekle
 * "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
 * "GelAl" servis tipi kontrolü yapılır
 * Cookie varsa kapat butonuna tıklanır
@@ -168,8 +174,8 @@ tags:smokeK8s_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Odeme sekli secilir (k8s)
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -181,8 +187,10 @@ tags:smokeK8s_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "10" saniye bekle
 * "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
 * "AdreseTeslim" servis tipi kontrolü yapılır
+* Cookie varsa kapat butonuna tıklanır
 * "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
 * "GelAl" servis tipi kontrolü yapılır
 * Tüm Kampanyalar Butonuna tıklanır
@@ -205,6 +213,7 @@ tags:smokeK8s_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "10" saniye bekle
 * "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
 * "GelAl" servis tipi kontrolü yapılır
 * Cookie varsa kapat butonuna tıklanır
