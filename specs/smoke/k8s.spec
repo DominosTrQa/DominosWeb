@@ -127,14 +127,12 @@ tags:smokeK8s_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * "10" saniye bekle
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -157,14 +155,12 @@ tags:smokeK8s_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * "10" saniye bekle
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
 * Sepete coca cola eklenir
@@ -188,11 +184,9 @@ tags:smokeK8s_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * "10" saniye bekle
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -214,11 +208,9 @@ tags:smokeK8s_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * "10" saniye bekle
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır

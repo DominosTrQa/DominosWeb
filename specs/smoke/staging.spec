@@ -15,7 +15,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 2 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -42,7 +42,7 @@ tags:smokeStaging_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -69,7 +69,7 @@ tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Tüm Kampanyalar Butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -118,14 +118,12 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Staging ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır (Stg)
@@ -153,14 +151,12 @@ tags:smokeStaging_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Staging ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır (Stg)
@@ -182,14 +178,13 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Staging ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Cookie varsa kapat butonuna tıklanır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
@@ -206,14 +201,13 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Staging ortamına gidilir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
-* "GelAl" servis tipi kontrolü yapılır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
-* "AdreseTeslim" servis tipi kontrolü yapılır
+* Gel al servis tipi secilir ve kontrolu yapilir
+* Cookie varsa kapat butonuna tıklanır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 2 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
