@@ -295,6 +295,7 @@ Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
+* Upsell popup varsa kapatilir
 * Sepetim ikonuna tıklanır
 * Sepetteki dürümün eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
@@ -316,6 +317,7 @@ Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
+* Upsell popup varsa kapatilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
@@ -619,7 +621,6 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Profilim popup Adreslerim butonuna tıklanır
 * Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
- Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
@@ -631,10 +632,10 @@ Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 * Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
-* Adreslerim kısmından Sarıyer adresi seçilir
+* Yeni adres ekle butonuna tıklanır
+* Yeni adres ekle (Gel Al)
 * Seçili adres ile devam edilir
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
- Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi

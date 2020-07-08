@@ -54,5 +54,10 @@
     "key": "odemeSekliPayeCardNew",
     "value":"DPE_TR_PAYMENT_4_22_BUTTON",
     "type": "id"
+  },
+  {
+    "key": "upsellPopupCloseButton",
+    "value":"//i[@class='icon-times-dp']",
+    "type": "xpath"
   }
 ]
