@@ -129,3 +129,7 @@
 # Sube duzenlemeye tiklanir (GelAl)
 * Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
 * Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuGelAlDuzenle"
+
+# Upsell popup varsa kapatilir
+* "3" saniye bekle
+* "upsellPopupCloseButton" li elementi bul ve varsa dokun
