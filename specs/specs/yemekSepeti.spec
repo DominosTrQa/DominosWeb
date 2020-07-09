@@ -31,17 +31,17 @@ Yemek Sepeti Dominos Entegrasyon Hesabına Sipariş oluşturma
 Tags:yemekSepeti_dominosEntegrasyonHesabinaSiparisOlusturma
 
 * "https://www.yemeksepeti.com/dominos-pizza-yeni-entegrasyon-test-postakip" adresine git
-* <userName> textini "userName" elemente yaz
-* <password> textini "password" elemente yaz
-* Elementi bekle ve sonra tıkla "loginButton"
+* <userName> textini "yemekSepetiuserName" elemente yaz
+* <password> textini "yemekSepetipassword" elemente yaz
+* Elementi bekle ve sonra tıkla "yemekSepetiloginButton"
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "siparisPlusButton"
+* Elementi bekle ve sonra tıkla "yemekSepetisiparisPlusButton"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "sepeteEkle"
+* Elementi bekle ve sonra tıkla "yemekSepetisepeteEkle"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "sepetiOnayla"
+* Elementi bekle ve sonra tıkla "yemekSepetisepetiOnayla"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "odemeTipiNakit"
+* Elementi bekle ve sonra tıkla "yemekSepetiodemeTipiNakit"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "siparisVer"
-* Element var mı kontrol et "siparisKontrol"
+* Elementi bekle ve sonra tıkla "yemekSepetisiparisVer"
+* Element var mı kontrol et "yemekSepetisiparisKontrol"

@@ -1081,6 +1081,12 @@ public class BaseSteps extends BaseTest {
     if(findElements(key).size() > 0){
       logger.info("Adres tamamlanıyor!!!");
       waitBySeconds(4);
+      getElementWithKeyIfExists("popupmahalleDropdown");
+      clickElement("popupmahalleDropdown");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("mahalleBurgazadaMahallesi");
+      clickElement("mahalleBurgazadaMahallesi");
+      waitBySeconds(2);
       getElementWithKeyIfExists("caddeDropdown");
       clickElement("caddeDropdown");
       waitBySeconds(2);

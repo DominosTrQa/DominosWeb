@@ -1,51 +1,51 @@
 [
   {
-    "key": "userName",
+    "key": "yemekSepetiuserName",
     "value":"UserName",
     "type": "id"
   },
   {
-    "key": "password",
+    "key": "yemekSepetipassword",
     "value":"password",
     "type": "id"
   },
   {
-    "key": "loginButton",
+    "key": "yemekSepetiloginButton",
     "value":"ys-fastlogin-button",
     "type": "id"
   },
   {
-    "key": "siparisPlusButton",
+    "key": "yemekSepetisiparisPlusButton",
     "value":"//div[@id='restaurant_menu']/div[3]//ul/li[1]/div[@class='product-actions']/button/i[@class='ys-icons ys-icons-plus']",
     "type": "xpath"
   },
   {
-    "key": "urunSiparisPlusButton",
+    "key": "yemekSepetiurunSiparisPlusButton",
     "value":"/html//div[@id='cboxLoadedContent']/div[@class='ys-productDetails']/div[1]/div[@class='col-md-16 productDetailParent tr']//button[.='+']",
     "type": "xpath"
   },
   {
-    "key": "sepeteEkle",
+    "key": "yemekSepetisepeteEkle",
     "value":".add-to-basket.pull-right.ys-btn.ys-btn-lg.ys-btn-primary",
     "type": "css"
   },
   {
-    "key": "sepetiOnayla",
+    "key": "yemekSepetisepetiOnayla",
     "value":"/html//div[@id='basket-container']//button[.='SEPETİ ONAYLA']",
     "type": "xpath"
   },
   {
-    "key": "odemeTipiNakit",
+    "key": "yemekSepetiodemeTipiNakit",
     "value":"/html/body/div[@class='container ys-main']/div[@class='row']/div[@class='col-md-16']/div[9]//div[@class='otherPayments']/div[@class='payments']/div[2]/label",
     "type": "xpath"
   },
   {
-    "key": "siparisVer",
+    "key": "yemekSepetisiparisVer",
     "value":"btnGetCheckout",
     "type": "id"
   },
   {
-    "key": "siparisKontrol",
+    "key": "yemekSepetisiparisKontrol",
     "value":"//*[contains(text(),'Siparişiniz Bize Ulaşmıştır.')]",
     "type": "xpath"
   }
