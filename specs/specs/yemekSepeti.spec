@@ -40,6 +40,7 @@ Tags:yemekSepeti_dominosEntegrasyonHesabinaSiparisOlusturma
 * Elementi bekle ve sonra tıkla "sepeteEkle"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "sepetiOnayla"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeTipiNakit"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "siparisVer"
