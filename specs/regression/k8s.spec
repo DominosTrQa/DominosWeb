@@ -1471,7 +1471,7 @@ tags:regressionK8s_odemeTipiSecimiYeniUyeGelAlSmartTicketKart
 
 Ödeme Tipi Secimi - Varolan Üye - Adrese Teslim - Smart Ticket Kart
 -----------------------------------------------------------------
-tags:regressionLiveodemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
+tags:regressionK8s_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 
 * Dominos - Kubernetes ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
