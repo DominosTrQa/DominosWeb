@@ -23,8 +23,8 @@ tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Odeme sekli secilir guest (k8s)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -49,8 +49,8 @@ tags:smokeK8s_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Odeme sekli secilir guest (k8s)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -69,7 +69,7 @@ tags:smokeK8s_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Servis tipinin Gel Al olduğu kontrol edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
-* Cookie varsa kapat butonuna tıklanır
+* Cookie onaylıyorum butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
@@ -78,8 +78,8 @@ tags:smokeK8s_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir guest (k8s)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
@@ -108,12 +108,11 @@ tags:smokeK8s_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Kapıda ödeme Nakit seçeneği ile devam edilir guest (k8s)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Kapıda ödeme Nakit seçeneği ile devam edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
-* Ye kazan uyarı butonundan çıkılır
 
 
 Kubernetes - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
@@ -136,8 +135,8 @@ tags:smokeK8s_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Odeme sekli secilir (k8s)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -164,8 +163,8 @@ tags:smokeK8s_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Odeme sekli secilir (k8s)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -187,11 +186,10 @@ tags:smokeK8s_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Odeme sekli secilir (k8s)
+* Ödeme şekli seçilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
 
 
 Kubernetes - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
@@ -212,8 +210,8 @@ tags:smokeK8s_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Odeme sekli secilir (k8s)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Ödeme şekli seçilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır

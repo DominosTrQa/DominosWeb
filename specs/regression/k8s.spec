@@ -88,7 +88,7 @@ tags:regressionK8s_uyeOlmazBasarisizUyeOlma
 
 Üye Olma - Başarılı Üye Olma 2
 ---------------------------------
-tags:regressionK8s_uyeOlmazBasariliUyeOlma
+tags:regressionK8s_uyeOlmazBasarisizUyeOlma2
 
 * Dominos - Kubernetes ortamına gidilir
 * Üye ol butonuna tıklanır
