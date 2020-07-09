@@ -54,7 +54,7 @@ tags:sepeteUpcellEkle_gelAl_uyeOlmadan
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir(guest)
+* Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir(guest)
 
 
