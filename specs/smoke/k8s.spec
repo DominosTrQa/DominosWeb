@@ -1,7 +1,7 @@
 Smoke Kubernetes
 =====================
-     
-     
+
+
 Kubernetes - Kullanıcı ilk kez geliyor - Adrese Teslim
 -------------------------------------------------------
 tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
@@ -10,7 +10,6 @@ tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
-* "10" saniye bekle
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -18,7 +17,6 @@ tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
-* "10" saniye bekle
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
@@ -40,7 +38,6 @@ tags:smokeK8s_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
-* "10" saniye bekle
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm pizzalar alanına kaydırılır
@@ -48,7 +45,6 @@ tags:smokeK8s_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
-* "10" saniye bekle
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
@@ -126,7 +122,6 @@ tags:smokeK8s_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "10" saniye bekle
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -154,7 +149,6 @@ tags:smokeK8s_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "10" saniye bekle
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -183,7 +177,6 @@ tags:smokeK8s_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "10" saniye bekle
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Gel al servis tipi secilir ve kontrolu yapilir
@@ -207,7 +200,6 @@ tags:smokeK8s_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* "10" saniye bekle
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
