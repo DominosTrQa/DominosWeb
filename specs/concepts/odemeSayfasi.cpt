@@ -16,6 +16,9 @@
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
 # Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
+* Elementi bekle ve sonra tıkla "adresEkleMahalleDropdown"
+* Elementi bekle ve sonra tıkla "adresEkleMahalleDropdownBurgazada"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
