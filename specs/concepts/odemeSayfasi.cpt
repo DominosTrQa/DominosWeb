@@ -54,6 +54,9 @@
 
 # Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresEkleMahalleDropdown"
+* Elementi bekle ve sonra tıkla "adresEkleMahalleDropdownBurgazada"
+* "6" saniye bekle
 * Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
 * Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
