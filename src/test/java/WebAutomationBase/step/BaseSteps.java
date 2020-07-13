@@ -11,6 +11,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import org.apache.log4j.PropertyConfigurator;
 import org.junit.Assert;
+import org.junit.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -164,6 +165,17 @@ public class BaseSteps extends BaseTest {
   public void checkElementExistsThenClick(String key){
     getElementWithKeyIfExists(key);
     clickElement(key);
+  }
+
+  @Step({"Wait for element then click <key> try",
+          "Elementi bekle ve sonra tıkla <key> try"})
+  public void checkElementExistsThenClickTryCatch(String key){
+    try {
+      clickElement(key);
+    } catch (Exception e){
+      logger.info("Tek test şubesi var");
+    }
+
   }
 
   @Step({"Elementini bekle ve hemen tıkla <key>"})
