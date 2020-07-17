@@ -36,6 +36,8 @@
 
 # Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * "4" saniye bekle
+* Elementi bekle ve sonra tıkla "popupmahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
 * Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
 * "3" saniye bekle
@@ -124,6 +126,8 @@
 
 # Adres bilgileri tamamlanır(Liste - üye)
 * "3" saniye bekle
+* Elementi bekle ve sonra tıkla "popupmahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
 * Elementi bekle ve sonra tıkla "caddeDropdown"
 * Elementi bekle ve sonra tıkla "caddeSokakDropdownAyisigiSokak"
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"

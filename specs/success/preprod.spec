@@ -40,6 +40,7 @@ tags:successPreprod_uyeAdresEklemeAdreseTeslimYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
@@ -52,6 +53,7 @@ tags:successPreprod_uyeAdresDuzenlemeAdreseTeslimYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
@@ -65,6 +67,7 @@ tags:successPreprod_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Cookie varsa kapat butonuna tıklanır
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
@@ -197,6 +200,7 @@ tags:successPreprod_sepettenUpsellEklemeAdreseTeslimYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+* Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -268,6 +272,7 @@ tags:successPreprod_odemeTipiSecimiYeniUyeAdreseTeslimNakit
 
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
+* Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
