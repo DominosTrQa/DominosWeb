@@ -94,8 +94,7 @@
 
 # Profilim popup Adreslerim İl, İlçe, Mahalle düzenlenir
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimIlIlceDuzenleButon"
-* İl ilçe mahalle seçilir
-* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Element var mı kontrol et "profilimPopupAdreslerimIlIlceDuzenlemeKontrol"
 
 # Profilim popup Adreslerim kayıtlı adreslerden adres seçilir

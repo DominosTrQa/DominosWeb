@@ -76,8 +76,7 @@
 # Kullanıcı ile giriş yapılır ve üyelik bilgilerime gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "profilMenuButon"
 * Elementi bekle ve sonra tıkla "uyelikBilgilerimButon"
 
@@ -87,8 +86,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "profilMenuButon"
 
 # Üye olunur giriş yapılır, adrese teslim servis tipi seçilir ve üyelik bilgilerime gidilir
@@ -97,8 +95,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "profilMenuButon"
 * Elementi bekle ve sonra tıkla "uyelikBilgilerimButon"
 
@@ -108,15 +105,13 @@
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "profilMenuButon"
 * Elementi bekle ve sonra tıkla "profilimPopupSiparislerimButon"
 
 # Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 
 # Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Gel Al servis tipi seçilir
@@ -128,8 +123,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * "2" saniye bekle
 
 # Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
@@ -145,8 +139,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "profilMenuButon"
 * Elementi bekle ve sonra tıkla "profilimPopupYeKazanButon"
 
@@ -165,8 +158,7 @@
 
 # Adrese teslim tipi seçilir
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 
 # Cookie onaylıyorum butonuna tıklanır
 * Elementi bekle ve sonra tıkla "cookieOnayButon"
@@ -187,8 +179,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 
 # Üye ol sayfasının elementlerinin geldiği kontrol edilir
 * Element var mı kontrol et "uyeOlAdTextbox"

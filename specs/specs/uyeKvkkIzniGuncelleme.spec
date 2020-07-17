@@ -99,8 +99,7 @@ tags:uyeKVKKIzniGuncelleme_yeniUye_ayrilmaktanVazgecGiris
 * Üye olurken KVKK sözleşmesi için eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Üyelik bilgilerim butonuna tıklanır
 * Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
@@ -120,8 +119,7 @@ tags:uyeKVKKIzniGuncelleme_yeniUye_ayrilmayiOnaylaGiris
 * Üye olurken KVKK sözleşmesi için eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Üyelik bilgilerim butonuna tıklanır
 * Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir

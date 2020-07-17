@@ -10,8 +10,7 @@ tags:tumKampanyalar_sayfaKontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Tüm Kampanyalar sayfasındaki elementler kontrol edilir
 
@@ -24,8 +23,7 @@ tags:tumKampanyalar_haftaninKampanyalarisayfakontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Haftanın Kampanyaları sayfasındaki elementler kontrol edilir
 
@@ -38,8 +36,7 @@ tags:tumKampanyalar_tekKisilikKampanyalarsayfakontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Tek Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 
@@ -52,8 +49,7 @@ tags:tumKampanyalar_ikiUcKisilikKampanyalarsayfakontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * 2-3 Kişilik Kampanyalar sayfasındaki elementler kontrol edilir
 
@@ -66,8 +62,7 @@ tags:tumKampanyalar_4Kisiveuzerikampanyalarsayfakontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * 4 Kişi ve Üzeri Kampanyalar sayfasındaki elementler kontrol edilir
 
@@ -80,8 +75,7 @@ tags:tumKampanyalar_UstBarSayfalararasigeciskontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Tüm Kampanyalar sayfasındayken üst bar sayfalar arası geçiş kontrolü yapılır
 
@@ -94,8 +88,7 @@ tags:tumKampanyalar_UstBarProfilimpopupbasariliaciliyormukontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim başarılı bir şekilde görüntüleniyor mu kontrol edilir
 
 
@@ -107,6 +100,5 @@ tags:tumKampanyalar_UstBarSepetimpopupbasariliAciliyormukontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Sepetim başarılı bir şekilde görüntüleniyor mu kontrol edilir

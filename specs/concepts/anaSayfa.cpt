@@ -10,19 +10,6 @@
 # Üye ol butonuna tıklanır
 * Elementin yüklenmesini bekle ve tıkla "uyeOlButon"
 
-# İl ilçe mahalle seçilir
-* Elementi bekle ve sonra tıkla "ilDropdown"
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "ilİstanbul"
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "ilceDropdown"
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "ilceAdalar"
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "mahalleDropdown"
-* "5" saniye bekle
-* Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
-* "5" saniye bekle
 
 # Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
 * "2" saniye bekle

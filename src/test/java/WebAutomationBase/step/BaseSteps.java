@@ -959,12 +959,19 @@ public class BaseSteps extends BaseTest {
             getElementWithKeyIfExists("ilceAdalar");
             clickElement("ilceAdalar");
             waitBySeconds(4);
-            getElementWithKeyIfExists("mahalleDropdown");
-            clickElement("mahalleDropdown");
-            waitBySeconds(4);
-            getElementWithKeyIfExists("mahalleBurgazadaMahallesi");
-            clickElement("mahalleBurgazadaMahallesi");
-            waitBySeconds(4);
+
+            try {
+              clickElement("mahalleDropdown");
+            } catch (Exception e){
+              logger.info("Mahalle Dropdown Secildi");
+            }
+
+            try {
+              clickElement("mahalleBurgazadaMahallesi");
+            } catch (Exception e){
+              logger.info("Mahalle Secildi");
+            }
+
             getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
             clickElement("seciliAdresIleDevamEtButon");
 
@@ -1070,12 +1077,19 @@ public class BaseSteps extends BaseTest {
         getElementWithKeyIfExists("ilceAdalar");
         clickElement("ilceAdalar");
         waitBySeconds(4);
-        getElementWithKeyIfExists("mahalleDropdown");
-        clickElement("mahalleDropdown");
-        waitBySeconds(4);
-        getElementWithKeyIfExists("mahalleBurgazadaMahallesi");
-        clickElement("mahalleBurgazadaMahallesi");
-        waitBySeconds(4);
+
+        try {
+          clickElement("mahalleDropdown");
+        } catch (Exception e){
+          logger.info("Mahalle Dropdown Secildi");
+        }
+
+        try {
+          clickElement("mahalleBurgazadaMahallesi");
+        } catch (Exception e){
+          logger.info("Mahalle Secildi");
+        }
+
         getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
         clickElement("seciliAdresIleDevamEtButon");
         if(findElements("cookiesKapatButon").size() > 0) {
