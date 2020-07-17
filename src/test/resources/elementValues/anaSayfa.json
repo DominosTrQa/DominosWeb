@@ -466,7 +466,7 @@
   },
   {
     "key": "istanbulAdalarBurgazadaTextKontrol",
-    "value":"//span[contains(text(),'İstanbul Adalar Burgazada Mh.')]",
+    "value":"//span[contains(text(),'İstanbul Adalar')]",
     "type": "xpath"
   },
   {
