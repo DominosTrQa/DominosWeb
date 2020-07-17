@@ -111,8 +111,7 @@ tags:profilimPopup_pizzaTakipZorunluAlanKontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Pizza Takip butonuna basılır
 * Profilim popup Pizza Takip zorunlu alan kontrolü yapılır
@@ -126,8 +125,7 @@ tags:profilimPopup_PizzaTakipSiparisNumarasiGirilerekGoruntuleButonunaTiklaninca
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Pizza Takip butonuna basılır
 * Profilim popup Pizza Takibi yapılır ve açılan sayfa kontrol edilir
@@ -141,8 +139,7 @@ tags:profilimPopup_pizzaTakipDijitalPizzaTakipSistemiYazisininKontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Pizza Takip butonuna basılır
 * Element var mı kontrol et "pizzaTakipDijitalPizzaTakipSistemiAlani"
@@ -156,8 +153,7 @@ tags:profilimPopup_notlarimYeniNotEklePopupKontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Profilim popup Yeni Not Ekle butonuna tıklanır ve gerekli textin geldiği kontrol edilir
@@ -171,8 +167,7 @@ tags:profilimPopup_notlarimYeninotEklemeKontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Profilim popup Yeni Not Ekle butonuna tıklanır ve gerekli textin geldiği kontrol edilir
@@ -187,8 +182,7 @@ tags:profilimPopup_notlarimEklenenNotuDuzenlemePopupKontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Profilim popup Yeni Not Ekle butonuna tıklanır ve gerekli textin geldiği kontrol edilir
@@ -204,8 +198,7 @@ tags:profilimPopup_notlarimVarOlanNotuDegistirmeKontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Profilim popup Yeni Not Ekle butonuna tıklanır ve gerekli textin geldiği kontrol edilir
@@ -220,8 +213,7 @@ tags:profilimPopup_notlarimVarOlanNotuDegistirmektenVazgecmeKontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Profilim popup Yeni Not Ekle butonuna tıklanır ve gerekli textin geldiği kontrol edilir
@@ -237,8 +229,7 @@ tags:profilimPopup_notlarimVarOlanNotuSilmeKontrolu
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Profilim popup Yeni Not Ekle butonuna tıklanır ve gerekli textin geldiği kontrol edilir

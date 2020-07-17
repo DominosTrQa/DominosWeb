@@ -2126,8 +2126,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 * Üye olurken KVKK sözleşmesi için eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Üyelik bilgilerim butonuna tıklanır
 * Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
@@ -2148,8 +2147,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 * Üye olurken KVKK sözleşmesi için eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Üyelik bilgilerim butonuna tıklanır
 * Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
@@ -2356,8 +2354,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyel
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
 * Üyelik bilgilerim butonuna tıklanır
@@ -2380,8 +2377,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelik
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
 * Üyelik bilgilerim butonuna tıklanır
@@ -2405,8 +2401,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisProf
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Ye kazana üye olan kullanıcı için profilimden ye kazan sayfasına gidilir
 * Ye kazandan ayrıl butonuna tıklanır
@@ -2426,8 +2421,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisProfil
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
-* İl ilçe mahalle seçilir
-* Seçili Adres ile Devam Et butonuna basılır
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Ye kazana üye olan kullanıcı için profilimden ye kazan sayfasına gidilir
 * Ye kazandan ayrıl butonuna tıklanır
