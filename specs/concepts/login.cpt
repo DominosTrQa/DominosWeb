@@ -22,6 +22,7 @@
 
 # <email> kullanıcısı ve <password> şifresi ile üye girişi yapılır
 * Elementi bekle ve sonra tıkla "loginButton"
+* "5" saniye bekle
 * <email> textini "loginEmailTextbox" elemente yaz
 * <password> textini "loginPasswordTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "girisYapButon"
@@ -301,6 +302,7 @@
 
 # Dominos - Preprod ortamına gidilir
 * "https://dpe-preprod.dominos.com.tr/" adresine git
+* Cookie varsa kapat butonuna tıklanır
 
 # Dominos - Staging ortamına gidilir
 * "https://dpe-staging.dominos.com.tr/" adresine git
