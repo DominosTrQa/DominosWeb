@@ -276,22 +276,22 @@
   },
   {
     "key": "nakitOdemeKontrolGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Nakit')]",
+    "value":"//h3[contains(text(),'Nakit')]",
     "type": "xpath"
   },
   {
     "key": "krediKartiKontrolGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Kredi Kartı')]",
+    "value":"//h3[contains(text(),'Kredi Kartı')]",
     "type": "xpath"
   },
   {
     "key": "smartsodexokartKontrolGuest",
-    "value":"//h3[contains(text(),'Smart Sodexho Kart')]",
+    "value":"//h3[contains(text(),'Smart Sodexo Kart')]",
     "type": "xpath"
   },
   {
     "key": "sodexhoyemekcekiKontrolGuest",
-    "value":"//h3[contains(text(),'Sodexho Yemek Çeki')]",
+    "value":"//h3[contains(text(),'Sodexo Yemek Çeki')]",
     "type": "xpath"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "key": "sodexoyemekcekikontrol",
-    "value":"//h3[contains(text(),'Sodexho Yemek Çeki')]",
+    "value":"//h3[contains(text(),'Sodexo Yemek Çeki')]",
     "type": "xpath"
   },
   {
