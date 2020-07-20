@@ -112,6 +112,8 @@
 # Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* "2" saniye bekle
+* Cookie varsa kapat butonuna tıklanır
 
 # Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Gel Al servis tipi seçilir
@@ -125,6 +127,7 @@
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * "2" saniye bekle
+* Cookie varsa kapat butonuna tıklanır
 
 # Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Üye ol butonuna tıklanır
@@ -180,6 +183,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
 
 # Üye ol sayfasının elementlerinin geldiği kontrol edilir
 * Element var mı kontrol et "uyeOlAdTextbox"

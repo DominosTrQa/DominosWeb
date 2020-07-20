@@ -331,12 +331,12 @@
   },
   {
     "key": "smartsodexokartkontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Smart Sodexho Kart')]",
+    "value":"//h3[contains(text(),'Smart Sodexo Kart')]",
     "type": "xpath"
   },
   {
     "key": "sodexoyemekcekikontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Sodexho Yemek Çeki')]",
+    "value":"//h3[contains(text(),'Sodexho Yemek Çeki')]",
     "type": "xpath"
   },
   {
