@@ -286,47 +286,47 @@
   },
   {
     "key": "smartsodexokartKontrolGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Smart Sodexho Kart')]",
+    "value":"//h3[contains(text(),'Smart Sodexho Kart')]",
     "type": "xpath"
   },
   {
     "key": "sodexhoyemekcekiKontrolGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Sodexho Yemek Çeki')]",
+    "value":"//h3[contains(text(),'Sodexho Yemek Çeki')]",
     "type": "xpath"
   },
   {
     "key": "smartticketkartKontrolGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'SmartTicket Kart')]",
+    "value":"//h3[contains(text(),'SmartTicket Kart')]",
     "type": "xpath"
   },
   {
     "key": "smartticketyemekcekiKontrolGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'SmartTicket Yemek Çeki')]",
+    "value":"//h3[contains(text(),'SmartTicket Yemek Çeki')]",
     "type": "xpath"
   },
   {
     "key": "multinetKontrolGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Multinet')]",
+    "value":"//h3[contains(text(),'Multinet')]",
     "type": "xpath"
   },
   {
     "key": "setcardKontrolGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'SetCard')]",
+    "value":"//h3[contains(text(),'SetCard')]",
     "type": "xpath"
   },
   {
     "key": "payekartKontrolGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Paye Kart')]",
+    "value":"//h3[contains(text(),'Paye Kart')]",
     "type": "xpath"
   },
   {
     "key": "nakitOdemeKontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Nakit')]",
+    "value":"//h3[contains(text(),'Nakit')]",
     "type": "xpath"
   },
   {
     "key": "krediKartiKontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Kredi Kartı')]",
+    "value":"//h3[contains(text(),'Kredi Kartı')]",
     "type": "xpath"
   },
   {
@@ -341,32 +341,32 @@
   },
   {
     "key": "smartticketkartkontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'SmartTicket Kart')]",
+    "value":"//h3[contains(text(),'SmartTicket Kart')]",
     "type": "xpath"
   },
   {
     "key": "smartticketyemekcekikontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'SmartTicket Yemek Çeki')]",
+    "value":"//h3[contains(text(),'SmartTicket Yemek Çeki')]",
     "type": "xpath"
   },
   {
     "key": "multinetkontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Multinet')]",
+    "value":"//h3[contains(text(),'Multinet')]",
     "type": "xpath"
   },
   {
     "key": "setcardkontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'SetCard')]",
+    "value":"//h3[contains(text(),'SetCard')]",
     "type": "xpath"
   },
   {
     "key": "payekartkontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Paye Kart')]",
+    "value":"//h3[contains(text(),'Paye Kart')]",
     "type": "xpath"
   },
   {
     "key": "onlineOdemeKontrol",
-    "value":"//h3[@class='orderConfirm__ContentHeader-x0pcid-14 gcbTUm'][contains(text(),'Online Kredi / Banka Kartı')]",
+    "value":"//h3[contains(text(),'Online Kredi / Banka Kartı')]",
     "type": "xpath"
   },
   {
@@ -436,7 +436,7 @@
   },
   {
     "key": "odemeSekliOnlineGuest",
-    "value":"//h3[@class='orderConfirm__ContentHeader-sc-9bijzy-14 jWKrSd'][contains(text(),'Online Kredi / Banka Kartı')]",
+    "value":"//h3[contains(text(),'Online Kredi / Banka Kartı')]",
     "type": "xpath"
   },
   {
@@ -461,12 +461,12 @@
   },
   {
     "key": "lutfenZilebasmayinizKontrol",
-    "value":"//p[@class='styled__InfoDesc-td9pux-8 ehnKxs'][contains(text(),' Lütfen zile basmayınız')]",
+    "value":"//p[contains(text(),' Lütfen zile basmayınız')]",
     "type": "xpath"
   },
   {
     "key": "temassizTeslimatKontrol",
-    "value":"//p[@class='styled__InfoDesc-td9pux-8 ehnKxs'][contains(text(),'Temassız Teslimat ')]",
+    "value":"//p[contains(text(),'Temassız Teslimat ')]",
     "type": "xpath"
   },
   {
@@ -476,7 +476,7 @@
   },
   {
     "key": "temassizTeslimatKontrolGuest",
-    "value":"//p[@class='styled__InfoDesc-td9pux-8 ehnKxs'][contains(text(),' Temassız Teslimat')]",
+    "value":"//p[contains(text(),' Temassız Teslimat')]",
     "type": "xpath"
   },
   {
@@ -501,7 +501,7 @@
   },
   {
     "key": "siparisIcerigi",
-    "value":"//h4[@class='styled__InfoTitle-td9pux-7 fIVeKT'][contains(text(),'Sipariş İçeriği')]",
+    "value":"//h4[contains(text(),'Sipariş İçeriği')]",
     "type": "xpath"
   },
   {
