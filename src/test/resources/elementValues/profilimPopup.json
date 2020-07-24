@@ -171,7 +171,7 @@
   },
   {
     "key": "notEklemeKontrol",
-    "value":"//h4[@class='notes__NoteTitle-x7fyts-3 cpNPRp'][contains(text(),'Test Not Başlığı')]",
+    "value":"(//h4[contains(text(),'Test Not Başlığı')])[1]",
     "type": "xpath"
   },
   {
