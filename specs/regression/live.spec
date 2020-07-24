@@ -638,6 +638,7 @@ tags:regressionLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Servis tipinin Gel Al olduğu kontrol edilir
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 
 
@@ -859,8 +860,8 @@ tags:regressionLive_adresSecimiVarOlanUyeGelAlManuelAdresSecimi
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
-* Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Şubenin Ayazağa Şubesi olduğu kontrol edilir
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Manuel - Adres Seçimi
@@ -2868,7 +2869,7 @@ tags:regressionLive_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 Üye KVKK İzni Güncelleme - Varolan Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------------------
 tags:regressionLive_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
-//blocked:Düzelince testiniuma eklenecek
+
 * Dominos - Live ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -3042,7 +3043,6 @@ tags:regressionLive_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgil
 -------------------------------------------------------------------------------
 tags:regressionLive_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
 
-//Bug OLOTR-1480 çözüldükten sonra Testinium suiteine eklenecek
 * Dominos - Live ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
