@@ -411,6 +411,7 @@ tags:regressionPreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Servis tipinin Gel Al olduğu kontrol edilir
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 
 
@@ -575,9 +576,8 @@ tags:regressionPreprod_adresSecimiVarOlanUyeGelAlManuelAdresSecimi
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
-* Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
-* Şubenin Ayazağa Şubesi olduğu kontrol edilir
-
+* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 Adres Seçimi - Yeni Üye - Adres Teslim - Manuel - Adres Seçimi
 ---------------------------------------------------------------
@@ -2364,6 +2364,7 @@ tags:regressionPreprod_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Cookie varsa kapat butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2373,11 +2374,8 @@ tags:regressionPreprod_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 * Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
 * Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir, hatası geldiği kontrol edilir
 * Kvkk sözleşmesi için sms, telefon, eposta checkboxları işaretlenir
-* Ye kazan checkboxı için değişikler kaydet butonuna basılır
 * KVKK checkboxı için değişikleri kaydet butonuna basılır
 * Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
-* KVKK checkboxı için değişikleri kaydet butonuna basılır
-* Vazgeç butonuna tıklanır
 * KVKK checkboxı için değişikleri kaydet butonuna basılır
 * Onaylıyorum butonuna tıklanır
 * Kvkk checkboxının işaretli olmadığı gözlemlenir
