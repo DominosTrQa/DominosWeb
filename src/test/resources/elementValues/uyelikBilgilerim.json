@@ -41,8 +41,8 @@
   },
   {
     "key": "üyelik_Bilgilerim_Acık_Rıza_Metni_Checkbox",
-    "value":"DPE_TR_ACCOUNT_CHECKBOX_KVKK",
-    "type": "id"
+    "value":"//div[@id='DPE_TR_ACCOUNT_CHECKBOX_KVKK']//p[1]",
+    "type": "xpath"
   },
   {
     "key": "üyelik_Bilgilerim_Acık_Rıza_Metni_Linktext",
@@ -66,8 +66,8 @@
   },
   {
     "key": "üyelik_Bilgilerim_Ye_Kazan_Checkbox",
-    "value":"DPE_TR_ACCOUNT_CHECKBOX_LOYALTY",
-    "type": "id"
+    "value":"//div[@id='IsYeKazan']//p",
+    "type": "xpath"
   },
   {
     "key": "üyelik_Bilgilerim_Ye_Kazan_Linktext",
