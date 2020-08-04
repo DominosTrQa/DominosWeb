@@ -1151,6 +1151,54 @@ public class BaseSteps extends BaseTest {
     }
   }
 
+  @Step("<key> Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest")
+  public void addressSelectGuest(String key){
+    if(findElements(key).size() > 0){
+      logger.info("Adres tamamlanıyor!!!");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("popupmahalleDropdown");
+      clickElement("popupmahalleDropdown");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("mahalleBurgazadaMahallesi");
+      clickElement("mahalleBurgazadaMahallesi");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("caddeDropdown");
+      clickElement("caddeDropdown");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("caddeSokakDropdown835Sokak");
+      clickElement("caddeSokakDropdown835Sokak");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("kapiNoTextbox");
+      clickElement("kapiNoTextbox");
+      waitBySeconds(2);
+      sendKeysByKey("kapiNoTextbox","2");
+      getElementWithKeyIfExists("daireTextbox");
+      clickElement("daireTextbox");
+      waitBySeconds(2);
+      sendKeysByKey("daireTextbox","1");
+      getElementWithKeyIfExists("adresAdiTextbox");
+      clickElement("adresAdiTextbox");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("adresSayfasiTelefonTextbox");
+      clickElement("adresSayfasiTelefonTextbox");
+      waitBySeconds(2);
+      sendKeys("923456789","adresSayfasiTelefonTextbox");
+      sendKeysByKey("adresTarifiTextbox","test");
+      getElementWithKeyIfExists("adresKaydetButon");
+      clickElement("adresKaydetButon");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("uyelikBilgilerimAdreslerimIlkAdres");
+      clickElement("uyelikBilgilerimAdreslerimIlkAdres");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("siparisSayfasiSeciliAdresIleDevamEtButon");
+      clickElement("siparisSayfasiSeciliAdresIleDevamEtButon");
+      waitBySeconds(2);
+    }
+    else{
+      logger.info("Ödeme sayfasına geçildi!!!");
+    }
+  }
+
   @Step("Kampanya urun secimi yapılır")
   public void kampanyaSec(){
     waitBySeconds(5);
