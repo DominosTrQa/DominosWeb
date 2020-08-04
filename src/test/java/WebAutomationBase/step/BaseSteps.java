@@ -1176,8 +1176,6 @@ public class BaseSteps extends BaseTest {
       clickElement("daireTextbox");
       waitBySeconds(2);
       sendKeysByKey("daireTextbox","1");
-      getElementWithKeyIfExists("adresAdiTextbox");
-      clickElement("adresAdiTextbox");
       waitBySeconds(2);
       getElementWithKeyIfExists("adresSayfasiTelefonTextbox");
       clickElement("adresSayfasiTelefonTextbox");
