@@ -64,7 +64,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
-* "dropdownKapiNo" li elementi bul ve varsa dokun
+* Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * "3" saniye bekle
