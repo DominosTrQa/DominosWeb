@@ -329,6 +329,7 @@ tags:successStaging_odemeTipiSecimiVarolanUyeGelAlMultinet
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Cookie varsa kapat butonuna tıklanır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -498,6 +499,7 @@ tags:successStaging_subeAtamaVarolanUyeGelAlIlIlce
 
 * Dominos - Staging ortamına gidilir
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Cookie varsa kapat butonuna tıklanır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Merkez eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
