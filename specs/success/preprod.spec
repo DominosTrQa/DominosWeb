@@ -495,6 +495,7 @@ tags:successPreprod_subeAtamaVarolanUyeGelAlIlIlce
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Cookie varsa kapat butonuna tıklanır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır

@@ -71,7 +71,7 @@
   },
   {
     "key": "sepettedurumosKontrolStaging",
-    "value": "//h4[contains(text(),'Bol Malzemeli Dürüm’os')]",
+    "value": "//h4[contains(text(),'Bol Malzemeli Dürümos')]",
     "type": "xpath"
   },
   {
