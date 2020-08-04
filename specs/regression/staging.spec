@@ -2028,7 +2028,6 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 Üye KVKK İzni Güncelleme - Varolan Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------------------
 tags:regressionStaging_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
-//blocked:Düzelince testiniuma eklenecek
 
 * Dominos - Staging ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
