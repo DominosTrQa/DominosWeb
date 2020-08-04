@@ -103,8 +103,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Seçili adres ile devam edilir
+* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)

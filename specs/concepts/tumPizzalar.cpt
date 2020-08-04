@@ -26,6 +26,7 @@
 
 # Pizza kategorisindeki ilk pizza seçilir
 * Elementi bekle ve sonra tıkla "tumPizzalarIlkKategoriilkPizza"
+* "3" saniye bekle
 
 # Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * "2" saniye bekle
