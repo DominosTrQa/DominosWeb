@@ -76,7 +76,7 @@
   },
   {
     "key": "onaySayfasiSepetteDurumosKontrolStaging",
-    "value": "//div[contains(text(),'Bol Malzemeli Dürüm’os')]",
+    "value": "//div[contains(text(),'Bol Malzemeli Dürümos')]",
     "type": "xpath"
   },
   {
