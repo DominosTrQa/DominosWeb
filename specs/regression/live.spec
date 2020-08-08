@@ -576,7 +576,7 @@ tags:regressionLive_sepettenUpsellEklemeGelAlYeniUye
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir
-denemeK
+
 
 Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
 --------------------------------------------------
