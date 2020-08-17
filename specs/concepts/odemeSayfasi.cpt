@@ -43,7 +43,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
-* Elementi bekle ve sonra tıkla "dropdownKapiNo"
+ Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
@@ -64,7 +64,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
-* Elementi bekle ve sonra tıkla "dropdownKapiNo"
+ Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * "3" saniye bekle
@@ -82,15 +82,13 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "20" değerini yaz
-* Elementi bekle ve sonra tıkla "dropdownKapiNo"
+ Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
 * "adresAdiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
 * "adresSayfasiTelefonTextbox" li elementine random telefon numarası yaz
- Rastgele telefon no üret
- Telefon noyu "adresSayfasiTelefonTextbox" elementine yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
@@ -483,7 +481,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNoTextbox"
 * "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
-* Elementi bekle ve sonra tıkla "dropdownKapiNo"
+ Elementi bekle ve sonra tıkla "dropdownKapiNo"
 * Elementi bekle ve sonra tıkla "daireTextbox"
 * "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
