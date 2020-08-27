@@ -972,6 +972,18 @@ public class BaseSteps extends BaseTest {
               logger.info("Mahalle Secildi");
             }
 
+            try {
+              clickElement("caddeDropdownid");
+            } catch (Exception e){
+              logger.info("Cadde dropdown Secildi");
+            }
+
+            try {
+              clickElement("caddeBurgazCayırıSk");
+            } catch (Exception e){
+              logger.info("Cadde Secildi");
+            }
+
             getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
             clickElement("seciliAdresIleDevamEtButon");
 
@@ -1088,6 +1100,18 @@ public class BaseSteps extends BaseTest {
           clickElement("mahalleBurgazadaMahallesi");
         } catch (Exception e){
           logger.info("Mahalle Secildi");
+        }
+
+        try {
+          clickElement("caddeDropdownid");
+        } catch (Exception e){
+          logger.info("Cadde dropdown Secildi");
+        }
+
+        try {
+          clickElement("caddeBurgazCayırıSk");
+        } catch (Exception e){
+          logger.info("Cadde Secildi");
         }
 
         getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
