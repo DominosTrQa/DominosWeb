@@ -65,6 +65,11 @@
     "type": "xpath"
   },
   {
+    "key": "caddeBurgazCayırıSk",
+    "value":"//div[text()='Burgaz Çayırı Sk.']",
+    "type": "xpath"
+  },
+  {
     "key": "seciliAdresIleDevamEtButon",
     "value":"DPE_TR_STOREFILTERFORMDELIVERY_BUTTON_ADDRESSSELECT",
     "type": "id"
