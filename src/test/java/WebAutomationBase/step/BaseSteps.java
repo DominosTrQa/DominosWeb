@@ -965,25 +965,25 @@ public class BaseSteps extends BaseTest {
             } catch (Exception e){
               logger.info("Mahalle Dropdown Secildi");
             }
-
+            waitBySeconds(4);
             try {
               clickElement("mahalleBurgazadaMahallesi");
             } catch (Exception e){
               logger.info("Mahalle Secildi");
             }
-
+            waitBySeconds(4);
             try {
               clickElement("caddeDropdownid");
             } catch (Exception e){
               logger.info("Cadde dropdown Secildi");
             }
-
+            waitBySeconds(4);
             try {
               clickElement("caddeBurgazCayırıSk");
             } catch (Exception e){
               logger.info("Cadde Secildi");
             }
-
+            waitBySeconds(4);
             getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
             clickElement("seciliAdresIleDevamEtButon");
 
@@ -1095,25 +1095,25 @@ public class BaseSteps extends BaseTest {
         } catch (Exception e){
           logger.info("Mahalle Dropdown Secildi");
         }
-
+        waitBySeconds(4);
         try {
           clickElement("mahalleBurgazadaMahallesi");
         } catch (Exception e){
           logger.info("Mahalle Secildi");
         }
-
+        waitBySeconds(4);
         try {
           clickElement("caddeDropdownid");
         } catch (Exception e){
           logger.info("Cadde dropdown Secildi");
         }
-
+        waitBySeconds(4);
         try {
           clickElement("caddeBurgazCayırıSk");
         } catch (Exception e){
           logger.info("Cadde Secildi");
         }
-
+        waitBySeconds(4);
         getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
         clickElement("seciliAdresIleDevamEtButon");
         if(findElements("cookiesKapatButon").size() > 0) {
@@ -1128,6 +1128,7 @@ public class BaseSteps extends BaseTest {
 
   @Step("<key> Varsa adres bilgileri tamamlanır (Kapı No Manuel)")
   public void addressSelect(String key){
+      waitBySeconds(4);
     if(findElements(key).size() > 0){
       logger.info("Adres tamamlanıyor!!!");
       waitBySeconds(4);
