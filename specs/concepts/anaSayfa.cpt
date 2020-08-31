@@ -222,6 +222,13 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "sepeteEkleArti"
 
+# Sepetteki urun uc kez arttirilir
+* Elementi bekle ve sonra tıkla "sepeteEkleArti"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "sepeteEkleArti"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "sepeteEkleArti"
+
 # Profilim butonuna tıklanır
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "profilMenuButon"

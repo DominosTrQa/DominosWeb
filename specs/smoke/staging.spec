@@ -19,6 +19,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
+* Sepetteki urun uc kez arttirilir
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
