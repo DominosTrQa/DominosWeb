@@ -15,6 +15,7 @@ tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
+* "10" saniye bekle
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
@@ -43,6 +44,7 @@ tags:smokeK8s_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
+* "10" saniye bekle
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
@@ -71,6 +73,7 @@ tags:smokeK8s_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Tüm Kampanyalar Butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
+* "10" saniye bekle
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
@@ -181,6 +184,7 @@ tags:smokeK8s_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
+* "10" saniye bekle
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
@@ -203,6 +207,7 @@ tags:smokeK8s_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
+* "10" saniye bekle
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
