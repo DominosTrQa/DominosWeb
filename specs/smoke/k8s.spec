@@ -25,7 +25,7 @@ tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -52,7 +52,7 @@ tags:smokeK8s_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -82,7 +82,7 @@ tags:smokeK8s_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
@@ -112,7 +112,7 @@ tags:smokeK8s_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
@@ -139,7 +139,7 @@ tags:smokeK8s_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -165,9 +165,9 @@ tags:smokeK8s_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -192,7 +192,7 @@ tags:smokeK8s_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır
 
 
@@ -214,9 +214,9 @@ tags:smokeK8s_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır

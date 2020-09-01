@@ -104,7 +104,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
@@ -124,7 +124,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır (Stg)
 * Sepete coca cola eklenir
@@ -133,7 +133,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
@@ -157,7 +157,7 @@ tags:smokeStaging_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Profilim popup Çıkış Yap butonuna basılır
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır (Stg)
 * Sepete coca cola eklenir
@@ -181,7 +181,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Gel al servis tipi secilir ve kontrolu yapilir
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -204,7 +204,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -214,7 +214,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepetteki urun uc kez arttirilir
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
