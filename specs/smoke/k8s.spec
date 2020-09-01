@@ -20,6 +20,7 @@ tags:smokeK8s_kullaniciIlkkezGeliyorAdreseTeslim
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
+* Sepetteki urun uc kez arttirilir
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
@@ -151,6 +152,8 @@ tags:smokeK8s_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Kubernetes ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "10" saniye bekle
+* Cookie varsa kapat butonuna tıklanır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -213,6 +216,7 @@ tags:smokeK8s_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
+* Sepetteki urun uc kez arttirilir
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ödeme şekli seçilir
