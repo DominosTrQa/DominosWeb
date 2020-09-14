@@ -80,7 +80,8 @@ tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
-* Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Siparis tamamlanir(guest) 2
 * Siparişin alındığından emin olunur
 
 
@@ -108,7 +109,8 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
-* Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Siparis tamamlanir(guest) 2
 * Siparişin alındığından emin olunur
 
 
