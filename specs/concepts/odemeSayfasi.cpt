@@ -514,9 +514,8 @@
 * Elementi bekle ve sonra tıkla "odemeyiTamamlaGuestsoyad"
 * "Test" textini "odemeyiTamamlaGuestsoyad" elemente yaz
 * "dominostest7@hotmail.com" textini "odemeyiTamamlaGuesteposta" elemente yaz
-* Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "odemeyiTamamlaGuesttelefon"
-* Telefon noyu "odemeyiTamamlaGuesttelefon" elementine yaz
+* "odemeyiTamamlaGuesttelefon" li elementine random telefon numarası yaz
 
 # Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 * Element var mı kontrol et "temassizTeslimatKontrolGuest"

@@ -43,7 +43,6 @@
 * "3" saniye bekle
 * "Test" textini "uyeOlAdTextbox" elemente yaz
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
-* Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
 *"uyeOlTelefonTextbox" li elementine random telefon numarası yaz
 * "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
@@ -58,11 +57,8 @@
 # Random mail ve telefon ile üye olunur ve iletişim kanalları seçilir
 * "Test" textini "uyeOlAdTextbox" elemente yaz
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
-* Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
 *"uyeOlTelefonTextbox" li elementine random telefon numarası yaz
- "59" textini "uyeOlTelefonTextbox" elemente yaz
- Telefon noyu "uyeOlTelefonTextbox" elementine yaz
 * "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
 * "Test1234" textini "uyeOlSifreTexbox" elemente yaz
 * "Test1234" textini "uyeOlSifreyTekrarTextbox" elemente yaz

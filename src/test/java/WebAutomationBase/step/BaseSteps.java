@@ -676,31 +676,6 @@ public class BaseSteps extends BaseTest {
 
   }
 
-  @Step("Rastgele telefon no üret")
-  public String rastgelTelNoGelsin( ) {
-    Vector<Integer> array = new Vector<Integer>();
-    Random randomGenerator = new Random();
-    array.add(new Integer(1 + randomGenerator.nextInt(9)));
-    for (int i=1;i<9;i++) array.add(randomGenerator.nextInt(10));
-    int t1 = 0;
-    for (int i=0;i<9;i+=2) t1 += array.elementAt(i);
-    int t2 = 0;
-    for (int i=1;i<8;i+=2) t2 += array.elementAt(i);
-    int x = ((t1 * 7 )- t2) % 10;
-    array.add(new Integer(x));
-    x=0;
-    for(int i=0;i<10;i++) x+= array.elementAt(i);
-    x= x % 10;
-    array.add(new Integer(x));
-    String res = "";
-    for(int i=0;i<10;i++) res = res + Integer.toString(array.elementAt(i));
-    return res;
-  }
-  @Step("Telefon noyu <key> elementine yaz")
-  public void setRandomTelno(String key){
-    String rastgeleTcno= rastgelTelNoGelsin();
-    sendKeys(rastgeleTcno,key);
-  }
 
   @Step({"<key> li elementi bul ve değerini <saveKey> olarak sakla",
           "Find element by <key> and save text <saveKey>"})
@@ -1283,7 +1258,6 @@ public class BaseSteps extends BaseTest {
 
 
   }
-
 }
 
 
