@@ -101,7 +101,10 @@
 
 # Kampanya sepete eklenir
 * Elementi bekle ve sonra tıkla "firsatSepetEkle"
-* "4" saniye bekle
+* Yan urun popup cıkarsa kapatilir
+
+# Yan urun popup cıkarsa kapatilir
+* "8" saniye bekle
 * "sepeteUrunEkledenSonraYanUrunPopupKapatButon" li elementi bul ve varsa dokun
 * "4" saniye bekle
 
