@@ -2366,11 +2366,7 @@ tags:regressionPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 tags:regressionPreprod_uyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Cookie varsa kapat butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Üyelik bilgilerim butonuna tıklanır
