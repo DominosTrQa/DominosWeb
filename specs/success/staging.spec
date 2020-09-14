@@ -240,8 +240,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Manuel - Adres Seçimi
 tags:successStaging_adresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Kalem ikonuna tıklanır
 * Adrese teslim adres düzenleye tıklanır
@@ -305,8 +304,7 @@ tags:successStaging_odemeTipiSecimiYeniUyeGelAlKrediKartı
 tags:successStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -328,9 +326,7 @@ tags:successStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 tags:successStaging_odemeTipiSecimiVarolanUyeGelAlMultinet
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Cookie varsa kapat butonuna tıklanır
-* Gel al servis tipi secilir ve kontrolu yapilir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -388,8 +384,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 tags:successStaging_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Staging ortamına gidilir
-* "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel al servis tipi secilir ve kontrolu yapilir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir
@@ -407,8 +402,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Varolan Notu Ekleme
 tags:successStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
@@ -486,8 +480,7 @@ tags:successStaging_siparisIslemleriCanliTestAdresiDropdown
 tags:successStaging_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Staging ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Sube duzenlemeye tiklanir
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
