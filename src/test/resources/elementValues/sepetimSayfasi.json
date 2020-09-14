@@ -23,6 +23,11 @@
     "key": "uyeOlmayanodemeSiparisVerButonid",
     "value":"DPE_TR_BASKET_BUTTON_ORDER",
     "type": "id"
+  },
+  {
+    "key": "sepeteUrunEkledenSonraYanUrunPopupKapatButon",
+    "value":"//div[@class='ins-close-button ins-pointer-cursor']//img",
+    "type": "xpath"
   }
 
 ]

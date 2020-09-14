@@ -32,3 +32,6 @@
 # Pizza sepete eklenir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "pizzaSepeteEkle"
+* "4" saniye bekle
+* "sepeteUrunEkledenSonraYanUrunPopupKapatButon" li elementi bul ve varsa dokun
+* "4" saniye bekle
