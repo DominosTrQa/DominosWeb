@@ -26,7 +26,7 @@
   },
   {
     "key": "sepeteUrunEkledenSonraYanUrunPopupKapatButon",
-    "value":"//div[@class='ins-close-button ins-pointer-cursor']//img",
+    "value":"//div[@class='ins-close-button ins-pointer-cursor']",
     "type": "xpath"
   }
 
