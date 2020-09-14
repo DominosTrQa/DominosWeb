@@ -2004,6 +2004,7 @@ tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimVarolanNotuEkleme
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
+* Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -2031,6 +2032,7 @@ tags:regressionPreprod_siparisNotuEklemeYeniUyeGelAlVarolanNotuEkleme
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
+* Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -2058,6 +2060,7 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
+* Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
