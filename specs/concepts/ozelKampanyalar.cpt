@@ -101,6 +101,9 @@
 
 # Kampanya sepete eklenir
 * Elementi bekle ve sonra tıkla "firsatSepetEkle"
+* "4" saniye bekle
+* "sepeteUrunEkledenSonraYanUrunPopupKapatButon" li elementi bul ve varsa dokun
+* "4" saniye bekle
 
 # Orta boy barbekü soslu sucuklu pizza kampanyası seçilir
 * Element var mı kontrol et "ortaboyBarbekuPizza"
