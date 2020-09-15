@@ -1779,6 +1779,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
+* Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
@@ -2201,7 +2202,6 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBil
 -------------------------------------------------------------------------------
 tags:regressionStaging_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
 
-//Bug OLOTR-1480 çözüldükten sonra Testinium suiteine eklenecek
 * Dominos - Staging ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
