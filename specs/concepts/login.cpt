@@ -298,7 +298,7 @@
 * Gel al servis tipi secilir ve kontrolu yapilir
 
 # Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://k8s-tr-we-ui-preprod.dominos.com.tr/" adresine git
 * Cookie varsa kapat butonuna tıklanır
 
 # Dominos - Staging ortamına gidilir
