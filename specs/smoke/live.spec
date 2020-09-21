@@ -161,7 +161,7 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ödeme şekli seçilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
@@ -208,7 +208,7 @@ tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ödeme şekli seçilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir

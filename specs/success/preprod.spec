@@ -310,7 +310,7 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme SmartTicket Kart seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında smartTicket Kart yazısının geldiği kontrol edilir
@@ -333,7 +333,7 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Multinet seçeneği ile devam edilir
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
@@ -420,7 +420,7 @@ tags:successPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* "caddeDropdown" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Sipariş tamamlanır
