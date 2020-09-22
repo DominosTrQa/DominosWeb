@@ -199,6 +199,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Dominos - Preprod ortamına gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Cookie varsa kapat butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
