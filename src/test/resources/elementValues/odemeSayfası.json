@@ -431,7 +431,7 @@
   },
   {
     "key": "misafirtelefonNo",
-    "value":"//*[@class='input__Control-wbeopl-2 iQtoeP']",
+    "value":"//*[@class='input__Control-wbeopl-3 dPotfb']",
     "type": "xpath"
   },
   {
@@ -516,7 +516,7 @@
   },
   {
     "key": "onlineOdemeDevamdanSonraKontrol",
-    "value":"//img[@class='styled__MasterpassFooterImage-sc-1xs7sic-5 glPKZ']",
+    "value":"//img[@class='styled__MasterpassFooterImage-sc-1xs7sic-7 inUuet']",
     "type": "xpath"
   },
   {
