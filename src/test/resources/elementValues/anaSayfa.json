@@ -476,7 +476,7 @@
   },
   {
     "key": "sipariseKapaliSubesiTextKontrol",
-    "value":"//span[contains(text(),'İstanbul Adalar')]",
+    "value":"//span[contains(text(),'99362 - Siparişe Kapali Şubesi')]",
     "type": "xpath"
   },
   {

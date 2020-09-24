@@ -528,7 +528,7 @@ tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteUrunVarkenServisTip
 * Adrese Teslim servis tipi seçilir
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır
 * Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısına evet denir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kayitli adres cikarsa adres sec yoksa servis tipi sec
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 
 

@@ -1258,6 +1258,99 @@ public class BaseSteps extends BaseTest {
 
 
   }
+
+  @Step("Kayitli adres cikarsa adres sec yoksa servis tipi sec")
+  public void kayitliAdres(){
+    if (findElements("seciliAdresIleDevamEtButonilkadres").size() > 0) {
+      if(findElements("cookiesKapatButon").size() > 0) {
+        getElementWithKeyIfExists("cookiesKapatButon");
+        clickElement("cookiesKapatButon");
+        waitBySeconds(4);
+      }
+      getElementWithKeyIfExists("seciliAdresIleDevamEtButonilkadres");
+      clickElement("seciliAdresIleDevamEtButonilkadres");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("siparisSayfasiSeciliAdresIleDevamEtButon");
+      clickElement("siparisSayfasiSeciliAdresIleDevamEtButon");
+      waitBySeconds(4);
+
+    }
+    else if (findElements("acikSubeleriGoster").size() <= 0) {
+      waitBySeconds(2);
+      getElementWithKeyIfExists("ilDropdown");
+      clickElement("ilDropdown");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("ilİstanbul");
+      clickElement("ilİstanbul");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("ilceDropdown");
+      clickElement("ilceDropdown");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("ilceAdalar");
+      clickElement("ilceAdalar");
+      waitBySeconds(4);
+
+      try {
+        clickElement("mahalleDropdown");
+      } catch (Exception e){
+        logger.info("Mahalle Dropdown Secildi");
+      }
+      waitBySeconds(4);
+      try {
+        clickElement("mahalleBurgazadaMahallesi");
+      } catch (Exception e){
+        logger.info("Mahalle Secildi");
+      }
+      waitBySeconds(4);
+      try {
+        clickElement("caddeDropdownid");
+      } catch (Exception e){
+        logger.info("Cadde dropdown Secildi");
+      }
+      waitBySeconds(4);
+      try {
+        clickElement("caddeBurgazCayırıSk");
+      } catch (Exception e){
+        logger.info("Cadde Secildi");
+      }
+      waitBySeconds(4);
+      getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
+      clickElement("seciliAdresIleDevamEtButon");
+    }
+
+    else if (findElements("acikSubeleriGoster").size() > 0) {
+      getElementWithKeyIfExists("ilDropdownGelAl");
+      clickElement("ilDropdownGelAl");
+      getElementWithKeyIfExists("ilİstanbul");
+      clickElement("ilİstanbul");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("ilceDropdownGelAl");
+      clickElement("ilceDropdownGelAl");
+      getElementWithKeyIfExists("ilceAdalar");
+      clickElement("ilceAdalar");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("mahalleDropdownGelAl");
+      clickElement("mahalleDropdownGelAl");
+      getElementWithKeyIfExists("mahalleBurgazadaMahallesi");
+      clickElement("mahalleBurgazadaMahallesi");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("acikSubeleriGoster");
+      clickElement("acikSubeleriGoster");
+      getElementWithKeyIfExists("subeleriGosterButon");
+      clickElement("subeleriGosterButon");
+      getElementWithKeyIfExists("ilkSubeSecimi");
+      clickElement("ilkSubeSecimi");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("seciliSubeIleDevamEtButon");
+      clickElement("seciliSubeIleDevamEtButon");
+      waitBySeconds(3);
+      if(findElements("cookiesKapatButon").size() > 0) {
+        getElementWithKeyIfExists("cookiesKapatButon");
+        clickElement("cookiesKapatButon");
+        waitBySeconds(4);
+      }
+    }
+  }
 }
 
 
