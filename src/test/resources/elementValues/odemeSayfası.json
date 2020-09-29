@@ -446,7 +446,7 @@
   },
   {
     "key": "gecerliTelgirkontrol",
-    "value":"//div[@class='input__ErrorText-wbeopl-4 bcanhF'][contains(text(),'Geçerli bir telefon numarası giriniz.')]",
+    "value":"//div[contains(text(),'Geçerli bir telefon numarası giriniz.')]",
     "type": "xpath"
   },
   {
