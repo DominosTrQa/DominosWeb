@@ -142,6 +142,33 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
 
+# Yeni adalar adresi eklenir
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "popupilDropdown"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ilİstanbul"
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "popupilceDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdalar"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "popupmahalleDropdown"
+* Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi"
+* Elementi bekle ve sonra tıkla "caddeDropdown"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdownAyisigiSokak"
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* Element var mı kontrol et "alanlariBosBirakamazsinizText"
+* "2" saniye bekle
+* "3" textini "kapiNoTextbox" elemente yaz
+* "1" textini "daireTextbox" elemente yaz
+* "2" saniye bekle
+* "ofis" textini "adresAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "123456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
+
 # İlk kayıtlı adres seçilir
 * Elementi bekle ve sonra tıkla "ilkKayitliAdres"
 * "siparisSayfasiSeciliAdresIleDevamEtButon" alanına kaydır

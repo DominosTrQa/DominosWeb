@@ -105,7 +105,7 @@ tags:regressionPreprod_uyeAdresDuzenlemeAdreseTeslimUye
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Adres bilgileri tamamlanır(Liste - üye)
+* Yeni adalar adresi eklenir
 * Profilim popup eklenen  adres düzenlenir ve eski adresin değiştiği doğrulanır
 * Profilim popup eklenen adres silinir
 
@@ -299,8 +299,7 @@ tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUye
 * Sepette Sufle olduğu kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir
 
