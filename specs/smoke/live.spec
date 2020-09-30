@@ -28,6 +28,7 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
+* Siparis kodu text kontrolu yapılır
 
 
 Live - Kullanıcı ilk kez geliyor - Gel Al
@@ -54,6 +55,7 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
+* Siparis kodu text kontrolu yapılır
 
 
 Live - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
@@ -83,6 +85,7 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
+* Siparis kodu text kontrolu yapılır
 
 
 Live - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
@@ -112,6 +115,7 @@ tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
+* Siparis kodu text kontrolu yapılır
 
 
 Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
@@ -139,6 +143,7 @@ tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
+* Siparis kodu text kontrolu yapılır
 
 
 Live - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
@@ -167,6 +172,7 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
+* Siparis kodu text kontrolu yapılır
 
 
 Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
@@ -189,6 +195,7 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır
+* Siparis kodu text kontrolu yapılır
 
 
 Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
@@ -214,3 +221,4 @@ tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
+* Siparis kodu text kontrolu yapılır

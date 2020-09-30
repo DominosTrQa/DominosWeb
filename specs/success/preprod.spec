@@ -413,7 +413,7 @@ tags:successPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Profilim popup Notlarım butonuna tıklanır
 * Not ekle butonuna tıklanır
 * Not eklenir
-* Notlarım alanında Test Not Başlığı yazısının geldiği görülür
+ Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza sepete eklenir

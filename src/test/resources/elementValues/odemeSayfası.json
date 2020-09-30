@@ -558,5 +558,10 @@
     "key": "yemekCekleriVeKartlari",
     "value":"DPE_TR_PAYMENT_4_BUTTON",
     "type": "id"
+  },
+  {
+    "key": "siparisKoduTextKontrol",
+    "value":"//h4[contains(text(),'Sipariş Takip Kodu')]",
+    "type": "xpath"
   }
 ]
