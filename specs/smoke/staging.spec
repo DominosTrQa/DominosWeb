@@ -12,7 +12,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Cookie onaylıyorum butonuna tıklanır
+* Cookie varsa kapat butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -132,6 +132,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepete coca cola eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
+* Yan urun popup cıkarsa kapatilir
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -165,6 +166,7 @@ tags:smokeStaging_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sepete coca cola eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
+* Yan urun popup cıkarsa kapatilir
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -191,6 +193,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
+* Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
@@ -213,6 +216,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
+* Yan urun popup cıkarsa kapatilir
 * Sepetteki urun uc kez arttirilir
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
