@@ -125,8 +125,7 @@ tags:regressionLive_uyeAdresEklemeAdreseTeslimUye
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
-* Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
 * Profilim popup eklenen adres silinir
 
 
@@ -174,8 +173,7 @@ tags:regressionLive_uyeAdresDuzenlemeAdreseTeslimUye
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
-* Profilim popup Yeni Adres Ekle butonuna tıklanır
-* Adres bilgileri tamamlanır(Liste - üye)
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
 * Profilim popup eklenen  adres düzenlenir ve eski adresin değiştiği doğrulanır
 * Profilim popup eklenen adres silinir
 
