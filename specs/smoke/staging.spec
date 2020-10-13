@@ -142,6 +142,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
+* Anasayfa logosu icin ekrani kaydir (Stg)
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -226,6 +227,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
+* Anasayfa logosu icin ekrani kaydir (Stg)
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır

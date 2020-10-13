@@ -117,3 +117,6 @@
 # Upsell popup varsa kapatilir
 * "3" saniye bekle
 * "upsellPopupCloseButton" li elementi bul ve varsa dokun
+
+# Anasayfa logosu icin ekrani kaydir (Stg)
+* "sicakTakip" alanına js ile kaydır
