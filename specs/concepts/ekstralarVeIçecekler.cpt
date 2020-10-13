@@ -115,6 +115,7 @@
 *"sepeteEkleCocaCola" alanına kaydır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "sepeteEkleCocaCola"
+* Yan urun popup cıkarsa kapatilir
 
 # Sepete coca cola eklenir (Stg)
 * Elementi bekle ve sonra tıkla "sepeteEkleCocaColaStg"

@@ -59,5 +59,10 @@
     "key": "upsellPopupCloseButton",
     "value":"//i[@class='icon-times-dp']",
     "type": "xpath"
+  },
+  {
+    "key": "sicakTakip",
+    "value":"//a[@class='styled__LinkButton-td9pux-20 gAhOrf sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO fcJJkJ']",
+    "type": "xpath"
   }
 ]
