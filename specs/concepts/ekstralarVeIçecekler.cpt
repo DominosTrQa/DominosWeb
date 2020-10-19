@@ -74,8 +74,8 @@
 * "2" saniye bekle
 
 # İçecekler tabına tıklanır
- Elementi bekle ve sonra tıkla "extraLezzetlerTabIceceklerButon"
-* Elementi bekle ve sonra tıkla "extraLezzetlerTabSolOkButon"
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabIceceklerButon"
+ Elementi bekle ve sonra tıkla "extraLezzetlerTabSolOkButon"
 
 # İçecekler tabına tıklanır (Stg)
 * Elementi bekle ve sonra tıkla "extraLezzetlerTabSagOkButon"
