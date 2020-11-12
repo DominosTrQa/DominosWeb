@@ -1,6 +1,8 @@
 
 # Sepete dürüm eklenir(Stg)
 * Elementi bekle ve sonra tıkla "sepettedurumosekleStaging"
+* "2" saniye bekle
+* "sepeteUrunEkledenSonraYeKazanPopupKapatButon" li elementi bul ve varsa dokun
 
 # Sepetteki dürümün eklendiği kontrol edilir
 * Element var mı kontrol et "sepettedurumosKontrolStaging"

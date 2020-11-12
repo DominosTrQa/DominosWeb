@@ -105,6 +105,8 @@
 
 # Yan urun popup cıkarsa kapatilir
 * "10" saniye bekle
+* "sepeteUrunEkledenSonraYeKazanPopupKapatButon" li elementi bul ve varsa dokun
+* "2" saniye bekle
 * "sepeteUrunEkledenSonraYanUrunPopupKapatButon" li elementi bul ve varsa dokun
 * "4" saniye bekle
 

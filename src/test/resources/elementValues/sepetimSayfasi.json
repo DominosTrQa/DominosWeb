@@ -28,6 +28,11 @@
     "key": "sepeteUrunEkledenSonraYanUrunPopupKapatButon",
     "value":"//div[@class='ins-close-button ins-pointer-cursor']",
     "type": "xpath"
+  },
+  {
+    "key": "sepeteUrunEkledenSonraYeKazanPopupKapatButon",
+    "value":"div.styled__ModalCloseButton-sc-11eu9u6-19.dczlTE.modalDialog__CloseButton-sc-1wmoa97-2.bCJEoT > i",
+    "type": "css"
   }
 
 ]
