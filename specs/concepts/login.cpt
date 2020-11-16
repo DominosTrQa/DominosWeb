@@ -302,7 +302,7 @@
 * Cookie varsa kapat butonuna tıklanır
 
 # Dominos - Staging ortamına gidilir
-* "https://k8s-tr-we-ui-dev.dominos.com.tr/" adresine git
+* "http://k8s-tr-we-ui-stage.dominos.com.tr/" adresine git
 http://k8s-tr-we-ui-stage.dominos.com.tr/
 https://k8s-tr-we-ui-dev.dominos.com.tr/
 
