@@ -19,7 +19,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
-* Sepetteki urun uc kez arttirilir
+* Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
@@ -218,7 +218,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Yan urun popup cıkarsa kapatilir
-* Sepetteki urun uc kez arttirilir
+* Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
