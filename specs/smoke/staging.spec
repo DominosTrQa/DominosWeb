@@ -19,13 +19,13 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
-* Sepetteki ürün iki kez arttırılır
+* Digital Offer varsa kapatilir (Stg)
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 
@@ -50,7 +50,7 @@ tags:smokeStaging_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 
@@ -78,7 +78,7 @@ tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
@@ -107,7 +107,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Üye olmadan devam edilir butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
@@ -133,12 +133,11 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Yan urun popup cıkarsa kapatilir
-* Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -168,11 +167,10 @@ tags:smokeStaging_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Yan urun popup cıkarsa kapatilir
-* Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 
@@ -197,7 +195,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Ödemeyi tamamla butonu geldiği kontrol edilir
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır
 
 
@@ -218,12 +216,11 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Yan urun popup cıkarsa kapatilir
-* Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
