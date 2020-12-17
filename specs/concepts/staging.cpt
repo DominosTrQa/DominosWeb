@@ -122,3 +122,8 @@
 
 # Anasayfa logosu icin ekrani kaydir (Stg)
 * "sicakTakip" alanına js ile kaydır
+
+# Digital Offer varsa kapatilir (Stg)
+* "2" saniye bekle
+* "digitalOfferCloseButton" li elementi bul ve varsa dokun
+* "2" saniye bekle

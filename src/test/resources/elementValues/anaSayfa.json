@@ -553,6 +553,11 @@
     "key": "puanPopupKapatButon",
     "value":"close-button-1502352480979",
     "type": "id"
+  },
+  {
+    "key": "digitalOfferCloseButton",
+    "value":"//i[@class='icon-times-dp']",
+    "type": "xpath"
   }
 
 ]
