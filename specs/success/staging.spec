@@ -70,7 +70,7 @@ tags:successStaging_sepeteKampanyaEklemeAdreseTeslimYeniUyeKampanya2
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* 1 urunlu kampanya icin siparis olusturulur
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
