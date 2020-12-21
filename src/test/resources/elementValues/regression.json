@@ -71,12 +71,12 @@
   },
   {
     "key": "sepettedurumosKontrolStaging",
-    "value": "//h4[contains(text(),'Süperos')]",
+    "value": "//h4[contains(text(),'Barbekü')]",
     "type": "xpath"
   },
   {
     "key": "onaySayfasiSepetteDurumosKontrolStaging",
-    "value": "//div[contains(text(),'Bol Malzemeli Dürümos')]",
+    "value": "//div[contains(text(),'Barbekü')]",
     "type": "xpath"
   },
   {
