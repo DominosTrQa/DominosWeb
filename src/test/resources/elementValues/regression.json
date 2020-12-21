@@ -56,7 +56,7 @@
   },
   {
     "key": "sepeteEkleCocaColaControlStg",
-    "value": "//div[@id='DPE_TR_HOME_BUTTON_BASKET']/div//h4[.='450 Ml Coca-Cola']",
+    "value": "//*[@class='styled__CartItemCountBadge-sc-126ws66-16 kjBZuU']",
     "type": "xpath"
   },
   {
