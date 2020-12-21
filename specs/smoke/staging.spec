@@ -132,6 +132,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepete coca cola eklenir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
+* Sepetteki ürün iki kez arttırılır
 * Yan urun popup cıkarsa kapatilir
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır

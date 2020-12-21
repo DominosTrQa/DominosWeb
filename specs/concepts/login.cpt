@@ -274,6 +274,7 @@
 
 # Üye olmadan devam edilir butonuna tıklanır
 * Elementi bekle ve sonra tıkla "acilanPopupUyeOlmadanDevamEtButon"
+* "3" saniye bekle
 
 # Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
