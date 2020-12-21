@@ -254,7 +254,7 @@ tags:successStaging_adresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 
 * Dominos - Staging ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Yeni adres ekle butonuna tıklanır
@@ -419,6 +419,7 @@ tags:successStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 * Sipariş sayfasında sipariş notunun Test Not İçeriği olduğu doğrulanır
+* Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Notlarım butonuna tıklanır
 * Varolan notum silinir
