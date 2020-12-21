@@ -78,7 +78,6 @@ tags:smokePreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
@@ -106,7 +105,6 @@ tags:smokePreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
-* Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır(guest)
