@@ -547,7 +547,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Manuel - Adres Seçimi
 
 * Dominos - Staging ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
-* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
@@ -573,7 +573,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Manuel - Adres Seçimi
 
 * Dominos - Staging ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
-* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
@@ -601,7 +601,7 @@ Adres Seçimi - Üyeliksiz - Gel Al - Manuel - Adres Seçimi
 * Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * Gel al adres ekleme ekranında düzenle butonuna tıklanır
 * Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
@@ -628,7 +628,7 @@ Adres Seçimi - Varolan Üye - Gel Al - Adreslerim - Adres Seçimi
 
 * Dominos - Staging ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
-* Anasayfa Test Pulse adresinin doğru geldiği kontrol edilir(Stg)
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Yeni adres ekle butonuna tıklanır
