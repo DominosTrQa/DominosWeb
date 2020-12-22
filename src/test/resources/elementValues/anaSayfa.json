@@ -558,6 +558,11 @@
     "key": "digitalOfferCloseButton",
     "value":"//i[@class='icon-times-dp']",
     "type": "xpath"
+  },
+  {
+    "key": "kampanyaFirsatCloseButton",
+    "value":"//i[@class='fa fa-times element-close-button']",
+    "type": "xpath"
   }
 
 ]

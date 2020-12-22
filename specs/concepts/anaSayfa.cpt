@@ -538,6 +538,8 @@
 
 # Anasayfadaki dominos logosuna tıklanır
 * "2" saniye bekle
+* "kampanyaFirsatCloseButton" li elementi bul ve varsa dokun
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaLogo"
 
 # Teslimat tipini değiştirmek sepetteki ürünün silinmesine neden olur uyarısı geldiği doğrulanır

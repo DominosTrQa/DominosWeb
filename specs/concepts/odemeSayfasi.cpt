@@ -416,6 +416,7 @@
 
 # Ye kazan popupında giriş yap butonuna tıklanır
 * Elementi bekle ve sonra tıkla "yekazanPopupGirisYap"
+* "5" saniye bekle
 
 # Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 * Element var mı kontrol et "nakitOdemeKontrol"
