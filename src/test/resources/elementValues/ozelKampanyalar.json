@@ -73,5 +73,20 @@
     "key": "gelAlDomisosluKampanyalar",
     "value":"//span[@class='styled__TabInner-sc-5srq3g-7 hnrBpH'][contains(text(),'Gel Al Domisos')]",
     "type": "xpath"
+  },
+  {
+    "key": "masterpassUrunAdreseTeslim",
+    "value":"DPE_TR_CAMPAIGNS_TAB0_CARD13",
+    "type": "id"
+  },
+  {
+    "key": "masterpassPopUpClose",
+    "value":"//i[@class='icon-times-dp alert__CloseButton-v13nzi-10 dmIfpJ']",
+    "type": "xpath"
+  },
+  {
+    "key": "masterpassUrunColorControl",
+    "value":"(//div[@class='styled__CampaignCardDescription-sc-1n4y3hk-1 dEdJRK']/div[@color='#f79e27'])[1]",
+    "type": "xpath"
   }
 ]

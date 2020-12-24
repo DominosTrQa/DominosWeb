@@ -127,3 +127,13 @@
 * "2" saniye bekle
 * "digitalOfferCloseButton" li elementi bul ve varsa dokun
 * "2" saniye bekle
+
+# Masterpass kampanya secimi ve kontrolu yapilir (Stg)
+* Element var mı kontrol et "masterpassUrunColorControl"
+* Elementi bekle ve sonra tıkla "masterpassUrunAdreseTeslim"
+* Elementi bekle ve sonra tıkla "masterpassPopUpClose"
+
+# Odeme yontemlerinin kullanilamadigi gorulur (Stg)
+* "odemeSekliKrediKartiDisabled" elementi "disabled" niteliğine sahip mi
+* "OdemeSekliNakitButonuDisabled" elementi "disabled" niteliğine sahip mi
+* "yemekCekleriVeKartlariDisabled" elementi "disabled" niteliğine sahip mi
