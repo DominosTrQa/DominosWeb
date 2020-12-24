@@ -11,6 +11,26 @@
   "type": "id"
   },
   {
+    "key": "yemekCekleriVeKartlariNew",
+    "value":"DPE_TR_PAYMENT_4_BUTTON",
+    "type": "id"
+  },
+  {
+    "key": "yemekCekleriVeKartlariDisabled",
+    "value":"//div[contains(text(),'Yemek Çekleri ve Kartları')]",
+    "type": "xpath"
+  },
+  {
+    "key": "OdemeSekliNakitButonuDisabled",
+    "value":"//div[contains(text(),'Kapıda Nakit Ödeme Seçeneği')]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliKrediKartiDisabled",
+    "value":"//div[contains(text(),'Kapıda Kredi Kartı')]",
+    "type": "xpath"
+  },
+  {
   "key": "odemeSekliSmartTicketYemekCekiNew",
   "value":"DPE_TR_PAYMENT_4_6_BUTTON",
   "type": "id"
