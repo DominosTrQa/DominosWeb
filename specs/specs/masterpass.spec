@@ -68,7 +68,7 @@ tags:masterpass_kampanyaKontroluAdreseTeslimUyeliksiz
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan) (Stg)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Odeme yontemlerinin kullanilamadigi gorulur (Stg)
 * Online ödeme seçeneği ile devam edilir (Stg)
