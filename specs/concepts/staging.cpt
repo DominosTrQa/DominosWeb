@@ -137,3 +137,24 @@
 * "odemeSekliKrediKartiDisabled" elementi "disabled" niteliğine sahip mi
 * "OdemeSekliNakitButonuDisabled" elementi "disabled" niteliğine sahip mi
 * "yemekCekleriVeKartlariDisabled" elementi "disabled" niteliğine sahip mi
+
+# Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan) (Stg)
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresEkleMahalleDropdown"
+* Elementi bekle ve sonra tıkla "adresEkleMahalleDropdownBurgazada"
+* "6" saniye bekle
+* Elementi bekle ve sonra tıkla "popupcaddeSokakDropdown"
+* Elementi bekle ve sonra tıkla "caddeSokakDropdown835Sokak"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kapiNoTextbox"
+* "kapiNoTextbox" li elementi bul, temizle ve "2" değerini yaz
+* "2" saniye bekle
+ "dropdownKapiNo" li elementi bul ve varsa dokun
+* Elementi bekle ve sonra tıkla "dropdownKapiNo"
+* Elementi bekle ve sonra tıkla "daireTextbox"
+* "daireTextbox" li elementi bul, temizle ve "1" değerini yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "adresSayfasiTelefonTextbox"
+* "923456789" textini "adresSayfasiTelefonTextbox" elemente yaz
+* "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
+* Elementi bekle ve sonra tıkla "adresKaydetButon"
