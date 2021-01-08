@@ -1153,6 +1153,7 @@ public class BaseSteps extends BaseTest {
 
   @Step("<key> Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest")
   public void addressSelectGuest(String key){
+      waitBySeconds(4);
     if(findElements(key).size() > 0){
       logger.info("Adres tamamlanıyor!!!");
       waitBySeconds(4);
