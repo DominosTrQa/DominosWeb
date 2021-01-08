@@ -84,5 +84,15 @@
     "key": "sicakTakip",
     "value":"//a[@class='styled__LinkButton-td9pux-20 gAhOrf sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO fcJJkJ']",
     "type": "xpath"
+  },
+  {
+    "key": "cuzdanPopupClose",
+    "value":"//i[@class='icon-times-dp alert__CloseButton-v13nzi-10 dmIfpJ']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanIndirimiSilinecekEvetButton",
+    "value":"DPE_TR_ALERT_BUTTON_LEFT",
+    "type": "id"
   }
 ]

@@ -21,7 +21,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Sepetim ikonuna tıklanır
 * Digital Offer varsa kapatilir (Stg)
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
@@ -48,7 +48,7 @@ tags:smokeStaging_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
@@ -75,7 +75,7 @@ tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
@@ -103,7 +103,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
@@ -135,7 +135,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepetteki ürün iki kez arttırılır
 * Yan urun popup cıkarsa kapatilir
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
@@ -169,7 +169,7 @@ tags:smokeStaging_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sepetim ikonuna tıklanır
 * Yan urun popup cıkarsa kapatilir
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
@@ -192,7 +192,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Ödemeyi tamamla butonu geldiği kontrol edilir
@@ -218,7 +218,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepetim ikonuna tıklanır
 * Yan urun popup cıkarsa kapatilir
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir

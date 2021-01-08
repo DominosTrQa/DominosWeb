@@ -42,14 +42,22 @@
 # Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "OdemeSekliNakitButonuNew"
+* "3" saniye bekle
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+* "3" saniye bekle
+* "cuzdanIndirimiSilinecekEvetButton" li elementi bul ve varsa dokun
+* "3" saniye bekle
 
 # Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliKrediKartiNew"
+* "3" saniye bekle
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+* "3" saniye bekle
+* "cuzdanIndirimiSilinecekEvetButton" li elementi bul ve varsa dokun
+* "3" saniye bekle
 
 # Kapıda ödeme Multinet seçeneği ile devam edilir (Stg)
 * "5" saniye bekle
@@ -158,3 +166,12 @@
 * "923456789" textini "adresSayfasiTelefonTextbox" elemente yaz
 * "adresTarifiTextbox" li elementi bul, temizle ve "test" değerini yaz
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
+
+# Sipariş ver butonuna tıklanır (Stg)
+* "3" saniye bekle
+* "siparisVerButon" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisVerButon"
+* "5" saniye bekle
+* "cuzdanPopupClose" li elementi bul ve varsa dokun
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "siparisVerButon" try
