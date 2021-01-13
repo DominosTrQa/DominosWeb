@@ -205,7 +205,7 @@ tags:successStaging_sepettenUpsellEklemeGelAlYeniUye
 * Sepetim ikonuna tıklanır
 * Sepetteki dürümün eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Ye kazan popupında üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
@@ -294,7 +294,7 @@ tags:successStaging_odemeTipiSecimiYeniUyeGelAlKrediKartı
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 
@@ -332,7 +332,7 @@ tags:successStaging_odemeTipiSecimiVarolanUyeGelAlMultinet
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Multinet seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
@@ -351,7 +351,7 @@ tags:successStaging_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -372,7 +372,7 @@ tags:successStaging_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Online ödeme seçeneği ile devam edilir (Stg)
 * Geçerli bir telefon giriniz hatası görülür
@@ -390,7 +390,7 @@ tags:successStaging_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Sipariş notu eklenir (Stg)
 * Sipariş tamamlanır
@@ -412,7 +412,7 @@ tags:successStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
@@ -446,7 +446,7 @@ tags:successStaging_siparisIslemleriCanliTestAdresiManuel
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
@@ -469,7 +469,7 @@ tags:successStaging_siparisIslemleriCanliTestAdresiDropdown
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
