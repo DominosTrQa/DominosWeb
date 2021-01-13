@@ -79,7 +79,7 @@ tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır(guest)
+* Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
 * Siparişin alındığından emin olunur
@@ -108,7 +108,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır(guest)
+* Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
 * Siparişin alındığından emin olunur
