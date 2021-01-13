@@ -276,7 +276,7 @@ tags:successStaging_odemeTipiSecimiYeniUyeAdreseTeslimNakit
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
@@ -310,7 +310,7 @@ tags:successStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 * Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir (Stg)
@@ -512,7 +512,7 @@ tags:successStaging_subeAtamaYeniUyeGelAlIlIlceMahalle
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
 Şube atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No

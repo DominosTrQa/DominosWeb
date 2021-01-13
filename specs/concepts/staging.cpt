@@ -64,12 +64,16 @@
 * Elementi bekle ve sonra tıkla "OdemeSekliMultinetNew"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+* "cuzdanIndirimiSilinecekEvetButton" li elementi bul ve varsa dokun
+* "3" saniye bekle
 
 # Kapıda ödeme setCard seçeneği ile devam edilir (Stg)
 * Elementi bekle ve sonra tıkla "OdemeSekliSetCardNew"
 * "5" saniye bekle
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+* "cuzdanIndirimiSilinecekEvetButton" li elementi bul ve varsa dokun
+* "3" saniye bekle
 
 # Online ödeme seçeneği ile devam edilir (Stg)
 * Elementi bekle ve sonra tıkla "OdemekSeklionlineOdemeNew"
@@ -80,6 +84,8 @@
 * Elementi bekle ve sonra tıkla "odemeSekliSmartSodexoKartNew"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+* "cuzdanIndirimiSilinecekEvetButton" li elementi bul ve varsa dokun
+* "3" saniye bekle
 
 # Sipariş notu eklenir (Stg)
 * "3" saniye bekle
@@ -109,12 +115,17 @@
 * Elementi bekle ve sonra tıkla "odemeSekliSodexoYemekCekiNew"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+* "cuzdanIndirimiSilinecekEvetButton" li elementi bul ve varsa dokun
+* "3" saniye bekle
 
 # Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir (Stg)
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCekiNew"
+* "3" saniye bekle
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+* "cuzdanIndirimiSilinecekEvetButton" li elementi bul ve varsa dokun
+* "3" saniye bekle
 
 # Sube duzenlemeye tiklanir
 * Elementi bekle ve sonra tıkla "adresEklemeKalemIkonu"
