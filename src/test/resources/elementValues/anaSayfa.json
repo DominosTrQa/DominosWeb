@@ -526,7 +526,7 @@
   },
   {
     "key": "subeDuzceSubesiKontrol",
-    "value":"//span[contains(text(),'Düzce Şubesi')]",
+    "value":"//span[contains(text(),'Çobankavşağı Şubesi')]",
     "type": "xpath"
   },
   {
