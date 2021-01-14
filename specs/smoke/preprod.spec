@@ -80,7 +80,7 @@ tags:smokePreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır(guest)
+* Siparis tamamlanir(guest) 2
 
 
 Preprod - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
@@ -107,7 +107,7 @@ tags:smokePreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır(guest)
+* Siparis tamamlanir(guest) 2
 
 
 Preprod - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
