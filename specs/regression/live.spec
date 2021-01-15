@@ -2381,8 +2381,9 @@ tags:regressionLive_siparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş notu eklenir(guest)
-* Sipariş tamamlanır(guest)
+* Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Sipariş tamamlanır(guest)
 * Tekrar sipariş ver butonuna tıklanır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
@@ -2404,8 +2405,9 @@ tags:regressionLive_siparisNotuEklemeUyeliksizGelAlNotEkleme
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş notu eklenir(guest)
-* Sipariş tamamlanır(guest)
+* Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Sipariş tamamlanır(guest)
 * Tekrar sipariş ver butonuna tıklanır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
