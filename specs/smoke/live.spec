@@ -83,9 +83,9 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır(guest)
-* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Sipariş tamamlanır(guest)
 * Siparis kodu text kontrolu yapılır
 
 
@@ -114,9 +114,9 @@ tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır(guest)
-* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Siparis tamamlanir(guest) 2
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Sipariş tamamlanır(guest)
 * Siparis kodu text kontrolu yapılır
 
 
