@@ -81,7 +81,7 @@ tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Siparis tamamlanir(guest) 2
+* Sipariş tamamlanır(guest)
 * Siparişin alındığından emin olunur
 
 
@@ -110,7 +110,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Siparis tamamlanir(guest) 2
+* Sipariş tamamlanır(guest)
 * Siparişin alındığından emin olunur
 
 
