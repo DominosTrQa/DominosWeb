@@ -115,12 +115,12 @@ Preprod - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst men�
 tags:smokePreprod_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
@@ -143,12 +143,12 @@ Preprod - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 tags:smokePreprod_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır
@@ -175,7 +175,7 @@ Preprod - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst 
 tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Gel al servis tipi secilir ve kontrolu yapilir
@@ -197,7 +197,7 @@ Preprod - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst 
 tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
@@ -214,7 +214,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
-* Anasayfadaki dominos logosuna tıklanır
-* Profilim butonuna tıklanır
-* Profilim popup Adreslerim butonuna tıklanır
-* Profilimden adreslerime giderek kayıtlı adres silinir
+ Anasayfadaki dominos logosuna tıklanır
+ Profilim butonuna tıklanır
+ Profilim popup Adreslerim butonuna tıklanır
+ Profilimden adreslerime giderek kayıtlı adres silinir
