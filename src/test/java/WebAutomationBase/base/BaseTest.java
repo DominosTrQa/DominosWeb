@@ -9,13 +9,11 @@ import com.thoughtworks.gauge.BeforeStep;
 import com.thoughtworks.gauge.ExecutionContext;
 import java.net.URL;
 import java.util.HashMap;
+import java.util.Locale;
 import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
-import org.openqa.selenium.Dimension;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -37,7 +35,7 @@ public class BaseTest {
 
     logger.info("" + executionContext.getCurrentScenario().getName());
     String baseUrl = "https://dpe-preprod.dominos.com.tr/";
-
+    Locale.setDefault(new Locale("en","EN"));
     DesiredCapabilities capabilities = DesiredCapabilities.chrome();
     if (StringUtils.isNotEmpty(getenv("key"))) {
       ChromeOptions options = new ChromeOptions();
@@ -55,7 +53,18 @@ public class BaseTest {
 
       driver = new RemoteWebDriver(new URL("http://hub.testinium.io/wd/hub"), capabilities);
       ((RemoteWebDriver) driver).setFileDetector(new LocalFileDetector());
-    } else {
+    }
+    else if(Platform.getCurrent().toString().contains("WIN")){
+      Map<String, Object> prefs = new HashMap<String, Object>();
+      prefs.put("profile.default_content_setting_values.notifications", 2);
+      ChromeOptions options = new ChromeOptions();
+      System.setProperty("webdriver.chrome.driver", "C:\\Users\\anilcaglar\\IdeaProjects\\dominosweb\\web_driver\\chromedriver.exe");
+      //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
+      options.addArguments("incognito");
+      driver = new ChromeDriver(options);
+      driver.manage().window().maximize();
+    }
+    else {
 
       Map<String, Object> prefs = new HashMap<String, Object>();
       prefs.put("profile.default_content_setting_values.notifications", 2);
