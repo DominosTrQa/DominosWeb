@@ -58,7 +58,7 @@ public class BaseTest {
       Map<String, Object> prefs = new HashMap<String, Object>();
       prefs.put("profile.default_content_setting_values.notifications", 2);
       ChromeOptions options = new ChromeOptions();
-      System.setProperty("webdriver.chrome.driver", "C:\\Users\\anilcaglar\\IdeaProjects\\dominosweb\\web_driver\\chromedriver.exe");
+      System.setProperty("webdriver.chrome.driver", "web_driver/chromedriver.exe");
       //      options.addArguments("--kiosk");//FULLSCREEN FOR MAC
       options.addArguments("incognito");
       driver = new ChromeDriver(options);
