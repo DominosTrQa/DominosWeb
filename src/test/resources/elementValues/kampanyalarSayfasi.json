@@ -84,5 +84,10 @@
     "key": "besinciUrunBirinciPizzaSec",
     "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST4_ITEM0",
     "type": "id"
+  },
+  {
+    "key": "kampanyaliUrunlereGitButton",
+    "value":"DPE_TR_PIZZADETAILV2_BUTTON_GOTOCAMPAIGN",
+    "type": "id"
   }
 ]

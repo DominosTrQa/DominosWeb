@@ -28,6 +28,14 @@
 * Elementi bekle ve sonra tıkla "tumPizzalarIlkKategoriilkPizza"
 * "3" saniye bekle
 
+# Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyaliUrunlereGitButton"
+* "3" saniye bekle
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
+* Kampanya sepete eklenir
+
 # Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
 * "2" saniye bekle
 * Element var mı kontrol et "bolMalzemePizzalar"
