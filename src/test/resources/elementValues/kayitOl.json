@@ -81,7 +81,7 @@
   },
   {
     "key": "cookieOnayButon",
-    "value":"//button[contains(text(),'Onaylıyorum')]",
+    "value":"//button[contains(text(),'Tamam')]",
     "type": "xpath"
   },
   {
