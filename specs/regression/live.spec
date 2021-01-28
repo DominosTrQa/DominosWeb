@@ -312,8 +312,8 @@ tags:regressionLive_pizzaEklemeAdreseTeslimUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+ Pizza boyutunda ilk boyut seçilir
+ Kenar tipinde ilk kenar seçilir
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -327,8 +327,8 @@ tags:regressionLive_pizzaEklemeAdreseTeslimYeniUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+ Pizza boyutunda ilk boyut seçilir
+ Kenar tipinde ilk kenar seçilir
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -342,9 +342,10 @@ tags:regressionLive_pizzaEklemeAdreseTeslimUyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza boyutunda ilk boyut seçilir
+ Kenar tipinde ilk kenar seçilir
+ Pizza sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -357,8 +358,8 @@ tags:regressionLive_pizzaEklemeGelAlUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+ Pizza boyutunda ilk boyut seçilir
+ Kenar tipinde ilk kenar seçilir
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -372,8 +373,8 @@ tags:regressionLive_pizzaEklemeGelAlYeniUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+ Pizza boyutunda ilk boyut seçilir
+ Kenar tipinde ilk kenar seçilir
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -387,8 +388,8 @@ tags:regressionLive_pizzaEklemeGelAlUyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+ Pizza boyutunda ilk boyut seçilir
+ Kenar tipinde ilk kenar seçilir
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
