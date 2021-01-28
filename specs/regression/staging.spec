@@ -208,7 +208,7 @@ Sepete Pizza Ekleme - Adrese Teslim - Üye
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza boyutunda ilk boyut seçilir
 * Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -223,7 +223,7 @@ Sepete Pizza Ekleme - Adrese Teslim - Üyeliksiz
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza boyutunda ilk boyut seçilir
 * Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -238,7 +238,7 @@ Sepete Pizza Ekleme - Gel Al - Üye
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza boyutunda ilk boyut seçilir
 * Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -253,7 +253,7 @@ Sepete Pizza Ekleme - Gel Al - Üyeliksiz
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza boyutunda ilk boyut seçilir
 * Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -265,14 +265,14 @@ Sepetten Upsell Ekleme - Adrese Teslim - Üye
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
 * Sepetteki dürümün eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
@@ -290,7 +290,7 @@ Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
@@ -298,7 +298,7 @@ Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
 * Sepetim ikonuna tıklanır
 * Sepetteki dürümün eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
@@ -315,7 +315,7 @@ Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Upsell popup varsa kapatilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
@@ -333,14 +333,14 @@ Sepetten Upcell Ekleme - Gel Al - Üye
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
 * Sepetteki dürümün eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Ye kazan popupında giriş yap butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
@@ -356,7 +356,7 @@ Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
@@ -400,7 +400,7 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Servis Tipinin Değiştirileme
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Gel al butonuna tıklanamadığı görülür
@@ -415,7 +415,7 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Üye Sepette Servis Tipinin Deği�
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Adrese teslim butonuna tıklanamadığı görülür
@@ -429,7 +429,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Servis Tipinin Değişti
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Adrese teslim butonuna tıklanamadığı görülür
@@ -445,7 +445,7 @@ Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz Sepette Ürün varken Servis Ti
 * Tüm Pizzalar butonuna tıklanır
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -463,7 +463,7 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz Sepette Ürün varken Servis Tipinin D
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -481,7 +481,7 @@ Servis Tipi Seçimi - Adrese Teslim - Varolan Sepette Ürün varken Servis Tipin
 * Tüm Pizzalar butonuna tıklanır
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -498,7 +498,7 @@ Servis Tipi Seçimi - Gel Al - Varolan Sepette Ürün varken Servis Tipinin Değ
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -515,7 +515,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye Sepette Ürün varken Servis Tip
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -532,7 +532,7 @@ Servis Tipi Seçimi - Gel Al - Yeni üye Sepette Ürün varken Servis Tipinin De
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -660,10 +660,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 
@@ -677,10 +677,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
@@ -698,10 +698,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir
 
@@ -716,10 +716,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -736,10 +736,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Nakit yazısının geldiği kontrol edilir(guest)
@@ -753,10 +753,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
@@ -772,10 +772,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
@@ -793,10 +793,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir
 
@@ -811,10 +811,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -831,10 +831,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında Kredi Kartı yazısının geldiği kontrol edilir(guest)
@@ -848,10 +848,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
@@ -867,10 +867,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
@@ -885,10 +885,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir (Stg)
@@ -907,10 +907,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında smart sodexho kart yazısının geldiği kontrol edilir
@@ -926,10 +926,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -947,10 +947,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir (Stg)
@@ -965,10 +965,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
@@ -983,10 +983,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
@@ -1001,10 +1001,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir (Stg)
@@ -1023,10 +1023,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında sodexho yemek çeki yazısının geldiği kontrol edilir
@@ -1042,10 +1042,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -1063,10 +1063,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Sodexo Yemek Çeki seçeneği ile devam edilir (Stg)
@@ -1081,10 +1081,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
@@ -1100,10 +1100,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
@@ -1117,10 +1117,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında smartTicket yemek çeki yazısının geldiği kontrol edilir
@@ -1136,10 +1136,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -1157,10 +1157,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme SmartTicket Yemek Çeki seçeneği ile devam edilir (Stg)
@@ -1175,10 +1175,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
@@ -1194,10 +1194,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Multinet seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında multinet yazısının geldiği kontrol edilir
@@ -1212,10 +1212,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Multinet seçeneği ile devam edilir (Stg)
@@ -1236,10 +1236,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -1257,10 +1257,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Multinet seçeneği ile devam edilir (Stg)
@@ -1275,10 +1275,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Yemek cekleri ve kartlari odeme tipi secilir
@@ -1294,10 +1294,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme setCard seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
@@ -1312,10 +1312,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme setCard seçeneği ile devam edilir (Stg)
@@ -1334,10 +1334,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme setCard seçeneği ile devam edilir (Stg)
 * Onay sayfasında ödeme aracı kısmında setCard yazısının geldiği kontrol edilir
@@ -1352,10 +1352,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme setCard seçeneği ile devam edilir (Stg)
@@ -1370,10 +1370,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Online ödeme seçeneği ile devam edilir (Stg)
@@ -1388,10 +1388,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Online ödeme seçeneği ile devam edilir (Stg)
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
 
@@ -1405,10 +1405,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Online ödeme seçeneği ile devam edilir (Stg)
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
@@ -1426,10 +1426,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Online ödeme seçeneği ile devam edilir (Stg)
 * Online ödeme seçiminde kayıtlı kartlarınızdan birini seçmeli veya kart ile ödemek İstiyorum seçeneğini seçmelisiniz uyarısıyla karşılaşılır
 
@@ -1444,10 +1444,10 @@ Adres Seçimi - Yeni Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -1464,10 +1464,10 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
@@ -1485,10 +1485,10 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Temassız teslimat seçeneği seçilir
@@ -1511,10 +1511,10 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -1534,10 +1534,10 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayınız
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
@@ -1555,10 +1555,10 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Lütfen zile basmayınız seçilir
@@ -1581,10 +1581,10 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayınız
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -1604,10 +1604,10 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
@@ -1624,10 +1624,10 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Sipariş notu eklenir (Stg)
 * Sipariş tamamlanır
@@ -1643,10 +1643,10 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Sipariş notu eklenir (Stg)
@@ -1669,10 +1669,10 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
@@ -1693,10 +1693,10 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Sipariş notu eklenir(guest)
@@ -1720,10 +1720,10 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Varolan Notu Ekleme
 * Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
@@ -1746,10 +1746,10 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Varolan Notu Ekleme
 * Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Sipariş tamamlanır
@@ -1770,10 +1770,10 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 * Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
-* Sipariş ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Not alanında var olan notlar combobox'ından Test Not Başlığı olan seçilir
 * Sipariş tamamlanır

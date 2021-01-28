@@ -99,7 +99,7 @@ tags:successStaging_pizzaEklemeAdreseTeslimYeniUye
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza boyutunda ilk boyut seçilir
 * Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -114,7 +114,7 @@ tags:successStaging_pizzaEklemeGelAlYeniUye
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza boyutunda ilk boyut seçilir
 * Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -198,7 +198,7 @@ tags:successStaging_sepettenUpsellEklemeGelAlYeniUye
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
@@ -273,7 +273,7 @@ tags:successStaging_odemeTipiSecimiYeniUyeAdreseTeslimNakit
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
@@ -291,7 +291,7 @@ tags:successStaging_odemeTipiSecimiYeniUyeGelAlKrediKartı
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
@@ -307,7 +307,7 @@ tags:successStaging_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇeki
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
@@ -329,7 +329,7 @@ tags:successStaging_odemeTipiSecimiVarolanUyeGelAlMultinet
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
@@ -348,7 +348,7 @@ tags:successStaging_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
@@ -369,7 +369,7 @@ tags:successStaging_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
@@ -387,7 +387,7 @@ tags:successStaging_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Staging)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
@@ -409,7 +409,7 @@ tags:successStaging_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Not eklenir
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
