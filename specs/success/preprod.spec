@@ -98,9 +98,10 @@ tags:successPreprod_pizzaEklemeAdreseTeslimYeniUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza boyutunda ilk boyut seçilir
+ Kenar tipinde ilk kenar seçilir
+ Pizza sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -113,9 +114,10 @@ tags:successPreprod_pizzaEklemeGelAlYeniUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza boyutunda ilk boyut seçilir
+ Kenar tipinde ilk kenar seçilir
+ Pizza sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -200,7 +202,8 @@ tags:successPreprod_sepettenUpsellEklemeAdreseTeslimYeniUye
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+ Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepetteki ürünlerden Sufle eklenir
@@ -271,7 +274,8 @@ tags:successPreprod_odemeTipiSecimiYeniUyeAdreseTeslimNakit
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -289,7 +293,8 @@ tags:successPreprod_odemeTipiSecimiYeniUyeGelAlKrediKartı
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -306,7 +311,8 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -329,7 +335,8 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -353,7 +360,8 @@ tags:successPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Cookie onaylıyorum butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -374,7 +382,8 @@ tags:successPreprod_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -392,7 +401,8 @@ tags:successPreprod_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -416,7 +426,8 @@ tags:successPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
  Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır

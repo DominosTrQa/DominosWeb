@@ -39,7 +39,8 @@ tags:negativePreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDe
 * Tüm Pizzalar butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Adrese teslim butonuna tıklanamadığı görülür
@@ -54,7 +55,8 @@ tags:negativePreprod_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistir
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Gel al butonuna tıklanamadığı görülür
@@ -68,7 +70,8 @@ tags:negativePreprod_servisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirile
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Gel al butonuna tıklanamadığı görülür
