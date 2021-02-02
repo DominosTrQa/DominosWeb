@@ -231,9 +231,8 @@ tags:regressionPreprod_pizzaEklemeAdreseTeslimUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -246,9 +245,8 @@ tags:regressionPreprod_pizzaEklemeAdreseTeslimUyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -261,9 +259,8 @@ tags:regressionPreprod_pizzaEklemeGelAlUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -276,9 +273,8 @@ tags:regressionPreprod_pizzaEklemeGelAlUyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
-* Pizza sepete eklenir
+* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
 
@@ -291,7 +287,7 @@ tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUye
 * Tüm Pizzalar butonuna tıklanır
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepetteki ürünlerden Sufle eklenir
@@ -314,7 +310,7 @@ tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepetteki ürünlerden Sufle eklenir
@@ -331,7 +327,7 @@ tags:regressionPreprod_sepettenUpsellEklemeGelAlUye
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepetteki ürünlerden Sufle eklenir
@@ -354,7 +350,7 @@ tags:regressionPreprod_sepettenUpsellEklemeGelAlYeniUye
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepetteki ürünlerden Sufle eklenir
@@ -379,7 +375,7 @@ tags:regressionPreprod_sepettenUpsellEklemeGelAlUyeliksiz
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sepetteki ürünlerden Sufle eklenir
@@ -423,7 +419,7 @@ tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteServisTipininDegisti
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Gel al butonuna tıklanamadığı görülür
@@ -438,7 +434,7 @@ tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteServisTipini
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Adrese teslim butonuna tıklanamadığı görülür
@@ -452,7 +448,7 @@ tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDe
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Adrese teslim butonuna tıklanamadığı görülür
@@ -468,7 +464,7 @@ tags:regressionPreprod_servisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenSer
 * Tüm Pizzalar butonuna tıklanır
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -486,7 +482,7 @@ tags:regressionPreprod_servisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipi
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -504,7 +500,7 @@ tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenSe
 * Tüm Pizzalar butonuna tıklanır
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -521,7 +517,7 @@ tags:regressionPreprod_servisTipiSecimiGelAlVarOlanUyeSepetteUrunVarkenServisTip
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -539,7 +535,7 @@ tags:regressionPreprod_servisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServi
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -556,7 +552,7 @@ tags:regressionPreprod_servisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipini
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Anasayfadaki dominos logosuna tıklanır
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -693,7 +689,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlNakit
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -710,7 +706,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimNakit
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -731,7 +727,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlNakit
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -749,7 +745,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimNakit
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -769,7 +765,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlNakit
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -786,7 +782,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimKrediKartı
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -805,7 +801,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimKrediKartı
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -826,7 +822,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlKrediKartı
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -844,7 +840,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimKrediKartı
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -864,7 +860,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlKrediKartı
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -881,7 +877,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -900,7 +896,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -918,7 +914,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartSodexoKart
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -940,7 +936,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartSodexoKart
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -959,7 +955,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -980,7 +976,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -998,7 +994,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1017,7 +1013,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1035,7 +1031,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSodexoYemekCeki
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1057,7 +1053,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSodexoYemekCeki
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1076,7 +1072,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1097,7 +1093,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1115,7 +1111,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1134,7 +1130,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartTicketKart
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1151,7 +1147,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartTicketKart
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1170,7 +1166,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1191,7 +1187,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartTicketKart
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1209,7 +1205,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekÇeki
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1228,7 +1224,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSmartTicketYemekÇeki
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1246,7 +1242,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketYemekÇek
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1268,7 +1264,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSmartTicketYemekÇeki
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1287,7 +1283,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekÇeki
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1308,7 +1304,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSmartTicketYemekÇeki
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1326,7 +1322,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimMultinet
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1345,7 +1341,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlMultinet
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1362,7 +1358,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlMultinet
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1381,7 +1377,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimMultinet
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1402,7 +1398,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlMultinet
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1420,7 +1416,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimSetCard
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1439,7 +1435,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlSetCard
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1457,7 +1453,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSetCard
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1479,7 +1475,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlSetCard
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1497,7 +1493,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlSetCard
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1515,7 +1511,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimPayeKart
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1534,7 +1530,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlPayeKart
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1552,7 +1548,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimPayeKart
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1574,7 +1570,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlPayeKart
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1593,7 +1589,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1614,7 +1610,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizGelAlPayeKart
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1632,7 +1628,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1650,7 +1646,7 @@ tags:regressionPreprod_odemeTipiSecimiYeniUyeGelAlOnlineOdeme
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1667,7 +1663,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimOnlineOdeme
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1689,7 +1685,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeGelAlOnlineOdeme
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1707,7 +1703,7 @@ tags:regressionPreprod_odemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1727,7 +1723,7 @@ tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimtemassizTeslimat
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1750,7 +1746,7 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1777,7 +1773,7 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimtemassizTeslimat
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1800,7 +1796,7 @@ tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimLutfenZileBasmayiniz
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1823,7 +1819,7 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimLutfenZileBasmayin
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1850,7 +1846,7 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayini
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1873,7 +1869,7 @@ tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1893,7 +1889,7 @@ tags:regressionPreprod_siparisNotuEklemeYeniUyeGelAlNotEkleme
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1914,7 +1910,7 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1941,7 +1937,7 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1965,7 +1961,7 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizGelAlNotEkleme
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -1992,7 +1988,7 @@ tags:regressionPreprod_siparisNotuEklemeYeniUyeAdreseTeslimVarolanNotuEkleme
 * Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -2022,7 +2018,7 @@ tags:regressionPreprod_siparisNotuEklemeYeniUyeGelAlVarolanNotuEkleme
 * Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
@@ -2050,7 +2046,7 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeGelAlVarolanNotuEkleme
 * Notlarım alanında Test Not Başlığı yazısının geldiği görülür
 * Header tabından tüm pizzalara tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
