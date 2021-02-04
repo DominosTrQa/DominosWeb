@@ -1255,6 +1255,26 @@ public class BaseSteps extends BaseTest {
       clickElement("besinciUrunBirinciPizzaSec");
       waitBySeconds(2);
 
+    }if(findElements("altinciUrunSeciniz").size() > 0){
+      logger.info("Kampanya 6. ürün seçiliyor!!!");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("altinciUrunSeciniz");
+      clickElement("altinciUrunSeciniz");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("altinciUrunBirinciPizzaSec");
+      clickElement("altinciUrunBirinciPizzaSec");
+      waitBySeconds(2);
+
+    }if(findElements("yedinciUrunSeciniz").size() > 0){
+      logger.info("Kampanya 7. ürün seçiliyor!!!");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("yedinciUrunSeciniz");
+      clickElement("yedinciUrunSeciniz");
+      waitBySeconds(2);
+      getElementWithKeyIfExists("yedinciUrunBirinciPizzaSec");
+      clickElement("yedinciUrunBirinciPizzaSec");
+      waitBySeconds(2);
+
     }
 
 
