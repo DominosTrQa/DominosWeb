@@ -89,5 +89,15 @@
     "key": "kampanyaliUrunlereGitButton",
     "value":"DPE_TR_PIZZADETAILV2_BUTTON_GOTOCAMPAIGN",
     "type": "id"
+  },
+  {
+    "key": "yedinciUrunBirinciPizzaSec",
+    "value": "DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST6_ITEM0",
+    "type": "id"
+  },
+  {
+    "key": "altinciUrunBirinciPizzaSec",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST5_ITEM0",
+    "type": "id"
   }
-]
+    ]

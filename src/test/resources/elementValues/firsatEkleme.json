@@ -178,5 +178,15 @@
     "key": "evetSecilir",
     "value":"//a[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO gAinbq'][contains(text(),'Evet')]",
     "type": "xpath"
+  },
+  {
+    "key": "altinciUrunSeciniz",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST5",
+    "type": "id"
+  },
+  {
+    "key": "yedinciUrunSeciniz",
+    "value":"DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST6",
+    "type": "id"
   }
 ]
