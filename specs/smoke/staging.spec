@@ -1,7 +1,6 @@
 Smoke Staging
 =====================
 
-
      
 Staging - Kullanıcı ilk kez geliyor - Adrese Teslim
 -------------------------------------------------------
