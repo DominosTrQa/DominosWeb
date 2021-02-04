@@ -98,7 +98,7 @@ tags:smokePreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Tüm pizzalar alanına kaydırılır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
