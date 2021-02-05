@@ -6,6 +6,9 @@
 # Pizza boyutunda ilk boyut seçilir preprod
 * Elementi bekle ve sonra tıkla "pizzaBoyutuIlkSecimPreprod"
 
+# Pizza boyutunda ilk boyut seçilir (stg)
+* Elementi bekle ve sonra tıkla "pizzaBoyutuIlkSecimStaging"
+
 # Kenar tipinde ilk kenar seçilir
 * Elementi bekle ve sonra tıkla "pizzaKenariIlkSecim"
 

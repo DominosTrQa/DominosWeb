@@ -97,7 +97,7 @@ tags:successStaging_pizzaEklemeAdreseTeslimYeniUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza boyutunda ilk boyut seçilir (stg)
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -111,7 +111,7 @@ tags:successStaging_pizzaEklemeGelAlYeniUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza boyutunda ilk boyut seçilir (stg)
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
