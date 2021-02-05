@@ -7,8 +7,14 @@
 # Sepetteki dürümün eklendiği kontrol edilir
 * Element var mı kontrol et "sepettedurumosKontrolStaging"
 
+# Sepetteki içecek eklendiği kontrol edilir
+* Element var mı kontrol et "sepetteIcecekKontrolStaging"
+
 # Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
 * Element var mı kontrol et "onaySayfasiSepetteDurumosKontrolStaging"
+
+# Onay sayfasında içeçek yazısının geldiği kontrol edilir(Stg)
+* Element var mı kontrol et "onaySayfasiSepetteIcecekKontrolStaging"
 
 # Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 * Element var mı kontrol et "anasayfaIstanbulSariyerAyazagaSubesi"

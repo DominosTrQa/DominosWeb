@@ -97,8 +97,7 @@ tags:successStaging_pizzaEklemeAdreseTeslimYeniUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+* Pizza boyutunda ilk boyut seçilir preprod
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -112,8 +111,7 @@ tags:successStaging_pizzaEklemeGelAlYeniUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+* Pizza boyutunda ilk boyut seçilir preprod
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -203,7 +201,7 @@ tags:successStaging_sepettenUpsellEklemeGelAlYeniUye
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki dürümün eklendiği kontrol edilir
+* Sepetteki içecek eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
 * Ye kazan popupında üye ol butonuna tıklanır
@@ -212,7 +210,7 @@ tags:successStaging_sepettenUpsellEklemeGelAlYeniUye
 * Sipariş ver butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
+* Onay sayfasında içeçek yazısının geldiği kontrol edilir(Stg)
 
 
 Servis Tipi Seçimi - Adrese Teslim
