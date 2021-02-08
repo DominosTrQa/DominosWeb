@@ -210,7 +210,7 @@ tags:successStaging_sepettenUpsellEklemeGelAlYeniUye
 * Sipariş ver butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfasında içeçek yazısının geldiği kontrol edilir(Stg)
+* Onay sayfasinda icecek yazisinin geldigi kontrol edilir (Stg)
 
 
 Servis Tipi Seçimi - Adrese Teslim
