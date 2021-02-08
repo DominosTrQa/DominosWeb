@@ -10,6 +10,11 @@
     "type": "id"
   },
   {
+    "key": "pizzaBoyutuIlkSecimStaging",
+    "value":"DPE_TR_PIZZADETAILV2_BUTTON_PIZZA_SIZE8",
+    "type": "id"
+  },
+  {
     "key": "pizzaKenariIlkSecim",
     "value":"DPE_TR_PIZZADETAIL_BUTTON_SIDE_TYPENONE",
     "type": "id"

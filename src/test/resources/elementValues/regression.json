@@ -75,8 +75,18 @@
     "type": "xpath"
   },
   {
+    "key": "sepetteIcecekKontrolStaging",
+    "value": "//h4[contains(text(),'Coca-Cola Pet 1 lt')]",
+    "type": "xpath"
+  },
+  {
     "key": "onaySayfasiSepetteDurumosKontrolStaging",
     "value": "//div[contains(text(),'Barbekü')]",
+    "type": "xpath"
+  },
+  {
+    "key": "onaySayfasiSepetteIcecekKontrolStaging",
+    "value": "//div[contains(text(),'Coca-Cola Pet 1 lt')]",
     "type": "xpath"
   },
   {

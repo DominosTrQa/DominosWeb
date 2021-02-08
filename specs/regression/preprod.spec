@@ -231,7 +231,7 @@ tags:regressionPreprod_pizzaEklemeAdreseTeslimUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza boyutunda ilk boyut seçilir (Pre)
 * Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -245,7 +245,7 @@ tags:regressionPreprod_pizzaEklemeAdreseTeslimUyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza boyutunda ilk boyut seçilir (Pre)
 * Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -259,7 +259,7 @@ tags:regressionPreprod_pizzaEklemeGelAlUye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza boyutunda ilk boyut seçilir (Pre)
 * Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -273,7 +273,7 @@ tags:regressionPreprod_pizzaEklemeGelAlUyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir preprod
+* Pizza boyutunda ilk boyut seçilir (Pre)
 * Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
