@@ -300,6 +300,10 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
 
+# Tekrar siparis ver butonunu ve mesafeli satis tıklanır
+* Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButonD"
+
 # Tekrar sipariş ver butonuna tıklanır
 * Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
 

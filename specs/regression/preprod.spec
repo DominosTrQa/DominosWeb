@@ -1751,6 +1751,7 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır
@@ -1784,8 +1785,7 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimtemassizTeslimat
 * Temassız teslimat seçeneği seçilir
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
-* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButonD"
+* Tekrar siparis ver butonunu ve mesafeli satis tıklanır
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 
 
@@ -1858,8 +1858,7 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayini
 * Lütfen zile basmayınız seçilir
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
-* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButonD"
+* Tekrar siparis ver butonunu ve mesafeli satis tıklanır
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
 
 
@@ -1917,6 +1916,7 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
@@ -1950,8 +1950,7 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Sipariş notu eklenir(guest)
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
-* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButonD"
+* Tekrar siparis ver butonunu ve mesafeli satis tıklanır
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 
