@@ -90,6 +90,11 @@
     "type": "xpath"
   },
   {
+    "key": "onaySayfasiSepetteIcecekKontrolStaging",
+    "value": "//div[contains(text(),'Coca-Cola Pet 1 lt')]",
+    "type": "xpath"
+  },
+  {
     "key": "anasayfaIstanbulSariyerAyazagaSubesi",
     "value": "//span[contains(text(),'Ayazağa')]",
     "type": "xpath"
@@ -149,12 +154,12 @@
     "type": "xpath"
   },
   {
-    "key": "siparisUyeDegilkenSiparisverButon",
+    "key": "siparisUyeDegilkenSiparisverButonM",
     "value":"//*[@id='DPE_TR_ORDERCONFIRM_BUTTON_ORDER_GUEST-M']",
     "type": "xpath"
   },
   {
-    "key": "siparisUyeDegilkenSiparisverButon",
+    "key": "siparisUyeDegilkenSiparisverButonD",
     "value":"DPE_TR_ORDERCONFIRM_BUTTON_ORDER_GUEST-D",
     "type": "id"
   },

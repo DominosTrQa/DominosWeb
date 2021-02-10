@@ -206,8 +206,7 @@ Sepete Pizza Ekleme - Adrese Teslim - Üye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+* Pizza boyutunda ilk boyut seçilir (Stg)
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -221,8 +220,7 @@ Sepete Pizza Ekleme - Adrese Teslim - Üyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+* Pizza boyutunda ilk boyut seçilir (Stg)
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -236,8 +234,7 @@ Sepete Pizza Ekleme - Gel Al - Üye
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+* Pizza boyutunda ilk boyut seçilir (Stg)
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -251,8 +248,7 @@ Sepete Pizza Ekleme - Gel Al - Üyeliksiz
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
-* Pizza boyutunda ilk boyut seçilir
-* Kenar tipinde ilk kenar seçilir
+* Pizza boyutunda ilk boyut seçilir (Stg)
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetimde ürün var mı kontrol edilir
 
@@ -270,12 +266,12 @@ Sepetten Upsell Ekleme - Adrese Teslim - Üye
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki dürümün eklendiği kontrol edilir
+* Sepetteki içecek eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
+* Onay sayfasında icecek yazısının geldigi kontrol edilir (Stg)
 * Anasayfadaki dominos logosuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
@@ -296,13 +292,13 @@ Sepetten Upsell Ekleme - Adrese Teslim - Yeni Üye
 * Sepete dürüm eklenir(Stg)
 * Upsell popup varsa kapatilir
 * Sepetim ikonuna tıklanır
-* Sepetteki dürümün eklendiği kontrol edilir
+* Sepetteki içecek eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
+* Onay sayfasında icecek yazısının geldigi kontrol edilir (Stg)
 
 
 Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
@@ -321,7 +317,7 @@ Sepetten Upcell Ekleme - Adrese Teslim - Üyeliksiz
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki dürümün eklendiği kontrol edilir
+* Sepetteki içecek eklendiği kontrol edilir
 
 
 Sepetten Upcell Ekleme - Gel Al - Üye
@@ -338,13 +334,13 @@ Sepetten Upcell Ekleme - Gel Al - Üye
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki dürümün eklendiği kontrol edilir
+* Sepetteki içecek eklendiği kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
 * Ye kazan popupında giriş yap butonuna tıklanır
 * E-posta "dominostest1@hotmail.com" ve "a1w2d3r4D" şifre girilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
+* Onay sayfasında icecek yazısının geldigi kontrol edilir (Stg)
 
 
 Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
@@ -361,7 +357,7 @@ Sepetten Upcell Ekleme - Gel Al - Üyeliksiz
 * Sepete git butonuna tıklanır
 * Sepete dürüm eklenir(Stg)
 * Sepetim ikonuna tıklanır
-* Sepetteki dürümün eklendiği kontrol edilir
+* Sepetteki içecek eklendiği kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
