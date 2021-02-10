@@ -1741,17 +1741,16 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie varsa kapat butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Seçili ilk adrese tıklanır
+* Seçili adres ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
 * Sipariş tamamlanır
@@ -1761,6 +1760,7 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Profilimden adreslerime giderek kayıtlı adres silinir
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
@@ -1782,9 +1782,10 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimtemassizTeslimat
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Temassız teslimat seçeneği seçilir
-* Sipariş tamamlanır(guest)
+* Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Tekrar sipariş ver butonuna tıklanır
+* Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButonD"
 * Not alanında temassız teslimat yazısının geldiği kontrol edilir(guest)
 
 
@@ -1855,9 +1856,10 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayini
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Lütfen zile basmayınız seçilir
-* Sipariş tamamlanır(guest)
+* Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Tekrar sipariş ver butonuna tıklanır
+* Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButonD"
 * Not alanında lütfen zile basmayınız yazısının geldiği kontrol edilir
 
 
@@ -1905,17 +1907,16 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie varsa kapat butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Seçili ilk adrese tıklanır
+* Seçili adres ile devam edilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
-* Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir
 * Sipariş tamamlanır
@@ -1925,6 +1926,7 @@ tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimNotEkleme
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
 * Profilimden adreslerime giderek kayıtlı adres silinir
+* Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
@@ -1946,9 +1948,10 @@ tags:regressionPreprod_siparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Sipariş notu eklenir(guest)
-* Sipariş tamamlanır(guest)
+* Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* Tekrar sipariş ver butonuna tıklanır
+* Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButonD"
 * Sipariş sayfasında sipariş notunun eklenen olduğu doğrulanır
 
 

@@ -10,6 +10,9 @@
 # Sepetteki içecek eklendiği kontrol edilir
 * Element var mı kontrol et "sepetteIcecekKontrolStaging"
 
+# Onay sayfasında icecek yazısının geldigi kontrol edilir (Stg)
+* Element var mı kontrol et "onaySayfasiSepetteIcecekKontrolStaging"
+
 # Onay sayfasında dürüm yazısının geldiği kontrol edilir(Stg)
 * Element var mı kontrol et "onaySayfasiSepetteDurumosKontrolStaging"
 
