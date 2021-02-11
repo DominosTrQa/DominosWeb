@@ -304,6 +304,9 @@
 * Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButonD"
 
+# Mesafeli satis sozlesmesine tiklanir
+* Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
+
 # Tekrar sipariş ver butonuna tıklanır
 * Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
 
