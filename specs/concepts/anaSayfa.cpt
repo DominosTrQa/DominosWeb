@@ -7,6 +7,10 @@
 # Gel Al servis tipi seçilir
 * Elementin yüklenmesini bekle ve tıkla "gelAlButon"
 
+# Gel Al servis tipi seçilir (Stg)
+* Elementin yüklenmesini bekle ve tıkla "gelAlButon"
+* Cookie varsa kapat butonuna tıklanır
+
 # Üye ol butonuna tıklanır
 * Elementin yüklenmesini bekle ve tıkla "uyeOlButon"
 * "5" saniye bekle
@@ -554,9 +558,6 @@
 
 # Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Element var mı kontrol et "OnaySayfasiSipariseKapaliSubesiTextKontrol"
-
-# Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
-* Element var mı kontrol et "subeTestPulseKontrol"
 
 # Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Element var mı kontrol et "OnaySayfasisubeTestPulseKontrol"

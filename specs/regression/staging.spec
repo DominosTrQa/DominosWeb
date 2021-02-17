@@ -1926,9 +1926,9 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 
 * Dominos - Staging ortamına gidilir
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
+* Gel Al servis tipi seçilir (Stg)
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
 Şube atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
@@ -1961,7 +1961,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Varolan Notu Ekleme
 * Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Anasayfadaki şubenin Test Pulse Şubesi olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
 Şube atama - Varolan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
