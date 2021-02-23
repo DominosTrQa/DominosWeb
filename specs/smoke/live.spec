@@ -125,11 +125,13 @@ Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
 tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Live ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
@@ -153,11 +155,13 @@ Live - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Live ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
@@ -182,6 +186,7 @@ Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst men
 tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Live ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
@@ -205,6 +210,7 @@ Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst men
 tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Live ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır

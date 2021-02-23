@@ -115,11 +115,13 @@ Preprod - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst men�
 tags:smokePreprod_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
@@ -143,11 +145,13 @@ Preprod - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 tags:smokePreprod_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Ekstra Lezzetlere gidilir
@@ -175,6 +179,7 @@ Preprod - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst 
 tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
@@ -197,6 +202,7 @@ Preprod - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst 
 tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır

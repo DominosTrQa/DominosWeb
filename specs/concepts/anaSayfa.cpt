@@ -12,9 +12,15 @@
 * Cookie varsa kapat butonuna tıklanır
 
 # Üye ol butonuna tıklanır
-* Elementin yüklenmesini bekle ve tıkla "uyeOlButon"
+ Elementin yüklenmesini bekle ve tıkla "uyeOlButon"
+* "UyeOl" Giris dizayn secimi yapilir
 * "5" saniye bekle
 
+# Giris Yap butonuna tiklanir
+* "5" saniye bekle
+ Elementi bekle ve sonra tıkla "girisYapButon"
+* "girisYap" Giris dizayn secimi yapilir
+* "5" saniye bekle
 
 # Gel Al servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
 * "2" saniye bekle

@@ -119,14 +119,16 @@ Staging - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst men�
 tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Staging ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Cookie varsa kapat butonuna tıklanır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
-* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
+* "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Ekstra Lezzetlere gidilir
 * İçecekler tabına tıklanır (Stg)
 * Sepete coca cola eklenir
@@ -154,11 +156,13 @@ Staging - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 tags:smokeStaging_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Staging ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
@@ -181,6 +185,7 @@ Staging - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst 
 tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Staging ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
@@ -205,6 +210,7 @@ Staging - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst 
 tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Staging ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır

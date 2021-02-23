@@ -135,6 +135,21 @@
     "type": "id"
   },
   {
+    "key": "girisYapUyeOlButon",
+    "value":"DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNUP",
+    "type": "id"
+  },
+  {
+    "key": "uyeOlTabButon",
+    "value":"DPE_TR_TAB_BUTTON1",
+    "type": "id"
+  },
+  {
+    "key": "loginTabButon",
+    "value":"DPE_TR_TAB_BUTTON0",
+    "type": "id"
+  },
+  {
     "key": "profilMenuButon",
     "value":"DPE_TR_HOME_BUTTON_PROFILEMENU",
     "type": "id"
