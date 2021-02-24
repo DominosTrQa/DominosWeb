@@ -7,7 +7,7 @@ Regression Preprod
 tags:regressionPreprod_uyeGirisiEkranKontrolu
 
 * Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Giriş Yap sayfasındaki elementlerin geldiği kontrol edilir
 
 
@@ -16,7 +16,7 @@ tags:regressionPreprod_uyeGirisiEkranKontrolu
 tags:regressionPreprod_uyeGirisiParolamiUnuttum
 
 * Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Parolamı Unuttum butonuna basılır ve textboxa mail adresi yazılır
 * Şifremi Hatırlat butonunun çalıştığı kontrol edilir
 

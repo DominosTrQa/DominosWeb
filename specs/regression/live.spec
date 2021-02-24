@@ -15,6 +15,7 @@ tags:regressionLive_uyeGirisi
 tags:regressionLive_uyeGirisiBasarisizGiris
 
 * Dominos - Live ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest2@hotmail.com" kullanıcısı ve "test" şifresi ile üye girişi yapılır
 * Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
 
@@ -24,6 +25,7 @@ tags:regressionLive_uyeGirisiBasarisizGiris
 tags:regressionLive_uyeGirisiBasarisizGiris2
 
 * Dominos - Live ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "test@gmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
 
@@ -33,7 +35,7 @@ tags:regressionLive_uyeGirisiBasarisizGiris2
 tags:regressionLive_uyeGirisiEkranKontrolu
 
 * Dominos - Live ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Giriş Yap sayfasındaki elementlerin geldiği kontrol edilir
 
 
@@ -42,7 +44,7 @@ tags:regressionLive_uyeGirisiEkranKontrolu
 tags:regressionLive_uyeGirisiParolamiUnuttum
 
 * Dominos - Live ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Parolamı Unuttum butonuna basılır ve textboxa mail adresi yazılır
 * Şifremi Hatırlat butonunun çalıştığı kontrol edilir
 
@@ -101,7 +103,7 @@ tags:regressionLive_uyeOlmazBasariliUyeOlma
 tags:regressionLive_uyeOlmadanDevamEtButtonKontrol
 
 * Dominos - Live ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Element var mı kontrol et "uyeOlmadanDevamEtButon"
 
 
@@ -110,7 +112,7 @@ tags:regressionLive_uyeOlmadanDevamEtButtonKontrol
 tags:regressionLive_uyeOlmadanDevamEtEkranKontrolu
 
 * Dominos - Live ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Üye olmadan devam edilir
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 * Element var mı kontrol et "loginButton"
