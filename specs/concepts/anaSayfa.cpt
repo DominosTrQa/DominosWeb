@@ -14,10 +14,10 @@
 # Üye ol butonuna tıklanır
  Elementin yüklenmesini bekle ve tıkla "uyeOlButon"
 * "UyeOl" Giris dizayn secimi yapilir
-* "5" saniye bekle
+ "5" saniye bekle
 
 # Giris Yap butonuna tiklanir
-* "5" saniye bekle
+ "5" saniye bekle
  Elementi bekle ve sonra tıkla "girisYapButon"
 * "girisYap" Giris dizayn secimi yapilir
 * "5" saniye bekle
