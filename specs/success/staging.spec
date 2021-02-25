@@ -7,6 +7,7 @@ Success Staging
 tags:successStaging_uyeGirisi
 
 * Dominos - Staging ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
@@ -490,6 +491,7 @@ tags:successStaging_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 tags:successStaging_subeAtamaVarolanUyeGelAlIlIlce
 
 * Dominos - Staging ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest2@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Cookie varsa kapat butonuna tıklanır
 * Gel Al servis tipi seçilir
