@@ -7,6 +7,7 @@ Success Preprod
 tags:successPreprod_uyeGirisi
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
@@ -497,6 +498,7 @@ tags:successPreprod_siparisIslemleriCanliTestAdresiDropdown
 tags:successPreprod_subeAtamaVarolanUyeGelAlIlIlce
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Cookie varsa kapat butonuna tıklanır
 * Gel Al servis tipi seçilir
