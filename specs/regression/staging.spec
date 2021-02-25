@@ -7,7 +7,7 @@ Regression Staging
 tags:regressionStaging_uyeGirisiEkranKontrolu
 
 * Dominos - Staging ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Giriş Yap sayfasındaki elementlerin geldiği kontrol edilir
 
 
@@ -16,7 +16,7 @@ tags:regressionStaging_uyeGirisiEkranKontrolu
 tags:regressionStaging_uyeGirisiParolamiUnuttum
 
 * Dominos - Staging ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Parolamı Unuttum butonuna basılır ve textboxa mail adresi yazılır
 * Şifremi Hatırlat butonunun çalıştığı kontrol edilir
 
@@ -56,7 +56,7 @@ tags:regressionStaging_uyeOlmaBasariliUyeOlma2
 tags:regressionStaging_uyeOlmadanDevamEtButtonKontrol
 
 * Dominos - Staging ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Element var mı kontrol et "uyeOlmadanDevamEtButon"
 
 
@@ -65,7 +65,7 @@ tags:regressionStaging_uyeOlmadanDevamEtButtonKontrol
 tags:regressionStaging_uyeOlmadanDevamEtEkranKontrolu
 
 * Dominos - Staging ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Üye olmadan devam edilir
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 * Element var mı kontrol et "loginButton"

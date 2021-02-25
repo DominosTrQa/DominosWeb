@@ -56,7 +56,7 @@ tags:regressionPreprod_uyeOlmazBasariliUyeOlma
 tags:regressionPreprod_uyeOlmadanDevamEtButtonKontrol
 
 * Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Element var mı kontrol et "uyeOlmadanDevamEtButon"
 
 
@@ -65,7 +65,7 @@ tags:regressionPreprod_uyeOlmadanDevamEtButtonKontrol
 tags:regressionPreprod_uyeOlmadanDevamEtEkranKontrolu
 
 * Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna basılır
+* Giris Yap butonuna tiklanir
 * Üye olmadan devam edilir
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 * Element var mı kontrol et "loginButton"
