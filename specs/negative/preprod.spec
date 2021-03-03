@@ -7,6 +7,7 @@ Negative Preprod
 tags:negativePreprod_uyeGirisiBasarisizGiris
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest8@hotmail.com" kullanıcısı ve "test" şifresi ile üye girişi yapılır
 * Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
 
@@ -16,6 +17,7 @@ tags:negativePreprod_uyeGirisiBasarisizGiris
 tags:negativePreprod_uyeGirisiBasarisizGiris2
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "test@gmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
 
@@ -51,6 +53,7 @@ Servis Tipi Seçimi - Gel Al - Varolan Üye Sepette Servis Tipinin Değiştirile
 tags:negativePreprod_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistirilememesi
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Pizzalar butonuna tıklanır
