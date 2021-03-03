@@ -1814,10 +1814,10 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Lütfen Zile Basmayınız
 tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimLutfenZileBasmayiniz
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie varsa kapat butonuna tıklanır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
