@@ -140,6 +140,11 @@
     "type": "id"
   },
   {
+    "key": "yeniDizaynKontrolAnimation",
+    "value":"//button[@class='animationButton__Button-umx8p4-1 llOiSI']",
+    "type": "xpath"
+  },
+  {
     "key": "uyeOlTabButon",
     "value":"DPE_TR_TAB_BUTTON1",
     "type": "id"
