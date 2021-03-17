@@ -7,6 +7,7 @@ Negative Staging
 tags:negativeStaging_uyeGirisiBasarisizGiris
 
 * Dominos - Staging ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest2@hotmail.com" kullanıcısı ve "test" şifresi ile üye girişi yapılır
 * Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
 
@@ -16,6 +17,7 @@ tags:negativeStaging_uyeGirisiBasarisizGiris
 tags:negativeStaging_uyeGirisiBasarisizGiris2
 
 * Dominos - Staging ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "test@gmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Giriş yaparken E-Posta veya Şifre yanlış uyarısının geldiği kontrol edilir
 
@@ -50,6 +52,7 @@ Servis Tipi Seçimi - Gel Al - Varolan Üye Sepette Servis Tipinin Değiştirile
  tags:negativeStaging_servisTipiSecimiGelAlVarOlanUyeSepetteServisTipininDegistirilememesi
 
 * Dominos - Staging ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest1@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Pizzalar butonuna tıklanır
