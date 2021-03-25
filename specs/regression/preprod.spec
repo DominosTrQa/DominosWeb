@@ -1740,6 +1740,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Temassız Teslimat
 tags:regressionPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimtemassizTeslimat
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Cookie varsa kapat butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2114,7 +2115,9 @@ tags:regressionPreprod_siparisIslemleriCanliTestAdresiDropdown
 tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Cookie kapat butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
@@ -2238,9 +2241,7 @@ tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlce
 tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
@@ -2249,9 +2250,7 @@ tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
-* "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
@@ -2306,7 +2305,9 @@ tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlceMahalle
 tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Cookie kapat butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
