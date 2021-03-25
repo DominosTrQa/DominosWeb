@@ -37,7 +37,7 @@
   },
   {
     "key": "yeKazanIletisimKanaliText",
-    "value":"//div[contains(text(),'Aşağıdaki seçeneklerden en az bir iletişim kanalı seçmeniz gerekmektedir.')]",
+    "value":"//div[contains(text(),'*Tercih ettiğiniz iletişim kanalını seçiniz.')]",
     "type": "xpath"
   },
   {
