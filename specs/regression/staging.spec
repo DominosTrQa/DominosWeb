@@ -66,10 +66,10 @@ tags:regressionStaging_uyeOlmadanDevamEtEkranKontrolu
 
 * Dominos - Staging ortamına gidilir
 * Giris Yap butonuna tiklanir
-* Üye olmadan devam edilir
-* Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 * Element var mı kontrol et "loginButton"
 * Element var mı kontrol et "uyeOlButon"
+* Üye olmadan devam edilir
+* Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
 
 Üye Adres Ekleme - Gel Al - Üye
