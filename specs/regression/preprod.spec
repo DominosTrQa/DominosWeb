@@ -2241,11 +2241,7 @@ tags:regressionPreprod_subeAtamaUyeliksizGelAlIlIlce
 tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
-* Giris Yap butonuna tiklanir
-* "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Cookie kapat butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 
 
@@ -2254,11 +2250,7 @@ tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlceMahalle
 tags:regressionPreprod_subeAtamaVarolanUyeGelAlIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
-* Giris Yap butonuna tiklanir
-* "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Cookie kapat butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
