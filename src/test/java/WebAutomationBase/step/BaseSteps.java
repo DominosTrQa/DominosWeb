@@ -7,8 +7,11 @@ import WebAutomationBase.model.ElementInfo;
 import com.thoughtworks.gauge.Step;
 
 import java.sql.Timestamp;
-import java.util.ArrayList;
-import java.util.Random;
+import java.text.SimpleDateFormat;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.*;
+
 import org.apache.log4j.PropertyConfigurator;
 import org.junit.Assert;
 import org.junit.Test;
@@ -16,9 +19,6 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.util.List;
-import java.util.Vector;
 
 import org.slf4j.LoggerFactory;
 import org.slf4j.impl.Log4jLoggerAdapter;
@@ -37,6 +37,7 @@ public class BaseSteps extends BaseTest {
   private static String SAVED_ATTRIBUTE;
 
   private Actions actions = new Actions(driver);
+  private BaseSteps webDriver;
 
   public BaseSteps(){
 
@@ -609,6 +610,12 @@ public class BaseSteps extends BaseTest {
   @Step({"<key> alanına kaydır"})
   public void scrollToElement(String key) {
     scrollToElementToBeVisible(key);
+  }
+
+  @Step({"kaydır"})
+  public void scrollToElementTwo() {
+    executeJS("window.scrollBy(0,500)", true);
+
   }
 
 
@@ -1458,6 +1465,18 @@ public class BaseSteps extends BaseTest {
       }
     }
   }
+
+    @Step("Tarih secimi yapilir")
+    public void tarihSecimi() {
+
+      DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MM/YYYY");
+      LocalDateTime now = LocalDateTime.now();
+      webDriver.findElement("tarihSecButon").click();
+      webDriver.findElement("tarihSecButon").sendKeys(dtf.format(now));
+
+
+    }
+  
 }
 
 

@@ -568,6 +568,41 @@
     "key": "digitalOfferCloseButton",
     "value":"//i[@class='icon-times-dp']",
     "type": "xpath"
+  },
+  {
+    "key": "gonderimZamaniButon",
+    "value":"//div[@class='contentSection__Container-sc-1d4xttd-0 dDdaiN']",
+    "type": "xpath"
+  },
+  {
+    "key": "dahaSonraButon",
+    "value":"//div[@class='radioButton__Button-sc-1sq2o5b-1 iSKsOv']",
+    "type": "xpath"
+  },
+  {
+    "key": "tarihSecButon",
+    "value":"//input[@class='react-datepicker__input']",
+    "type": "xpath"
+  },
+  {
+    "key": "datePickerWeek",
+    "value":"//div[@class='react-datepicker__week'][3]",
+    "type": "xpath"
+  },
+  {
+    "key": "datePickerDay",
+    "value":"//div[@role='button']",
+    "type": "xpath"
+  },
+  {
+    "key": "ileriSaatButton",
+    "value":"//div[@class='dropdown__ButtonIndicator-wa0gtc-4 eBJtnR']",
+    "type": "xpath"
+  },
+  {
+    "key": "ileriSaatSecimButton",
+    "value":"(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[2]",
+    "type": "xpath"
   }
 
 ]

@@ -43,7 +43,7 @@ tags:regressionPreprod_uyeOlmazBasariliUyeOlma
 
 Üye Olma - Başarılı Üye Olma 2
 ---------------------------------
-tags:regressionPreprod_uyeOlmazBasariliUyeOlma
+tags:regressionPreprod_uyeOlmazBasariliUyeOlmaİki
 
 * Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
