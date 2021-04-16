@@ -81,7 +81,7 @@ tags:regressionLive_uyeOlmazBasariliUyeOlma
 
 Üye Olma - Başarısız Üye Olma
 -------------------------------
-tags:regressionLive_uyeOlmazBasarisizUyeOlma
+tags:regressionLive_uyeOlmazBasarisizUyeOlmaİki
 
 * Dominos - Live ortamına gidilir
 * Üye ol butonuna tıklanır
