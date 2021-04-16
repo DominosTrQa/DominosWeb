@@ -582,3 +582,16 @@
 # Yemek cekleri ve kartlari odeme tipi secilir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "yemekCekleriVeKartlari"
+
+# İleri tarihli siparis icin saat secimi yapilir
+* "2" saniye bekle
+* kaydır
+* Elementi bekle ve sonra tıkla "gonderimZamaniButon"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "dahaSonraButon"
+* "2" saniye bekle
+* Tarih secimi yapilir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ileriSaatButton"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ileriSaatSecimButton"

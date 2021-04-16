@@ -71,6 +71,9 @@
 * Elementi bekle ve sonra tıkla "caddeDropdownid" try
 * Elementi bekle ve sonra tıkla "caddeBurgazCayırıSk" try
 * "4" saniye bekle
+* Elementi bekle ve sonra tıkla "apartmanNoid"
+* Elementi bekle ve sonra tıkla "apartmanNoiki"
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "4" saniye bekle
 
@@ -210,6 +213,8 @@
 # Tüm Kampanyalar Butonuna tıklanır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "tumKampanyalarButon"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "haftaninKampanyalari"
 
 # Tüm pizzalar alanına kaydırılır
 * "anasayfaTumPizzalarButon" alanına kaydır
