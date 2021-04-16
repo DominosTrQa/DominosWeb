@@ -571,13 +571,13 @@
   },
   {
     "key": "gonderimZamaniButon",
-    "value":"//div[@class='contentSection__Container-sc-1d4xttd-0 dDdaiN']",
-    "type": "xpath"
+    "value":"DPE_TR_ORDERCONFIRM_CONTENTSECTION_DELIVERYTIME",
+    "type": "id"
   },
   {
     "key": "dahaSonraButon",
-    "value":"//div[@class='radioButton__Button-sc-1sq2o5b-1 iSKsOv']",
-    "type": "xpath"
+    "value":"DPE_TR_ORDERCONFIRM_RADIOBUTTON_FORWARD",
+    "type": "id"
   },
   {
     "key": "tarihSecButon",
@@ -596,11 +596,21 @@
   },
   {
     "key": "ileriSaatButton",
-    "value":"//div[@class='dropdown__ButtonIndicator-wa0gtc-4 eBJtnR']",
-    "type": "xpath"
+    "value":"DPE_TR_ORDERCONFIRM_DROPDOWN_HOUR",
+    "type": "id"
   },
   {
     "key": "ileriSaatSecimButton",
+    "value":"(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "ileriDakikaButton",
+    "value":"DPE_TR_ORDERCONFIRM_DROPDOWN_MINUTE",
+    "type": "id"
+  },
+  {
+    "key": "ileriDakikaSecimButton",
     "value":"(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[2]",
     "type": "xpath"
   }
