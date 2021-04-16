@@ -6,7 +6,7 @@
 -------------------------------------------------------
 tags:ileriTarihli_kullaniciIlkkezGeliyorAdreseTeslim
 
-* Dominos - Live ortamına gidilir
+* Dominos - Preprod ortamına gidilir
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır

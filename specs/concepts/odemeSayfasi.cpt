@@ -590,8 +590,10 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "dahaSonraButon"
 * "2" saniye bekle
-* Tarih secimi yapilir
-* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ileriSaatButton"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ileriSaatSecimButton"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ileriDakikaButton"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ileriDakikaSecimButton"
