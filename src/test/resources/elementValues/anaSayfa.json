@@ -576,8 +576,8 @@
   },
   {
     "key": "dahaSonraButon",
-    "value":"DPE_TR_ORDERCONFIRM_RADIOBUTTON_FORWARD",
-    "type": "id"
+    "value":"//div[@class='orderConfirm__Column-x0pcid-1 tZydb column__NewColumn-sc-1s5q7bb-0 hYTUQQ']",
+    "type": "xpath"
   },
   {
     "key": "tarihSecButon",

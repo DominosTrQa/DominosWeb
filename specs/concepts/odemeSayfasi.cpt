@@ -585,15 +585,15 @@
 
 # İleri tarihli siparis icin saat secimi yapilir
 * "2" saniye bekle
-* kaydır
+* "gonderimZamaniButon" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "gonderimZamaniButon"
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "dahaSonraButon"
+* "dahaSonraButon" li elementi bul ve varsa dokun
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ileriSaatButton"
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ileriSaatSecimButton"
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "ileriDakikaButton"
-* "2" saniye bekle
-* Elementi bekle ve sonra tıkla "ileriDakikaSecimButton"
+ Elementi bekle ve sonra tıkla "ileriDakikaButton"
+ "2" saniye bekle
+ Elementi bekle ve sonra tıkla "ileriDakikaSecimButton"
