@@ -79,7 +79,7 @@ tags:regressionLive_uyeOlmazBasariliUyeOlma
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
 
-Üye Olma - Başarısız Üye Olma
+Üye Olma - Başarısız Üye Olma İki
 -------------------------------
 tags:regressionLive_uyeOlmazBasarisizUyeOlmaİki
 
@@ -3157,9 +3157,11 @@ tags:regressionLive_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecProfilim
 tags:regressionLive_uyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaProfilim
 
 * Dominos - Live ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest13@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Cookie varsa kapat butonuna tıklanır
-* "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * "AdreseTeslim" servis tipi kontrolü yapılır
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Profilim butonuna tıklanır
