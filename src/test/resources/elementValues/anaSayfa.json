@@ -465,8 +465,8 @@
     "type": "id"
   },
   {
-    "key": "apartmanNoiki",
-    "value":"//div[text()='2']",
+    "key": "apartmanNoUc",
+    "value":"//div[text()='3']",
     "type": "xpath"
   },
   {
