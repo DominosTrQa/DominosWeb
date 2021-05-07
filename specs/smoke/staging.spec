@@ -11,7 +11,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir (Stg)
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
@@ -61,7 +61,7 @@ tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 
 * Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir (Stg)
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -95,7 +95,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Servis tipinin Gel Al olduğu kontrol edilir
 * Anasayfadaki gel al butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir (Stg)
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Pizzalar butonuna tıklanır
