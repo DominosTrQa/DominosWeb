@@ -16,6 +16,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.LocalFileDetector;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -36,7 +37,17 @@ public class BaseTest {
     logger.info("" + executionContext.getCurrentScenario().getName());
     String baseUrl = "https://dpe-preprod.dominos.com.tr/";
     Locale.setDefault(new Locale("en","EN"));
+
     DesiredCapabilities capabilities = DesiredCapabilities.chrome();
+    DesiredCapabilities dc = new DesiredCapabilities();
+    String PROXY = "ec2-54-154-66-64.eu-west-1.compute.amazonaws.com:3128";
+    Proxy proxy = new org.openqa.selenium.Proxy();
+    proxy.setProxyType(Proxy.ProxyType.MANUAL);
+    proxy.setHttpProxy(PROXY);
+    proxy.setFtpProxy(PROXY);
+    proxy.setSslProxy(PROXY);
+    dc.setCapability(CapabilityType.PROXY, proxy);
+
     if (StringUtils.isNotEmpty(getenv("key"))) {
       ChromeOptions options = new ChromeOptions();
       options.addArguments("test-type");
