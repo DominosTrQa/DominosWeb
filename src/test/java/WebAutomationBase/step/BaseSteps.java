@@ -981,9 +981,9 @@ public class BaseSteps extends BaseTest {
               clickElement("cookiesKapatButon");
               waitBySeconds(4);
             }
-            getElementWithKeyIfExists("seciliAdresIleDevamEtButonilkadres");
-            clickElement("seciliAdresIleDevamEtButonilkadres");
-            waitBySeconds(4);
+            //getElementWithKeyIfExists("seciliAdresIleDevamEtButonilkadres");
+            //clickElement("seciliAdresIleDevamEtButonilkadres");
+            //waitBySeconds(4);
             getElementWithKeyIfExists("siparisSayfasiSeciliAdresIleDevamEtButon");
             clickElement("siparisSayfasiSeciliAdresIleDevamEtButon");
             waitBySeconds(1);
@@ -1048,9 +1048,9 @@ public class BaseSteps extends BaseTest {
           clickElement("cookiesKapatButon");
           waitBySeconds(4);
         }
-        getElementWithKeyIfExists("seciliAdresIleDevamEtButonilkadres");
-        clickElement("seciliAdresIleDevamEtButonilkadres");
-        waitBySeconds(4);
+        //getElementWithKeyIfExists("seciliAdresIleDevamEtButonilkadres");
+        //clickElement("seciliAdresIleDevamEtButonilkadres");
+        //waitBySeconds(4);
         getElementWithKeyIfExists("siparisSayfasiSeciliAdresIleDevamEtButon");
         clickElement("siparisSayfasiSeciliAdresIleDevamEtButon");
         waitBySeconds(4);
@@ -1094,6 +1094,16 @@ public class BaseSteps extends BaseTest {
           clickElement("caddeBurgazCayırıSk");
         } catch (Exception e){
           logger.info("Cadde Secildi");
+        }
+        waitBySeconds(4);
+        try {
+          clickElement("apartmanNoid");
+        } catch (Exception e){
+          logger.info("Apartman Dropdown Secildi");
+        }try {
+          clickElement("apartmanNoUc");
+        } catch (Exception e){
+          logger.info("Apartman Secildi");
         }
         waitBySeconds(4);
         getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
