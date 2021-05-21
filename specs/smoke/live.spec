@@ -157,7 +157,7 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Dominos - Live ortamına gidilir
 * Giris Yap butonuna tiklanir
 * "dominostest11@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
- Gel al servis tipi secilir ve kontrolu yapilir
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Çıkış Yap butonuna basılır
