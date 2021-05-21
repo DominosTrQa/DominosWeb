@@ -210,6 +210,7 @@
 * "5" saniye bekle
 
 # Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Adalar/Burgazada mah)
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "yeniAdresEkleButonu"
 * Elementi bekle ve sonra tıkla "popupilDropdown"
 * Elementi bekle ve sonra tıkla "ilİstanbul"

@@ -219,8 +219,8 @@
 * "3" saniye bekle
 
 # Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Elementi bekle ve sonra tıkla "uyelikBilgilerimAdreslerimIlkAdres"
-* "3" saniye bekle
+ Elementi bekle ve sonra tıkla "uyelikBilgilerimAdreslerimIlkAdres"
+ "3" saniye bekle
 * Elementi bekle ve sonra tıkla "siparisSayfasiSeciliAdresIleDevamEtButon"
 * "6" saniye bekle
 
