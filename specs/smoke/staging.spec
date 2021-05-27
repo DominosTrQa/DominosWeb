@@ -98,14 +98,16 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir (Stg)
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 * Tüm pizzalar alanına kaydırılır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
+* Kampanya sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
+* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır(Stg)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Siparis tamamlanir(guest) 2

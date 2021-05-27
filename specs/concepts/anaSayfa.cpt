@@ -224,6 +224,12 @@
 * Elementi bekle ve sonra tıkla "siparisSayfasiSeciliAdresIleDevamEtButon"
 * "6" saniye bekle
 
+# Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır(Stg)
+* Elementi bekle ve sonra tıkla "uyelikBilgilerimAdreslerimIlkAdres"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "siparisSayfasiSeciliAdresIleDevamEtButon"
+* "6" saniye bekle
+
 # Seçili Şube ile Devam Et butonuna basılır
 * Elementi bekle ve sonra tıkla "seciliSubeIleDevamEtButon"
 * "3" saniye bekle

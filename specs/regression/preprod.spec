@@ -2707,6 +2707,7 @@ tags:regressionPreprod_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelik
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
 * Üyelik bilgilerim butonuna tıklanır
