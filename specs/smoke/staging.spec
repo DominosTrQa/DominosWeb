@@ -107,7 +107,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
-* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır(Stg)
+* Adresi secilir ve secili adres ile devam et butonuna basilir (Stg)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Siparis tamamlanir(guest) 2

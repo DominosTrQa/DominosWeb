@@ -224,7 +224,7 @@
 * Elementi bekle ve sonra tıkla "siparisSayfasiSeciliAdresIleDevamEtButon"
 * "6" saniye bekle
 
-# Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır(Stg)
+# Adresi secilir ve secili adres ile devam et butonuna basilir (Stg)
 * Elementi bekle ve sonra tıkla "uyelikBilgilerimAdreslerimIlkAdres"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "siparisSayfasiSeciliAdresIleDevamEtButon"
