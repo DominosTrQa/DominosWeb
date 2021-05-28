@@ -3,7 +3,7 @@ Smoke Live
 
 Live - Kullanıcı ilk kez geliyor - Adrese Teslim
 -------------------------------------------------------
-tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
+tags:smokeDev_kullaniciIlkkezGeliyorAdreseTeslim
 
 * Dominos - Dev ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -32,7 +32,7 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 
 Live - Kullanıcı ilk kez geliyor - Gel Al
 ------------------------------------------------
-tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
+tags:smokeDev_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 
 * Dominos - Dev ortamına gidilir
 * Üye ol butonuna tıklanır
@@ -59,7 +59,7 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 
 Live - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 ----------------------------------------------------
-tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
+tags:smokeDev_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 
 * Dominos - Dev ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -90,7 +90,7 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 
 Live - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 ----------------------------------------------------
-tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
+tags:smokeDev_servisTipiSecimiGelAldanAdreseTeslimGecisi
 
 * Dominos - Dev ortamına gidilir
 * Gel Al servis tipi seçilir
@@ -121,7 +121,7 @@ tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 
 Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
 ---------------------------------------------------------------------------------
-tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
+tags:smokeDev_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 * Dominos - Dev ortamına gidilir
 * Giris Yap butonuna tiklanir
@@ -151,7 +151,7 @@ tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
 Live - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 --------------------------------------------------------------
-tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
+tags:smokeDev_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 * Dominos - Dev ortamına gidilir
 * Giris Yap butonuna tiklanir
@@ -182,7 +182,7 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
 Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
 ----------------------------------------------------------------------
-tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
+tags:smokeDev_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 * Dominos - Dev ortamına gidilir
 * Giris Yap butonuna tiklanir
@@ -206,7 +206,7 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
 Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
 -----------------------------------------------------------------------
-tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
+tags:smokeDev_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
 * Dominos - Dev ortamına gidilir
 * Giris Yap butonuna tiklanir
