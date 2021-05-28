@@ -312,6 +312,9 @@
 # Dominos - Live ortamına gidilir
 * "https://www.dominos.com.tr/" adresine git
 
+# Dominos - Dev ortamına gidilir
+* "https://dev-tr-canary-ui.dominos.com.tr/" adresine git
+
 # Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "loginEmailTextbox"
