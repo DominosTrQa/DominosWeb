@@ -1,7 +1,7 @@
-Smoke Live
+Smoke Dev
 ===========
 
-Live - Kullanıcı ilk kez geliyor - Adrese Teslim
+Dev - Kullanıcı ilk kez geliyor - Adrese Teslim
 -------------------------------------------------------
 tags:smokeDev_kullaniciIlkkezGeliyorAdreseTeslim
 
@@ -30,7 +30,7 @@ tags:smokeDev_kullaniciIlkkezGeliyorAdreseTeslim
 * Siparis kodu text kontrolu yapılır
 
 
-Live - Kullanıcı ilk kez geliyor - Gel Al
+Dev - Kullanıcı ilk kez geliyor - Gel Al
 ------------------------------------------------
 tags:smokeDev_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 
@@ -57,7 +57,7 @@ tags:smokeDev_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Siparis kodu text kontrolu yapılır
 
 
-Live - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
+Dev - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 ----------------------------------------------------
 tags:smokeDev_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 
@@ -88,7 +88,7 @@ tags:smokeDev_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Siparis kodu text kontrolu yapılır
 
 
-Live - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
+Dev - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 ----------------------------------------------------
 tags:smokeDev_servisTipiSecimiGelAldanAdreseTeslimGecisi
 
@@ -119,7 +119,7 @@ tags:smokeDev_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Siparis kodu text kontrolu yapılır
 
 
-Live - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
+Dev - Kullanıcı ikinci kez geliyor - Adrese Teslim - Adresi var (üst menü)
 ---------------------------------------------------------------------------------
 tags:smokeDev_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 
@@ -149,7 +149,7 @@ tags:smokeDev_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Siparis kodu text kontrolu yapılır
 
 
-Live - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
+Dev - Kullanıcı ikinci kez geliyor - Gel Al - Adresi var (üst menü)
 --------------------------------------------------------------
 tags:smokeDev_kullaniciIkinciKezGeliyorGelAlAdresiVar
 
@@ -180,7 +180,7 @@ tags:smokeDev_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Siparis kodu text kontrolu yapılır
 
 
-Live - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
+Dev - Servis tipi değiştiren kullanıcı - Adresime Teslim > Gel Al (üst menü)
 ----------------------------------------------------------------------
 tags:smokeDev_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 
@@ -204,7 +204,7 @@ tags:smokeDev_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Siparis kodu text kontrolu yapılır
 
 
-Live - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
+Dev - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
 -----------------------------------------------------------------------
 tags:smokeDev_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 
