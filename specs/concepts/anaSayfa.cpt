@@ -72,6 +72,7 @@
 * Elementi bekle ve sonra tıkla "caddeBurgazCayırıSk" try
 * "6" saniye bekle
 * Elementi bekle ve sonra tıkla "apartmanNoid"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "apartmanNoUc"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
@@ -90,9 +91,9 @@
 * Elementi bekle ve sonra tıkla "caddeDropdownid" try
 * Elementi bekle ve sonra tıkla "caddeBurgazCayırıSk" try
 * "4" saniye bekle
- Elementi bekle ve sonra tıkla "apartmanNoid"
- Elementi bekle ve sonra tıkla "apartmanNoUc"
- "5" saniye bekle
+* Elementi bekle ve sonra tıkla "apartmanNoid"
+* Elementi bekle ve sonra tıkla "apartmanNoUc"
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "4" saniye bekle
 
