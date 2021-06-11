@@ -111,6 +111,12 @@
 * "2" saniye bekle
 * Cookie varsa kapat butonuna tıklanır
 
+# Uyeliksiz, adrese teslim servis tipi secilir ve anasayfaya devam edilir (Stg)
+* Adrese Teslim servis tipi seçilir
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir (Stg)
+* "2" saniye bekle
+* Cookie varsa kapat butonuna tıklanır
+
 # Üyeliksiz, gel al servis tipi seçilir ve anasayfaya devam edilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
@@ -336,6 +342,11 @@
 # Adrese teslim servis tipi secilir ve kontrolu yapilir
 * "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
 * "AdreseTeslim" servis tipi kontrolü yapılır
+
+# Adrese teslim servis tipi secilir ve kontrolu yapilir (Stg)
+* Elementi bekle ve sonra tıkla "adreseTeslimButon"
+* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+
 
 # Gel al servis tipi secilir ve kontrolu yapilir
 * "gelAlButon" servis tipi seçilir ve adres seçimi yapılır

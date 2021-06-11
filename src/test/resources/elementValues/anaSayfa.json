@@ -70,6 +70,11 @@
     "type": "xpath"
   },
   {
+    "key": "caddeYÜzBirSk",
+    "value":"//div[text()='101. Sk.']",
+    "type": "xpath"
+  },
+  {
     "key": "seciliAdresIleDevamEtButon",
     "value":"DPE_TR_STOREFILTERFORMDELIVERY_BUTTON_ADDRESSSELECT",
     "type": "id"
@@ -161,7 +166,7 @@
   },
   {
     "key": "uyelikBilgilerimButon",
-    "value":"DPE_TR_HOME_BUTTON_PROFILEMENU_ITEM0",
+    "value":"DPE_TR_HOME_BUTTON_PROFILEMENU_ITEM1",
     "type": "id"
   },
   {

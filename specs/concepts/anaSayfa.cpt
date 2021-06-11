@@ -55,6 +55,10 @@
 * "6" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
 * "5" saniye bekle
+* Elementi bekle ve sonra tıkla "caddeDropdownid"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "caddeYÜzBirSk"
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "4" saniye bekle
 
@@ -271,7 +275,7 @@
 * Elementi bekle ve sonra tıkla "sepeteEkleArti"
 
 # Profilim butonuna tıklanır
-* "4" saniye bekle
+* "7" saniye bekle
 * Elementi bekle ve sonra tıkla "profilMenuButon"
 * "2" saniye bekle
 
