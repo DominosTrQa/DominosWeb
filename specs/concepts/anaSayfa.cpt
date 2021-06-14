@@ -559,7 +559,7 @@
 * "4" saniye bekle
  Seçili adres ile devam edilir butonuna tıklanamadığı görülür
 * Elementi bekle ve sonra tıkla "apartmanNoid"
-* Elementi bekle ve sonra tıkla "apartmanNoiki"
+* Elementi bekle ve sonra tıkla "apartmanNoUc"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 
 # Secili konum ile devam edilir
