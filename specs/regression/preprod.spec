@@ -2114,6 +2114,7 @@ tags:regressionPreprod_siparisIslemleriCanliTestAdresiDropdown
 * Sepetim ikonuna tıklanır
 * Sepetteki ürün iki kez arttırılır
 * Sepete git butonuna tıklanır
+* Yan urun popup cıkarsa kapatilir
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(Kapı No Dropdown)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
@@ -2138,8 +2139,11 @@ tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimYalnizcaIl
 tags:regressionPreprod_subeAtamaVarolanUyeGelAlYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest8@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel Al servis tipi seçilir
+* Elementi bekle ve sonra tıkla "anasayfaAdresDegisikligiButton"
+* Gel al adres ekleme ekranında düzenle butonuna tıklanır
+* Cookie varsa kapat butonuna tıklanır
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
 * Gel Al çıkan ilk şube seçilir
@@ -2204,8 +2208,10 @@ tags:regressionPreprod_subeAtamaUyeliksizGelAlYalnizcaIl
 tags:regressionPreprod_subeAtamaVarolanUyeAdreseTeslimIlIlce
 
 * Dominos - Preprod ortamına gidilir
+* Giris Yap butonuna tiklanir
 * "dominostest7@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese Teslim servis tipi seçilir
+* Cookie varsa kapat butonuna tıklanır
 * Düzce ili seçilir
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
 

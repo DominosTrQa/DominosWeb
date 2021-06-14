@@ -183,6 +183,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
