@@ -182,7 +182,7 @@
 * "profilimPopupAdreslerimEklenenAdres" li elementi bul ve değerini "ilkAdresBasligi" olarak sakla
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimEklenenAdres"
 * Elementi bekle ve sonra tıkla "profilimPopupAdreslerimSecilenAdresDuzenleButon"
-* "1" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
+* "3" uzunlugunda random bir kelime üret ve "randomKelime" olarak sakla
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "adresAdiTextbox"
 * "adresAdiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir

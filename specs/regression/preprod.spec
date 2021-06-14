@@ -102,6 +102,7 @@ tags:regressionPreprod_uyeAdresDuzenlemeAdreseTeslimUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
+* İlk kayıtlı adres seçilir
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır ve popup açıldığı kontrol edilir
 * Profilim popup Yeni Adres Ekle butonuna tıklanır
@@ -144,6 +145,7 @@ tags:regressionPreprod_sepeteKampanyaEklemeAdreseTeslimUyeKampanya1
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
+* İlk kayıtlı adres seçilir
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
@@ -228,6 +230,7 @@ tags:regressionPreprod_pizzaEklemeAdreseTeslimUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
+* İlk kayıtlı adres seçilir
 * Tüm Pizzalar butonuna tıklanır
 * Tüm pizzalarda ilk pizza kategorisi seçilir
 * Pizza kategorisindeki ilk pizza seçilir
@@ -284,6 +287,7 @@ tags:regressionPreprod_sepettenUpsellEklemeAdreseTeslimUye
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
+* İlk kayıtlı adres seçilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -432,6 +436,7 @@ tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteServisTipini
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Cookie varsa kapat butonuna tıklanır
+* İlk kayıtlı adres seçilir
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
 * Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
@@ -497,6 +502,7 @@ tags:regressionPreprod_servisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenSe
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
+* İlk kayıtlı adres seçilir
 * Tüm Pizzalar butonuna tıklanır
 * Cookie varsa kapat butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -634,6 +640,7 @@ tags:regressionPreprod_adresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
+* İlk kayıtlı adres seçilir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
@@ -677,7 +684,7 @@ tags:regressionPreprod_adresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 * Yeni adres ekle butonuna tıklanır
 * Gel al olarak devam edilip adreslerime girilerek adrese teslim için İstanbul/Adalar/Burgazada eklenir
 * Kullanıcıya yeni adres eklenir,tamamlanır(İstanbul/Sarıyer/Ayazaga mah)
-* Seçili adres ile devam edilir
+* İlk kayıtlı adres seçilir
 * Anasayfa İstanbul/Sarıyer/Ayazaga adresinin doğru geldiği kontrol edilir
 
 
@@ -703,6 +710,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimNakit
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
+* İlk kayıtlı adres seçilir
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -798,6 +806,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimKrediKartı
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
+* İlk kayıtlı adres seçilir
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
@@ -911,6 +920,7 @@ tags:regressionPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartSodexoKart
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
+* İlk kayıtlı adres seçilir
 * Cookie varsa kapat butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * Pizza kategorisindeki ilk pizza seçilir
