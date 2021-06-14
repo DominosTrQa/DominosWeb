@@ -21,7 +21,7 @@ tags:smokeDev_kullaniciIlkkezGeliyorAdreseTeslim
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
-* Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
+* Adresi secilir ve secili adres ile devam et butonuna basilir (Stg)
 * Ödeme şekli seçilir
 * Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
@@ -62,8 +62,7 @@ Dev - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 tags:smokeDev_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 
 * Dominos - Dev ortamına gidilir
-* Adrese Teslim servis tipi seçilir
-* Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir (Stg)
+* Uyeliksiz, adrese teslim servis tipi secilir ve anasayfaya devam edilir (Stg)
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir

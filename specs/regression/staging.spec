@@ -65,11 +65,12 @@ tags:regressionStaging_uyeOlmadanDevamEtButtonKontrol
 tags:regressionStaging_uyeOlmadanDevamEtEkranKontrolu
 
 * Dominos - Staging ortamına gidilir
-* Giris Yap butonuna tiklanir
-* Element var mı kontrol et "loginButton"
-* Element var mı kontrol et "uyeOlButon"
-* Üye olmadan devam edilir
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
+* Giris Yap butonuna tiklanir
+* Element var mı kontrol et "girisYapButon"
+* Elementi bekle ve sonra tıkla "uyeOlTabButon"
+* Element var mı kontrol et "uyeOlSayfasiUyeOlButon"
+* Üye olmadan devam edilir
 
 
 Üye Adres Ekleme - Gel Al - Üye
@@ -156,7 +157,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Üyeliksiz - Kampanya 3
  tags:regressionStaging_sepeteKampanyaEklemeAdreseTeslimUyeliksizKampanya3
 
 * Dominos - Staging ortamına gidilir
-* Üyeliksiz, adrese teslim servis tipi seçilir ve anasayfaya devam edilir
+* Uyeliksiz, adrese teslim servis tipi secilir ve anasayfaya devam edilir (Stg)
 * Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
@@ -586,6 +587,7 @@ Adres Seçimi - Üyeliksiz - Adres Teslim - Manuel - Adres Seçimi
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
 * Kalem ikonuna tıklanır
 * Adrese teslim adres düzenleye tıklanır
+* Cookie varsa kapat butonuna tıklanır
 * Adrese teslim servis tipi için Sarıyer / Ayazaga  mah. adresi eklenir
 * Anasayfa İstanbul/Sarıyer/Ayazağa adresinin doğru geldiği kontrol edilir(Stg)
 
@@ -614,7 +616,7 @@ Adres Seçimi - Varolan Üye - Adres Teslim - Adreslerim - Adres Seçimi
 * Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Profilim popup Adreslerim butonuna tıklanır
-* Seçili ilk adrese tıklanır
+ Seçili ilk adrese tıklanır
 * Seçili adres ile devam edilir
 
 
@@ -2122,6 +2124,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Üyelik bilgilerim butonuna tıklanır
+* Cookie varsa kapat butonuna tıklanır
 * Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
 * KVKK checkboxı için değişikleri kaydet butonuna basılır
 * Vazgeç butonuna tıklanır
@@ -2143,6 +2146,7 @@ tags:regressionStaging_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
 * Üyelik bilgilerim butonuna tıklanır
+* Cookie varsa kapat butonuna tıklanır
 * Üyelik bilgilerime tıkladıktan sonra KVKK checkboxı işaretlenir
 * KVKK checkboxı için değişikleri kaydet butonuna basılır
 * Vazgeç butonuna tıklanır
@@ -2350,6 +2354,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyel
 * Profilim butonuna tıklanır
 * Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
 * Üyelik bilgilerim butonuna tıklanır
+* Cookie varsa kapat butonuna tıklanır
 * Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
 * Ye kazan checkboxı için değişikler kaydet butonuna basılır
 * Ye kazan ayrılmaktan vazgeç butonuna tıklanılır
@@ -2373,6 +2378,7 @@ tags:regressionStaging_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelik
 * Profilim butonuna tıklanır
 * Bedava pizza kazanmana 5 pizza kaldı yazısı kontrol edilir
 * Üyelik bilgilerim butonuna tıklanır
+* Cookie varsa kapat butonuna tıklanır
 * Üyelik bilgilerime girildikten sonraki sayfada Domino's ye kazan işaretlenir
 * Ye kazan checkboxı için değişikler kaydet butonuna basılır
 * Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır

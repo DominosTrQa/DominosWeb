@@ -12,13 +12,10 @@
 * Cookie varsa kapat butonuna tıklanır
 
 # Üye ol butonuna tıklanır
- Elementin yüklenmesini bekle ve tıkla "uyeOlButon"
 * "UyeOl" Giris dizayn secimi yapilir
- "5" saniye bekle
+* "5" saniye bekle
 
 # Giris Yap butonuna tiklanir
- "5" saniye bekle
- Elementi bekle ve sonra tıkla "girisYapButon"
 * "girisYap" Giris dizayn secimi yapilir
 * "5" saniye bekle
 
@@ -54,6 +51,10 @@
 * Elementi bekle ve sonra tıkla "mahalleDropdown"
 * "6" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleAyazagaMahallesi"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "caddeDropdownid"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "caddeYÜzBirSk"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtButon"
 * "4" saniye bekle
@@ -273,7 +274,7 @@
 * Elementi bekle ve sonra tıkla "sepeteEkleArti"
 
 # Profilim butonuna tıklanır
-* "4" saniye bekle
+* "7" saniye bekle
 * Elementi bekle ve sonra tıkla "profilMenuButon"
 * "2" saniye bekle
 
