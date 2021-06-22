@@ -1,14 +1,14 @@
 
 # Adrese Teslim servis tipi seçilir
 * "3" saniye bekle
-* Elementin yüklenmesini bekle ve tıkla "adreseTeslimButon"
+* "AdreseTeslim" adrese teslim - Gal al dizayn secimi
 * "3" saniye bekle
 
 # Gel Al servis tipi seçilir
-* Elementin yüklenmesini bekle ve tıkla "gelAlButon"
+* "GelAl" adrese teslim - Gal al dizayn secimi
 
 # Gel Al servis tipi seçilir (Stg)
-* Elementin yüklenmesini bekle ve tıkla "gelAlButon"
+* "GelAl" adrese teslim - Gal al dizayn secimi
 * Cookie varsa kapat butonuna tıklanır
 
 # Üye ol butonuna tıklanır
