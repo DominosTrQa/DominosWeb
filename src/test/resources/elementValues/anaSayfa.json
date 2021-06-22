@@ -155,6 +155,11 @@
     "type": "xpath"
   },
   {
+    "key": "uyeOlmadanDevamEtButtonXpath",
+    "value":"//a[@class='guestModal__Button-sc-12wwd2w-6 heKcHP sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO wpGps']",
+    "type": "xpath"
+  },
+  {
     "key": "uyeOlTabButon",
     "value":"DPE_TR_TAB_BUTTON1",
     "type": "id"

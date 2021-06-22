@@ -1423,7 +1423,7 @@ public class BaseSteps extends BaseTest {
   @Step("<text> Giris dizayn secimi yapilir")
   public void girisDizaynSecimi(String text) {
     waitBySeconds(5);
-    if (findElements("girisYapButon").size() > 0 && findElements("uyeOlButon").size() > 0) {
+    if (findElements("adreseTeslimButon").size() > 0) {
       logger.info("Eski Dizayna gidiliyor");
       switch (text) {
         case "girisYap":
@@ -1438,26 +1438,8 @@ public class BaseSteps extends BaseTest {
           break;
       }
     }
-     else if (findElements("yeniDizaynKontrolAnimation").size() > 0 ) {
-      logger.info("Yeni dizayna gidiliyor 2");
-      waitBySeconds(4);
-      getElementWithKeyIfExists("girisYapUyeOlButon");
-      clickElement("girisYapUyeOlButon");
-      switch (text) {
-        case "girisYap":
-          waitBySeconds(2);
-          getElementWithKeyIfExists("loginTabButon");
-          clickElement("loginTabButon");
-          break;
-        case "UyeOl":
-          waitBySeconds(2);
-          getElementWithKeyIfExists("uyeOlTabButon");
-          clickElement("uyeOlTabButon");
-          break;
-      }
-  }
-     else if (findElements("girisDizaynSecimiTextControl").size() > 0 ) {
-      logger.info("Yeni dizayna gidiliyor 3");
+     else {
+      logger.info("Yeni dizayna gidiliyor");
       waitBySeconds(4);
       switch (text) {
         case "girisYap":
@@ -1472,24 +1454,45 @@ public class BaseSteps extends BaseTest {
           break;
       }
   }
-      else {
-      logger.info("Yeni dizayna gidiliyor");
-      waitBySeconds(4);
-      getElementWithKeyIfExists("girisYapUyeOlButon");
-      clickElement("girisYapUyeOlButon");
+  }
+  @Step("<text> adrese teslim - Gal al dizayn secimi")
+  public void uyeOlmadanDizaynSecimi(String text) {
+    waitBySeconds(5);
+    if (findElements("adreseTeslimButon").size() > 0) {
+      logger.info("Eski dizayn uyeliksiz gidiliyor");
       switch (text) {
-        case "girisYap":
+        case "AdreseTeslim":
           waitBySeconds(2);
-          getElementWithKeyIfExists("loginTabButon");
-          clickElement("loginTabButon");
+          getElementWithKeyIfExists("adreseTeslimButon");
+          clickElement("adreseTeslimButon");
           break;
-        case "UyeOl":
+        case "GelAl":
           waitBySeconds(2);
-          getElementWithKeyIfExists("uyeOlTabButon");
-          clickElement("uyeOlTabButon");
+          getElementWithKeyIfExists("gelAlButon");
+          clickElement("gelAlButon");
           break;
       }
     }
+    else {
+      logger.info("Yeni dizayna uyeliksiz gidiliyor");
+      waitBySeconds(4);
+      getElementWithKeyIfExists("uyeOlmadanDevamEtButtonXpath");
+      clickElement("uyeOlmadanDevamEtButtonXpath");
+      waitBySeconds(4);
+      switch (text) {
+        case "AdreseTeslim":
+          waitBySeconds(2);
+          getElementWithKeyIfExists("adreseTeslimButon");
+          clickElement("adreseTeslimButon");
+          break;
+        case "GelAl":
+          waitBySeconds(2);
+          getElementWithKeyIfExists("gelAlButon");
+          clickElement("gelAlButon");
+          break;
+      }
+    }
+
   }
 
     @Step("Tarih secimi yapilir")
