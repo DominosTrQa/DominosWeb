@@ -150,6 +150,11 @@
     "type": "xpath"
   },
   {
+    "key": "girisDizaynSecimiTextControl",
+    "value":"//a[contains(text(),'Üye Olmadan Devam Et')]",
+    "type": "xpath"
+  },
+  {
     "key": "uyeOlTabButon",
     "value":"DPE_TR_TAB_BUTTON1",
     "type": "id"

@@ -1456,6 +1456,22 @@ public class BaseSteps extends BaseTest {
           break;
       }
   }
+     else if (findElements("girisDizaynSecimiTextControl").size() > 0 ) {
+      logger.info("Yeni dizayna gidiliyor 3");
+      waitBySeconds(4);
+      switch (text) {
+        case "girisYap":
+          waitBySeconds(2);
+          getElementWithKeyIfExists("loginButton");
+          clickElement("loginButton");
+          break;
+        case "UyeOl":
+          waitBySeconds(2);
+          getElementWithKeyIfExists("uyeOlButon");
+          clickElement("uyeOlButon");
+          break;
+      }
+  }
       else {
       logger.info("Yeni dizayna gidiliyor");
       waitBySeconds(4);
