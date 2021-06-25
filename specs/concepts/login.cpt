@@ -4,6 +4,7 @@
 
 # Parolamı Unuttum butonuna basılır ve textboxa mail adresi yazılır
 * Elementi bekle ve sonra tıkla "parolamiUnuttumButon"
+* "2" saniye bekle
 * "dominostest6@hotmail.com" textini "parolamiUnuttumEmailTextbox" elemente yaz
 
 # Şifremi Hatırlat butonunun çalıştığı kontrol edilir

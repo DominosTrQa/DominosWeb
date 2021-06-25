@@ -1428,8 +1428,8 @@ public class BaseSteps extends BaseTest {
       switch (text) {
         case "girisYap":
           waitBySeconds(2);
-          getElementWithKeyIfExists("girisYapButon");
-          clickElement("girisYapButon");
+          getElementWithKeyIfExists("loginButton");
+          clickElement("loginButton");
           break;
         case "UyeOl":
           waitBySeconds(2);
