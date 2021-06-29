@@ -966,6 +966,18 @@ public class BaseSteps extends BaseTest {
               logger.info("Cadde Secildi");
             }
             waitBySeconds(4);
+            try {
+              clickElement("apartmanNoid");
+            } catch (Exception e){
+              logger.info("Apartman Dropdown Secildi");
+            }
+            waitBySeconds(4);
+            try {
+              clickElement("apartmanNoUc");
+            } catch (Exception e){
+              logger.info("Apartman Secildi");
+            }
+            waitBySeconds(4);
             getElementWithKeyIfExists("seciliAdresIleDevamEtButon");
             clickElement("seciliAdresIleDevamEtButon");
 
@@ -1100,7 +1112,9 @@ public class BaseSteps extends BaseTest {
           clickElement("apartmanNoid");
         } catch (Exception e){
           logger.info("Apartman Dropdown Secildi");
-        }try {
+        }
+        waitBySeconds(4);
+        try {
           clickElement("apartmanNoUc");
         } catch (Exception e){
           logger.info("Apartman Secildi");
