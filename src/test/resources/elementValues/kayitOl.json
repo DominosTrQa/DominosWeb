@@ -146,7 +146,7 @@
   },
   {
     "key": "mahalleAyazagaMahallesi",
-    "value":"//div[text()='Ayazağa Mh.']",
+    "value":"//div[text()='Ayazağa']",
     "type": "xpath"
   },
   {
