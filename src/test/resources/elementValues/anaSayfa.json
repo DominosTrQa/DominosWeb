@@ -63,7 +63,8 @@
     "key": "mahalleBurgazadaMahallesi",
     "value":"//div[text()='Burgazada Mh.']",
     "type": "xpath"
-  },  {
+  },
+  {
     "key": "mahalleBurgazadaMahallesiStg",
     "value":"//div[text()='Burgazada']",
     "type": "xpath"
