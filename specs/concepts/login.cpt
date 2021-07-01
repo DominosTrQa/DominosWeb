@@ -348,7 +348,6 @@
 * Elementi bekle ve sonra tıkla "adreseTeslimButon"
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir (Stg)
 
-
 # Gel al servis tipi secilir ve kontrolu yapilir
 * "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
 * "GelAl" servis tipi kontrolü yapılır
