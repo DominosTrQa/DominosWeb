@@ -351,3 +351,7 @@
 # Gel al servis tipi secilir ve kontrolu yapilir
 * "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
 * "GelAl" servis tipi kontrolü yapılır
+
+# Gel al servis tipi secilir ve kontrolu yapilir (Stg)
+* "gelAlButon" servis tipi seçilir ve adres seçimi yapılır
+* "GelAl" servis tipi kontrolü yapılır

@@ -38,22 +38,40 @@
     "key": "cazipPizzalar",
     "value":"DPE_TR_PIZZAS_TAB0",
     "type": "id"
-  }
-,
+  },
   {
     "key": "cazipPizzalarButon1",
     "value":"DPE_TR_PIZZAS_TAB0_CARD0",
     "type": "id"
   },
   {
+    "key": "cazipPizzalarButon2",
+    "value":"DPE_TR_PIZZAS_TAB0_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "cazipPizzalarButon5",
+    "value":"DPE_TR_PIZZAS_TAB0_CARD4",
+    "type": "id"
+  },
+  {
     "key": "ozelPizzalar",
     "value":"DPE_TR_PIZZAS_TAB1",
     "type": "id"
-  }
-,
+  },
   {
     "key": "ozelPizzalarButon1",
     "value":"DPE_TR_PIZZAS_TAB1_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "ozelPizzalarButon2",
+    "value":"DPE_TR_PIZZAS_TAB1_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "ozelPizzalarButon5",
+    "value":"DPE_TR_PIZZAS_TAB1_CARD4",
     "type": "id"
   },
   {
@@ -65,22 +83,40 @@
     "key": "bolMalzemePizzalar",
     "value":"DPE_TR_PIZZAS_TAB2",
     "type": "id"
-  }
-,
+  },
   {
     "key": "bolMalzemePizzalarButon1",
     "value":"DPE_TR_PIZZAS_TAB2_CARD0",
     "type": "id"
   },
   {
+    "key": "bolMalzemePizzalarButon2",
+    "value":"DPE_TR_PIZZAS_TAB2_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "bolMalzemePizzalarButon5",
+    "value":"DPE_TR_PIZZAS_TAB2_CARD4",
+    "type": "id"
+  },
+  {
     "key": "gurmePizzalar",
     "value":"DPE_TR_PIZZAS_TAB3",
     "type": "id"
-  }
-,
+  },
   {
     "key": "gurmePizzalarButon1",
     "value":"DPE_TR_PIZZAS_TAB3_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "gurmePizzalarButon2",
+    "value":"DPE_TR_PIZZAS_TAB3_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "gurmePizzalarButon5",
+    "value":"DPE_TR_PIZZAS_TAB3_CARD4",
     "type": "id"
   }
 ]

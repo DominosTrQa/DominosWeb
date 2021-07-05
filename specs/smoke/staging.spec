@@ -189,7 +189,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Dominos - Staging ortamına gidilir
 * Giris Yap butonuna tiklanir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Adrese teslim servis tipi secilir ve kontrolu yapilir (Stg)
 * Cookie varsa kapat butonuna tıklanır
 * Gel al servis tipi secilir ve kontrolu yapilir
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
