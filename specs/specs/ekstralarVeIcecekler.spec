@@ -57,7 +57,7 @@ tags:ekstralarVeIcecekler_anasayfaEkstralarveiceceklerEkmeklerSayfaKontrolu
 
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Ekstra Lezzetlere gidilir
-* Ekmekler tabına tıklanır
+* Ekmekler tabina tiklanir
 * Ekstra lezzetler sayfasında tab de sağ ve sol oka basılır
 
 
@@ -144,8 +144,8 @@ tags:ekstralarVeIcecekler_anasayfaEkstralarveiceceklerHerTabdaEkleButonKontrolu
 * Ekmek Arası ekranı kontrol edilir
 * Tavuklar tabına tıklanır
 * Tavuklar ekranı kontrol edilir
-* Ekmekler tabına tıklanır
-* Ekmekler ekranı kontrol edilir
+* Ekmekler tabina tiklanir
+* Ekmekler ekrani kontrol edilir
 * Tatlılar tabına tıklanır
 * Tatlılar ekranı kontrol edilir
  Salatalar tabına tıklanır

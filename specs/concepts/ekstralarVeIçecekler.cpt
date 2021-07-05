@@ -1,4 +1,14 @@
 
+# Ekstalar ve icecekler butonuna tiklanir
+* Elementi bekle ve sonra tıkla "extralarIceceklerButon"
+* "2" saniye bekle
+
+# Kahveler butonuna tiklanir ve kahvelerin geldigi kontrol edilir
+* Elementi bekle ve sonra tıkla "extraLezzetlerKahvelerButon"
+* Element var mı kontrol et "kahvelerButon1"
+* Element var mı kontrol et "kahvelerButon2"
+* "2" saniye bekle
+
 # Dürümler ekranı kontrol edilir
 * Element var mı kontrol et "durumlerButon1"
 * Element var mı kontrol et "durumlerButon2"
@@ -26,15 +36,38 @@
 * Element var mı kontrol et "tavuklarButon8"
 * Element var mı kontrol et "tavuklarButon9"
 * Element var mı kontrol et "tavuklarButon10"
+* Element var mı kontrol et "tavuklarButon11"
+* Element var mı kontrol et "tavuklarButon12"
+* Element var mı kontrol et "tavuklarButon19"
 * "2" saniye bekle
+
+# Makarnalar ekrani kontrol edilir
+* Element var mı kontrol et "makarnalarButon1"
+* Element var mı kontrol et "makarnalarButon2"
+* Element var mı kontrol et "makarnalarButon3"
+* Element var mı kontrol et "makarnalarButon4"
+
+# Patates cips ekrani kontrol edilir
+* Element var mı kontrol et "patatesCipsButon1"
+* Element var mı kontrol et "patatesCipsButon2"
+* Element var mı kontrol et "patatesCipsButon3"
+* Element var mı kontrol et "patatesCipsButon4"
+* Element var mı kontrol et "patatesCipsButon5"
+* Element var mı kontrol et "patatesCipsButon6"
 
 # Tatlılar ekranı kontrol edilir
 * Element var mı kontrol et "tatlilarButon1"
 * Element var mı kontrol et "tatlilarButon2"
- Element var mı kontrol et "tatlilarButon3"
+* Element var mı kontrol et "tatlilarButon3"
 * "2" saniye bekle
 
-# Ekmekler ekranı kontrol edilir
+# Tostilla ekrani kontrol edilir
+* Element var mı kontrol et "tostillaButon1"
+* Element var mı kontrol et "tostillaButon2"
+* Element var mı kontrol et "tostillaButon3"
+* "2" saniye bekle
+
+# Ekmekler ekrani kontrol edilir
 * Element var mı kontrol et "ekmeklerButon1"
 * Element var mı kontrol et "ekmeklerButon2"
 * "2" saniye bekle
@@ -71,6 +104,8 @@
 * Element var mı kontrol et "soslarButon1"
 * Element var mı kontrol et "soslarButon2"
 * Element var mı kontrol et "soslarButon3"
+* Element var mı kontrol et "soslarButon4"
+* Element var mı kontrol et "soslarButon5"
 * "2" saniye bekle
 
 # İçecekler tabına tıklanır
@@ -90,11 +125,21 @@
 # Tavuklar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extraLezzetlerTabTavuklarButon"
 
+# Makarnalar tabina tiklanir
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabMakarnalarButon"
+
+# Patates cips tabina tiklanir
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabPatatesCipsButon"
+
 # Tatlılar tabına tıklanır
 * Elementi bekle ve sonra tıkla "extraLezzetlerTabTatlilarButon"
 * "2" saniye bekle
 
-# Ekmekler tabına tıklanır
+# Tostilla tabina tiklanir
+* Elementi bekle ve sonra tıkla "extraLezzetlerTabTostillaButon"
+* "2" saniye bekle
+
+# Ekmekler tabina tiklanir
 * Elementi bekle ve sonra tıkla "extraLezzetlerTabEkmeklerButon"
 
 # Salatalar tabına tıklanır
@@ -143,4 +188,32 @@
 
 # Sepette Sufle olduğu kontrol edilir
 * Element var mı kontrol et "sepettekiSufle"
+
+# Cazip pizzalara tiklanir ve pizzalarin geldigi kontrol edilir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "cazipPizzalar"
+* Element var mı kontrol et "cazipPizzalarButon1"
+* Element var mı kontrol et "cazipPizzalarButon2"
+* Element var mı kontrol et "cazipPizzalarButon5"
+
+# Ozel pizzalara tiklanir ve pizzalarin geldigi kontrol edilir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "ozelPizzalar"
+* Element var mı kontrol et "ozelPizzalarButon1"
+* Element var mı kontrol et "ozelPizzalarButon2"
+* Element var mı kontrol et "ozelPizzalarButon5"
+
+# Bol malzeme pizzalara tiklanir ve pizzalarin geldigi kontrol edilir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "bolMalzemePizzalar"
+* Element var mı kontrol et "bolMalzemePizzalarButon1"
+* Element var mı kontrol et "bolMalzemePizzalarButon2"
+* Element var mı kontrol et "bolMalzemePizzalarButon5"
+
+# Gurme pizzalara tiklanir ve pizzalarin geldigi kontrol edilir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "gurmePizzalar"
+* Element var mı kontrol et "gurmePizzalarButon1"
+* Element var mı kontrol et "gurmePizzalarButon2"
+* Element var mı kontrol et "gurmePizzalarButon5"
 

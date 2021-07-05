@@ -5,12 +5,17 @@
     "type": "id"
   },
   {
+    "key": "extralarIceceklerButon",
+    "value": "DPE_TR_HOME_BUTTON_HEADERITEM2",
+    "type": "id"
+  },
+  {
     "key": "extraLezzetlerTabSagOkButon",
     "value": "DPE_TR_SIDEPRODUCT_TABRIGHT",
     "type": "id"
   },
   {
-    "key": "extraLezzetlerTabDurumlerButon",
+    "key": "extraLezzetlerKahvelerButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB0",
     "type": "id"
   },
@@ -20,33 +25,48 @@
     "type": "id"
   },
   {
-    "key": "extraLezzetlerTabEkmekArasiButon",
+    "key": "extraLezzetlerTabDurumlerButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB2",
     "type": "id"
   },
   {
-    "key": "extraLezzetlerTabTavuklarButon",
+    "key": "extraLezzetlerTabEkmekArasiButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB3",
     "type": "id"
   },
   {
-    "key": "extraLezzetlerTabEkmeklerButon",
+    "key": "extraLezzetlerTabTavuklarButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB4",
     "type": "id"
   },
   {
-    "key": "extraLezzetlerTabTatlilarButon",
+    "key": "extraLezzetlerTabMakarnalarButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB5",
     "type": "id"
   },
   {
-    "key": "extraLezzetlerTabSalatalarButon",
+    "key": "extraLezzetlerTabPatatesCipsButon",
     "value": "DPE_TR_SIDEPRODUCT_TAB6",
     "type": "id"
   },
   {
+    "key": "extraLezzetlerTabTatlilarButon",
+    "value": "DPE_TR_SIDEPRODUCT_TAB7",
+    "type": "id"
+  },
+  {
+    "key": "extraLezzetlerTabTostillaButon",
+    "value": "DPE_TR_SIDEPRODUCT_TAB8",
+    "type": "id"
+  },
+  {
+    "key": "extraLezzetlerTabEkmeklerButon",
+    "value": "DPE_TR_SIDEPRODUCT_TAB9",
+    "type": "id"
+  },
+  {
     "key": "extraLezzetlerTabSoslarButon",
-    "value": "DPE_TR_SIDEPRODUCT_TAB6",
+    "value": "DPE_TR_SIDEPRODUCT_TAB10",
     "type": "id"
   },
   {
@@ -60,133 +80,218 @@
     "type": "xpath"
   },
   {
-    "key": "durumlerButon1",
+    "key": "kahvelerButon1",
     "value": "DPE_TR_SIDEPRODUCTS_TAB0_CARD0",
     "type": "id"
   },
   {
-    "key": "durumlerButon2",
+    "key": "kahvelerButon2",
     "value": "DPE_TR_SIDEPRODUCTS_TAB0_CARD1",
     "type": "id"
   },
   {
-    "key": "durumlerButon3",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB0_CARD2",
-    "type": "id"
-  },
-  {
-    "key": "ekmekArasiButon1",
+    "key": "durumlerButon1",
     "value": "DPE_TR_SIDEPRODUCTS_TAB2_CARD0",
     "type": "id"
   },
   {
-    "key": "ekmekArasiButon2",
+    "key": "durumlerButon2",
     "value": "DPE_TR_SIDEPRODUCTS_TAB2_CARD1",
     "type": "id"
   },
   {
-    "key": "ekmekArasiButon3",
+    "key": "durumlerButon3",
     "value": "DPE_TR_SIDEPRODUCTS_TAB2_CARD2",
     "type": "id"
   },
   {
-    "key": "ekmekArasiButon4",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB2_CARD3",
-    "type": "id"
-  },
-  {
-    "key": "ekmekArasiButon5",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB2_CARD4",
-    "type": "id"
-  },
-  {
-    "key": "ekmekArasiButon6",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB2_CARD5",
-    "type": "id"
-  },
-  {
-    "key": "ekmekArasiButon7",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB2_CARD6",
-    "type": "id"
-  },
-  {
-    "key": "tavuklarButon1",
+    "key": "ekmekArasiButon1",
     "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD0",
     "type": "id"
   },
   {
-    "key": "tavuklarButon2",
+    "key": "ekmekArasiButon2",
     "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD1",
     "type": "id"
   },
   {
-    "key": "tavuklarButon3",
+    "key": "ekmekArasiButon3",
     "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD2",
     "type": "id"
   },
   {
-    "key": "tavuklarButon4",
+    "key": "ekmekArasiButon4",
     "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD3",
     "type": "id"
   },
   {
-    "key": "tavuklarButon5",
+    "key": "ekmekArasiButon5",
     "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD4",
     "type": "id"
   },
   {
-    "key": "tavuklarButon6",
+    "key": "ekmekArasiButon6",
     "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD5",
     "type": "id"
   },
   {
-    "key": "tavuklarButon7",
+    "key": "ekmekArasiButon7",
     "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD6",
     "type": "id"
   },
   {
-    "key": "tavuklarButon8",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD7",
-    "type": "id"
-  },
-  {
-    "key": "tavuklarButon9",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD8",
-    "type": "id"
-  },
-  {
-    "key": "tavuklarButon10",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB3_CARD9",
-    "type": "id"
-  },
-  {
-    "key": "tatlilarButon1",
+    "key": "makarnalarButon1",
     "value": "DPE_TR_SIDEPRODUCTS_TAB5_CARD0",
     "type": "id"
   },
   {
-    "key": "tatlilarButon2",
+    "key": "makarnalarButon2",
     "value": "DPE_TR_SIDEPRODUCTS_TAB5_CARD1",
     "type": "id"
   },
   {
-    "key": "tatlilarButon3",
+    "key": "makarnalarButon3",
     "value": "DPE_TR_SIDEPRODUCTS_TAB5_CARD2",
     "type": "id"
   },
   {
-    "key": "ekmeklerButon1",
+    "key": "makarnalarButon4",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB5_CARD3",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon1",
     "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD0",
     "type": "id"
   },
   {
-    "key": "ekmeklerButon2",
+    "key": "tavuklarButon2",
     "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD1",
     "type": "id"
   },
   {
-    "key": "salatalarButon1",
+    "key": "tavuklarButon3",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon4",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD3",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon5",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD4",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon6",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD5",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon7",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD6",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon8",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD7",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon9",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD8",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon10",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD9",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon11",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD10",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon12",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD11",
+    "type": "id"
+  },
+  {
+    "key": "tavuklarButon19",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB4_CARD18",
+    "type": "id"
+  },
+  {
+    "key": "patatesCipsButon1",
     "value": "DPE_TR_SIDEPRODUCTS_TAB6_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "patatesCipsButon2",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB6_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "patatesCipsButon3",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB6_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "patatesCipsButon4",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB6_CARD3",
+    "type": "id"
+  },
+  {
+    "key": "patatesCipsButon5",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB6_CARD4",
+    "type": "id"
+  },
+  {
+    "key": "patatesCipsButon6",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB6_CARD5",
+    "type": "id"
+  },
+  {
+    "key": "tatlilarButon1",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB7_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "tatlilarButon2",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB7_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "tatlilarButon3",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB7_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "tostillaButon1",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB8_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "tostillaButon2",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB8_CARD1",
+    "type": "id"
+  },
+  {
+    "key": "tostillaButon3",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB8_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "ekmeklerButon1",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB9_CARD0",
+    "type": "id"
+  },
+  {
+    "key": "ekmeklerButon2",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB9_CARD1",
     "type": "id"
   },
   {
@@ -296,17 +401,27 @@
   },
   {
     "key": "soslarButon1",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB6_CARD0",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB10_CARD0",
     "type": "id"
   },
   {
     "key": "soslarButon2",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB6_CARD1",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB10_CARD1",
     "type": "id"
   },
   {
     "key": "soslarButon3",
-    "value": "DPE_TR_SIDEPRODUCTS_TAB6_CARD2",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB10_CARD2",
+    "type": "id"
+  },
+  {
+    "key": "soslarButon4",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB10_CARD3",
+    "type": "id"
+  },
+  {
+    "key": "soslarButon5",
+    "value": "DPE_TR_SIDEPRODUCTS_TAB10_CARD4",
     "type": "id"
   },
   {
