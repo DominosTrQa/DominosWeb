@@ -10,6 +10,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir (Stg)
 * Cookie varsa kapat butonuna tıklanır
@@ -38,6 +39,7 @@ tags:smokeStaging_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm pizzalar alanına kaydırılır

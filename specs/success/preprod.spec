@@ -20,6 +20,7 @@ tags:successPreprod_uyeOlma
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
 * KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
+* Telefon dogrulama kodu girilir ve dogrulanir
 
 
 Üye Adres Ekleme - Adrese Teslim - Üye
@@ -455,6 +456,7 @@ tags:successPreprod_siparisIslemleriCanliTestAdresiManuel
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -478,6 +480,7 @@ tags:successPreprod_siparisIslemleriCanliTestAdresiDropdown
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -517,6 +520,7 @@ tags:successPreprod_subeAtamaYeniUyeGelAlIlIlce
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
@@ -533,3 +537,23 @@ tags:successPreprod_subeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
+
+
+Uye Ol - Telefon Dogrulama - Kayitli Olmayan Telefon
+--------------------------------------------
+tags:successPreprod_uyeOlTelefonDogrulamaKayitliOlmayanTelefon
+* Dominos - Preprod ortamına gidilir
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail telefon ve sifre girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama dogrula ve güncelle butonun geldigi kontrol edilir
+
+
+Uye Ol - Telefon Dogrulama - Kayitli Telefon
+--------------------------------------------
+tags:successPreprod_uyeOlTelefonDogrulamaKayitliTelefon
+* Dominos - Preprod ortamına gidilir
+* Üye ol butonuna tıklanır
+* Ad Soyad Random mail sifre ve kayitli telefon girilir
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kayitli telefon kontrol edilir

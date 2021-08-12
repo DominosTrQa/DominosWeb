@@ -45,11 +45,28 @@
 * "Test" textini "uyeOlAdTextbox" elemente yaz
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
-*"uyeOlTelefonTextbox" li elementine random telefon numarası yaz
+* "uyeOlTelefonTextbox" li elementine random telefon numarası yaz
 * "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
 * "Test1234" textini "uyeOlSifreTexbox" elemente yaz
 * "Test1234" textini "uyeOlSifreyTekrarTextbox" elemente yaz
 * "2" saniye bekle
+
+# Ad Soyad Random mail sifre ve kayitli telefon girilir
+* "3" saniye bekle
+* "Test" textini "uyeOlAdTextbox" elemente yaz
+* "Test" textini "uyeOlSoyadTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
+* "498108583" textini "uyeOlTelefonTextbox" elemente yaz
+* "uyeOlEmailTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
+* "Test1234" textini "uyeOlSifreTexbox" elemente yaz
+* "Test1234" textini "uyeOlSifreyTekrarTextbox" elemente yaz
+* "2" saniye bekle
+
+# Telefon dogrulama kodu girilir ve dogrulanir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "otpInput1"
+* Telefon dogrulama kodu girilir
+* Elementi bekle ve sonra tıkla "otpDogrulaVeGuncelleButon"
 
 # Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
@@ -127,6 +144,7 @@
 * Ad Soyad Random mail telefon ve sifre girilir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * "2" saniye bekle
@@ -136,6 +154,7 @@
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 
@@ -184,6 +203,7 @@
 * Ad Soyad Random mail telefon ve sifre girilir
 * Elementi bekle ve sonra tıkla "uyeOlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie varsa kapat butonuna tıklanır

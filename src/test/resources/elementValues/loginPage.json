@@ -100,6 +100,21 @@
     "type": "id"
   },
   {
+    "key": "otpInput1",
+    "value":"(//input[@class='digit-input__StyledInput-irrpoh-0 jHJRtS'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "otpDogrulaVeGuncelleButon",
+    "value":"DPE_TR_OTP_MODAL_BUTTON_CONFIRM",
+    "type": "id"
+  },
+  {
+    "key": "otpYeniHesapOlusturButon",
+    "value":"DPE_TR_SIGNUP_BUTTON_PHONE_EXISTS_CREATE_NEW",
+    "type": "id"
+  },
+  {
     "key": "uyeOlSayfasiKVKKCheckbox",
     "value":"DPE_TR_SIGNUP_CHECKBOX_TERMS2",
     "type": "id"

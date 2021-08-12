@@ -6,6 +6,7 @@ import WebAutomationBase.helper.StoreHelper;
 import WebAutomationBase.model.ElementInfo;
 import com.thoughtworks.gauge.Step;
 
+import java.io.Console;
 import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;
@@ -1509,17 +1510,18 @@ public class BaseSteps extends BaseTest {
 
   }
 
-    @Step("Tarih secimi yapilir")
-    public void tarihSecimi() {
 
-      DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MM/YYYY");
-      LocalDateTime now = LocalDateTime.now();
-      webDriver.findElement("tarihSecButon").click();
-      webDriver.findElement("tarihSecButon").sendKeys(dtf.format(now));
+  @Step("Telefon dogrulama kodu girilir")
+  public void otpTarihFormati() {
+    LocalDateTime now = LocalDateTime.now();
+    DateTimeFormatter format = DateTimeFormatter.ofPattern("MMddHH");
+    String formatDateTime = now.format(format);
+    logger.info(formatDateTime);
+    WebElement webElement = findElementWithKey("otpInput1");
+    webElement.sendKeys(formatDateTime);
 
+  }
 
-    }
-  
 }
 
 
