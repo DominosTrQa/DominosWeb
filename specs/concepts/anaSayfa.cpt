@@ -678,3 +678,11 @@
 # Anasayfada şubenin Düzce Şubesi olduğu kontrol edilir
 * "3" saniye bekle
 * Element var mı kontrol et "subeDuzceSubesiKontrol"
+
+# Telefon dogrulama dogrula ve güncelle butonun geldigi kontrol edilir
+* "2" saniye bekle
+* Element var mı kontrol et "otpDogrulaVeGuncelleButon"
+
+# Telefon dogrulama kayitli telefon kontrol edilir
+* "2" saniye bekle
+* Element var mı kontrol et "otpYeniHesapOlusturButon"

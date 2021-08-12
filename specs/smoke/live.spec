@@ -10,6 +10,7 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie varsa kapat butonuna tıklanır
