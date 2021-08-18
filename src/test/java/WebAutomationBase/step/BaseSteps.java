@@ -1516,10 +1516,17 @@ public class BaseSteps extends BaseTest {
     LocalDateTime now = LocalDateTime.now();
     DateTimeFormatter format = DateTimeFormatter.ofPattern("MMddHH");
     String formatDateTime = now.format(format);
+    int formatDateTimeInt = Integer.parseInt(formatDateTime);
+    int newDateTimeInt = formatDateTimeInt - 3;
+    String newDateTime = String.valueOf("0" + newDateTimeInt);
     logger.info(formatDateTime);
+    System.out.println(formatDateTimeInt);
+    logger.info(newDateTime);
+    getElementWithKeyIfExists("otpInput1");
+    clickElement("otpInput1");
     WebElement webElement = findElementWithKey("otpInput1");
-    webElement.sendKeys(formatDateTime);
-
+    webElement.clear();
+    webElement.sendKeys(newDateTime);
   }
 
 }

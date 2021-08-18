@@ -40,6 +40,7 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Tüm pizzalar alanına kaydırılır
