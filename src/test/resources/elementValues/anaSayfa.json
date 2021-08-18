@@ -521,7 +521,7 @@
   },
   {
     "key": "OnaySayfasiSipariseKapaliSubesiTextKontrol",
-    "value":"//h3[contains(text(),'99362 - Siparişe Kapal')]",
+    "value":"//h3[contains(text(),'Siparişe Kapalı')]",
     "type": "xpath"
   },
   {
