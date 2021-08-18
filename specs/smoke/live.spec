@@ -53,7 +53,7 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -202,7 +202,7 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Sipariş tamamlanır
 * Siparis kodu text kontrolu yapılır
 
