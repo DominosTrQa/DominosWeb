@@ -57,6 +57,7 @@ tags:regressionLive_uyeOlma
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
 * KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
+* Telefon dogrulama kodu girilir ve dogrulanir
 
 
 Üye Olma - Ekran Kontrolü
@@ -76,6 +77,7 @@ tags:regressionLive_uyeOlmazBasariliUyeOlma
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
 
@@ -95,6 +97,7 @@ tags:regressionLive_uyeOlmazBasariliUyeOlma
 * Dominos - Live ortamına gidilir
 * Üye ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur ve iletişim kanalları seçilir
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese teslim ve gel al butonlarının geldiği kontrol edilir
 
 
@@ -574,6 +577,7 @@ tags:regressionLive_sepettenUpsellEklemeGelAlYeniUye
 * Ye kazan popupında üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Sipariş ver butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir
 * Onay sayfasında Çikolatalı Sufle yazısının geldiği kontrol edilir
@@ -2550,6 +2554,7 @@ tags:regressionLive_siparisIslemleriCanliTestAdresiManuel
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie varsa kapat butonuna tıklanır
@@ -2573,6 +2578,7 @@ tags:regressionLive_siparisIslemleriCanliTestAdresiDropdown
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie varsa kapat butonuna tıklanır
@@ -2621,6 +2627,7 @@ tags:regressionLive_subeAtamaYeniUyeAdreseTeslimYalnizcaIl
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adıyaman ili seçilir
 * Anasayfada Adıyaman ili adresinin geldiği kontrol edilir
@@ -2634,6 +2641,7 @@ tags:regressionLive_subeAtamaYeniUye_gelAlYalnizcaIl
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adıyaman adresi eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
@@ -2698,6 +2706,7 @@ tags:regressionLive_subeAtamaYeniUyeAdreseTeslimIlIlce
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Düzce ili seçilir
 * Anasayfada Düzce/Akcakoca adresinin geldiği kontrol edilir
@@ -2711,6 +2720,7 @@ tags:regressionLive_subeAtamaYeniUyeGelAlIlIlce
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Düzce/Akcakoca eklenir
 * Gel Al da Şubeleri Göster butonuna tıklanır
@@ -2770,6 +2780,7 @@ tags:regressionLive_subeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfa İstanbul/Adalar/Burgazada adresinin doğru geldiği kontrol edilir
@@ -2783,6 +2794,7 @@ tags:regressionLive_subeAtamaYeniUyeGelAlIlIlceMahalle
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
@@ -2827,6 +2839,7 @@ tags:regressionLive_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Ahu sk seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
@@ -2860,6 +2873,7 @@ tags:regressionLive_subeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * İstanbul, Beşiktaş, Etiler mh, Bahtiyar sk, Apartman No 2 seçilir
 * Anasayfada İstanbul/Beşiktaş/Etiler Mah. geldiği doğrulanır
@@ -2972,6 +2986,7 @@ tags:regressionLive_uyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 * Açık rıza metni KVKK işaretlenir
 * Üye olurken KVKK sözleşmesi için eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
@@ -2993,6 +3008,7 @@ tags:regressionLive_uyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 * Açık rıza metni KVKK işaretlenir
 * Üye olurken KVKK sözleşmesi için eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
@@ -3212,6 +3228,7 @@ tags:regressionLive_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikB
 * Ye kazan checkbox işaretlenir
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
@@ -3235,6 +3252,7 @@ tags:regressionLive_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBil
 * Ye kazan checkbox işaretlenir
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
@@ -3259,6 +3277,7 @@ tags:regressionLive_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisProfili
 * Ye kazan checkbox işaretlenir
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır
@@ -3279,6 +3298,7 @@ tags:regressionLive_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisProfilim
 * Ye kazan checkbox işaretlenir
 * Üye olurken ye kazan seçildikten sonra eposta işaretlenir
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Profilim butonuna tıklanır

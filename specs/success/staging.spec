@@ -20,6 +20,7 @@ tags:successStaging_uyeOlma
 * Üye olmak için bilgiler girilir
 * Mesafeli satış sözleşmesi işaretlenir
 * KVKK ve Ye Kazan E-Posta seçilir ve üye olunur
+* Telefon dogrulama kodu girilir ve dogrulanir
 
 
 Üye Adres Ekleme - Adrese Teslim - Üye
@@ -208,6 +209,7 @@ tags:successStaging_sepettenUpsellEklemeGelAlYeniUye
 * Ye kazan popupında üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Sipariş ver butonuna tıklanır
 * Yemek cekleri ve kartlari odeme tipi secilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
@@ -436,6 +438,7 @@ tags:successStaging_siparisIslemleriCanliTestAdresiManuel
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -459,6 +462,7 @@ tags:successStaging_siparisIslemleriCanliTestAdresiDropdown
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
@@ -510,6 +514,7 @@ tags:successStaging_subeAtamaYeniUyeGelAlIlIlceMahalle
 * Üye ol butonuna tıklanır
 * Ad Soyad Random mail telefon ve sifre girilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
