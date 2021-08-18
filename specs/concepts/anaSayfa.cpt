@@ -598,6 +598,9 @@
 # Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Element var mı kontrol et "OnaySayfasiSipariseKapaliSubesiTextKontrol"
 
+# Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
+* Element var mı kontrol et "OnaySayfasiSipariseKapaliSubesiTextKontrolGelAl"
+
 # Onay sayfası şubenin Test Pulse Şubesi olduğu kontrol edilir
 * Element var mı kontrol et "OnaySayfasisubeTestPulseKontrol"
 
