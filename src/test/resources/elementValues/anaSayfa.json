@@ -525,8 +525,18 @@
     "type": "xpath"
   },
   {
+    "key": "OnaySayfasiSipariseKapaliSubesiTextKontrolPreProd",
+    "value":"//h6[contains(text(),'Siparişe Kapalı')]",
+    "type": "xpath"
+  },
+  {
     "key": "OnaySayfasiSipariseKapaliSubesiTextKontrolGelAl",
     "value":"//h3[contains(text(),'99362 - Siparişe Kapali')]",
+    "type": "xpath"
+  },
+  {
+    "key": "OnaySayfasiSipariseKapaliSubesiTextKontrolGelAlPreProd",
+    "value":"//h6[contains(text(),'99362 - Siparişe Kapali')]",
     "type": "xpath"
   },
   {

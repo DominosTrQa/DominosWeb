@@ -291,6 +291,12 @@
 * Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "odemeyiTamamla"
 
+# Siparis tamamlanir (PreProd)
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeMesafeliSatisSozelesmesiCheckbox"
+* Siparisi tamamla butonu geldigi kontrol edilir (PreProd)
+* Elementi bekle ve sonra tıkla "siparisiTamamla"
+
 # Sipariş tamamlanır(guest)
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
@@ -365,6 +371,11 @@
 * Elementi bekle ve sonra tıkla "odemeSekliKrediKartiNew"
 * "odemeDevamButon" alanına kaydır
 * Elementi bekle ve sonra tıkla "odemeDevamButon"
+
+# Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliKrediKartiNew"
+ * Siparis tamamlanir (PreProd)
 
 # Kapıda ödeme Smart Sodexo Kart seçeneği ile devam edilir
 * "5" saniye bekle
