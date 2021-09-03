@@ -1171,8 +1171,8 @@ public class BaseSteps extends BaseTest {
       getElementWithKeyIfExists("adresKaydetButon");
       clickElement("adresKaydetButon");
       waitBySeconds(4);
-      getElementWithKeyIfExists("uyelikBilgilerimAdreslerimIlkAdres");
-      clickElement("uyelikBilgilerimAdreslerimIlkAdres");
+      //getElementWithKeyIfExists("uyelikBilgilerimAdreslerimIlkAdres");
+      //clickElement("uyelikBilgilerimAdreslerimIlkAdres");
       waitBySeconds(2);
       getElementWithKeyIfExists("siparisSayfasiSeciliAdresIleDevamEtButon");
       clickElement("siparisSayfasiSeciliAdresIleDevamEtButon");

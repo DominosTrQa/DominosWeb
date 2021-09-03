@@ -26,7 +26,7 @@ tags:smokeStaging_kullaniciIlkkezGeliyorAdreseTeslim
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 
@@ -52,7 +52,7 @@ tags:smokeStaging_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır (Stg)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 
@@ -80,7 +80,7 @@ tags:smokeStaging_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sipariş ver butonuna tıklanır (Stg)
 * Üye olmadan devam edilir butonuna tıklanır
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Sipariş tamamlanır(guest)
@@ -111,7 +111,7 @@ tags:smokeStaging_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Adresi secilir ve secili adres ile devam et butonuna basilir (Stg)
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Sipariş tamamlanır(guest)
@@ -144,7 +144,7 @@ tags:smokeStaging_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel) Guest
 * Kapıda ödeme Nakit seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -191,8 +191,8 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Dominos - Staging ortamına gidilir
 * Giris Yap butonuna tiklanir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Adrese teslim servis tipi secilir ve kontrolu yapilir (Stg)
 * Cookie varsa kapat butonuna tıklanır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir (Stg)
 * Gel al servis tipi secilir ve kontrolu yapilir
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
@@ -205,7 +205,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
 * Ödemeyi tamamla butonu geldiği kontrol edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Sipariş tamamlanır
 
 
@@ -216,8 +216,8 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Dominos - Staging ortamına gidilir
 * Giris Yap butonuna tiklanir
 * "dominostest6@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
-* Gel al servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
+* Gel al servis tipi secilir ve kontrolu yapilir
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Tüm Kampanyalar Butonuna tıklanır
@@ -231,7 +231,7 @@ tags:smokeStaging_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sipariş ver butonuna tıklanır (Stg)
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir (Stg)
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır

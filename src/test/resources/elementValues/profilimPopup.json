@@ -125,6 +125,11 @@
     "type": "xpath"
   },
   {
+    "key": "profilimPopupCikisYapButon",
+    "value":"DPE_TR_HOME_BUTTON_PROFILEMENU_ITEM7",
+    "type": "id"
+  },
+  {
     "key": "profilimPopupAdreslerimLinkText",
     "value":"//a[contains(text(),'Adreslerim')]",
     "type": "xpath"
