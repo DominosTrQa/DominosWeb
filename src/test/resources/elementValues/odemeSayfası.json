@@ -60,6 +60,11 @@
     "type": "id"
   },
   {
+    "key": "ilkAdresButon",
+    "value":"DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSITEM0",
+    "type": "id"
+  },
+  {
     "key": "adresEkleButon",
     "value":"//button[@class='sc-1mahmit-0-button-buttons__ButtonBase-bPYnhn hZsWWW']",
     "type": "xpath"
@@ -97,6 +102,11 @@
   {
     "key": "odemeyiTamamla",
     "value":"DPE_TR_ORDERCONFIRM_BUTTON_ORDER-D",
+    "type": "id"
+  },
+  {
+    "key": "siparisiTamamla",
+    "value":"DPE_TR_PAYMENTOPTIONS_BUTTON_COMPLETED",
     "type": "id"
   },
   {

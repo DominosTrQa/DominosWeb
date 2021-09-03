@@ -24,10 +24,8 @@ tags:smokePreprod_kullaniciIlkkezGeliyorAdreseTeslim
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Sipariş tamamlanır
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir (PreProd)
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
 * Ye kazan uyarı butonundan çıkılır
 
 
@@ -51,10 +49,8 @@ tags:smokePreprod_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Sipariş tamamlanır
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
 * Ye kazan uyarı butonundan çıkılır
 
 
@@ -80,9 +76,11 @@ tags:smokePreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Kapıda ödeme Nakit seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir (PreProd)
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Siparis tamamlanir(guest) 2
+* Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
+* Sipariş tamamlanır(guest)
 
 
 Preprod - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
@@ -185,7 +183,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * "dominostest5@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
 * Adrese teslim servis tipi secilir ve kontrolu yapilir
 * Cookie varsa kapat butonuna tıklanır
-* İlk kayıtlı adres seçilir
+ İlk kayıtlı adres seçilir
 * Gel al servis tipi secilir ve kontrolu yapilir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
@@ -194,10 +192,9 @@ tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
+* Ye kazan uyarı butonundan çıkılır
 
 
 Preprod - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
@@ -218,10 +215,8 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Sipariş tamamlanır
+* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
 * Ye kazan uyarı butonundan çıkılır
  Anasayfadaki dominos logosuna tıklanır
  Profilim butonuna tıklanır
