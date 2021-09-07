@@ -440,6 +440,11 @@
     "type": "xpath"
   },
   {
+    "key": "mahalleAyazliMh",
+    "value":"//div[text()='Ayazlı Mh.']",
+    "type": "xpath"
+  },
+  {
     "key": "ilceMerkez",
     "value":"//div[text()='Merkez']",
     "type": "xpath"

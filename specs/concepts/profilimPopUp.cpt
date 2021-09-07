@@ -103,6 +103,7 @@
 * Element var mı kontrol et "profilMenuButon"
 
 # Profilim popup Notlarım butonuna tıklanır
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "profilimPopupNotlarimButon"
 
 # Profilim popup Yeni Not Ekle butonuna tıklanır ve gerekli textin geldiği kontrol edilir
@@ -188,7 +189,7 @@
 * "adresAdiTextbox" li elementi bul ve değerini "randomKelime" saklanan degeri yazdir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "adresKaydetButon"
-* "5" saniye bekle
+* "7" saniye bekle
 * "profilimPopupAdreslerimEklenenAdres" li elementi bul ve değerini "ilkAdresBasligi" saklanan değer ile karşılaştır ve değişiklik oldugunu dogrula
 
 # Profilim popup eklenen adres silinir ve adresin silindiği doğrulanır

@@ -73,3 +73,6 @@
 
 # Gel Al Haftanın kampanyalarına gidilir
 * Elementi bekle ve sonra tıkla "gelAlhaftaninKampanyalari"
+
+# Header tabindan tum kampanyalar tiklanir
+* Elementi bekle ve sonra tıkla "tumKampanyalarHeader"
