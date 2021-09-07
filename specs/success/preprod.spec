@@ -83,6 +83,7 @@ tags:successPreprod_sepeteKampanyaEklemeGelAlYeniUyeKampanya5
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+// Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -96,6 +97,10 @@ tags:successPreprod_pizzaEklemeAdreseTeslimYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
+ Tüm Pizzalar butonuna tıklanır
+ Tüm pizzalarda ilk pizza kategorisi seçilir
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -112,6 +117,10 @@ tags:successPreprod_pizzaEklemeGelAlYeniUye
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+ Tüm Pizzalar butonuna tıklanır
+ Tüm pizzalarda ilk pizza kategorisi seçilir
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -201,6 +210,10 @@ tags:successPreprod_sepettenUpsellEklemeAdreseTeslimYeniUye
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, adrese teslim servis tipi seçilir ve anasayfaya gidilir
 * Cookie varsa kapat butonuna tıklanır
+ Tüm Pizzalar butonuna tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -273,6 +286,10 @@ tags:successPreprod_odemeTipiSecimiYeniUyeAdreseTeslimNakit
 * Dominos - Preprod ortamına gidilir
 * Adrese teslim servis tipi için üye olunur, Adalar/Burgazada mah. adresi ile devam edilir
 * Cookie varsa kapat butonuna tıklanır
+ Tüm Pizzalar butonuna tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -292,6 +309,10 @@ tags:successPreprod_odemeTipiSecimiYeniUyeGelAlKrediKartı
 
 * Dominos - Preprod ortamına gidilir
 * Üye olunur, Gel Al servis tipi seçilir ve Anasayfaya gidilir
+ Tüm Pizzalar butonuna tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -310,6 +331,10 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimSmartTicketKart
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Cookie varsa kapat butonuna tıklanır
+ Tüm Pizzalar butonuna tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -334,6 +359,10 @@ tags:successPreprod_odemeTipiSecimiVarolanUyeAdreseTeslimMultinet
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, adrese teslim servis tipi seçilir ve anasayfaya gidilir (Pre)
 * Cookie varsa kapat butonuna tıklanır
+ Tüm Pizzalar butonuna tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -359,6 +388,10 @@ tags:successPreprod_odemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Cookie onaylıyorum butonuna tıklanır
+ Tüm Pizzalar butonuna tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -381,6 +414,10 @@ tags:successPreprod_odemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
+ Tüm Pizzalar butonuna tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -400,6 +437,10 @@ tags:successPreprod_siparisNotuEklemeVarolanUyeGelAlNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Kullanıcı ile giriş yapılır, gel al servis tipi seçilir ve anasayfaya gidilir (Pre)
+ Tüm Pizzalar butonuna tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -425,6 +466,10 @@ tags:successPreprod_siparisNotuEklemeVarolanUyeAdreseTeslimVarolanNotuEkleme
 * Not ekle butonuna tıklanır
 * Not eklenir
  Notlarım alanında Test Not Başlığı yazısının geldiği görülür
+ Header tabından tüm pizzalara tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+ Pizza sepete eklenir
 * Header tabindan tum kampanyalar tiklanir
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
