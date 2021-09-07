@@ -185,6 +185,11 @@
     "type": "id"
   },
   {
+    "key": "tumKampanyalarHeader",
+    "value":"DPE_TR_HOME_BUTTON_HEADERITEM0",
+    "type": "id"
+  },
+  {
     "key": "notlarimDuzenleButon",
     "value":"DPE_TR_NOTES_BUTTON_EDIT",
     "type": "id"
