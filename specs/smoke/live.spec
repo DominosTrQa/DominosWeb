@@ -43,7 +43,7 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
-* Tüm pizzalar alanına kaydırılır
+ Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
@@ -71,7 +71,7 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Anasayfadaki adres teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
 * Servis tipinin Gel Al olduğu kontrol edilir
-* Tüm pizzalar alanına kaydırılır
+ Tüm pizzalar alanına kaydırılır
 * Tüm Kampanyalar Butonuna tıklanır
 * Cookie onaylıyorum butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
@@ -103,10 +103,14 @@ tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Servis tipinin Adrese Teslim olduğu kontrol edilir
-* Tüm pizzalar alanına kaydırılır
-* Tüm Pizzalar butonuna tıklanır
-* Pizza kategorisindeki ilk pizza seçilir
-* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
+* Tüm Kampanyalar Butonuna tıklanır
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
+* Kampanya sepete eklenir
+ Tüm pizzalar alanına kaydırılır
+ Tüm Pizzalar butonuna tıklanır
+ Pizza kategorisindeki ilk pizza seçilir
+ Pizza sepete eklenir veya kampanyayali ürün sepete eklenir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
