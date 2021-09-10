@@ -39,14 +39,6 @@ public class BaseTest {
     Locale.setDefault(new Locale("en","EN"));
 
     DesiredCapabilities capabilities = DesiredCapabilities.chrome();
-    DesiredCapabilities dc = new DesiredCapabilities();
-    String PROXY = "ec2-54-154-66-64.eu-west-1.compute.amazonaws.com:3128";
-    Proxy proxy = new org.openqa.selenium.Proxy();
-    proxy.setProxyType(Proxy.ProxyType.MANUAL);
-    proxy.setHttpProxy(PROXY);
-    proxy.setFtpProxy(PROXY);
-    proxy.setSslProxy(PROXY);
-    dc.setCapability(CapabilityType.PROXY, proxy);
 
     if (StringUtils.isNotEmpty(getenv("key"))) {
       ChromeOptions options = new ChromeOptions();
@@ -57,6 +49,15 @@ public class BaseTest {
       options.addArguments("--start-maximized");
       options.addArguments("--no-sandbox");
       options.addArguments("incognito");
+
+
+      String PROXY = "ec2-54-154-66-64.eu-west-1.compute.amazonaws.com:3128";
+      Proxy proxy = new org.openqa.selenium.Proxy();
+      proxy.setProxyType(Proxy.ProxyType.MANUAL);
+      proxy.setHttpProxy(PROXY);
+      proxy.setFtpProxy(PROXY);
+      proxy.setSslProxy(PROXY);
+      capabilities.setCapability(CapabilityType.PROXY, proxy);
 
       capabilities.setCapability(ChromeOptions.CAPABILITY, options);
       capabilities.setCapability("key", System.getenv("key"));
