@@ -24,7 +24,7 @@ tags:smokePreprod_kullaniciIlkkezGeliyorAdreseTeslim
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir (PreProd)
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir (PreProd)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
 * Ye kazan uyarı butonundan çıkılır
 
@@ -49,7 +49,7 @@ tags:smokePreprod_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
 * Ye kazan uyarı butonundan çıkılır
 
@@ -76,7 +76,7 @@ tags:smokePreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir (PreProd)
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir (PreProd)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
@@ -106,7 +106,7 @@ tags:smokePreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
 * Seçili adres ile devam edilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Siparis tamamlanir(guest) 2
 
 
@@ -134,7 +134,7 @@ tags:smokePreprod_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -164,7 +164,7 @@ tags:smokePreprod_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -192,7 +192,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
 * Ye kazan uyarı butonundan çıkılır
 
@@ -215,7 +215,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
 * Ye kazan uyarı butonundan çıkılır
  Anasayfadaki dominos logosuna tıklanır

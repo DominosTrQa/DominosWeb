@@ -25,7 +25,7 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -53,7 +53,7 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -84,7 +84,7 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Üye olmadan devam edilir butonuna tıklanır
 * Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Sipariş tamamlanır(guest)
@@ -119,7 +119,7 @@ tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Seçili adres ile devam edilir
 * Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Sipariş tamamlanır(guest)
@@ -149,7 +149,7 @@ tags:smokeLive_kullaniciIkincikezGeliyorAdreseTeslimAdresiVar
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -180,7 +180,7 @@ tags:smokeLive_kullaniciIkinciKezGeliyorGelAlAdresiVar
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
@@ -206,7 +206,7 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sipariş ver butonuna tıklanır
 * Ödeme şekli seçilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Sipariş tamamlanır
 * Siparis kodu text kontrolu yapılır
 
@@ -231,7 +231,7 @@ tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
 * Ödeme şekli seçilir
-* Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Ödemeyi tamamla butonu geldiği kontrol edilir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
