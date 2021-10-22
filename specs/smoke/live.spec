@@ -24,12 +24,15 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Sipariş ver butonuna tıklanır
 * Adalar - Burgazada adres bilgileri tamamlanır(Kapı No Manuel)
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
-* Ödeme şekli seçilir
+* Yan urun popup cıkarsa kapatilir
+ Ödeme şekli seçilir
  Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Sipariş tamamlanır
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir
 * Ye kazan uyarı butonundan çıkılır
-* Siparis kodu text kontrolu yapılır
+ Ödemeyi tamamla butonu geldiği kontrol edilir
+ Sipariş tamamlanır
+ Ye kazan uyarı butonundan çıkılır
+ Siparis kodu text kontrolu yapılır
 
 
 Live - Kullanıcı ilk kez geliyor - Gel Al
@@ -52,11 +55,13 @@ tags:smokeLive_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
+ Ödeme şekli seçilir
  Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Sipariş tamamlanır
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir
 * Ye kazan uyarı butonundan çıkılır
+ Ödemeyi tamamla butonu geldiği kontrol edilir
+ Sipariş tamamlanır
+ Ye kazan uyarı butonundan çıkılır
 * Siparis kodu text kontrolu yapılır
 
 
@@ -204,10 +209,12 @@ tags:smokeLive_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
-* Ödeme şekli seçilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
- Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Sipariş tamamlanır
+ Ödeme şekli seçilir
+ Ödemeyi tamamla butonu geldiği kontrol edilir
+ Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al
+ Sipariş tamamlanır
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir
+* Ye kazan uyarı butonundan çıkılır
 * Siparis kodu text kontrolu yapılır
 
 
@@ -230,9 +237,10 @@ tags:smokeLive_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * Sepete git butonuna tıklanır
 * Sipariş ver butonuna tıklanır
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
-* Ödeme şekli seçilir
+ Ödeme şekli seçilir
  Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Ödemeyi tamamla butonu geldiği kontrol edilir
-* Sipariş tamamlanır
+ Ödemeyi tamamla butonu geldiği kontrol edilir
+ Sipariş tamamlanır
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir
 * Ye kazan uyarı butonundan çıkılır
 * Siparis kodu text kontrolu yapılır

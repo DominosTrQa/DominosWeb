@@ -83,6 +83,7 @@ tags:smokePreprod_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Sipariş tamamlanır(guest)
 
 
+
 Preprod - Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 ----------------------------------------------------
 tags:smokePreprod_servisTipiSecimiGelAldanAdreseTeslimGecisi

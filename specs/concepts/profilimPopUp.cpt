@@ -300,6 +300,9 @@
 # Siparisi tamamla butonu geldigi kontrol edilir (PreProd)
 * Element var mı kontrol et "siparisiTamamla"
 
+# Siparisi tamamla butonu geldigi kontrol edilir
+* Element var mı kontrol et "siparisiTamamla"
+
 # Not ekle butonuna tıklanır
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "notEkleButon"
