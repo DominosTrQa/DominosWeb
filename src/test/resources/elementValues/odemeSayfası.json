@@ -536,8 +536,8 @@
   },
   {
     "key": "mesafeliSatisSozlesmesiButonGuest",
-    "value":"DPE_TR_ORDERCONFIRM_CHECKBOX_SALESCONTRACTGUEST",
-    "type": "id"
+    "value":"(//*[@id='DPE_TR_ORDERCONFIRM_CHECKBOX_SALESCONTRACT'])[2]",
+    "type": "xpath"
   },
   {
     "key": "odemeyiTamamlabutonGuest",
@@ -546,22 +546,22 @@
   },
   {
     "key": "odemeyiTamamlaGuestad",
-    "value":"//input[@name='name']",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[6]",
     "type": "xpath"
   },
   {
     "key": "odemeyiTamamlaGuestsoyad",
-    "value":"//input[@name='surname']",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[7]",
     "type": "xpath"
   },
   {
     "key": "odemeyiTamamlaGuesteposta",
-    "value":"//input[@name='email']",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[8]",
     "type": "xpath"
   },
   {
     "key": "odemeyiTamamlaGuesttelefon",
-    "value":"//input[@name='mobilePhone']",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[9]",
     "type": "xpath"
   },
   {
