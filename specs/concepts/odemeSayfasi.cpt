@@ -306,7 +306,7 @@
 # Sipariş tamamlanır(guest)
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mesafeliSatisSozlesmesiButonGuest"
-* Elementi bekle ve sonra tıkla "odemeyiTamamlabutonGuest"
+* Elementi bekle ve sonra tıkla "siparisiTamamla"
 
 # Siparis tamamlanir(guest) 2
 * "2" saniye bekle
@@ -369,8 +369,8 @@
 # Kapıda ödeme Nakit seçeneği ile devam edilir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "OdemeSekliNakitButonuNew"
-* "odemeDevamButon" alanına kaydır
-* Elementi bekle ve sonra tıkla "odemeDevamButon"
+* "siparisiTamamla" alanına kaydır
+* Elementi bekle ve sonra tıkla "siparisiTamamla"
 
 # Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
 * "5" saniye bekle
@@ -568,7 +568,7 @@
 * Elementi bekle ve sonra tıkla "covidAnkettenCikilir"
 
 # Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeyiTamamlaGuestad"
 * "Test" textini "odemeyiTamamlaGuestad" elemente yaz
 * Elementi bekle ve sonra tıkla "odemeyiTamamlaGuestsoyad"

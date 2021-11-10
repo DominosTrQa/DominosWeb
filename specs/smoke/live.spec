@@ -90,7 +90,7 @@ tags:smokeLive_servisTipiSecimiAdreseTeslimdenGelAlGecisi
 * Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
  Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Siparis tamamlanir(guest) 2
+ Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Sipariş tamamlanır(guest)
 * Siparis kodu text kontrolu yapılır
@@ -121,11 +121,12 @@ tags:smokeLive_servisTipiSecimiGelAldanAdreseTeslimGecisi
 * Sipariş ver butonuna tıklanır
 * Üye olmadan devam edilir butonuna tıklanır
 * Adalar - Burgazada mah. adres bilgileri tamamlanır(giris yapılmadan)
+* Yan urun popup cıkarsa kapatilir
 * Seçili adres ile devam edilir
 * Yan urun popup cıkarsa kapatilir
 * Kapıda ödeme Nakit seçeneği ile devam edilir
  Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Siparis tamamlanir(guest) 2
+ Siparis tamamlanir(guest) 2
 * Kullanıcı bilgileri girilir(Ad,soyad,eposta,telefon)
 * Sipariş tamamlanır(guest)
 * Siparis kodu text kontrolu yapılır
