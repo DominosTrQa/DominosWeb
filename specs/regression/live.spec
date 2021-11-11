@@ -3280,6 +3280,7 @@ tags:regressionLive_uyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisProfili
 * Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
+* Cookie varsa kapat butonuna tıklanır
 * Profilim butonuna tıklanır
 * Ye kazana üye olan kullanıcı için profilimden ye kazan sayfasına gidilir
 * Ye kazandan ayrıl butonuna tıklanır
@@ -3307,3 +3308,31 @@ tags:regressionLive_uyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisProfilim
 * Ye kazan ayrılmayı onaylıyorum butonuna tıklanılır
 * Ye kazan uyarı butonundan çıkılır
 * Ye kazandan ayrıldıktan sonra ye-kazan checkbox geldiği kontrol edilir
+
+
+Kayitli Üye - Ye Kazan Kontrolü - Adresime Teslim
+--------------------------------------------------
+tags:regressionLive_kullaniciAdresimeTeslimYeKazanKontrol
+
+* Dominos - Live ortamına gidilir
+* Giris Yap butonuna tiklanir
+* "dominostest41@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Adrese teslim servis tipi secilir ve kontrolu yapilir
+* Cookie varsa kapat butonuna tıklanır
+* Profilim butonuna tıklanır
+* Ye kazana üye olan kullanıcı için profilimden ye kazan sayfasına gidilir
+* Hediye pizza kazanmana 5 dilim kaldı yazısının olduğu görülür
+
+
+Kayitli Üye - Ye Kazan Kontrolü - Gel Al
+-----------------------------------------
+tags:regressionLive_kullaniciGelAlYeKazanKontrol
+
+* Dominos - Live ortamına gidilir
+* Giris Yap butonuna tiklanir
+* "dominostest41@hotmail.com" kullanıcısı ve "a1w2d3r4D" şifresi ile üye girişi yapılır
+* Cookie varsa kapat butonuna tıklanır
+* Gel al servis tipi secilir ve kontrolu yapilir
+* Profilim butonuna tıklanır
+* Ye kazana üye olan kullanıcı için profilimden ye kazan sayfasına gidilir
+* Hediye pizza kazanmana 5 dilim kaldı yazısının olduğu görülür
