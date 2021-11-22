@@ -197,7 +197,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
 * Sipariş ver butonuna tıklanır
  Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
  Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
 
@@ -222,7 +222,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
 * "adresEkleKontrolText" Varsa adres bilgileri tamamlanır (Kapı No Manuel)
  Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
  Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
-* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir
+* Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir
 * Sipariş tamamlanır
 * Ye kazan uyarı butonundan çıkılır
  Anasayfadaki dominos logosuna tıklanır
