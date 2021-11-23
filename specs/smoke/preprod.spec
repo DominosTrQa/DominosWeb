@@ -230,3 +230,4 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
  Profilim popup Adreslerim butonuna tıklanır
  Profilimden adreslerime giderek kayıtlı adres silinir
  
+ 
