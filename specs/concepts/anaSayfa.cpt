@@ -6,6 +6,7 @@
 
 # Gel Al servis tipi seçilir
 * "GelAl" adrese teslim - Gal al dizayn secimi
+* "2" saniye bekle
 
 # Gel Al servis tipi seçilir (Stg)
 * "GelAl" adrese teslim - Gal al dizayn secimi
@@ -114,6 +115,10 @@
 * Gel Al da Şubeleri Göster butonuna tıklanır
 * Gel Al çıkan ilk şube seçilir
 * Seçili Şube ile Devam Et butonuna basılır
+
+# Gel al servis tipi secimi adres düzenle buton secimi
+* Elementi bekle ve sonra tıkla "anasayfaAdresDegisikligiButton"
+* Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuGelAlDuzenle"
 
 # Gel al servis tipi için Adıyaman adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdownGelAl"
