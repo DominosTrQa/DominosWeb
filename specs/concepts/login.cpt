@@ -361,6 +361,7 @@
 * "3" saniye bekle
 
 # Adrese teslim servis tipi secilir ve kontrolu yapilir
+* "5" saniye bekle
 * "adreseTeslimButon" servis tipi seçilir ve adres seçimi yapılır
 * "AdreseTeslim" servis tipi kontrolü yapılır
 
