@@ -117,6 +117,7 @@
 * Seçili Şube ile Devam Et butonuna basılır
 
 # Gel al servis tipi secimi adres düzenle buton secimi
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaAdresDegisikligiButton"
 * Elementi bekle ve sonra tıkla "adresEklemeKalemIkonuGelAlDuzenle"
 
