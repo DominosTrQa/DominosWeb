@@ -26,7 +26,7 @@ tags:smokePreprod_kullaniciIlkkezGeliyorAdreseTeslim
 * Adresi seçilir ve Seçili Adres ile Devam Et butonuna basılır
  Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir (PreProd)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
-* Ye kazan uyarı butonundan çıkılır
+ Ye kazan uyarı butonundan çıkılır
 
 
 Preprod - Kullanıcı ilk kez geliyor - Gel Al
@@ -51,7 +51,7 @@ tags:smokePreprod_kullaniciIlkKezGeliyorGelAlServisTipiSecti
 * Sipariş ver butonuna tıklanır
  Onay sayfası şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir Gel-Al (PreProd)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
-* Ye kazan uyarı butonundan çıkılır
+ Ye kazan uyarı butonundan çıkılır
 
 
 Preprod - Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
@@ -199,7 +199,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciAdresimeTeslimGelAl
  Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir
 * Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
+ Ye kazan uyarı butonundan çıkılır
 
 
 Preprod - Servis tipi değiştiren kullanıcı - Gel Al > Adresime Teslim (üst menü)
@@ -224,7 +224,7 @@ tags:smokePreprod_servisTipiDegistirenKullaniciGelAlAdreseTeslim
  Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir (PreProd)
 * Kapıda ödeme Kredi Kartı seçeneği ile devam edilir siparis tamamlanir
 * Sipariş tamamlanır
-* Ye kazan uyarı butonundan çıkılır
+ Ye kazan uyarı butonundan çıkılır
  Anasayfadaki dominos logosuna tıklanır
  Profilim butonuna tıklanır
  Profilim popup Adreslerim butonuna tıklanır

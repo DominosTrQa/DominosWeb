@@ -101,7 +101,7 @@
   },
   {
     "key": "otpInput1",
-    "value":"(//input[@class='digit-input__StyledInput-irrpoh-0 jHJRtS'])[1]",
+    "value":"(//input[@class='digit-input__StyledInput-irrpoh-0 cMMnxv'])[1]",
     "type": "xpath"
   },
   {
