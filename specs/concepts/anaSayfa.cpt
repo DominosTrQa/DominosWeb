@@ -62,15 +62,19 @@
 
 # Adrese Teslim servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdown"
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "ilİstanbul"
-* "4" saniye bekle
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdown"
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceAdalar"
-* "6" saniye bekle
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleDropdown" try
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleBurgazadaMahallesi" try
-* "2" saniye bekle
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "caddeDropdownid" try
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "caddeBurgazCayırıSk" try
 * "6" saniye bekle
 * Elementi bekle ve sonra tıkla "apartmanNoid"
@@ -102,9 +106,11 @@
 
 # Gel al servis tipi için Adalar / Burgazada mah. adresi eklenir
 * Elementi bekle ve sonra tıkla "ilDropdownGelAl"
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "ilİstanbul"
-* "2" saniye bekle
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceDropdownGelAl"
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "ilceAdalar"
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleDropdownGelAl"

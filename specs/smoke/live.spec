@@ -18,6 +18,7 @@ tags:smokeLive_kullaniciIlkkezGeliyorAdreseTeslim
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
+* Yan urun popup cıkarsa kapatilir
 * Sepetimde ürün var mı kontrol edilir
 * Sepetim ikonuna tıklanır
 * Sepete git butonuna tıklanır
